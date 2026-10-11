@@ -17,7 +17,7 @@ El navegador conserva un esborrany com a comoditat. El fitxer descarregat és la
 
 Executa `npm run check` i `npm run build:pages`, o directament `node scripts/build-pages.mjs` sense instal·lar dependències. El resultat és `pages-dist/`, amb rutes relatives que funcionen també dins de `/nom-del-repositori/`.
 
-El workflow `.github/workflows/pages.yml` publica aquest directori a GitHub Pages quan s’executa manualment amb **Run workflow**. Al repositori, selecciona **Settings → Pages → Source → GitHub Actions**. No s’ha creat ni publicat cap repositori de GitHub des d’aquesta preparació; cal confirmar el repositori de destí.
+El workflow `.github/workflows/pages.yml` publica aquest directori a GitHub Pages quan s’executa manualment amb **Run workflow**. Al repositori, selecciona **Settings → Pages → Source → GitHub Actions**. Repositori publicat: https://github.com/xavikai/shum-infantil-or. Web: https://xavikai.github.io/shum-infantil-or/. El workflow també s’executa automàticament amb cada push a main.
 
 La versió existent de Sites conserva les seves API i D1; el build de Pages les substitueix per la gestió d’anàlisis amb fitxers i no fa peticions a `/api/`.
 
