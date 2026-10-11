@@ -1,2 +1,5 @@
 export function playerName(name){return name.replace(/\s*\(C\)\s*\.?\s*$/,'').replace(/\s+\.\s*$/,'').trim();}
 export function reconcileGoals(rosters,score){const result={};for(const [i,side] of ['home','away'].entries()){const list=rosters[side]||[],sum=list.reduce((n,p)=>n+(p.goals??0),0),complete=list.length>0&&list.every(p=>p.goals!=null)&&sum===score?.[i];result[side]=list.map(p=>({...p,name:playerName(p.name),goals:complete?p.goals:null}));}return result;}
+
+// Gols encaixats: a l'acta de FECAPA només hi ha un porter marcat (P) per equip quan ha jugat tot el partit; aleshores els gols encaixats són els gols del rival. Amb dos porters no es pot repartir i queda pendent. Mai sobreescriu un valor introduït manualment.
+export function fillConceded(m){if(!Array.isArray(m?.score)||!m.rosters)return m;const rosters={};for(const [i,side] of ['home','away'].entries()){const list=m.rosters[side]||[],keepers=list.filter(p=>p.keeper);rosters[side]=keepers.length===1?list.map(p=>p.keeper&&p.conceded==null?{...p,conceded:m.score[1-i]}:p):list;}return {...m,rosters};}

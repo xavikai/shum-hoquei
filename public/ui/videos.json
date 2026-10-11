@@ -1,0 +1,7 @@
+{
+  "description": "Vídeos dels partits publicats a la web. match_id és l'id del partit a league.json. Els vídeos de Drive han de ser visibles per a qualsevol persona amb l'enllaç.",
+  "videos": [
+    {"match_id": "1-6-0", "title": "CP Cubelles A – SHUM (8-0)", "video": "https://drive.google.com/file/d/1yon7HPctbnTJB9PPJ9lZKBREweYVqd0p/view"},
+    {"match_id": "3-0-5", "title": "SHUM – HC Sant Just A (4-3)", "video": "https://drive.google.com/file/d/1GWfgr0pmlDyCdz-43B8bSQEitC_JIwKS/view"}
+  ]
+}

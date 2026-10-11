@@ -26,3 +26,9 @@ Les fitxes permeten editar posició, minuts, edat al partit, gols, gols encaixat
 
 ## Àmbits dels rànquings
 El selector compartit de golejadors, porters i targetes permet triar Només SHUM (tota la lliga), Últim partit del SHUM (els dos equips), Lliga grup 8 o Tot Infantil Or. Aquest últim carrega els deu grups oficials i ofereix un filtre per grup. Les actes es consulten des del navegador amb tres peticions simultànies i es conserva una còpia durant una hora; Actualitza Infantil Or força una consulta nova. Les dades de minuts, gols encaixats i targetes no disponibles continuen pendents. No es barregen jugadors de grups diferents encara que coincideixin els noms.
+
+## Vídeos dels partits
+Els vídeos que veuen tots els visitants es publiquen a `public/ui/videos.json`: una entrada per partit amb `match_id` (l'`id` del partit a `league.json`) i l'enllaç de Drive. Per afegir-ne un, puja el vídeo a la carpeta LLIGA_OR, comparteix-lo com a «Qualsevol persona amb l'enllaç», afegeix la línia al fitxer i fes push a main. L'enllaç que s'escriu a la fitxa d'un partit només es desa en aquell navegador i al JSON d'anàlisi; no es publica per a la resta de visitants.
+
+## Gols encaixats
+Les actes de FECAPA no indiquen els gols encaixats per porter. Quan l'acta d'un equip només inclou un porter (P), la web li assigna els gols del rival. Si n'hi ha dos, queden pendents fins que s'informin a la fitxa del partit. Un valor introduït manualment sempre té prioritat.

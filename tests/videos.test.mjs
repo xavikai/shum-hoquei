@@ -1,0 +1,5 @@
+import {test} from 'node:test';import assert from 'node:assert/strict';import fs from 'node:fs';
+import {safeURL} from '../public/ui/core.js';import {videoSource} from '../public/ui/video-core.js';import {playerStats} from '../public/ui/player-stats.js';
+const league=JSON.parse(fs.readFileSync('public/ui/league.json')),videos=JSON.parse(fs.readFileSync('public/ui/videos.json')).videos;
+test('published videos point to existing matches with safe Drive links',()=>{assert.ok(videos.length>0);const ids=new Set(league.matches.map(m=>m.id));for(const v of videos){assert.ok(ids.has(v.match_id),v.match_id);assert.equal(safeURL(v.video),v.video);assert.equal(videoSource(v.video).kind,'drive');}assert.equal(new Set(videos.map(v=>v.match_id)).size,videos.length);});
+test('published league shows conceded goals for every goalkeeper',()=>{const stats=playerStats(league.matches);const ot=stats.keepers.find(p=>p.name==='CAIMEL GERONÈS OT');assert.equal(ot.conceded,11);assert.equal(ot.appearances,2);assert.ok(stats.keepers.length>=7);});
