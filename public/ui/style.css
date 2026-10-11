@@ -30,3 +30,5 @@ header{flex-direction:column;align-items:flex-start;gap:10px;margin-bottom:18px}
 .header-right{display:flex;flex-wrap:wrap;gap:10px;align-items:center}
 .league-pill{white-space:nowrap}
 }
+
+#install-app[hidden]{display:none}.install-content{padding:24px;max-width:540px}.install-content h2{padding-right:25px}.install-content li{margin:10px 0;line-height:1.5}.install-content h3{margin-top:24px}

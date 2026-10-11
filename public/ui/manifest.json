@@ -1,1 +1,1 @@
-{"name":"SHUM · Infantil Or","short_name":"SHUM","start_url":"./","display":"standalone","background_color":"#f5f5f2","theme_color":"#c6202e","icons":[{"src":"badge.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}]}
+{"id":"../","name":"SHUM · Infantil Or","short_name":"SHUM","lang":"ca","start_url":"../#inici","scope":"../","display":"standalone","background_color":"#f5f5f2","theme_color":"#c6202e","icons":[{"src":"icon-192.png","sizes":"192x192","type":"image/png","purpose":"any"},{"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any"}]}
