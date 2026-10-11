@@ -23,3 +23,6 @@ La versió existent de Sites conserva les seves API i D1; el build de Pages les 
 
 ## Rànquings i alineacions
 Les fitxes permeten editar posició, minuts, edat al partit, gols, gols encaixats i targetes blaves, vermelles i grogues. Les dades desconegudes queden buides; un zero és un valor confirmat. Les alineacions i estadístiques es conserven tant a la còpia general com al JSON d'anàlisi del partit. Els rànquings són parcials segons les actes incorporades. Els porters només entren al rànquing amb minuts i gols encaixats informats a totes les seves actes incorporades. L'ordre per defecte és menys gols totals i es pot comparar per gols cada 60 minuts. Les edats no s'infereixen de la categoria.
+
+## Àmbits dels rànquings
+El selector compartit de golejadors, porters i targetes permet triar Només SHUM (tota la lliga), Últim partit del SHUM (els dos equips), Lliga grup 8 o Tot Infantil Or. Aquest últim carrega els deu grups oficials i ofereix un filtre per grup. Les actes es consulten des del navegador amb tres peticions simultànies i es conserva una còpia durant una hora; Actualitza Infantil Or força una consulta nova. Les dades de minuts, gols encaixats i targetes no disponibles continuen pendents. No es barregen jugadors de grups diferents encara que coincideixin els noms.

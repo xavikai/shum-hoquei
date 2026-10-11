@@ -1,0 +1,6 @@
+import {test} from 'node:test';import assert from 'node:assert/strict';
+import {rankingMatches} from '../public/ui/ranking-scope.js';
+import {playerStats} from '../public/ui/player-stats.js';
+const m=(id,date,home='SHUM',group=8)=>({id,date,time:'12:00',round:1,home,away:'Rival',group,score:[1,0],rosters:{home:[{number:1,name:'Jugador',goals:1}],away:[]}});
+test('ranking scopes cover SHUM season, last SHUM game, group eight and all groups without double counting',()=>{const group8=[m('a','2026-10-01'),m('b','2026-10-08'),m('c','2026-10-09','Altres')],others=[m('d','2026-10-02','Altres',1),m('duplicate','2026-10-01','SHUM',8)];assert.equal(rankingMatches(group8,others,'shum').length,2);assert.deepEqual(rankingMatches(group8,others,'last').map(m=>m.id),['b']);assert.equal(rankingMatches(group8,others,'group8').length,3);assert.equal(rankingMatches(group8,others,'or').length,4);assert.deepEqual(rankingMatches(group8,others,'or','1').map(m=>m.id),['d']);assert.equal(rankingMatches(group8,others,'or','8').length,3);assert.equal(rankingMatches([],others,'last').length,0);});
+test('players from different groups are not merged even when team and player names match',()=>{const stats=playerStats([m('a','2026-10-01','Mateix club',1),m('b','2026-10-02','Mateix club',2)]);assert.equal(stats.players.length,2);assert.equal(stats.scorers[0].goals,1);});
