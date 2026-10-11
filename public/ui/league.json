@@ -2,7 +2,7 @@
   "league": "Infantil Or · Grup 8",
   "season": "2026/27",
   "source": "https://www.hoqueipatins.fecapa.cat/league/4786",
-  "updatedAt": "2026-10-11T12:30:00Z",
+  "updatedAt": "2026-10-11T13:57:16.448Z",
   "teams": [
     "SHUM Frit Ravich",
     "Cerdanyola CCH B",
@@ -26,8 +26,100 @@
       ],
       "officialId": "152249",
       "rosters": {
-        "home": [],
-        "away": []
+        "home": [
+          {
+            "number": 36,
+            "name": "MERCADAL IBARZABAL ANE",
+            "goals": 0,
+            "keeper": false
+          },
+          {
+            "number": 39,
+            "name": "SITJÀ SALAS NEL",
+            "goals": 2,
+            "keeper": false
+          },
+          {
+            "number": 42,
+            "name": "EGGENS VILELLA OLIVER",
+            "goals": 0,
+            "keeper": false
+          },
+          {
+            "number": 47,
+            "name": "FERNÁNDEZ RODRÍGUEZ MIQUEL",
+            "goals": 0,
+            "keeper": false
+          },
+          {
+            "number": 58,
+            "name": "MAURI CRIADO MARTI",
+            "goals": 0,
+            "keeper": false
+          },
+          {
+            "number": 59,
+            "name": "MAURI CRIADO POL",
+            "goals": 0,
+            "keeper": false
+          },
+          {
+            "number": 72,
+            "name": "TOME ROIG JOAN",
+            "goals": 0,
+            "keeper": false
+          },
+          {
+            "number": 10,
+            "name": "LLOPIS CLIMENT NIL",
+            "goals": 0,
+            "keeper": true
+          }
+        ],
+        "away": [
+          {
+            "number": 7,
+            "name": "TRILLO ADMETLLA ALVARO",
+            "goals": 0,
+            "keeper": false
+          },
+          {
+            "number": 18,
+            "name": "RAMIREZ SPANOS EKAITZ",
+            "goals": 1,
+            "keeper": false
+          },
+          {
+            "number": 23,
+            "name": "OCHOA RODERO ASIER",
+            "goals": 1,
+            "keeper": false
+          },
+          {
+            "number": 30,
+            "name": "VILLAR ENRIQUEZ MAX",
+            "goals": 0,
+            "keeper": false
+          },
+          {
+            "number": 44,
+            "name": "TENA BESCÓS PAU",
+            "goals": 0,
+            "keeper": false
+          },
+          {
+            "number": 89,
+            "name": "BORRÀS MORESO MARTÍ",
+            "goals": 0,
+            "keeper": false
+          },
+          {
+            "number": 20,
+            "name": "OCHOA RODERO GERARD",
+            "goals": 0,
+            "keeper": true
+          }
+        ]
       }
     },
     {
@@ -43,8 +135,100 @@
       ],
       "officialId": "152250",
       "rosters": {
-        "home": [],
-        "away": []
+        "home": [
+          {
+            "number": 4,
+            "name": "LARREA RODRÍGUEZ GAIZKA",
+            "goals": 1,
+            "keeper": false
+          },
+          {
+            "number": 8,
+            "name": "BARRUFET GARRIGA GUIM",
+            "goals": 0,
+            "keeper": false
+          },
+          {
+            "number": 9,
+            "name": "BONFILL MARTINEZ ARNAU",
+            "goals": 0,
+            "keeper": false
+          },
+          {
+            "number": 13,
+            "name": "FORNELLS RIQUE ERIC",
+            "goals": 0,
+            "keeper": false
+          },
+          {
+            "number": 31,
+            "name": "MASSAGUER ALCALÀ ANIOL",
+            "goals": 0,
+            "keeper": false
+          },
+          {
+            "number": 66,
+            "name": "PEDREIRA BAREA DANIEL",
+            "goals": 0,
+            "keeper": false
+          },
+          {
+            "number": 29,
+            "name": "GALLARDO CRESPILLO MARTÍ",
+            "goals": 0,
+            "keeper": true
+          }
+        ],
+        "away": [
+          {
+            "number": 16,
+            "name": "LONGUEIRA GARCIA JOEL",
+            "goals": 1,
+            "keeper": false
+          },
+          {
+            "number": 19,
+            "name": "MIRANDA MOISES GAEL",
+            "goals": 0,
+            "keeper": false
+          },
+          {
+            "number": 23,
+            "name": "RIBAS GARCÍA ROGER",
+            "goals": 0,
+            "keeper": false
+          },
+          {
+            "number": 50,
+            "name": "CASQUERO SOTOMAYOR ALEX",
+            "goals": 0,
+            "keeper": false
+          },
+          {
+            "number": 63,
+            "name": "ONIEVA CASTAN NIL",
+            "goals": 0,
+            "keeper": false
+          },
+          {
+            "number": 77,
+            "name": "VIVANCOS CHAVES ADRIÀ",
+            "goals": 1,
+            "keeper": false
+          },
+          {
+            "number": 80,
+            "name": "PEIG VAYREDA JAN",
+            "goals": 0,
+            "keeper": false
+          },
+          {
+            "number": 39,
+            "name": "RUIZ SANCHEZ VICTOR",
+            "goals": 0,
+            "keeper": true
+          }
+        ]
       }
     },
     {
@@ -60,8 +244,94 @@
       ],
       "officialId": "152248",
       "rosters": {
-        "home": [],
-        "away": []
+        "home": [
+          {
+            "number": 0,
+            "name": "JIMENEZ BAGES MARC",
+            "goals": 0,
+            "keeper": false
+          },
+          {
+            "number": 4,
+            "name": "COBACHO GALLEGO IAN",
+            "goals": 1,
+            "keeper": false
+          },
+          {
+            "number": 6,
+            "name": "ESPLUGAS TEIXIDÓ XAVIER",
+            "goals": 0,
+            "keeper": false
+          },
+          {
+            "number": 17,
+            "name": "PEINADO BECHIRO POL",
+            "goals": 3,
+            "keeper": false
+          },
+          {
+            "number": 40,
+            "name": "MORENO LOPEZ ERIC",
+            "goals": 4,
+            "keeper": false
+          },
+          {
+            "number": 44,
+            "name": "DASILVA MARTÍ JAN",
+            "goals": 0,
+            "keeper": false
+          },
+          {
+            "number": 79,
+            "name": "ROMERO LUQUE ROC",
+            "goals": 0,
+            "keeper": false
+          },
+          {
+            "number": 1,
+            "name": "ESPLUGAS TEIXIDÓ NIL",
+            "goals": 0,
+            "keeper": true
+          }
+        ],
+        "away": [
+          {
+            "number": 25,
+            "name": "BANCELLS TOMÀS JOEL",
+            "goals": 0,
+            "keeper": false
+          },
+          {
+            "number": 32,
+            "name": "SILLERO VRAY MARTIN",
+            "goals": 0,
+            "keeper": false
+          },
+          {
+            "number": 35,
+            "name": "OLLER ARTIGAS LLUC",
+            "goals": 0,
+            "keeper": false
+          },
+          {
+            "number": 39,
+            "name": "FUGAROLAS MARTINEZ GENIS",
+            "goals": 0,
+            "keeper": false
+          },
+          {
+            "number": 43,
+            "name": "GARCIA FERNANDEZ ANGEL",
+            "goals": 0,
+            "keeper": false
+          },
+          {
+            "number": 90,
+            "name": "CAIMEL GERONÈS OT",
+            "goals": 0,
+            "keeper": true
+          }
+        ]
       }
     },
     {
@@ -77,8 +347,100 @@
       ],
       "officialId": "152255",
       "rosters": {
-        "home": [],
-        "away": []
+        "home": [
+          {
+            "number": 17,
+            "name": "ADAM RODRIGUEZ ADRIANA",
+            "goals": null,
+            "keeper": false
+          },
+          {
+            "number": 42,
+            "name": "MASOLIVER RUSIÑOL GERARD",
+            "goals": null,
+            "keeper": false
+          },
+          {
+            "number": 44,
+            "name": "TORRENTS MOTOS IVET",
+            "goals": null,
+            "keeper": false
+          },
+          {
+            "number": 55,
+            "name": "ESPINAL SERRA POL",
+            "goals": null,
+            "keeper": false
+          },
+          {
+            "number": 57,
+            "name": "FERRER MORA ROC",
+            "goals": null,
+            "keeper": false
+          },
+          {
+            "number": 59,
+            "name": "ARES ROCABRUNA RICARD",
+            "goals": null,
+            "keeper": false
+          },
+          {
+            "number": 82,
+            "name": "BLANCAFORT CASELLAS MARIA",
+            "goals": null,
+            "keeper": false
+          },
+          {
+            "number": 41,
+            "name": "VERDAGUER SITJES GENÍS",
+            "goals": null,
+            "keeper": true
+          }
+        ],
+        "away": [
+          {
+            "number": 4,
+            "name": "LARREA RODRÍGUEZ GAIZKA",
+            "goals": null,
+            "keeper": false
+          },
+          {
+            "number": 8,
+            "name": "BARRUFET GARRIGA GUIM",
+            "goals": null,
+            "keeper": false
+          },
+          {
+            "number": 9,
+            "name": "BONFILL MARTINEZ ARNAU",
+            "goals": null,
+            "keeper": false
+          },
+          {
+            "number": 13,
+            "name": "FORNELLS RIQUE ERIC",
+            "goals": null,
+            "keeper": false
+          },
+          {
+            "number": 31,
+            "name": "MASSAGUER ALCALÀ ANIOL",
+            "goals": null,
+            "keeper": false
+          },
+          {
+            "number": 66,
+            "name": "PEDREIRA BAREA DANIEL",
+            "goals": null,
+            "keeper": false
+          },
+          {
+            "number": 29,
+            "name": "GALLARDO CRESPILLO MARTÍ",
+            "goals": null,
+            "keeper": true
+          }
+        ]
       }
     },
     {
@@ -94,8 +456,94 @@
       ],
       "officialId": "152253",
       "rosters": {
-        "home": [],
-        "away": []
+        "home": [
+          {
+            "number": 7,
+            "name": "TRILLO ADMETLLA ALVARO",
+            "goals": 0,
+            "keeper": false
+          },
+          {
+            "number": 18,
+            "name": "RAMIREZ SPANOS EKAITZ",
+            "goals": 0,
+            "keeper": false
+          },
+          {
+            "number": 23,
+            "name": "OCHOA RODERO ASIER",
+            "goals": 1,
+            "keeper": false
+          },
+          {
+            "number": 30,
+            "name": "VILLAR ENRIQUEZ MAX",
+            "goals": 0,
+            "keeper": false
+          },
+          {
+            "number": 35,
+            "name": "MORELL ARIAS BIEL",
+            "goals": 0,
+            "keeper": false
+          },
+          {
+            "number": 44,
+            "name": "TENA BESCÓS PAU",
+            "goals": 0,
+            "keeper": false
+          },
+          {
+            "number": 20,
+            "name": "OCHOA RODERO GERARD",
+            "goals": 0,
+            "keeper": true
+          }
+        ],
+        "away": [
+          {
+            "number": 4,
+            "name": "COBACHO GALLEGO IAN",
+            "goals": 1,
+            "keeper": false
+          },
+          {
+            "number": 6,
+            "name": "ESPLUGAS TEIXIDÓ XAVIER",
+            "goals": 0,
+            "keeper": false
+          },
+          {
+            "number": 17,
+            "name": "PEINADO BECHIRO POL",
+            "goals": 3,
+            "keeper": false
+          },
+          {
+            "number": 40,
+            "name": "MORENO LOPEZ ERIC",
+            "goals": 4,
+            "keeper": false
+          },
+          {
+            "number": 44,
+            "name": "DASILVA MARTÍ JAN",
+            "goals": 1,
+            "keeper": false
+          },
+          {
+            "number": 79,
+            "name": "ROMERO LUQUE ROC",
+            "goals": 0,
+            "keeper": false
+          },
+          {
+            "number": 1,
+            "name": "ESPLUGAS TEIXIDÓ NIL",
+            "goals": 0,
+            "keeper": true
+          }
+        ]
       }
     },
     {
@@ -111,8 +559,100 @@
       ],
       "officialId": "152254",
       "rosters": {
-        "home": [],
-        "away": []
+        "home": [
+          {
+            "number": 16,
+            "name": "LONGUEIRA GARCIA JOEL",
+            "goals": 0,
+            "keeper": false
+          },
+          {
+            "number": 19,
+            "name": "MIRANDA MOISES GAEL",
+            "goals": 0,
+            "keeper": false
+          },
+          {
+            "number": 23,
+            "name": "RIBAS GARCÍA ROGER",
+            "goals": 0,
+            "keeper": false
+          },
+          {
+            "number": 50,
+            "name": "CASQUERO SOTOMAYOR ALEX",
+            "goals": 1,
+            "keeper": false
+          },
+          {
+            "number": 63,
+            "name": "ONIEVA CASTAN NIL",
+            "goals": 2,
+            "keeper": false
+          },
+          {
+            "number": 77,
+            "name": "VIVANCOS CHAVES ADRIÀ",
+            "goals": 1,
+            "keeper": false
+          },
+          {
+            "number": 80,
+            "name": "PEIG VAYREDA JAN",
+            "goals": 0,
+            "keeper": false
+          },
+          {
+            "number": 39,
+            "name": "RUIZ SANCHEZ VICTOR",
+            "goals": 0,
+            "keeper": true
+          }
+        ],
+        "away": [
+          {
+            "number": 36,
+            "name": "MERCADAL IBARZABAL ANE",
+            "goals": 0,
+            "keeper": false
+          },
+          {
+            "number": 39,
+            "name": "SITJÀ SALAS NEL",
+            "goals": 2,
+            "keeper": false
+          },
+          {
+            "number": 47,
+            "name": "FERNÁNDEZ RODRÍGUEZ MIQUEL",
+            "goals": 0,
+            "keeper": false
+          },
+          {
+            "number": 58,
+            "name": "MAURI CRIADO MARTI",
+            "goals": 0,
+            "keeper": false
+          },
+          {
+            "number": 59,
+            "name": "MAURI CRIADO POL",
+            "goals": 2,
+            "keeper": false
+          },
+          {
+            "number": 72,
+            "name": "TOME ROIG JOAN",
+            "goals": 0,
+            "keeper": false
+          },
+          {
+            "number": 10,
+            "name": "LLOPIS CLIMENT NIL",
+            "goals": 0,
+            "keeper": true
+          }
+        ]
       }
     },
     {
@@ -128,8 +668,106 @@
       ],
       "officialId": "152258",
       "rosters": {
-        "home": [],
-        "away": []
+        "home": [
+          {
+            "number": 36,
+            "name": "MERCADAL IBARZABAL ANE",
+            "goals": 0,
+            "keeper": false
+          },
+          {
+            "number": 39,
+            "name": "SITJÀ SALAS NEL",
+            "goals": 2,
+            "keeper": false
+          },
+          {
+            "number": 42,
+            "name": "EGGENS VILELLA OLIVER",
+            "goals": 0,
+            "keeper": false
+          },
+          {
+            "number": 47,
+            "name": "FERNÁNDEZ RODRÍGUEZ MIQUEL",
+            "goals": 2,
+            "keeper": false
+          },
+          {
+            "number": 58,
+            "name": "MAURI CRIADO MARTI",
+            "goals": 1,
+            "keeper": false
+          },
+          {
+            "number": 59,
+            "name": "MAURI CRIADO POL",
+            "goals": 1,
+            "keeper": false
+          },
+          {
+            "number": 72,
+            "name": "TOME ROIG JOAN",
+            "goals": 1,
+            "keeper": false
+          },
+          {
+            "number": 10,
+            "name": "LLOPIS CLIMENT NIL",
+            "goals": 0,
+            "keeper": true
+          }
+        ],
+        "away": [
+          {
+            "number": 17,
+            "name": "ADAM RODRIGUEZ ADRIANA",
+            "goals": 0,
+            "keeper": false
+          },
+          {
+            "number": 42,
+            "name": "MASOLIVER RUSIÑOL GERARD",
+            "goals": 0,
+            "keeper": false
+          },
+          {
+            "number": 44,
+            "name": "TORRENTS MOTOS IVET",
+            "goals": 0,
+            "keeper": false
+          },
+          {
+            "number": 55,
+            "name": "ESPINAL SERRA POL",
+            "goals": 0,
+            "keeper": false
+          },
+          {
+            "number": 57,
+            "name": "FERRER MORA ROC",
+            "goals": 0,
+            "keeper": false
+          },
+          {
+            "number": 59,
+            "name": "ARES ROCABRUNA RICARD",
+            "goals": 0,
+            "keeper": false
+          },
+          {
+            "number": 61,
+            "name": "BLANCAFORT CASELLAS MARIA",
+            "goals": 0,
+            "keeper": false
+          },
+          {
+            "number": 41,
+            "name": "VERDAGUER SITJES GENÍS",
+            "goals": 0,
+            "keeper": true
+          }
+        ]
       }
     },
     {
@@ -149,37 +787,44 @@
           {
             "number": 26,
             "name": "BANCELLS TOMÀS JOEL",
-            "goals": 2
+            "goals": 2,
+            "keeper": false
           },
           {
             "number": 32,
             "name": "SILLERO VRAY MARTIN",
-            "goals": 0
+            "goals": 0,
+            "keeper": false
           },
           {
             "number": 35,
             "name": "OLLER ARTIGAS LLUC",
-            "goals": 0
+            "goals": 0,
+            "keeper": false
           },
           {
             "number": 37,
             "name": "SOUSA VIURE GRAU",
-            "goals": 1
+            "goals": 1,
+            "keeper": false
           },
           {
             "number": 38,
             "name": "FAIG MOLINA ARAN",
-            "goals": 0
+            "goals": 0,
+            "keeper": false
           },
           {
             "number": 39,
             "name": "FUGAROLAS MARTINEZ GENIS",
-            "goals": 0
+            "goals": 0,
+            "keeper": false
           },
           {
             "number": 47,
             "name": "FELIU DIAZ ADAN",
-            "goals": 1
+            "goals": 1,
+            "keeper": false
           },
           {
             "number": 90,
@@ -192,32 +837,38 @@
           {
             "number": 7,
             "name": "TRILLO ADMETLLA ALVARO",
-            "goals": 0
+            "goals": 0,
+            "keeper": false
           },
           {
             "number": 18,
             "name": "RAMIREZ SPANOS EKAITZ",
-            "goals": 0
+            "goals": 0,
+            "keeper": false
           },
           {
             "number": 23,
             "name": "OCHOA RODERO ASIER",
-            "goals": 2
+            "goals": 2,
+            "keeper": false
           },
           {
             "number": 30,
             "name": "VILLAR ENRIQUEZ MAX",
-            "goals": 0
+            "goals": 0,
+            "keeper": false
           },
           {
             "number": 35,
             "name": "MORELL ARIAS BIEL",
-            "goals": 0
+            "goals": 0,
+            "keeper": false
           },
           {
             "number": 44,
             "name": "TENA BESCÓS PAU",
-            "goals": 1
+            "goals": 1,
+            "keeper": false
           },
           {
             "number": 20,
@@ -242,8 +893,100 @@
       ],
       "officialId": "152257",
       "rosters": {
-        "home": [],
-        "away": []
+        "home": [
+          {
+            "number": 4,
+            "name": "COBACHO GALLEGO IAN",
+            "goals": 0,
+            "keeper": false
+          },
+          {
+            "number": 17,
+            "name": "PEINADO BECHIRO POL",
+            "goals": 4,
+            "keeper": false
+          },
+          {
+            "number": 40,
+            "name": "MORENO LOPEZ ERIC",
+            "goals": 2,
+            "keeper": false
+          },
+          {
+            "number": 44,
+            "name": "DASILVA MARTÍ JAN",
+            "goals": 0,
+            "keeper": false
+          },
+          {
+            "number": 60,
+            "name": "JIMENEZ BAGES MARC",
+            "goals": 0,
+            "keeper": false
+          },
+          {
+            "number": 79,
+            "name": "ROMERO LUQUE ROC",
+            "goals": 0,
+            "keeper": false
+          },
+          {
+            "number": 1,
+            "name": "ESPLUGAS TEIXIDÓ NIL",
+            "goals": 0,
+            "keeper": true
+          }
+        ],
+        "away": [
+          {
+            "number": 16,
+            "name": "LONGUEIRA GARCIA JOEL",
+            "goals": 0,
+            "keeper": false
+          },
+          {
+            "number": 19,
+            "name": "MIRANDA MOISES GAEL",
+            "goals": 0,
+            "keeper": false
+          },
+          {
+            "number": 23,
+            "name": "RIBAS GARCÍA ROGER",
+            "goals": 0,
+            "keeper": false
+          },
+          {
+            "number": 50,
+            "name": "CASQUERO SOTOMAYOR ALEX",
+            "goals": 0,
+            "keeper": false
+          },
+          {
+            "number": 63,
+            "name": "ONIEVA CASTAN NIL",
+            "goals": 1,
+            "keeper": false
+          },
+          {
+            "number": 77,
+            "name": "VIVANCOS CHAVES ADRIÀ",
+            "goals": 0,
+            "keeper": false
+          },
+          {
+            "number": 80,
+            "name": "PEIG VAYREDA JAN",
+            "goals": 0,
+            "keeper": false
+          },
+          {
+            "number": 39,
+            "name": "RUIZ SANCHEZ VICTOR",
+            "goals": 0,
+            "keeper": true
+          }
+        ]
       }
     },
     {

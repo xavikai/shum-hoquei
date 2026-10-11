@@ -1,0 +1,2 @@
+export function playerName(name){return name.replace(/\s*\(C\)\s*\.?\s*$/,'').replace(/\s+\.\s*$/,'').trim();}
+export function reconcileGoals(rosters,score){const result={};for(const [i,side] of ['home','away'].entries()){const list=rosters[side]||[],sum=list.reduce((n,p)=>n+(p.goals??0),0),complete=list.length>0&&list.every(p=>p.goals!=null)&&sum===score?.[i];result[side]=list.map(p=>({...p,name:playerName(p.name),goals:complete?p.goals:null}));}return result;}
