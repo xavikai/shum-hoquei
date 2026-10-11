@@ -8,3 +8,25 @@
 .match-actions{display:flex;align-items:center;gap:8px;flex-wrap:wrap}.match-actions .secondary{white-space:nowrap;display:inline-flex;align-items:center;justify-content:center}.video-link{color:var(--red);font-weight:600}.video-pending{color:var(--muted);font-size:11px}.result-line .match-actions{grid-column:1 / -1;justify-content:flex-end}.match-card .match-actions{justify-content:flex-end}@media(max-width:1100px){.match-card .match-actions{grid-column:2 / -1}.match-card .match-actions button{grid-column:auto}}@media(max-width:700px){.match-card .match-actions{grid-column:2 / 4;justify-content:flex-start}.result-line .match-actions{justify-content:flex-start}}
 
 .roster-editor{margin:24px 0}.roster-editor .table-wrap{margin:12px 0}.roster-editor table{min-width:1050px}.roster-editor td{padding:6px}.roster-editor input,.roster-editor select{border:1px solid #d4d6d1;border-radius:4px;padding:8px;width:72px;background:#fff}.roster-editor input[data-field="name"]{width:200px}.roster-editor select{width:95px}.roster-grid .table-wrap{max-width:100%}.roster-grid .panel{min-width:0}.pending-keepers{margin-top:20px}.pending-keepers li{margin:10px 0}
+/* Mòbil: menú sempre visible en una graella, sense desplaçament horitzontal */
+.grid-two>*{min-width:0}
+@media(max-width:700px){
+aside{position:relative;padding:10px 12px 12px;border-right:0;border-bottom:1px solid var(--line)}
+.brand{font-size:24px;gap:10px}
+.brand img{width:28px;height:34px}
+aside>.brand{display:inline-flex}
+nav{display:grid;grid-template-columns:repeat(3,1fr);gap:6px;margin:10px 0 0;overflow:visible}
+nav button{flex-direction:column;justify-content:center;gap:3px;padding:8px 4px;font-size:11px;line-height:1.15;text-align:center;white-space:normal;background:#f6f6f4;min-height:48px}
+nav button.active{background:#fcebed}
+.aside-bottom{position:absolute;top:10px;right:12px;margin:0}
+.aside-bottom button{padding:8px 10px;font-size:12px;background:#f6f6f4}
+main{padding:20px 16px}
+.result-line{flex-wrap:wrap;gap:10px 14px}
+.result-info{min-width:0}
+.result-line .match-actions{flex-basis:100%}
+.teams-vs{gap:8px}
+.team-name{overflow-wrap:anywhere}
+header{flex-direction:column;align-items:flex-start;gap:10px;margin-bottom:18px}
+.header-right{display:flex;flex-wrap:wrap;gap:10px;align-items:center}
+.league-pill{white-space:nowrap}
+}
