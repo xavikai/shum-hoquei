@@ -11,6 +11,8 @@
  * N'hi ha prou amb una o més paraules del nom de cada equip, sense espais ni accents:
  *   CerdanyolaB, SantJust, SantCugat, Mataro, Voltrega, Cubelles, Shum.
  *
+ * També treu l'opció de descarregar els vídeos de la carpeta a qui només els pot veure.
+ *
  * Configuració (una sola vegada): vegeu GITHUB_PAGES.md, apartat «Vídeos automàtics».
  */
 
@@ -39,6 +41,7 @@ function vinculaVideos() {
     files.push({ id: f.getId(), name: f.getName(), created: f.getDateCreated().toISOString(), file: f });
   }
 
+  protegeixDescarrega_(files);
   const { added, unmatched } = mergeVideos(videosFile, files, league);
   unmatched.forEach(u => Logger.log('Sense partit: ' + u.name + ' (' + u.reason + ')'));
   if (!added.length) { Logger.log('Cap vídeo nou per vincular.'); return; }
@@ -56,6 +59,30 @@ function vinculaVideos() {
     branch: CONFIG.branch
   });
   added.forEach(a => Logger.log('Vinculat: ' + a.name + ' → partit ' + a.match_id));
+}
+
+/**
+ * Treu l'opció de descarregar (i copiar o imprimir) els vídeos a qui només els pot veure.
+ * Fa servir l'API de Drive amb el mateix permís de Drive que ja té l'script.
+ * Recorda quins vídeos ja ha protegit per no repetir-ho cada hora.
+ */
+function protegeixDescarrega_(files) {
+  const props = PropertiesService.getScriptProperties();
+  const done = new Set(JSON.parse(props.getProperty('PROTECTED_IDS') || '[]'));
+  let changed = false;
+  files.forEach(f => {
+    if (done.has(f.id)) return;
+    const res = UrlFetchApp.fetch('https://www.googleapis.com/drive/v3/files/' + f.id + '?supportsAllDrives=true', {
+      method: 'patch',
+      contentType: 'application/json',
+      headers: { Authorization: 'Bearer ' + ScriptApp.getOAuthToken() },
+      payload: JSON.stringify({ copyRequiresWriterPermission: true }),
+      muteHttpExceptions: true
+    });
+    if (res.getResponseCode() < 300) { done.add(f.id); changed = true; Logger.log('Sense descàrrega: ' + f.name); }
+    else Logger.log('No s’ha pogut treure la descàrrega de ' + f.name + ': ' + res.getContentText().slice(0, 200));
+  });
+  if (changed) props.setProperty('PROTECTED_IDS', JSON.stringify([...done]));
 }
 
 /** Crea el disparador horari. Executa-ho una sola vegada. */
