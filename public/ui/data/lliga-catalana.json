@@ -37,55 +37,100 @@
       "number": 1,
       "name": "ESTRADA SALA MIQUEL",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 4,
       "name": "FONT SÁNCHEZ FERRAN",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 7,
       "name": "BURGAYA VILARÓ JORDI",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 9,
       "name": "MOLAS SERRA ALEIX",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 11,
       "name": "SERRA ANGUITA HUMBERT",
       "goals": 2,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 19,
       "name": "ROMA TORRES JOEL",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 21,
       "name": "TEIXIDÓ ABAT GERARD",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 27,
       "name": "RODRÍGUEZ DALMAU ÀLEX",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 2,
+       "red": 0
+      }
      },
      {
       "number": 49,
       "name": "CANAL TRUY ARNAU",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      }
     ],
     "away": [
@@ -93,55 +138,100 @@
       "number": 3,
       "name": "FONT MARQUES MARC",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 9,
       "name": "BOGERS DJANGO",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 21,
       "name": "FARRÉ CASTELLS ADRIÀ",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 22,
       "name": "RAMOS SANCHEZ ALBERT",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 37,
       "name": "CRESPO OLIVA VICTOR",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 38,
       "name": "AUGUET ESTER POL",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 57,
       "name": "LAGUNA LOPEZ HUGO",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 10,
       "name": "CLOS SENDRE POL",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 1,
       "name": "JOSEPH DE RUEDA MARC",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      }
     ]
    }
@@ -164,61 +254,111 @@
       "number": 10,
       "name": "ZAPATER PEIX MARTÍ",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 6,
       "name": "COSTA FERRE XAVIER",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 8,
       "name": "SALVADO MARLES ANTONI",
       "goals": 2,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 18,
       "name": "DASCA MONSERRAT JORDI",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 26,
       "name": "ARAGONÈS FERRERES XAVIER",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 27,
       "name": "LLORENS MANZANO GUILLEM",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 49,
       "name": "ANDREU GABARRÓ PAU",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 1,
+       "red": 0
+      }
      },
      {
       "number": 66,
       "name": "ZANON MATARRODONA MARC",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 96,
       "name": "GELMA PAZ DAVID",
       "goals": 2,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 1,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 82,
       "name": "VIRGILI TORRENT JOSEP MARIA",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      }
     ],
     "away": [
@@ -226,61 +366,111 @@
       "number": 10,
       "name": "CASTRO LÓPEZ POL",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 2,
       "name": "ARNAEZ MATHIAS",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 4,
       "name": "VAZQUEZ URBANO IAGO",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 5,
       "name": "IZQUIERDO PEREZ MARCEL",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 6,
       "name": "MARTI ARAGONES ROGER",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 7,
       "name": "VÁZQUEZ COMPTE MARC",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 8,
       "name": "RIBAS BARBERAN ARNAU",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 22,
       "name": "ORDOÑEZ LA MATA ALEIX",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 34,
       "name": "MONSERRAT COMA ROGER",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 47,
       "name": "JURADO MORALES EDUARD",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      }
     ]
    }
@@ -303,61 +493,111 @@
       "number": 10,
       "name": "SERRA MOLIST MARTÍ",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 3,
       "name": "PUJALTE TORRALBA JOAN",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 5,
       "name": "ESCALA LOPEZ MIQUEL",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 1,
+       "red": 0
+      }
      },
      {
       "number": 6,
       "name": "DOMENECH GONZALEZ CARLES",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 44,
       "name": "ALARCÓN LLOPART TON",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 47,
       "name": "PUJADAS COLOMER BIEL",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 55,
       "name": "GABARRÓ FEIXAS QUIM",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 66,
       "name": "SANS ARTIGAS MAX",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 74,
       "name": "MARIMÓN BERGÉ ALEIX",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 41,
       "name": "GARMENDIA MATEOS ELOY",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      }
     ],
     "away": [
@@ -365,61 +605,111 @@
       "number": 70,
       "name": "PONS MENDIETA JORDI",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 4,
       "name": "GRAU TALLADA ALEX",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 5,
       "name": "PICART CABEZAS JOAN",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 6,
       "name": "PUJOL RIURÓ SERGI",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 1,
+       "red": 0
+      }
      },
      {
       "number": 11,
       "name": "MIR REINOSO BIEL",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 1,
+       "red": 0
+      }
      },
      {
       "number": 21,
       "name": "SITJÀ MORETA LLUC",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 25,
       "name": "NADAL CIURANA BIEL",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 44,
       "name": "RODRIGUEZ GAÑAN ELOI",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 91,
       "name": "HERNANDEZ SAEZ JOSEP",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 1,
       "name": "ROVIRA ANDÚJAR ÀLEX",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      }
     ]
    }
@@ -442,61 +732,111 @@
       "number": 94,
       "name": "SUB VIÑA RECHE NIL",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 2,
       "name": "SUB MULET LAMARCA POL",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 5,
       "name": "SALVAT CARBÓ JOAN",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 7,
       "name": "SUB MARTÍNEZ VÁZQUEZ POL",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 8,
       "name": "ORUSTE SALVA MAXIMILIANO",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 1,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 15,
       "name": "JULIA SOLER MARC",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 1,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 27,
       "name": "SUB CASAS VÁZQUEZ CARLES",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 29,
       "name": "PUJADAS COLOMER ROC",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 33,
       "name": "SUB JANSÀ PUJOL GUILLEM",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 10,
       "name": "SUB ROCA BOVÉ JORDI",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      }
     ],
     "away": [
@@ -504,61 +844,111 @@
       "number": 61,
       "name": "BUSQUETS RODRIGUEZ FERRAN",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 1,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 4,
       "name": "JOSEPH DE RUEDA ALEX",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 8,
       "name": "PASTOR VILLANUEVA ALEIX",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 13,
       "name": "RAMIREZ SABORIT ORIOL",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 14,
       "name": "PUIGDUETA CARRERA ANDREU",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 22,
       "name": "CARDONA MORAGAS PAU",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 42,
       "name": "SERRA VERT ARNAU",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 57,
       "name": "GURRI PUNSOLA XAVIER",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 1,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 77,
       "name": "SÁNCHEZ SALÉS CARLES",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 96,
       "name": "CAPEL RUIZ ARNAU",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      }
     ]
    }
@@ -581,123 +971,223 @@
       "number": 13,
       "name": "MARTINEZ BORRAS ARNAU",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 2,
       "name": "MORENO TORRENS MAX",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 3,
       "name": "ALABART GONZALEZ IGNACIO",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 4,
       "name": "VICENS NOGERAS ALEX",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 8,
       "name": "TORELLÓ CAMPOY NIL",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 18,
       "name": "CASAS LOZANO MARTÍ",
       "goals": 3,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 26,
       "name": "BARROSO MAYORDOMO XAVIER",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 44,
       "name": "LLORCA FENÉS SERGI",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 55,
       "name": "ARAGONES FERRERES SERGI",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 1,
+       "red": 0
+      }
      },
      {
       "number": 58,
       "name": "GRAU TALLADA CARLES",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      }
     ],
     "away": [
      {
       "number": 10,
-      "name": "0 SANCHEZ DIAZ JAVIER",
+      "name": "SANCHEZ DIAZ JAVIER",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 2,
-      "name": "0 PASCUAL LÓPEZ JOAN",
+      "name": "PASCUAL LÓPEZ JOAN",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 1,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 3,
-      "name": "0 HERNANDEZ MONLLOR ALVARO",
+      "name": "HERNANDEZ MONLLOR ALVARO",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 4,
-      "name": "0 BURGUILLOS MORAGAS XAVIER",
+      "name": "BURGUILLOS MORAGAS XAVIER",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 1,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 5,
-      "name": "0 CURTIELLAS PEREA JAN",
+      "name": "CURTIELLAS PEREA JAN",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 6,
-      "name": "0 AUTET SOLÀ BIEL",
+      "name": "AUTET SOLÀ BIEL",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 7,
-      "name": "0 PEREZ GONZALEZ GONZALO",
+      "name": "PEREZ GONZALEZ GONZALO",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 1,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 8,
-      "name": "0 HERNÁNDEZ HERNÁNDEZ MANEL",
+      "name": "HERNÁNDEZ HERNÁNDEZ MANEL",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 1,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 9,
-      "name": "0 CESCHIN PONTORIERO FRANCO",
+      "name": "CESCHIN PONTORIERO FRANCO",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 99,
-      "name": "0 JORDA AURA NICOLAS",
+      "name": "JORDA AURA NICOLAS",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      }
     ]
    }
@@ -720,61 +1210,111 @@
       "number": 1,
       "name": "CARRION ZANETTI JUAN MANUEL",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 2,
       "name": "OVIEDO FORS GERARD",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 7,
       "name": "NOGAREDA CARMONA ROC",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 8,
       "name": "RUANO COMPAÑY JOAN",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 1,
+       "blue": 1,
+       "red": 0
+      }
      },
      {
       "number": 21,
       "name": "CARDIL I JOVE ÀLEX",
       "goals": 2,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 32,
       "name": "CAROL TOMAS MARC",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 44,
       "name": "RIBA OVEJERO GERARD",
       "goals": 2,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 64,
       "name": "BERENT ARMENGOL PAU",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 1,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 70,
       "name": "CABEZAS LANDA IÑAKI",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 96,
       "name": "CODONY GÜELL ORIOL",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      }
     ],
     "away": [
@@ -782,61 +1322,111 @@
       "number": 1,
       "name": "BOSCH GORGUES XAVIER",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 6,
       "name": "GIMENEZ FERNANDEZ DARIO JAVIER",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 1,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 7,
       "name": "MIGUÉLEZ MELÉNDREZ ANTONIO",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 8,
       "name": "ORTIGOSA BERLANGA ALEX",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 21,
       "name": "CIOCALE FABRIZIO MARTIN",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 27,
       "name": "GABARRO FEIXAS MARTI",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 1,
+       "blue": 1,
+       "red": 0
+      }
      },
      {
       "number": 55,
       "name": "MONCUSÍ LAZARO SEBASTIÀ",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 1,
+       "red": 0
+      }
      },
      {
       "number": 63,
       "name": "BADIA FONT JORDI",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 1,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 87,
       "name": "BALLESTERO DURAN DAVID",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 90,
       "name": "HUGAS FERRANDO QUIM",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      }
     ]
    }
@@ -859,111 +1449,201 @@
       "number": 1,
       "name": "ESTRADA SALA MIQUEL",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 4,
       "name": "FONT SÁNCHEZ FERRAN",
       "goals": 3,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 9,
       "name": "MOLAS SERRA ALEIX",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 1,
+       "red": 0
+      }
      },
      {
       "number": 11,
       "name": "SERRA ANGUITA HUMBERT",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 1,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 19,
       "name": "ROMA TORRES JOEL",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 21,
       "name": "TEIXIDÓ ABAT GERARD",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 27,
       "name": "RODRÍGUEZ DALMAU ÀLEX",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 49,
       "name": "CANAL TRUY ARNAU",
       "goals": 2,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 1,
+       "red": 0
+      }
      }
     ],
     "away": [
      {
       "number": 10,
-      "name": "0 SANCHEZ DIAZ JAVIER",
+      "name": "SANCHEZ DIAZ JAVIER",
       "goals": null,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 2,
-      "name": "0 PASCUAL LÓPEZ JOAN",
+      "name": "PASCUAL LÓPEZ JOAN",
       "goals": null,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 3,
-      "name": "0 HERNANDEZ MONLLOR ALVARO",
+      "name": "HERNANDEZ MONLLOR ALVARO",
       "goals": null,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 4,
-      "name": "0 BURGUILLOS MORAGAS XAVIER",
+      "name": "BURGUILLOS MORAGAS XAVIER",
       "goals": null,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 1,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 5,
-      "name": "0 CURTIELLAS PEREA JAN",
+      "name": "CURTIELLAS PEREA JAN",
       "goals": null,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 1,
+       "red": 0
+      }
      },
      {
       "number": 6,
-      "name": "0 AUTET SOLÀ BIEL",
+      "name": "AUTET SOLÀ BIEL",
       "goals": null,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 7,
-      "name": "0 PEREZ GONZALEZ GONZALO",
+      "name": "PEREZ GONZALEZ GONZALO",
       "goals": null,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 8,
-      "name": "0 HERNÁNDEZ HERNÁNDEZ MANEL",
+      "name": "HERNÁNDEZ HERNÁNDEZ MANEL",
       "goals": null,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 9,
-      "name": "0 CESCHIN PONTORIERO FRANCO",
+      "name": "CESCHIN PONTORIERO FRANCO",
       "goals": null,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 99,
-      "name": "0 JORDA AURA NICOLAS",
+      "name": "JORDA AURA NICOLAS",
       "goals": null,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      }
     ]
    }
@@ -986,61 +1666,111 @@
       "number": 94,
       "name": "SUB VIÑA RECHE NIL",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 2,
       "name": "ROIG VARO YERAY",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 5,
       "name": "SALVAT CARBÓ JOAN",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 7,
       "name": "SUB MARTÍNEZ VÁZQUEZ POL",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 8,
       "name": "ORUSTE SALVA MAXIMILIANO",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 15,
       "name": "JULIA SOLER MARC",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 27,
       "name": "SUB CASAS VÁZQUEZ CARLES",
       "goals": 2,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 29,
       "name": "PUJADAS COLOMER ROC",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 1,
+       "red": 0
+      }
      },
      {
       "number": 33,
       "name": "SUB JANSÀ PUJOL GUILLEM",
       "goals": 2,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 10,
       "name": "SUB ROCA BOVÉ JORDI",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      }
     ],
     "away": [
@@ -1048,61 +1778,111 @@
       "number": 70,
       "name": "PONS MENDIETA JORDI",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 4,
       "name": "GRAU TALLADA ALEX",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 5,
       "name": "PICART CABEZAS JOAN",
       "goals": 2,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 1,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 6,
       "name": "PUJOL RIURÓ SERGI",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 11,
       "name": "MIR REINOSO BIEL",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 21,
       "name": "SITJÀ MORETA LLUC",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 1,
+       "red": 0
+      }
      },
      {
       "number": 25,
       "name": "NADAL CIURANA BIEL",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 44,
       "name": "RODRIGUEZ GAÑAN ELOI",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 91,
       "name": "HERNANDEZ SAEZ JOSEP",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 1,
       "name": "ROVIRA ANDÚJAR ÀLEX",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      }
     ]
    }
@@ -1125,61 +1905,111 @@
       "number": 10,
       "name": "ZAPATER PEIX MARTÍ",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 6,
       "name": "COSTA FERRE XAVIER",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 8,
       "name": "SALVADO MARLES ANTONI",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 1,
+       "red": 0
+      }
      },
      {
       "number": 18,
       "name": "DASCA MONSERRAT JORDI",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 26,
       "name": "ARAGONÈS FERRERES XAVIER",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 27,
       "name": "LLORENS MANZANO GUILLEM",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 49,
       "name": "ANDREU GABARRÓ PAU",
       "goals": 2,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 66,
       "name": "ZANON MATARRODONA MARC",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 96,
       "name": "GELMA PAZ DAVID",
       "goals": 2,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 82,
       "name": "VIRGILI TORRENT JOSEP MARIA",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      }
     ],
     "away": [
@@ -1187,61 +2017,111 @@
       "number": 1,
       "name": "BOSCH GORGUES XAVIER",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 6,
       "name": "GIMENEZ FERNANDEZ DARIO JAVIER",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 7,
       "name": "MIGUÉLEZ MELÉNDREZ ANTONIO",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 8,
       "name": "ORTIGOSA BERLANGA ALEX",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 1,
+       "red": 0
+      }
      },
      {
       "number": 21,
       "name": "CIOCALE FABRIZIO MARTIN",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 27,
       "name": "GABARRO FEIXAS MARTI",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 1,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 55,
       "name": "MONCUSÍ LAZARO SEBASTIÀ",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 63,
       "name": "BADIA FONT JORDI",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 87,
       "name": "BALLESTERO DURAN DAVID",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 1,
+       "red": 0
+      }
      },
      {
       "number": 90,
       "name": "HUGAS FERRANDO QUIM",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      }
     ]
    }
@@ -1264,61 +2144,111 @@
       "number": 1,
       "name": "JOSEPH DE RUEDA MARC",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 2,
       "name": "VALLBONA VISTÓS OLEGUER",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 3,
       "name": "FONT MARQUES MARC",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 9,
       "name": "BOGERS DJANGO",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 21,
       "name": "FARRÉ CASTELLS ADRIÀ",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 22,
       "name": "BALDRICH PEREZ BIEL",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 37,
       "name": "CRESPO OLIVA VICTOR",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 38,
       "name": "AUGUET ESTER POL",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 57,
       "name": "LAGUNA LOPEZ HUGO",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 1,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 10,
       "name": "CLOS SENDRE POL",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      }
     ],
     "away": [
@@ -1326,61 +2256,111 @@
       "number": 58,
       "name": "GRAU TALLADA CARLES",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 13,
       "name": "MARTINEZ BORRAS ARNAU",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 2,
       "name": "MORENO TORRENS MAX",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 3,
       "name": "ALABART GONZALEZ IGNACIO",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 4,
       "name": "TORELLÓ CAMPOY NIL",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 5,
       "name": "OJEDA MARTINEZ NICOLAS",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 18,
       "name": "CASAS LOZANO MARTÍ",
       "goals": 4,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 26,
       "name": "BARROSO MAYORDOMO XAVIER",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 44,
       "name": "LLORCA FENÉS SERGI",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 55,
       "name": "ARAGONES FERRERES SERGI",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      }
     ]
    }
@@ -1403,61 +2383,111 @@
       "number": 61,
       "name": "BUSQUETS RODRIGUEZ FERRAN",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 4,
       "name": "JOSEPH DE RUEDA ALEX",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 13,
       "name": "RAMIREZ SABORIT ORIOL",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 14,
       "name": "LOPEZ COMERMA ADRIA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 16,
       "name": "OLIANA CASTILLO NÖEL",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 22,
       "name": "CARDONA MORAGAS PAU",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 42,
       "name": "SERRA VERT ARNAU",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 57,
       "name": "GURRI PUNSOLA XAVIER",
       "goals": 2,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 1,
+       "red": 0
+      }
      },
      {
       "number": 77,
       "name": "SÁNCHEZ SALÉS CARLES",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 96,
       "name": "CAPEL RUIZ ARNAU",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      }
     ],
     "away": [
@@ -1465,61 +2495,111 @@
       "number": 10,
       "name": "SERRA MOLIST MARTÍ",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 3,
       "name": "PUJALTE TORRALBA JOAN",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 5,
       "name": "ESCALA LOPEZ MIQUEL",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 1,
+       "red": 0
+      }
      },
      {
       "number": 7,
       "name": "ULLATE SERRANO PAU NOUHOUM",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 44,
       "name": "ALARCÓN LLOPART TON",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 47,
       "name": "PUJADAS COLOMER BIEL",
       "goals": 3,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 55,
       "name": "GABARRÓ FEIXAS QUIM",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 66,
       "name": "CALVET GALLEGO SAÜL",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 83,
       "name": "FOLGUERA CASTELLS SERGI",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 41,
       "name": "GARMENDIA MATEOS ELOY",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      }
     ]
    }
@@ -1542,61 +2622,111 @@
       "number": 47,
       "name": "JURADO MORALES EDUARD",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 10,
       "name": "CASTRO LÓPEZ POL",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 2,
       "name": "ARNAEZ MATHIAS",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 2,
+       "blue": 1,
+       "red": 0
+      }
      },
      {
       "number": 4,
       "name": "VAZQUEZ URBANO IAGO",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 6,
       "name": "MARTI ARAGONES ROGER",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 7,
       "name": "VÁZQUEZ COMPTE MARC",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 1,
+       "red": 0
+      }
      },
      {
       "number": 8,
       "name": "RIBAS BARBERAN ARNAU",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 9,
       "name": "GÓMEZ BLEDA PABLO",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 22,
       "name": "ORDOÑEZ LA MATA ALEIX",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 34,
       "name": "MONSERRAT COMA ROGER",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      }
     ],
     "away": [
@@ -1604,61 +2734,111 @@
       "number": 96,
       "name": "CODONY GÜELL ORIOL",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 10,
       "name": "MARQUES CASTILLO JAUME ARNAU",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 2,
       "name": "OVIEDO FORS GERARD",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 7,
       "name": "NOGAREDA CARMONA ROC",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 8,
       "name": "RUANO COMPAÑY JOAN",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 21,
       "name": "CARDIL I JOVE ÀLEX",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 32,
       "name": "CAROL TOMAS MARC",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 44,
       "name": "RIBA OVEJERO GERARD",
       "goals": 2,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 64,
       "name": "BERENT ARMENGOL PAU",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 70,
       "name": "CABEZAS LANDA IÑAKI",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      }
     ]
    }
@@ -1681,61 +2861,111 @@
       "number": 6,
       "name": "GIMENEZ FERNANDEZ DARIO JAVIER",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 7,
       "name": "MIGUÉLEZ MELÉNDREZ ANTONIO",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 8,
       "name": "ORTIGOSA BERLANGA ALEX",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 21,
       "name": "CIOCALE FABRIZIO MARTIN",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 1,
+       "red": 0
+      }
      },
      {
       "number": 27,
       "name": "GABARRO FEIXAS MARTI",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 55,
       "name": "MONCUSÍ LAZARO SEBASTIÀ",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 63,
       "name": "BADIA FONT JORDI",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 87,
       "name": "BALLESTERO DURAN DAVID",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 1,
       "name": "BOSCH GORGUES XAVIER",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 90,
       "name": "HUGAS FERRANDO QUIM",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      }
     ],
     "away": [
@@ -1743,61 +2973,111 @@
       "number": 2,
       "name": "ARNAEZ MATHIAS",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 4,
       "name": "VAZQUEZ URBANO IAGO",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 1,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 5,
       "name": "IZQUIERDO PEREZ MARCEL",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 6,
       "name": "MARTI ARAGONES ROGER",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 7,
       "name": "VÁZQUEZ COMPTE MARC",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 8,
       "name": "RIBAS BARBERAN ARNAU",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 9,
       "name": "GÓMEZ BLEDA PABLO",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 34,
       "name": "MONSERRAT COMA ROGER",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 1,
+       "red": 0
+      }
      },
      {
       "number": 47,
       "name": "JURADO MORALES EDUARD",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 10,
       "name": "CASTRO LÓPEZ POL",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      }
     ]
    }
@@ -1834,61 +3114,111 @@
       "number": 13,
       "name": "MARTINEZ BORRAS ARNAU",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 2,
       "name": "MORENO TORRENS MAX",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 3,
       "name": "ALABART GONZALEZ IGNACIO",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 4,
       "name": "TORELLÓ CAMPOY NIL",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 5,
       "name": "OJEDA MARTINEZ NICOLAS",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 18,
       "name": "CASAS LOZANO MARTÍ",
       "goals": 2,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 1,
+       "red": 0
+      }
      },
      {
       "number": 26,
       "name": "BARROSO MAYORDOMO XAVIER",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 44,
       "name": "LLORCA FENÉS SERGI",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 55,
       "name": "ARAGONES FERRERES SERGI",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 58,
       "name": "GRAU TALLADA CARLES",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      }
     ],
     "away": [
@@ -1896,55 +3226,100 @@
       "number": 1,
       "name": "ESTRADA SALA MIQUEL",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 4,
       "name": "FONT SÁNCHEZ FERRAN",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 1,
+       "blue": 1,
+       "red": 0
+      }
      },
      {
       "number": 7,
       "name": "BURGAYA VILARÓ JORDI",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 9,
       "name": "MOLAS SERRA ALEIX",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 11,
       "name": "SERRA ANGUITA HUMBERT",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 19,
       "name": "ROMA TORRES JOEL",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 21,
       "name": "TEIXIDÓ ABAT GERARD",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 27,
       "name": "RODRÍGUEZ DALMAU ÀLEX",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 1,
+       "red": 0
+      }
      },
      {
       "number": 49,
       "name": "CANAL TRUY ARNAU",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 1,
+       "blue": 0,
+       "red": 0
+      }
      }
     ]
    }
@@ -1967,61 +3342,111 @@
       "number": 10,
       "name": "SERRA MOLIST MARTÍ",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 5,
       "name": "ESCALA LOPEZ MIQUEL",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 6,
       "name": "DOMENECH GONZALEZ CARLES",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 33,
       "name": "PUJALTE TORRALBA JOAN",
       "goals": 3,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 44,
       "name": "ALARCÓN LLOPART TON",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 47,
       "name": "PUJADAS COLOMER BIEL",
       "goals": 2,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 1,
+       "red": 0
+      }
      },
      {
       "number": 55,
       "name": "GABARRÓ FEIXAS QUIM",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 74,
       "name": "MARIMÓN BERGÉ ALEIX",
       "goals": 2,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 83,
       "name": "FOLGUERA CASTELLS SERGI",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 1,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 41,
       "name": "GARMENDIA MATEOS ELOY",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      }
     ],
     "away": [
@@ -2029,61 +3454,111 @@
       "number": 94,
       "name": "SUB VIÑA RECHE NIL",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 2,
       "name": "SUB MULET LAMARCA POL",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 5,
       "name": "SALVAT CARBÓ JOAN",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 7,
       "name": "SUB MARTÍNEZ VÁZQUEZ POL",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 8,
       "name": "ORUSTE SALVA MAXIMILIANO",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 15,
       "name": "JULIA SOLER MARC",
       "goals": 2,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 27,
       "name": "SUB CASAS VÁZQUEZ CARLES",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 29,
       "name": "PUJADAS COLOMER ROC",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 33,
       "name": "SUB JANSÀ PUJOL GUILLEM",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 1,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 10,
       "name": "SUB ROCA BOVÉ JORDI",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      }
     ]
    }
@@ -2106,61 +3581,111 @@
       "number": 70,
       "name": "PONS MENDIETA JORDI",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 4,
       "name": "GRAU TALLADA ALEX",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 5,
       "name": "PICART CABEZAS JOAN",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 6,
       "name": "PUJOL RIURÓ SERGI",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 11,
       "name": "MIR REINOSO BIEL",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 21,
       "name": "SITJÀ MORETA LLUC",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 25,
       "name": "NADAL CIURANA BIEL",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 66,
       "name": "BANCELLS BARTOMEU JORDI",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 91,
       "name": "HERNANDEZ SAEZ JOSEP",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 1,
       "name": "ROVIRA ANDÚJAR ÀLEX",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      }
     ],
     "away": [
@@ -2168,61 +3693,111 @@
       "number": 61,
       "name": "BUSQUETS RODRIGUEZ FERRAN",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 4,
       "name": "JOSEPH DE RUEDA ALEX",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 8,
       "name": "PASTOR VILLANUEVA ALEIX",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 13,
       "name": "RAMIREZ SABORIT ORIOL",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 14,
       "name": "LOPEZ COMERMA ADRIA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 16,
       "name": "OLIANA CASTILLO NÖEL",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 22,
       "name": "CARDONA MORAGAS PAU",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 42,
       "name": "SERRA VERT ARNAU",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 57,
       "name": "GURRI PUNSOLA XAVIER",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 96,
       "name": "CAPEL RUIZ ARNAU",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      }
     ]
    }
@@ -2245,61 +3820,111 @@
       "number": 10,
       "name": "MARQUES CASTILLO JAUME ARNAU",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 1,
       "name": "CARRION ZANETTI JUAN MANUEL",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 2,
       "name": "OVIEDO FORS GERARD",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 7,
       "name": "NOGAREDA CARMONA ROC",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 1,
+       "red": 0
+      }
      },
      {
       "number": 8,
       "name": "RUANO COMPAÑY JOAN",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 21,
       "name": "CARDIL I JOVE ÀLEX",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 32,
       "name": "CAROL TOMAS MARC",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 1,
+       "red": 0
+      }
      },
      {
       "number": 44,
       "name": "RIBA OVEJERO GERARD",
       "goals": 6,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 64,
       "name": "BERENT ARMENGOL PAU",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 70,
       "name": "CABEZAS LANDA IÑAKI",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      }
     ],
     "away": [
@@ -2307,61 +3932,111 @@
       "number": 10,
       "name": "ZAPATER PEIX MARTÍ",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 6,
       "name": "COSTA FERRE XAVIER",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 1,
+       "blue": 0,
+       "red": 1
+      }
      },
      {
       "number": 8,
       "name": "SALVADO MARLES ANTONI",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 18,
       "name": "DASCA MONSERRAT JORDI",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 26,
       "name": "ARAGONÈS FERRERES XAVIER",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 27,
       "name": "LLORENS MANZANO GUILLEM",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 49,
       "name": "ANDREU GABARRÓ PAU",
       "goals": 4,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 66,
       "name": "ZANON MATARRODONA MARC",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 96,
       "name": "GELMA PAZ DAVID",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 1,
+       "blue": 1,
+       "red": 0
+      }
      },
      {
       "number": 82,
       "name": "VIRGILI TORRENT JOSEP MARIA",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      }
     ]
    }

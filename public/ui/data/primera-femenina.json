@@ -38,43 +38,78 @@
       "number": 7,
       "name": "GALLART BASART ANNA",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 9,
       "name": "BARRANCO TARGAS PAULA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 78,
       "name": "ARCHE SUÑER GEMMA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 82,
       "name": "BASURTE BUENO MARIA DEL ARA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 88,
       "name": "GALLART BASART MERITXELL",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 99,
       "name": "AGELL LEON MARINA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 13,
       "name": "PASTOR TEJERA AINHOA",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      }
     ],
     "away": [
@@ -82,55 +117,100 @@
       "number": 2,
       "name": "ROMAGUERA CAMPS ALBA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 4,
       "name": "MÓRA MIRANDA MARIONA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 1,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 17,
       "name": "FORNS OLIVERAS ESTEL",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 44,
       "name": "CEPRIÀ LAGUNA ANNA",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 54,
       "name": "MUNTADAS SALA GINA",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 74,
       "name": "SEGC- RODRIGUEZ GAÑAN AINA",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 87,
       "name": "SEGC- MERCHANTE ANTON CLARA",
       "goals": 2,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 1,
       "name": "GOMEZ CAPELLA CARLA",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 83,
       "name": "SALDAÑA TEIXIDO HELENA",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      }
     ]
    }
@@ -153,43 +233,78 @@
       "number": 2,
       "name": "JUNU( ABELLAN I COLLET NOA",
       "goals": 2,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 16,
       "name": "ESTEVE MESTRES INGRID",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 17,
       "name": "JUNU( QUESADA CAÑADAS ALBA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 47,
       "name": "JUNU( YLLA POCH MARINA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 55,
       "name": "JUVU( CARRERAS PUJADES ONA",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 77,
       "name": "JUNU( BASOMBA FERRER QUERALT",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 44,
       "name": "JUNU( BOHÉ FERNANDEZ AINARA",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      }
     ],
     "away": [
@@ -197,49 +312,89 @@
       "number": 14,
       "name": "PRIC- LLOBET TORT JUDIT",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 15,
       "name": "JUNU( RIBA VERA MERCE",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 21,
       "name": "JUNU( ORTEGA CORZO LAIA",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 22,
       "name": "SEGC- JÍMENEZ LAFUENTE LAURA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 53,
       "name": "JUVA( BROSSA FUGAROLAS TANIT",
       "goals": 3,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 69,
       "name": "JUNU( BRU GIL ONA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 95,
       "name": "JUVA( MIRALLES VILA LAIA",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 91,
       "name": "JUVA( TORELLÓ CAMPOY MARIONA",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      }
     ]
    }
@@ -262,49 +417,89 @@
       "number": 4,
       "name": "FERNANDEZ CARRION LAIA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 6,
       "name": "JOLIS GARCIA ÈLIA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 16,
       "name": "GUINART VIÑALS GEORGINA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 21,
       "name": "BALAÑÁ RAMÓN CARLA",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 78,
       "name": "JUNU( VIDAL DALMAU XENIA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 96,
       "name": "CASTAÑEDA LLADO EROLA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 99,
       "name": "CARMONA DE ANDRÉS VEGA",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 23,
       "name": "LLENAS BLADÉ AINA",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      }
     ],
     "away": [
@@ -312,49 +507,89 @@
       "number": 9,
       "name": "SEGC- DILME VALLRIBERA TXELL",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 14,
       "name": "JUVA( DAUMAL ARTIGAS BET",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 18,
       "name": "BERNAL RUBIALES SANDRA",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 26,
       "name": "BERNAL RUBIALES PAULA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 43,
       "name": "JUNU( PALAZON DE BLAS IVET",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 57,
       "name": "MARTIN JIMENEZ ANNA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 71,
       "name": "JUVA( HERNANDEZ COLOMER BERTA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 1,
       "name": "GARCIA LAO ELENA",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      }
     ]
    }
@@ -377,55 +612,100 @@
       "number": 3,
       "name": "MAJO MERINO MARIA",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 1,
+       "red": 0
+      }
      },
      {
       "number": 6,
       "name": "VERDURA BRUGAROLA JANA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 1,
+       "red": 0
+      }
      },
      {
       "number": 11,
       "name": "RIOUA BENLAFKIH NORA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 15,
       "name": "ANTEQUERA RODRIGUEZ MARINA",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 72,
       "name": "JOAQUIN CAMPENY IVET",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 84,
       "name": "NARANJO LEON CARLA",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 93,
       "name": "MONTORO LOZANO SILVIA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 0,
       "name": "PARRAMON PEREZ PAULA",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 1,
       "name": "MARTIN TORRENT MARINA",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      }
     ],
     "away": [
@@ -433,49 +713,89 @@
       "number": 3,
       "name": "ALONSO LOBATO TANIA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 8,
       "name": "LOPEZ ILARI IRINA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 22,
       "name": "JUVB( FERNÀNDEZ CASTELLS MARIONA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 24,
       "name": "JUVA( PRAT PEREZ LAIA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 26,
       "name": "JUVA( RAMOS CARCELEN ALBA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 68,
       "name": "JUVB( HERRERA MARIN NORA",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 69,
       "name": "JUNU( CORDERO MOLINA VICTORIA",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 44,
       "name": "JUVA( PACHECO NOGUERAS MARIONA",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      }
     ]
    }
@@ -498,61 +818,111 @@
       "number": 6,
       "name": "PAMIES VALLVE CORI",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 7,
       "name": "DE DIEGO BARRIONUEVO MARTA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 8,
       "name": "DE HARO GRAU MARIA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 22,
       "name": "BANÚS BOVÉ JANA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 55,
       "name": "JUVU( TUDELA LLORENS ABRIL",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 56,
       "name": "NAVARRETE SASTRE NOA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 71,
       "name": "JUVU( ARNAU RUIZ CLOE",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 84,
       "name": "PRIC- RIBAS LOPEZ ABRIL",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 10,
       "name": "BILBAO LOPEZ MIRARI",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 45,
       "name": "JUVU( ARCOS FLORES JUDIT",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      }
     ],
     "away": [
@@ -560,37 +930,67 @@
       "number": 9,
       "name": "JUVU( SALVADÓ VIRGILI CLÀUDIA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 11,
       "name": "JUVU( GONZÁLEZ BARJA ANTIA",
       "goals": 2,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 27,
       "name": "PRIC- BARBERAN CALPE BLANCA",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 57,
       "name": "PRIC- ORTEGA ESCOBAR JUDIT",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 84,
       "name": "PRIC- HERRAULT HANAÉ",
       "goals": 2,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 1,
       "name": "PRIC- CERRADA TORRES MARTA",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      }
     ]
    }
@@ -613,49 +1013,89 @@
       "number": 3,
       "name": "SEGC- LOPEZ DE VIÑASPRE HIDALGO CARMEN",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 5,
       "name": "SEGC- PARRA PORCUNA MIREIA",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 6,
       "name": "SEGC- VALERO MIRALLES HELENA",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 8,
       "name": "SEGC- FIGUEROLA MARTÍNEZ GRETA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 9,
       "name": "SEGC- ENRIQUEZ BARRERO LAIA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 10,
       "name": "SEGC- CRUZ BLAS AINOA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 28,
       "name": "SEGC- RAMIREZ BUSQUETS JANA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 1,
+       "red": 0
+      }
      },
      {
       "number": 70,
       "name": "SAIZ ANGOSTO ALBA",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      }
     ],
     "away": [
@@ -663,49 +1103,89 @@
       "number": 7,
       "name": "GELI GIRONELL HELENA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 13,
       "name": "COSTA ROMERA BERTA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 18,
       "name": "MARSINYACH GANGONELLS JULIA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 19,
       "name": "JUVB( MOLINA CANO IRIA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 20,
       "name": "GARCIA TRIADÓ LAURA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 23,
       "name": "JUNU( POZO BATLLORI JÚLIA",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 67,
       "name": "GARCIA GARCIA BERTA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 1,
+       "red": 0
+      }
      },
      {
       "number": 0,
       "name": "BOADA OLIVELLA JUDIT",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      }
     ]
    }
@@ -728,43 +1208,78 @@
       "number": 7,
       "name": "GALLART BASART ANNA",
       "goals": 2,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 1,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 9,
       "name": "AGELL LEON MARINA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 10,
       "name": "ARCHE SUÑER GEMMA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 78,
       "name": "BARRANCO TARGAS PAULA",
       "goals": 2,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 82,
       "name": "BASURTE BUENO MARIA DEL ARA",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 88,
       "name": "GALLART BASART MERITXELL",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 13,
       "name": "PASTOR TEJERA AINHOA",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      }
     ],
     "away": [
@@ -772,49 +1287,89 @@
       "number": 2,
       "name": "JUNU( ABELLAN I COLLET NOA",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 8,
       "name": "JUNU( FERRER MARTIN EUGENIA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 17,
       "name": "JUNU( QUESADA CAÑADAS ALBA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 46,
       "name": "JUVU( GALIMANY MURUGO CARLA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 47,
       "name": "JUNU( YLLA POCH MARINA",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 55,
       "name": "JUVU( CARRERAS PUJADES ONA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 76,
       "name": "JUVU( ARTUS RATERA AGNES",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 23,
       "name": "JUNU( SÁNCHEZ BADOSA CARLOTA",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      }
     ]
    }
@@ -851,49 +1406,89 @@
       "number": 3,
       "name": "CID SEGURA LAIA",
       "goals": 3,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 5,
       "name": "LLERA SEGRETI MARIA FLORENCIA",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 8,
       "name": "JOVÉ VIDAL NÚRIA",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 53,
       "name": "JUVU( FORNS MARTINEZ ELNA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 58,
       "name": "GIROUD MAEVA CASSANDRA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 1,
+       "red": 0
+      }
      },
      {
       "number": 83,
       "name": "JUVU( ESCOLÀ QUERALT ARAN",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 97,
       "name": "JUVU( ODINA COSTA BRUNA",
       "goals": 2,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 50,
       "name": "APARICIO BIRKNER MYKAELLA ANTONIA",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      }
     ],
     "away": [
@@ -901,49 +1496,89 @@
       "number": 3,
       "name": "SEGC- LOPEZ DE VIÑASPRE HIDALGO CARMEN",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 5,
       "name": "SEGC- PARRA PORCUNA MIREIA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 6,
       "name": "SEGC- VALERO MIRALLES HELENA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 8,
       "name": "SEGC- FIGUEROLA MARTÍNEZ GRETA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 9,
       "name": "SEGC- ENRIQUEZ BARRERO LAIA",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 10,
       "name": "SEGC- CRUZ BLAS AINOA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 28,
       "name": "SEGC- RAMIREZ BUSQUETS JANA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 70,
       "name": "SAIZ ANGOSTO ALBA",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      }
     ]
    }
@@ -966,55 +1601,100 @@
       "number": 2,
       "name": "JUNU( PARROT SARRAMIA MARIA",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 9,
       "name": "JUVU( SALVADÓ VIRGILI CLÀUDIA",
       "goals": 2,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 20,
       "name": "JUVU( MARTORELL GIMENEZ JULIA",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 23,
       "name": "JUVU( MOLINS GASET ARES",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 27,
       "name": "PRIC- BARBERAN CALPE BLANCA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 49,
       "name": "JUNU( HOMEDES FARRÉ ABRIL",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 57,
       "name": "PRIC- ORTEGA ESCOBAR JUDIT",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 1,
       "name": "PRIC- CERRADA TORRES MARTA",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 11,
       "name": "JUNU( MARTINEZ SANCHEZ IRIS",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      }
     ],
     "away": [
@@ -1022,43 +1702,78 @@
       "number": 2,
       "name": "ROMAGUERA CAMPS ALBA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 4,
       "name": "MÓRA MIRANDA MARIONA",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 44,
       "name": "CEPRIÀ LAGUNA ANNA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 54,
       "name": "MUNTADAS SALA GINA",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 74,
       "name": "SEGC- RODRIGUEZ GAÑAN AINA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 87,
       "name": "SEGC- MERCHANTE ANTON CLARA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 83,
       "name": "SALDAÑA TEIXIDO HELENA",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      }
     ]
    }
@@ -1109,55 +1824,100 @@
       "number": 4,
       "name": "FERNANDEZ CARRION LAIA",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 6,
       "name": "JOLIS GARCIA ÈLIA",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 9,
       "name": "IBAÑEZ SUBIRA LAIA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 16,
       "name": "GUINART VIÑALS GEORGINA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 21,
       "name": "BALAÑÁ RAMÓN CARLA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 78,
       "name": "JUNU( VIDAL DALMAU XENIA",
       "goals": 2,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 96,
       "name": "CASTAÑEDA LLADO EROLA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 23,
       "name": "LLENAS BLADÉ AINA",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 99,
       "name": "CARMONA DE ANDRÉS VEGA",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      }
     ],
     "away": [
@@ -1165,43 +1925,78 @@
       "number": 7,
       "name": "GALLART BASART ANNA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 9,
       "name": "BARRANCO TARGAS PAULA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 78,
       "name": "ARCHE SUÑER GEMMA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 1,
+       "red": 0
+      }
      },
      {
       "number": 82,
       "name": "BASURTE BUENO MARIA DEL ARA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 88,
       "name": "GALLART BASART MERITXELL",
       "goals": 2,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 99,
       "name": "AGELL LEON MARINA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 13,
       "name": "PASTOR TEJERA AINHOA",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      }
     ]
    }
@@ -1224,43 +2019,78 @@
       "number": 3,
       "name": "ALONSO LOBATO TANIA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 22,
       "name": "JUVB( FERNÀNDEZ CASTELLS MARIONA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 24,
       "name": "JUVA( PRAT PEREZ LAIA",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 26,
       "name": "JUVA( RAMOS CARCELEN ALBA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 68,
       "name": "JUVB( HERRERA MARIN NORA",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 91,
       "name": "JUVA( BORRELL FUSTER GAL.LA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 10,
       "name": "JUVB( CANTERO MÁRQUEZ ERICA",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      }
     ],
     "away": [
@@ -1268,55 +2098,100 @@
       "number": 9,
       "name": "SEGC- DILME VALLRIBERA TXELL",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 14,
       "name": "JUVA( DAUMAL ARTIGAS BET",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 18,
       "name": "BERNAL RUBIALES SANDRA",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 43,
       "name": "JUNU( PALAZON DE BLAS IVET",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 44,
       "name": "FERNANDEZ FERNANDEZ IRIA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 57,
       "name": "MARTIN JIMENEZ ANNA",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 71,
       "name": "JUVA( HERNANDEZ COLOMER BERTA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 11,
       "name": "JUVA( GOMEZ GARCIA VALENTINA",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 1,
       "name": "GARCIA LAO ELENA",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      }
     ]
    }
@@ -1339,49 +2214,89 @@
       "number": 3,
       "name": "MAJO MERINO MARIA",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 6,
       "name": "VERDURA BRUGAROLA JANA",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 11,
       "name": "RIOUA BENLAFKIH NORA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 15,
       "name": "ANTEQUERA RODRIGUEZ MARINA",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 72,
       "name": "JOAQUIN CAMPENY IVET",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 84,
       "name": "NARANJO LEON CARLA",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 10,
       "name": "PARRAMON PEREZ PAULA",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 1,
       "name": "MARTIN TORRENT MARINA",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      }
     ],
     "away": [
@@ -1389,43 +2304,78 @@
       "number": 15,
       "name": "JUNU( RIBA VERA MERCE",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 1,
+       "red": 0
+      }
      },
      {
       "number": 21,
       "name": "JUNU( ORTEGA CORZO LAIA",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 49,
       "name": "JUVA( ALMANZA SALA ABRIL",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 53,
       "name": "JUVA( ALSINA LÓPEZ JÚLIA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 69,
       "name": "JUNU( BRU GIL ONA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 95,
       "name": "JUVA( MIRALLES VILA LAIA",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 91,
       "name": "JUVA( TORELLÓ CAMPOY MARIONA",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      }
     ]
    }
@@ -1448,49 +2398,89 @@
       "number": 2,
       "name": "JUNU( ABELLAN I COLLET NOA",
       "goals": 3,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 12,
       "name": "JUVU( COBO FERREIRO PAULA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 17,
       "name": "JUNU( QUESADA CAÑADAS ALBA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 28,
       "name": "JUVU( MOLERO ROSALES IRATI",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 47,
       "name": "JUNU( YLLA POCH MARINA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 76,
       "name": "JUVU( ARTUS RATERA AGNES",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 77,
       "name": "JUNU( BASOMBA FERRER QUERALT",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 23,
       "name": "JUNU( SÁNCHEZ BADOSA CARLOTA",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      }
     ],
     "away": [
@@ -1498,37 +2488,67 @@
       "number": 4,
       "name": "PRIC- LASAOSA RIVAS IRUÑA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 9,
       "name": "JUVU( SALVADÓ VIRGILI CLÀUDIA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 20,
       "name": "JUVU( MARTORELL GIMENEZ JULIA",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 49,
       "name": "JUNU( HOMEDES FARRÉ ABRIL",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 57,
       "name": "PRIC- ORTEGA ESCOBAR JUDIT",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 1,
       "name": "PRIC- CERRADA TORRES MARTA",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      }
     ]
    }
@@ -1551,55 +2571,100 @@
       "number": 6,
       "name": "PAMIES VALLVE CORI",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 7,
       "name": "DE DIEGO BARRIONUEVO MARTA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 8,
       "name": "DE HARO GRAU MARIA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 22,
       "name": "BANÚS BOVÉ JANA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 23,
       "name": "JUVU( ARNAU RUIZ CLOE",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 55,
       "name": "JUVU( TUDELA LLORENS ABRIL",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 56,
       "name": "NAVARRETE SASTRE NOA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 84,
       "name": "PRIC- RIBAS LOPEZ ABRIL",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 95,
       "name": "JUVU( ARCOS FLORES JUDIT",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      }
     ],
     "away": [
@@ -1607,49 +2672,89 @@
       "number": 3,
       "name": "CID SEGURA LAIA",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 5,
       "name": "LLERA SEGRETI MARIA FLORENCIA",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 8,
       "name": "JOVÉ VIDAL NÚRIA",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 53,
       "name": "JUVU( FORNS MARTINEZ ELNA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 58,
       "name": "GIROUD MAEVA CASSANDRA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 83,
       "name": "JUVU( ESCOLÀ QUERALT ARAN",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 97,
       "name": "JUVU( ODINA COSTA BRUNA",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 50,
       "name": "APARICIO BIRKNER MYKAELLA ANTONIA",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      }
     ]
    }
@@ -1672,49 +2777,89 @@
       "number": 2,
       "name": "ROMAGUERA CAMPS ALBA",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 1,
+       "red": 0
+      }
      },
      {
       "number": 4,
       "name": "MÓRA MIRANDA MARIONA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 44,
       "name": "CEPRIÀ LAGUNA ANNA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 54,
       "name": "MUNTADAS SALA GINA",
       "goals": 2,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 74,
       "name": "SEGC- RODRIGUEZ GAÑAN AINA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 87,
       "name": "SEGC- MERCHANTE ANTON CLARA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 83,
       "name": "SALDAÑA TEIXIDO HELENA",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 1,
       "name": "GOMEZ CAPELLA CARLA",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      }
     ],
     "away": [
@@ -1722,49 +2867,89 @@
       "number": 7,
       "name": "GELI GIRONELL HELENA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 13,
       "name": "COSTA ROMERA BERTA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 1,
+       "red": 0
+      }
      },
      {
       "number": 17,
       "name": "GARCIA TROUVAT ODETTE SIMON",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 18,
       "name": "MARSINYACH GANGONELLS JULIA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 20,
       "name": "GARCIA TRIADÓ LAURA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 67,
       "name": "GARCIA GARCIA BERTA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 88,
       "name": "REQUENA SANZ EVA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 22,
       "name": "BOADA OLIVELLA JUDIT",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      }
     ]
    }
@@ -1787,55 +2972,100 @@
       "number": 7,
       "name": "GELI GIRONELL HELENA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 13,
       "name": "COSTA ROMERA BERTA",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 17,
       "name": "GARCIA TROUVAT ODETTE SIMON",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 18,
       "name": "MARSINYACH GANGONELLS JULIA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 20,
       "name": "GARCIA TRIADÓ LAURA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 23,
       "name": "JUNU( POZO BATLLORI JÚLIA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 67,
       "name": "GARCIA GARCIA BERTA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 88,
       "name": "REQUENA SANZ EVA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 22,
       "name": "BOADA OLIVELLA JUDIT",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      }
     ],
     "away": [
@@ -1843,43 +3073,78 @@
       "number": 2,
       "name": "JUNU( ABELLAN I COLLET NOA",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 8,
       "name": "JUNU( FERRER MARTIN EUGENIA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 17,
       "name": "JUNU( QUESADA CAÑADAS ALBA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 1,
+       "red": 0
+      }
      },
      {
       "number": 47,
       "name": "JUNU( YLLA POCH MARINA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 76,
       "name": "JUVU( ARTUS RATERA AGNES",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 77,
       "name": "JUNU( BASOMBA FERRER QUERALT",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 44,
       "name": "JUNU( BOHÉ FERNANDEZ AINARA",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      }
     ]
    }
@@ -1902,49 +3167,89 @@
       "number": 7,
       "name": "GALLART BASART ANNA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 9,
       "name": "BARRANCO TARGAS PAULA",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 11,
       "name": "ESTEBAN SANCHEZ KLOE",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 78,
       "name": "ARCHE SUÑER GEMMA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 82,
       "name": "BASURTE BUENO MARIA DEL ARA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 88,
       "name": "GALLART BASART MERITXELL",
       "goals": 1,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 99,
       "name": "AGELL LEON MARINA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 13,
       "name": "PASTOR TEJERA AINHOA",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      }
     ],
     "away": [
@@ -1952,49 +3257,89 @@
       "number": 3,
       "name": "MAJO MERINO MARIA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 6,
       "name": "VERDURA BRUGAROLA JANA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 11,
       "name": "RIOUA BENLAFKIH NORA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 15,
       "name": "ANTEQUERA RODRIGUEZ MARINA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 72,
       "name": "JOAQUIN CAMPENY IVET",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 84,
       "name": "NARANJO LEON CARLA",
       "goals": 3,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 93,
       "name": "MONTORO LOZANO SILVIA",
       "goals": 0,
-      "keeper": false
+      "keeper": false,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      },
      {
       "number": 1,
       "name": "MARTIN TORRENT MARINA",
       "goals": 0,
-      "keeper": true
+      "keeper": true,
+      "cards": {
+       "yellow": 0,
+       "blue": 0,
+       "red": 0
+      }
      }
     ]
    }

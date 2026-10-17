@@ -20,7 +20,7 @@ export function prettyTeam(name){
 
 // Nom del jugador sense el codi de categoria del davant ni les marques de capità.
 export function playerName(raw){
-  return clean(raw).replace(/^(?:PRE|BEN|ALE|INF|JUV|JUN|PRI|SEG|TER|SEN|OKL|VET|FEM|MIN|MAS|NAC|MAST)[A-Z0-9]{0,3}\s+/,'').replace(/\s*\(C\)\s*\.?\s*$/,'').replace(/\s+\.\s*$/,'').replace(/\s*\($/,'').trim();
+  return clean(raw).replace(/^(?:(?:PRE|BEN|ALE|INF|JUV|JUN|PRI|SEG|TER|SEN|OKL|VET|FEM|MIN|MAS|NAC|MAST)[A-Z0-9]{0,3}|\d)\s+/,'').replace(/\s*\(C\)\s*\.?\s*$/,'').replace(/\s+\.\s*$/,'').replace(/\s*\($/,'').trim();
 }
 
 // Grups (fases) de la competició: [{phase,name}]
@@ -54,7 +54,9 @@ export function parseAct(doc){
     number:+clean(c[0].textContent),
     name:playerName(c[5].textContent),
     goals:Number(clean(c[6].textContent))||0,
-    keeper:clean(c[1].textContent)==='P'
+    keeper:clean(c[1].textContent)==='P',
+    // Columnes de targetes de l'acta: 12 groga, 13 blava, 14 vermella. Buit vol dir cap.
+    cards:{yellow:Number(clean(c[12].textContent))||0,blue:Number(clean(c[13].textContent))||0,red:Number(clean(c[14].textContent))||0}
   }))).filter(l=>l.length);
   if(lists.length!==2)throw Error('Acta incompleta.');
   return {home:lists[0],away:lists[1]};
@@ -78,6 +80,7 @@ const DAY=86400000;
 function needsAct(old,row,now){
   if(!row.score||!row.officialId)return false;
   if(!old?.rosters?.home?.length||!old?.rosters?.away?.length)return true;
+  if([...old.rosters.home,...old.rosters.away].some(p=>!p.cards))return true; // dades anteriors sense targetes
   if(String(old.score)!==String(row.score))return true;
   return !row.date||now-Date.parse(row.date+'T12:00:00Z')<4*DAY;
 }
@@ -139,7 +142,7 @@ export async function updateCompetition(team,previous,fetchDoc,onProgress){
     let rows;try{rows=parseCalendar(doc,p.phase);}catch{continue;}
     for(const r of rows){
       const id=r.officialId?'c-'+r.officialId:`c-${p.phase}-${r.round}-${r.home}-${r.away}`,old=oldById.get(id);
-      matches.push({id,group:index+1,groupName:p.name,phase:p.phase,round:r.round,date:r.date,time:r.time,home:prettyTeam(r.home),away:prettyTeam(r.away),score:r.score,officialId:r.officialId,rosters:old?.rosters&&String(old.score)===String(r.score)?old.rosters:{home:[],away:[]}});
+      matches.push({id,group:index+1,groupName:p.name,phase:p.phase,round:r.round,date:r.date,time:r.time,home:prettyTeam(r.home),away:prettyTeam(r.away),score:r.score,officialId:r.officialId,rosters:old?.rosters&&String(old.score)===String(r.score)&&[...old.rosters.home,...old.rosters.away].every(p=>p.cards)?old.rosters:{home:[],away:[]}});
     }
   }
   const own=phases.findIndex(p=>p.phase===String(team.phase));

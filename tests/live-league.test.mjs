@@ -9,3 +9,4 @@ test('Infantil Or keeps its original fixtures and ids',()=>{const io=all.find(x=
 test('published videos point to existing matches',()=>{const ids=new Set(all.flatMap(x=>x.data.matches.map(m=>m.id)));for(const v of videos)assert.ok(ids.has(v.match_id),v.match_id);});
 test('categories where goals go to the captain are flagged',()=>{for(const t of config.teams)assert.equal(t.playerGoals,!/^(Benjamí|Prebenjamí)/.test(t.label),t.id);});
 test('videos are only offered for Infantil Or',()=>{assert.deepEqual(config.teams.filter(t=>t.videos).map(t=>t.id),['infantil-or']);const io=new Set(all.find(x=>x.team.id==='infantil-or').data.matches.map(m=>m.id));for(const v of videos)assert.ok(io.has(v.match_id),v.match_id);});
+test('scorer and goalkeeper rankings only from Infantil upwards',()=>{for(const t of config.teams)assert.equal(t.rankings,!/^(Aleví|Benjamí|Prebenjamí)/.test(t.label),t.id);});

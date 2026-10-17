@@ -11,7 +11,8 @@
    "team": "SHUM FRIT RAVICH",
    "playerGoals": true,
    "file": "data/lliga-catalana.json",
-   "group": "Fase de grups"
+   "group": "Fase de grups",
+   "rankings": true
   },
   {
    "id": "primera-femenina",
@@ -22,7 +23,8 @@
    "team": "SHUM SELVAFIL",
    "playerGoals": true,
    "file": "data/primera-femenina.json",
-   "group": "Grup A"
+   "group": "Grup A",
+   "rankings": true
   },
   {
    "id": "segona-femenina",
@@ -33,7 +35,8 @@
    "team": "SHUM SELVAFIL",
    "playerGoals": true,
    "file": "data/segona-femenina.json",
-   "group": "Grup A"
+   "group": "Grup A",
+   "rankings": true
   },
   {
    "id": "segona-masculina",
@@ -44,7 +47,8 @@
    "team": "SHUM ALEA",
    "playerGoals": true,
    "file": "data/segona-masculina.json",
-   "group": "Grup B"
+   "group": "Grup B",
+   "rankings": true
   },
   {
    "id": "tercera-masculina",
@@ -55,7 +59,8 @@
    "team": "SHUM ALEA",
    "playerGoals": true,
    "file": "data/tercera-masculina.json",
-   "group": "Grup D"
+   "group": "Grup D",
+   "rankings": true
   },
   {
    "id": "veterans",
@@ -66,7 +71,8 @@
    "team": "SHUM FRIT RAVICH",
    "playerGoals": true,
    "file": "data/veterans.json",
-   "group": "Grup únic"
+   "group": "Grup únic",
+   "rankings": true
   },
   {
    "id": "junior-or",
@@ -77,7 +83,8 @@
    "team": "SHUM ALEA",
    "playerGoals": true,
    "file": "data/junior-or.json",
-   "group": "Grup 3"
+   "group": "Grup 3",
+   "rankings": true
   },
   {
    "id": "juvenil-or",
@@ -88,7 +95,8 @@
    "team": "SHUM FRIT RAVICH",
    "playerGoals": true,
    "file": "data/juvenil-or.json",
-   "group": "Grup 1"
+   "group": "Grup 1",
+   "rankings": true
   },
   {
    "id": "infantil-or",
@@ -101,7 +109,8 @@
    "file": "data/infantil-or.json",
    "legacyIds": true,
    "group": "Grup 8",
-   "videos": true
+   "videos": true,
+   "rankings": true
   },
   {
    "id": "alevi-plata-b",
@@ -112,7 +121,8 @@
    "team": "SHUM FRIT RAVICH B",
    "playerGoals": true,
    "file": "data/alevi-plata-b.json",
-   "group": "Grup 1"
+   "group": "Grup 1",
+   "rankings": false
   },
   {
    "id": "alevi-plata-a",
@@ -123,7 +133,8 @@
    "team": "SHUM MUGADAS A",
    "playerGoals": true,
    "file": "data/alevi-plata-a.json",
-   "group": "Grup 6"
+   "group": "Grup 6",
+   "rankings": false
   },
   {
    "id": "benjami-or",
@@ -134,7 +145,8 @@
    "team": "SHUM MEGOCA A",
    "playerGoals": false,
    "file": "data/benjami-or.json",
-   "group": "Grup únic"
+   "group": "Grup únic",
+   "rankings": false
   },
   {
    "id": "benjami-plata-c",
@@ -145,7 +157,8 @@
    "team": "SHUM METALL·LÒGIC C",
    "playerGoals": false,
    "file": "data/benjami-plata-c.json",
-   "group": "Grup A"
+   "group": "Grup A",
+   "rankings": false
   },
   {
    "id": "benjami-plata-b",
@@ -156,7 +169,8 @@
    "team": "SHUM SELVAFIL B",
    "playerGoals": false,
    "file": "data/benjami-plata-b.json",
-   "group": "Grup B"
+   "group": "Grup B",
+   "rankings": false
   },
   {
    "id": "prebenjami-or",
@@ -167,7 +181,8 @@
    "team": "SHUM METALL·LÒGIC A",
    "playerGoals": false,
    "file": "data/prebenjami-or.json",
-   "group": "Grup únic"
+   "group": "Grup únic",
+   "rankings": false
   },
   {
    "id": "prebenjami-plata-b",
@@ -178,7 +193,8 @@
    "team": "SHUM PINTURAS ROMAN B",
    "playerGoals": false,
    "file": "data/prebenjami-plata-b.json",
-   "group": "Grup únic"
+   "group": "Grup únic",
+   "rankings": false
   },
   {
    "id": "prebenjami-plata-c",
@@ -189,7 +205,8 @@
    "team": "SHUM GRUES VIÑOLAS C",
    "playerGoals": false,
    "file": "data/prebenjami-plata-c.json",
-   "group": "Grup únic"
+   "group": "Grup únic",
+   "rankings": false
   }
  ]
 }
