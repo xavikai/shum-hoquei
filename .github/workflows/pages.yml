@@ -3,6 +3,12 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+    inputs:
+      source:
+        description: Fonts que cal actualitzar
+        type: choice
+        default: all
+        options: [all, rfep]
   schedule:
     - cron: '7 */3 * * *'
     - cron: '37 8-22 * * 0,6'
@@ -29,6 +35,8 @@ jobs:
         id: fecapa
         if: github.event_name != 'push'
         continue-on-error: true
+        env:
+          UPDATE_SOURCE: ${{ inputs.source || 'all' }}
         run: |
           node scripts/update-teams.mjs
           if [ -z "$(git status --porcelain -- public/ui)" ]; then echo "changed=false" >> "$GITHUB_OUTPUT"; else echo "changed=true" >> "$GITHUB_OUTPUT"; fi
