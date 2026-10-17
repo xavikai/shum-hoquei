@@ -54,3 +54,6 @@ La primera visita permet seleccionar diversos equips. La selecció es desa com a
 ## OK Lliga i selecció després de la instal·lació
 L’OK Lliga té una entrada pròpia amb `provider: rfep` i el calendari oficial de la competició 3568 (182 partits, 26 del SHUM). Les dates o hores no publicades queden pendents. El procés d’actualització dirigeix aquesta competició a RFEP i conserva la còpia anterior quan la font no respon. La Lliga Catalana continua com a competició separada.
 La selecció inicial de favorits s’obre una sola vegada dins de l’app instal·lada (`display-mode: standalone` o `navigator.standalone`); es confirma amb el marcador local `shum-installed-onboarding`. A la web es pot obrir manualment des d’«Edita favorits».
+
+## Sincronització RFEP activa
+La tasca periòdica de Pages també consulta RFEP amb les capçaleres d’origen que requereix el servidor, actualitza resultats, horaris i actes disponibles i publica els canvis. Per comprovar només RFEP: Actions → Web a GitHub Pages → Run workflow → source: rfep. La programació automàtica continua consultant totes dues federacions.

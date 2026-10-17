@@ -1,3 +1,11 @@
 import test from 'node:test';import assert from 'node:assert/strict';import fs from 'node:fs';import {DOMParser} from 'linkedom';import {parseCalendar} from '../public/ui/fecapa.js';import {shouldOnboard} from '../public/ui/favorites-core.js';
 test('favorites onboarding is automatic only in the installed app and only until saved',()=>{assert.equal(shouldOnboard(false,false),false);assert.equal(shouldOnboard(true,false),true);assert.equal(shouldOnboard(true,true),false);});
 test('RFEP calendar keeps all drawn rounds, including undated fixtures',()=>{const doc=new DOMParser().parseFromString(fs.readFileSync('tests/fixtures/rfep-ok-calendar.html','utf8'),'text/html');const rows=parseCalendar(doc,'3568',true);assert.equal(rows.length,182);const shum=rows.filter(m=>m.home==='SHUM FRIT RAVICH'||m.away==='SHUM FRIT RAVICH');assert.equal(shum.length,26);assert.equal(shum[0].date,'2026-10-31');assert.equal(shum[0].time,'16:30');assert.equal(shum[0].away,'ADISS HOCKEY RIVAS');assert.equal(shum.at(-1).date,'');assert.ok(rows.every(m=>m.score===null));});
+import {sourceHeaders} from '../scripts/update-teams.mjs';
+import {updateTeam} from '../public/ui/fecapa.js';
+test('RFEP sync sends its required source origin while leaving FECAPA unchanged',()=>{assert.equal(sourceHeaders('../rfep/rfep_cal_idc_3568_1.php').Origin,'https://www.hockeypatines.fep.es');assert.deepEqual(sourceHeaders('fecapa_cal_idc_4786_1.php'),{});});
+test('a played RFEP match refreshes its result and requests its report',async()=>{
+ const calendar=new DOMParser().parseFromString('<table class="content_fase_3568"><tr>'+['','31/10/2026','16:30','Maçanet','JORNADA 1','','SHUM FRIT RAVICH','','ADISS HOCKEY RIVAS','','','3-2'].map(v=>'<td>'+v+'</td>').join('')+'<td><a idp="99"></a></td></tr></table>','text/html');
+ let called=false;const {data,failed}=await updateTeam({id:'ok-lliga',provider:'rfep',idc:'3568',phase:'3568',team:'SHUM FRIT RAVICH',label:'OK Lliga',group:'Lliga regular'},null,async(file,params)=>{called=true;assert.equal(params.idp,'99');throw Error('Acta pendent');},{calendar});
+ assert.ok(called);assert.equal(failed,1);assert.deepEqual(data.matches[0].score,[3,2]);assert.equal(data.matches[0].rosters.home.length,0);assert.equal(data.source,'https://www.hockeypatines.fep.es/league/3568');
+});

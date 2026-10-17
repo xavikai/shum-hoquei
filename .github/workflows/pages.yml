@@ -25,7 +25,7 @@ jobs:
         with:
           node-version: '22'
       - run: npm install --no-save --no-package-lock linkedom@0.18.12
-      - name: Actualitza les dades de FECAPA de tots els equips
+      - name: Actualitza les dades de FECAPA i RFEP de tots els equips
         id: fecapa
         if: github.event_name != 'push'
         continue-on-error: true
@@ -39,7 +39,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add public/ui
-          git commit -m "Actualitza dades de FECAPA"
+          git commit -m "Actualitza dades de FECAPA i RFEP"
           git push
       - name: Comprova si cal publicar
         id: publish

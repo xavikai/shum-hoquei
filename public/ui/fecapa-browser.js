@@ -6,7 +6,7 @@ export async function fetchDoc(file,params){
   const html=await res.text();if(html.length<30)throw Error('FECAPA ha retornat una resposta buida.');
   return new DOMParser().parseFromString(html,'text/html');
 }
-export const refreshTeam=(team,data)=>updateTeam(team,data,team.provider==='rfep'?async(file,params)=>{const res=await fetch('https://www.server2.sidgad.es/rfep/'+file.replace(/^fecapa_/,'rfep_'),{method:'POST',body:new URLSearchParams({...params,site_lang:'es',lang:'es'}),signal:AbortSignal.timeout(25000)});if(!res.ok)throw Error('RFEP no respon.');const html=await res.text();if(html.length<30)throw Error('RFEP ha retornat una resposta buida.');return new DOMParser().parseFromString(html,'text/html');}:fetchDoc);
+export const refreshTeam=async(team,data)=>{if(team.provider!=='rfep')return updateTeam(team,data,fetchDoc);const res=await fetch(new URL('./'+team.file+'?refresh='+Date.now(),import.meta.url),{cache:'no-store',signal:AbortSignal.timeout(25000)});if(!res.ok)throw Error('No s’han pogut recarregar les dades RFEP.');const latest=await res.json();if(latest.team!==data.team||!latest.matches?.length)throw Error('El calendari RFEP rebut no és vàlid.');return {data:latest,failed:0};};
 const compKey=team=>'shum-comp:'+team.id;
 export function readCompetitionCache(team){
   try{const c=JSON.parse(localStorage.getItem(compKey(team)));if(c?.version!==3||c.team!==team.id||!Array.isArray(c.matches)||c.matches.length>4000)return null;return c;}catch{return null;}
