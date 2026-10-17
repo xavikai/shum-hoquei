@@ -32,3 +32,6 @@ Els vídeos que veuen tots els visitants es publiquen a `public/ui/videos.json`:
 
 ## Gols encaixats
 Les actes de FECAPA no indiquen els gols encaixats per porter. Quan l'acta d'un equip només inclou un porter (P), la web li assigna els gols del rival. Si n'hi ha dos, queden pendents fins que s'informin a la fitxa del partit. Un valor introduït manualment sempre té prioritat.
+
+## Actualització automàtica des de FECAPA
+El workflow `.github/workflows/pages.yml` també s'executa sol: cada 3 hores, i cada hora els dissabtes i diumenges de 10 h a 0 h. Executa `scripts/update-league.mjs`, que consulta el calendari i les actes del grup 8 a FECAPA i actualitza `public/ui/league.json`. Si hi ha canvis, desa un commit «Actualitza dades de FECAPA» i torna a publicar la web; si no n'hi ha, no publica res. Si FECAPA no respon, canvia el format o apareix un partit que no és al calendari, el fitxer no es toca i la web continua amb l'última còpia bona. Es pot forçar des de GitHub: **Actions → Web a GitHub Pages → Run workflow**. Abans de fer canvis a mà, fes **Fetch/Pull** a GitHub Desktop per incorporar els commits automàtics.

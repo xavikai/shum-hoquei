@@ -1,5 +1,5 @@
 import {test} from 'node:test';import assert from 'node:assert/strict';import fs from 'node:fs';import {standings,parseRoster,safeURL,validateBackup} from '../public/ui/core.js';
-const data=JSON.parse(fs.readFileSync('public/ui/league.json'));
+const data=JSON.parse(fs.readFileSync('tests/fixtures/league-2026-10-11.json'));
 test('snapshot has 42 unique fixtures and nine played matches',()=>{assert.equal(data.matches.length,42);assert.equal(new Set(data.matches.map(x=>x.id)).size,42);assert.equal(data.matches.filter(x=>x.score).length,9);for(const m of data.matches){assert.ok(data.teams.includes(m.home));assert.ok(data.teams.includes(m.away));}});
 test('standings count home/away wins, draws, and zero scores',()=>{const s=standings(data.matches,data.teams),shum=s.find(x=>x.team.includes('SHUM'));assert.deepEqual([shum.pj,shum.pg,shum.pp,shum.pts,shum.gf,shum.gc],[2,1,1,3,4,11]);assert.equal(s.reduce((a,x)=>a+x.gf,0),s.reduce((a,x)=>a+x.gc,0));assert.equal(s.reduce((a,x)=>a+x.pj,0),18);});
 test('links reject scripts, insecure protocols and credential URLs',()=>{for(const u of ['javascript:alert(1)','http://drive.google.com','https://x:y@example.org'])assert.throws(()=>safeURL(u));assert.equal(safeURL('https://drive.google.com/file/d/test/view'),'https://drive.google.com/file/d/test/view');});
