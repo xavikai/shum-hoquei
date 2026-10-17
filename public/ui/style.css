@@ -45,3 +45,4 @@ nav button[hidden]{display:none}
 .video-frame{position:relative;width:100%;aspect-ratio:16/9;border:0;border-radius:8px;background:#111;overflow:hidden;margin-top:6px}
 .video-frame iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
 .card-chip{display:inline-grid;place-items:center;min-width:18px;height:22px;padding:0 4px;margin-left:3px;border-radius:3px;font-size:11px;font-weight:700;color:#fff}.card-chip.yellow{background:#e5b400;color:#1c2023}.card-chip.blue{background:#1f5fbf}.card-chip.red{background:var(--red)}
+.brand img,.hero-badge{height:auto;object-fit:contain}
