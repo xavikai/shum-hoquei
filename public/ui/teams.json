@@ -100,7 +100,8 @@
    "playerGoals": true,
    "file": "data/infantil-or.json",
    "legacyIds": true,
-   "group": "Grup 8"
+   "group": "Grup 8",
+   "videos": true
   },
   {
    "id": "alevi-plata-b",

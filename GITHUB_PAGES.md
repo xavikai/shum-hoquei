@@ -40,3 +40,15 @@ Cada visitant tria l'equip al selector «Equip que segueixes». La web el record
 
 ## Actualització automàtica des de FECAPA
 El workflow `.github/workflows/pages.yml` també s'executa sol: cada 3 hores, i cada hora els dissabtes i diumenges de 10 h a 0 h. Executa `scripts/update-teams.mjs`, que consulta el calendari de cada equip i només llegeix les actes noves, les que han canviat o les dels darrers quatre dies. Si hi ha canvis, desa un commit «Actualitza dades de FECAPA» i torna a publicar la web; si no n'hi ha, no publica res. Si un equip falla (FECAPA no respon, canvia el format o el grup s'ha reduït a menys de la meitat), aquell equip conserva l'última còpia bona i la resta s'actualitzen igualment. Es pot forçar des de GitHub: **Actions → Web a GitHub Pages → Run workflow**. Abans de fer canvis a mà, fes **Fetch/Pull** a GitHub Desktop per incorporar els commits automàtics.
+
+## Vídeos automàtics des de Drive (només Infantil Or)
+Els vídeos només existeixen per a l'Infantil Or; als altres equips la web no mostra «Vídeo pendent» ni la secció d'anàlisi de vídeo. El programa `tools/drive-videos.gs` (Google Apps Script) mira cada hora la carpeta LLIGA_OR de Drive i vincula cada vídeo nou al partit corresponent de l'Infantil Or afegint-lo a `public/ui/videos.json`. GitHub torna a publicar la web sol.
+
+El nom del fitxer ha de ser `Local-Visitant_GolsLocal-GolsVisitant.mp4`, amb una paraula del nom de cada equip: `Cubelles-Shum_8-0.mp4`, `Shum-SantJust_4-3.mp4`, `Cerdanyola-Shum_2-1.mp4`. Es vincula si hi ha un sol partit jugat amb aquests equips i aquest resultat. No substitueix mai un vídeo que ja estigui vinculat. Fa que el vídeo es pugui veure amb l'enllaç. Els fitxers que no pot vincular apareixen al registre d'execucions de l'script.
+
+Configuració, una sola vegada:
+1. GitHub → Settings → Developer settings → Personal access tokens → **Fine-grained tokens** → Generate new token. Repository access: només `xavikai/shum-infantil-or`. Permissions → Contents: **Read and write**. Copia el token.
+2. Amb el compte del centre, obre https://script.new, esborra el contingut, enganxa `tools/drive-videos.gs` i desa el projecte amb el nom «SHUM vídeos».
+3. ⚙ Configuració del projecte → Propietats de l'script → afegeix `GITHUB_TOKEN` amb el token.
+4. Editor → tria la funció `vinculaVideos` → Executa. Accepta els permisos de Drive i de connexió externa. Al registre ha de dir «Cap vídeo nou per vincular» o «Vinculat: …».
+5. Tria la funció `activaCadaHora` → Executa. A partir d'aquí s'executa sol cada hora.
