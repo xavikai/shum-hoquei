@@ -7,8 +7,9 @@
  * repositori de GitHub. GitHub torna a publicar la web automàticament.
  *
  * Nom dels fitxers: Local-Visitant_GolsLocal-GolsVisitant.mp4
- *   Exemples: Cubelles-Shum_8-0.mp4 · Shum-SantJust_4-3.mp4 · Cerdanyola-Shum_2-1.mp4
- * N'hi ha prou amb una paraula del nom de cada equip (sense espais ni accents).
+ *   Exemples: Cubelles-Shum_8-0.mp4 · Shum-SantJust_4-3.mp4 · CerdanyolaB-SHUM_2-1.mp4
+ * N'hi ha prou amb una o més paraules del nom de cada equip, sense espais ni accents:
+ *   CerdanyolaB, SantJust, SantCugat, Mataro, Voltrega, Cubelles, Shum.
  *
  * Configuració (una sola vegada): vegeu GITHUB_PAGES.md, apartat «Vídeos automàtics».
  */
@@ -70,16 +71,27 @@ function normalize_(s) {
   return String(s || '').normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().replace(/[^a-z0-9]/g, '');
 }
 
-/** Llegeix «Local-Visitant_3-2.mp4» → {home:'local', away:'visitant', score:[3,2]} o null. */
+/** Paraules d'un nom de fitxer: «CerdanyolaB» → ['cerdanyola','b'] · «SantJust» → ['sant','just']. */
+function words_(s) {
+  return String(s || '').normalize('NFD').replace(/[\u0300-\u036f]/g, '')
+    .replace(/([a-z])([A-Z])/g, '$1 $2').replace(/([A-Z]{2,})([A-Z][a-z])/g, '$1 $2')
+    .toLowerCase().split(/[^a-z0-9]+/).filter(Boolean);
+}
+
+/** Llegeix «Local-Visitant_3-2.mp4» → {home:[paraules], away:[paraules], score:[3,2]} o null. */
 function parseVideoName(name) {
   const base = String(name).replace(/\.[^.]+$/, '');
   const m = base.match(/^\s*(.+?)\s*[-–]\s*(.+?)\s*[_ ]\s*(\d{1,2})\s*[-–]\s*(\d{1,2})\s*$/);
   if (!m) return null;
-  return { home: normalize_(m[1]), away: normalize_(m[2]), score: [Number(m[3]), Number(m[4])] };
+  return { home: words_(m[1]), away: words_(m[2]), score: [Number(m[3]), Number(m[4])] };
 }
 
-function teamMatches_(token, team) {
-  return token.length >= 3 && normalize_(team).indexOf(token) !== -1;
+/** Totes les paraules del fitxer han de ser al nom de l'equip; una lletra sola ha de ser la lletra de l'equip (A, B…). */
+function teamMatches_(fileWords, team) {
+  const teamWords = words_(team), joined = normalize_(team), letter = teamWords.length > 1 && teamWords[teamWords.length - 1].length === 1 ? teamWords[teamWords.length - 1] : null;
+  const long = fileWords.filter(w => w.length > 1);
+  if (!long.length || long.join('').length < 3) return false;
+  return fileWords.every(w => w.length === 1 ? w === letter : joined.indexOf(w) !== -1);
 }
 
 /**

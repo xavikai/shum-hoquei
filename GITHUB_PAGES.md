@@ -44,7 +44,7 @@ El workflow `.github/workflows/pages.yml` també s'executa sol: cada 3 hores, i 
 ## Vídeos automàtics des de Drive (només Infantil Or)
 Els vídeos només existeixen per a l'Infantil Or; als altres equips la web no mostra «Vídeo pendent» ni la secció d'anàlisi de vídeo. El programa `tools/drive-videos.gs` (Google Apps Script) mira cada hora la carpeta LLIGA_OR de Drive i vincula cada vídeo nou al partit corresponent de l'Infantil Or afegint-lo a `public/ui/videos.json`. GitHub torna a publicar la web sol.
 
-El nom del fitxer ha de ser `Local-Visitant_GolsLocal-GolsVisitant.mp4`, amb una paraula del nom de cada equip: `Cubelles-Shum_8-0.mp4`, `Shum-SantJust_4-3.mp4`, `Cerdanyola-Shum_2-1.mp4`. Es vincula si hi ha un sol partit jugat amb aquests equips i aquest resultat. No substitueix mai un vídeo que ja estigui vinculat. Fa que el vídeo es pugui veure amb l'enllaç. Els fitxers que no pot vincular apareixen al registre d'execucions de l'script.
+El nom del fitxer ha de ser `Local-Visitant_GolsLocal-GolsVisitant.mp4`, amb paraules del nom de cada equip (i la lletra de l'equip si cal): `Cubelles-Shum_8-0.mp4`, `Shum-SantJust_4-3.mp4`, `CerdanyolaB-SHUM_2-1.mp4`. Es vincula si hi ha un sol partit jugat amb aquests equips i aquest resultat. No substitueix mai un vídeo que ja estigui vinculat. Fa que el vídeo es pugui veure amb l'enllaç. Els fitxers que no pot vincular apareixen al registre d'execucions de l'script.
 
 Configuració, una sola vegada:
 1. GitHub → Settings → Developer settings → Personal access tokens → **Fine-grained tokens** → Generate new token. Repository access: només `xavikai/shum-infantil-or`. Permissions → Contents: **Read and write**. Copia el token.
