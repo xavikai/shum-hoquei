@@ -44,3 +44,6 @@ Configuració, una sola vegada:
 3. ⚙ Configuració del projecte → Propietats de l'script → afegeix `GITHUB_TOKEN` amb el token.
 4. Editor → tria la funció `vinculaVideos` → Executa. Accepta els permisos de Drive i de connexió externa. Al registre ha de dir «Cap vídeo nou per vincular» o «Vinculat: …».
 5. Tria la funció `activaCadaHora` → Executa. A partir d'aquí s'executa sol cada hora.
+
+## Partits de la setmana
+L’apartat `#setmana` agrupa els calendaris publicats dels 17 equips, de dilluns a diumenge en hora de Catalunya. Permet canviar de setmana i copiar, compartir o descarregar la quadrícula en PNG. La ubicació indica casa/fora i l’equip local, perquè el calendari no incorpora el pavelló. Si falten dades d’un equip es mostra l’avís també a la imatge; un equip sense partit programat es llista a part.
