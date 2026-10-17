@@ -14,11 +14,12 @@ export async function updateAll(fetchDoc,{now=Date.now(),log=console.log}={}){
   const calendars=new Map();let changedFiles=0,errors=0,configChanged=false;
   for(const team of config.teams){
     try{
-      if(!calendars.has(team.idc))calendars.set(team.idc,await fetchDoc(...calendarRequest(team.idc)));
-      const calendar=calendars.get(team.idc),group=groupLabel(calendar,team.phase);
+      const teamFetch=team.provider==='rfep'?(file,params)=>fetchDoc('../rfep/'+file.replace(/^fecapa_/,'rfep_'),{...params,site_lang:'es',lang:'es'}):fetchDoc;
+      if(!calendars.has(team.idc))calendars.set(team.idc,await teamFetch(...calendarRequest(team.idc)));
+      const calendar=calendars.get(team.idc),group=team.provider==='rfep'?team.group:groupLabel(calendar,team.phase);
       if(team.group!==group){team.group=group;configChanged=true;}
       const file=new URL(team.file,ui),before=await readJSON(file);
-      const {data,changed,failed,read}=await updateTeam({...team,season:config.season},before,fetchDoc,{calendar,now,log:m=>log(`${team.id}: ${m}`)});
+      const {data,changed,failed,read}=await updateTeam({...team,season:config.season},before,teamFetch,{calendar,now,log:m=>log(`${team.id}: ${m}`)});
       if(changed){await mkdir(new URL('.',file),{recursive:true});await writeFile(file,JSON.stringify(data,null,1)+'\n');changedFiles++;}
       log(`${team.id}: ${data.matches.filter(m=>m.score).length}/${data.matches.length} jugats · ${read} actes llegides${failed?` · ${failed} no disponibles`:''}${changed?' · actualitzat':''}`);
     }catch(e){errors++;log(`${team.id}: ERROR ${e.message} (es conserven les dades anteriors)`);}

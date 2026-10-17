@@ -3,6 +3,19 @@
  "default": "infantil-or",
  "teams": [
   {
+   "id": "ok-lliga",
+   "label": "OK Lliga",
+   "section": "Sèniors",
+   "provider": "rfep",
+   "idc": "3568",
+   "phase": "3568",
+   "team": "SHUM FRIT RAVICH",
+   "playerGoals": true,
+   "rankings": true,
+   "file": "data/ok-lliga.json",
+   "group": "Lliga regular"
+  },
+  {
    "id": "lliga-catalana",
    "label": "Lliga Catalana",
    "section": "Sèniors",

@@ -50,3 +50,7 @@ L’apartat `#setmana` agrupa els calendaris publicats dels 17 equips, de dillun
 
 ## Equips favorits
 La primera visita permet seleccionar diversos equips. La selecció es desa com a preferència local (`shum-favorites`); per defecte filtra el selector i els partits setmanals, inclosa la imatge que es copia o comparteix. Els botons de favorits permeten canviar d’equip directament. «Tots els equips» dona accés al club complet, «Només favorits» recupera el filtre i «Edita favorits» permet canviar-lo o eliminar la selecció. Els enllaços directes a altres equips continuen funcionant.
+
+## OK Lliga i selecció després de la instal·lació
+L’OK Lliga té una entrada pròpia amb `provider: rfep` i el calendari oficial de la competició 3568 (182 partits, 26 del SHUM). Les dates o hores no publicades queden pendents. El procés d’actualització dirigeix aquesta competició a RFEP i conserva la còpia anterior quan la font no respon. La Lliga Catalana continua com a competició separada.
+La selecció inicial de favorits s’obre una sola vegada dins de l’app instal·lada (`display-mode: standalone` o `navigator.standalone`); es confirma amb el marcador local `shum-installed-onboarding`. A la web es pot obrir manualment des d’«Edita favorits».

@@ -1,0 +1,2590 @@
+{
+ "league": "OK Lliga · Lliga regular",
+ "season": "2026/27",
+ "source": "https://www.hockeypatines.fep.es/league/3568",
+ "updatedAt": "2026-10-17T19:32:15.703Z",
+ "team": "SHUM Frit Ravich",
+ "teams": [
+  "Reus Deportiu Brasilia",
+  "Calafell la Menorquina",
+  "SHUM Frit Ravich",
+  "Adiss Hockey Rivas",
+  "CE Noia Freixenet",
+  "CH Lloret Vila Esportiva",
+  "CH Caldes Recam Làser",
+  "Hockey Club Liceo",
+  "CP Voltrega Movento Stern",
+  "Aitex Pas Alcoi",
+  "Pons Lleida",
+  "Ametller Origen CP Vilafranca",
+  "Barça",
+  "Igualada Rigat HC"
+ ],
+ "matches": [
+  {
+   "id": "ok-lliga-1-0-1",
+   "round": 1,
+   "date": "2026-10-31",
+   "time": "16:10",
+   "home": "Reus Deportiu Brasilia",
+   "away": "Calafell la Menorquina",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-1-2-3",
+   "round": 1,
+   "date": "2026-10-31",
+   "time": "16:30",
+   "home": "SHUM Frit Ravich",
+   "away": "Adiss Hockey Rivas",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-1-4-5",
+   "round": 1,
+   "date": "2026-10-31",
+   "time": "19:30",
+   "home": "CE Noia Freixenet",
+   "away": "CH Lloret Vila Esportiva",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-1-6-7",
+   "round": 1,
+   "date": "2026-10-31",
+   "time": "20:00",
+   "home": "CH Caldes Recam Làser",
+   "away": "Hockey Club Liceo",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-1-8-9",
+   "round": 1,
+   "date": "2026-10-31",
+   "time": "20:00",
+   "home": "CP Voltrega Movento Stern",
+   "away": "Aitex Pas Alcoi",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-1-10-11",
+   "round": 1,
+   "date": "2026-11-01",
+   "time": "12:00",
+   "home": "Pons Lleida",
+   "away": "Ametller Origen CP Vilafranca",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-1-12-13",
+   "round": 1,
+   "date": "2026-11-01",
+   "time": "20:45",
+   "home": "Barça",
+   "away": "Igualada Rigat HC",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-2-1-4",
+   "round": 2,
+   "date": "2026-11-07",
+   "time": "16:10",
+   "home": "Calafell la Menorquina",
+   "away": "CE Noia Freixenet",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-2-3-0",
+   "round": 2,
+   "date": "2026-11-07",
+   "time": "19:00",
+   "home": "Adiss Hockey Rivas",
+   "away": "Reus Deportiu Brasilia",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-2-9-10",
+   "round": 2,
+   "date": "2026-11-07",
+   "time": "19:30",
+   "home": "Aitex Pas Alcoi",
+   "away": "Pons Lleida",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-2-11-6",
+   "round": 2,
+   "date": "2026-11-07",
+   "time": "20:00",
+   "home": "Ametller Origen CP Vilafranca",
+   "away": "CH Caldes Recam Làser",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-2-5-8",
+   "round": 2,
+   "date": "2026-11-07",
+   "time": "20:30",
+   "home": "CH Lloret Vila Esportiva",
+   "away": "CP Voltrega Movento Stern",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-2-7-12",
+   "round": 2,
+   "date": "2026-11-08",
+   "time": "12:30",
+   "home": "Hockey Club Liceo",
+   "away": "Barça",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-2-13-2",
+   "round": 2,
+   "date": "2026-11-08",
+   "time": "18:00",
+   "home": "Igualada Rigat HC",
+   "away": "SHUM Frit Ravich",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-3-3-13",
+   "round": 3,
+   "date": "2026-11-14",
+   "time": "19:00",
+   "home": "Adiss Hockey Rivas",
+   "away": "Igualada Rigat HC",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-3-2-7",
+   "round": 3,
+   "date": "2026-11-14",
+   "time": "20:00",
+   "home": "SHUM Frit Ravich",
+   "away": "Hockey Club Liceo",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-3-6-9",
+   "round": 3,
+   "date": "2026-11-14",
+   "time": "20:00",
+   "home": "CH Caldes Recam Làser",
+   "away": "Aitex Pas Alcoi",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-3-0-4",
+   "round": 3,
+   "date": "2026-11-14",
+   "time": "21:00",
+   "home": "Reus Deportiu Brasilia",
+   "away": "CE Noia Freixenet",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-3-12-11",
+   "round": 3,
+   "date": "2026-11-18",
+   "time": "20:00",
+   "home": "Barça",
+   "away": "Ametller Origen CP Vilafranca",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-3-10-5",
+   "round": 3,
+   "date": "2026-11-18",
+   "time": "20:30",
+   "home": "Pons Lleida",
+   "away": "CH Lloret Vila Esportiva",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-3-8-1",
+   "round": 3,
+   "date": "2026-11-18",
+   "time": "21:00",
+   "home": "CP Voltrega Movento Stern",
+   "away": "Calafell la Menorquina",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-4-7-3",
+   "round": 4,
+   "date": "2026-11-21",
+   "time": "17:00",
+   "home": "Hockey Club Liceo",
+   "away": "Adiss Hockey Rivas",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-4-9-12",
+   "round": 4,
+   "date": "2026-11-21",
+   "time": "19:30",
+   "home": "Aitex Pas Alcoi",
+   "away": "Barça",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-4-1-10",
+   "round": 4,
+   "date": "2026-11-21",
+   "time": "19:30",
+   "home": "Calafell la Menorquina",
+   "away": "Pons Lleida",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-4-4-8",
+   "round": 4,
+   "date": "2026-11-21",
+   "time": "19:30",
+   "home": "CE Noia Freixenet",
+   "away": "CP Voltrega Movento Stern",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-4-11-2",
+   "round": 4,
+   "date": "2026-11-21",
+   "time": "20:00",
+   "home": "Ametller Origen CP Vilafranca",
+   "away": "SHUM Frit Ravich",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-4-5-6",
+   "round": 4,
+   "date": "2026-11-21",
+   "time": "20:30",
+   "home": "CH Lloret Vila Esportiva",
+   "away": "CH Caldes Recam Làser",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-4-13-0",
+   "round": 4,
+   "date": "2026-11-22",
+   "time": "18:00",
+   "home": "Igualada Rigat HC",
+   "away": "Reus Deportiu Brasilia",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-5-3-11",
+   "round": 5,
+   "date": "2026-11-28",
+   "time": "19:00",
+   "home": "Adiss Hockey Rivas",
+   "away": "Ametller Origen CP Vilafranca",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-5-2-9",
+   "round": 5,
+   "date": "2026-11-28",
+   "time": "20:00",
+   "home": "SHUM Frit Ravich",
+   "away": "Aitex Pas Alcoi",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-5-10-4",
+   "round": 5,
+   "date": "2026-11-28",
+   "time": "20:00",
+   "home": "Pons Lleida",
+   "away": "CE Noia Freixenet",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-5-0-8",
+   "round": 5,
+   "date": "2026-11-28",
+   "time": "21:00",
+   "home": "Reus Deportiu Brasilia",
+   "away": "CP Voltrega Movento Stern",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-5-12-5",
+   "round": 5,
+   "date": "2026-11-29",
+   "time": "12:00",
+   "home": "Barça",
+   "away": "CH Lloret Vila Esportiva",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-5-6-1",
+   "round": 5,
+   "date": "2026-11-29",
+   "time": "12:00",
+   "home": "CH Caldes Recam Làser",
+   "away": "Calafell la Menorquina",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-5-13-7",
+   "round": 5,
+   "date": "2026-11-29",
+   "time": "18:00",
+   "home": "Igualada Rigat HC",
+   "away": "Hockey Club Liceo",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-6-1-12",
+   "round": 6,
+   "date": "2026-12-02",
+   "time": "20:00",
+   "home": "Calafell la Menorquina",
+   "away": "Barça",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-6-7-0",
+   "round": 6,
+   "date": "2026-12-02",
+   "time": "20:30",
+   "home": "Hockey Club Liceo",
+   "away": "Reus Deportiu Brasilia",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-6-11-13",
+   "round": 6,
+   "date": "2026-12-02",
+   "time": "21:00",
+   "home": "Ametller Origen CP Vilafranca",
+   "away": "Igualada Rigat HC",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-6-9-3",
+   "round": 6,
+   "date": "2026-12-02",
+   "time": "21:00",
+   "home": "Aitex Pas Alcoi",
+   "away": "Adiss Hockey Rivas",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-6-5-2",
+   "round": 6,
+   "date": "2026-12-02",
+   "time": "21:00",
+   "home": "CH Lloret Vila Esportiva",
+   "away": "SHUM Frit Ravich",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-6-4-6",
+   "round": 6,
+   "date": "2026-12-02",
+   "time": "21:00",
+   "home": "CE Noia Freixenet",
+   "away": "CH Caldes Recam Làser",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-6-8-10",
+   "round": 6,
+   "date": "2026-12-02",
+   "time": "21:00",
+   "home": "CP Voltrega Movento Stern",
+   "away": "Pons Lleida",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-7-12-4",
+   "round": 7,
+   "date": "2026-12-05",
+   "time": "18:00",
+   "home": "Barça",
+   "away": "CE Noia Freixenet",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-7-7-11",
+   "round": 7,
+   "date": "2026-12-05",
+   "time": "19:00",
+   "home": "Hockey Club Liceo",
+   "away": "Ametller Origen CP Vilafranca",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-7-3-5",
+   "round": 7,
+   "date": "2026-12-05",
+   "time": "19:00",
+   "home": "Adiss Hockey Rivas",
+   "away": "CH Lloret Vila Esportiva",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-7-2-1",
+   "round": 7,
+   "date": "2026-12-05",
+   "time": "20:00",
+   "home": "SHUM Frit Ravich",
+   "away": "Calafell la Menorquina",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-7-6-8",
+   "round": 7,
+   "date": "2026-12-05",
+   "time": "20:00",
+   "home": "CH Caldes Recam Làser",
+   "away": "CP Voltrega Movento Stern",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-7-0-10",
+   "round": 7,
+   "date": "2026-12-05",
+   "time": "21:00",
+   "home": "Reus Deportiu Brasilia",
+   "away": "Pons Lleida",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-7-13-9",
+   "round": 7,
+   "date": "2026-12-06",
+   "time": "18:00",
+   "home": "Igualada Rigat HC",
+   "away": "Aitex Pas Alcoi",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-8-5-13",
+   "round": 8,
+   "date": "2026-12-13",
+   "time": "12:30",
+   "home": "CH Lloret Vila Esportiva",
+   "away": "Igualada Rigat HC",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-8-1-3",
+   "round": 8,
+   "date": "2026-12-13",
+   "time": "16:00",
+   "home": "Calafell la Menorquina",
+   "away": "Adiss Hockey Rivas",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-8-10-6",
+   "round": 8,
+   "date": "2026-12-16",
+   "time": "20:30",
+   "home": "Pons Lleida",
+   "away": "CH Caldes Recam Làser",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-8-11-0",
+   "round": 8,
+   "date": "2026-12-16",
+   "time": "21:00",
+   "home": "Ametller Origen CP Vilafranca",
+   "away": "Reus Deportiu Brasilia",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-8-9-7",
+   "round": 8,
+   "date": "2026-12-16",
+   "time": "21:00",
+   "home": "Aitex Pas Alcoi",
+   "away": "Hockey Club Liceo",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-8-4-2",
+   "round": 8,
+   "date": "2026-12-16",
+   "time": "21:00",
+   "home": "CE Noia Freixenet",
+   "away": "SHUM Frit Ravich",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-8-8-12",
+   "round": 8,
+   "date": "2026-12-16",
+   "time": "21:00",
+   "home": "CP Voltrega Movento Stern",
+   "away": "Barça",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-9-12-10",
+   "round": 9,
+   "date": "2026-12-19",
+   "time": "18:00",
+   "home": "Barça",
+   "away": "Pons Lleida",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-9-7-5",
+   "round": 9,
+   "date": "2026-12-19",
+   "time": "19:00",
+   "home": "Hockey Club Liceo",
+   "away": "CH Lloret Vila Esportiva",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-9-3-4",
+   "round": 9,
+   "date": "2026-12-19",
+   "time": "19:00",
+   "home": "Adiss Hockey Rivas",
+   "away": "CE Noia Freixenet",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-9-11-9",
+   "round": 9,
+   "date": "2026-12-19",
+   "time": "20:00",
+   "home": "Ametller Origen CP Vilafranca",
+   "away": "Aitex Pas Alcoi",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-9-2-8",
+   "round": 9,
+   "date": "2026-12-19",
+   "time": "20:00",
+   "home": "SHUM Frit Ravich",
+   "away": "CP Voltrega Movento Stern",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-9-0-6",
+   "round": 9,
+   "date": "2026-12-19",
+   "time": "21:00",
+   "home": "Reus Deportiu Brasilia",
+   "away": "CH Caldes Recam Làser",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-9-13-1",
+   "round": 9,
+   "date": "2026-12-20",
+   "time": "18:00",
+   "home": "Igualada Rigat HC",
+   "away": "Calafell la Menorquina",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-10-1-7",
+   "round": 10,
+   "date": "2026-12-22",
+   "time": "20:00",
+   "home": "Calafell la Menorquina",
+   "away": "Hockey Club Liceo",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-10-10-2",
+   "round": 10,
+   "date": "2026-12-22",
+   "time": "20:30",
+   "home": "Pons Lleida",
+   "away": "SHUM Frit Ravich",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-10-9-0",
+   "round": 10,
+   "date": "2026-12-22",
+   "time": "21:00",
+   "home": "Aitex Pas Alcoi",
+   "away": "Reus Deportiu Brasilia",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-10-5-11",
+   "round": 10,
+   "date": "2026-12-22",
+   "time": "21:00",
+   "home": "CH Lloret Vila Esportiva",
+   "away": "Ametller Origen CP Vilafranca",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-10-4-13",
+   "round": 10,
+   "date": "2026-12-22",
+   "time": "21:00",
+   "home": "CE Noia Freixenet",
+   "away": "Igualada Rigat HC",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-10-8-3",
+   "round": 10,
+   "date": "2026-12-22",
+   "time": "21:00",
+   "home": "CP Voltrega Movento Stern",
+   "away": "Adiss Hockey Rivas",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-10-6-12",
+   "round": 10,
+   "date": "2026-12-22",
+   "time": "21:00",
+   "home": "CH Caldes Recam Làser",
+   "away": "Barça",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-11-7-4",
+   "round": 11,
+   "date": "2027-01-03",
+   "time": "12:00",
+   "home": "Hockey Club Liceo",
+   "away": "CE Noia Freixenet",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-11-9-5",
+   "round": 11,
+   "date": "2027-01-03",
+   "time": "12:30",
+   "home": "Aitex Pas Alcoi",
+   "away": "CH Lloret Vila Esportiva",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-11-2-6",
+   "round": 11,
+   "date": "2027-01-03",
+   "time": "12:30",
+   "home": "SHUM Frit Ravich",
+   "away": "CH Caldes Recam Làser",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-11-0-12",
+   "round": 11,
+   "date": "2027-01-03",
+   "time": "12:30",
+   "home": "Reus Deportiu Brasilia",
+   "away": "Barça",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-11-11-1",
+   "round": 11,
+   "date": "2027-01-03",
+   "time": "17:00",
+   "home": "Ametller Origen CP Vilafranca",
+   "away": "Calafell la Menorquina",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-11-3-10",
+   "round": 11,
+   "date": "2027-01-03",
+   "time": "17:00",
+   "home": "Adiss Hockey Rivas",
+   "away": "Pons Lleida",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-11-13-8",
+   "round": 11,
+   "date": "2027-01-03",
+   "time": "18:00",
+   "home": "Igualada Rigat HC",
+   "away": "CP Voltrega Movento Stern",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-12-4-11",
+   "round": 12,
+   "date": "2027-01-09",
+   "time": "19:30",
+   "home": "CE Noia Freixenet",
+   "away": "Ametller Origen CP Vilafranca",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-12-6-3",
+   "round": 12,
+   "date": "2027-01-09",
+   "time": "20:00",
+   "home": "CH Caldes Recam Làser",
+   "away": "Adiss Hockey Rivas",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-12-0-5",
+   "round": 12,
+   "date": "2027-01-09",
+   "time": "21:00",
+   "home": "Reus Deportiu Brasilia",
+   "away": "CH Lloret Vila Esportiva",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-12-10-13",
+   "round": 12,
+   "date": "2027-01-10",
+   "time": "12:00",
+   "home": "Pons Lleida",
+   "away": "Igualada Rigat HC",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-12-12-2",
+   "round": 12,
+   "date": "2027-01-10",
+   "time": "12:00",
+   "home": "Barça",
+   "away": "SHUM Frit Ravich",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-12-1-9",
+   "round": 12,
+   "date": "2027-01-10",
+   "time": "12:30",
+   "home": "Calafell la Menorquina",
+   "away": "Aitex Pas Alcoi",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-12-8-7",
+   "round": 12,
+   "date": "2027-01-10",
+   "time": "12:30",
+   "home": "CP Voltrega Movento Stern",
+   "away": "Hockey Club Liceo",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-13-5-1",
+   "round": 13,
+   "date": "",
+   "time": "",
+   "home": "CH Lloret Vila Esportiva",
+   "away": "Calafell la Menorquina",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-13-9-4",
+   "round": 13,
+   "date": "",
+   "time": "",
+   "home": "Aitex Pas Alcoi",
+   "away": "CE Noia Freixenet",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-13-11-8",
+   "round": 13,
+   "date": "",
+   "time": "",
+   "home": "Ametller Origen CP Vilafranca",
+   "away": "CP Voltrega Movento Stern",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-13-7-10",
+   "round": 13,
+   "date": "",
+   "time": "",
+   "home": "Hockey Club Liceo",
+   "away": "Pons Lleida",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-13-13-6",
+   "round": 13,
+   "date": "",
+   "time": "",
+   "home": "Igualada Rigat HC",
+   "away": "CH Caldes Recam Làser",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-13-3-12",
+   "round": 13,
+   "date": "",
+   "time": "",
+   "home": "Adiss Hockey Rivas",
+   "away": "Barça",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-13-2-0",
+   "round": 13,
+   "date": "",
+   "time": "",
+   "home": "SHUM Frit Ravich",
+   "away": "Reus Deportiu Brasilia",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-14-3-2",
+   "round": 14,
+   "date": "2027-01-23",
+   "time": "19:00",
+   "home": "Adiss Hockey Rivas",
+   "away": "SHUM Frit Ravich",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-14-7-6",
+   "round": 14,
+   "date": "2027-01-24",
+   "time": "12:00",
+   "home": "Hockey Club Liceo",
+   "away": "CH Caldes Recam Làser",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-14-13-12",
+   "round": 14,
+   "date": "2027-01-24",
+   "time": "18:00",
+   "home": "Igualada Rigat HC",
+   "away": "Barça",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-14-1-0",
+   "round": 14,
+   "date": "2027-01-27",
+   "time": "20:00",
+   "home": "Calafell la Menorquina",
+   "away": "Reus Deportiu Brasilia",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-14-11-10",
+   "round": 14,
+   "date": "2027-01-27",
+   "time": "21:00",
+   "home": "Ametller Origen CP Vilafranca",
+   "away": "Pons Lleida",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-14-9-8",
+   "round": 14,
+   "date": "2027-01-27",
+   "time": "21:00",
+   "home": "Aitex Pas Alcoi",
+   "away": "CP Voltrega Movento Stern",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-14-5-4",
+   "round": 14,
+   "date": "2027-01-27",
+   "time": "21:00",
+   "home": "CH Lloret Vila Esportiva",
+   "away": "CE Noia Freixenet",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-15-12-7",
+   "round": 15,
+   "date": "2027-01-30",
+   "time": "18:00",
+   "home": "Barça",
+   "away": "Hockey Club Liceo",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-15-4-1",
+   "round": 15,
+   "date": "2027-01-30",
+   "time": "19:30",
+   "home": "CE Noia Freixenet",
+   "away": "Calafell la Menorquina",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-15-2-13",
+   "round": 15,
+   "date": "2027-01-30",
+   "time": "20:00",
+   "home": "SHUM Frit Ravich",
+   "away": "Igualada Rigat HC",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-15-6-11",
+   "round": 15,
+   "date": "2027-01-30",
+   "time": "20:00",
+   "home": "CH Caldes Recam Làser",
+   "away": "Ametller Origen CP Vilafranca",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-15-8-5",
+   "round": 15,
+   "date": "2027-01-30",
+   "time": "20:00",
+   "home": "CP Voltrega Movento Stern",
+   "away": "CH Lloret Vila Esportiva",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-15-0-3",
+   "round": 15,
+   "date": "2027-01-30",
+   "time": "21:00",
+   "home": "Reus Deportiu Brasilia",
+   "away": "Adiss Hockey Rivas",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-15-10-9",
+   "round": 15,
+   "date": "2027-01-31",
+   "time": "12:00",
+   "home": "Pons Lleida",
+   "away": "Aitex Pas Alcoi",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-16-1-8",
+   "round": 16,
+   "date": "2027-02-03",
+   "time": "20:00",
+   "home": "Calafell la Menorquina",
+   "away": "CP Voltrega Movento Stern",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-16-13-3",
+   "round": 16,
+   "date": "2027-02-03",
+   "time": "20:30",
+   "home": "Igualada Rigat HC",
+   "away": "Adiss Hockey Rivas",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-16-7-2",
+   "round": 16,
+   "date": "2027-02-03",
+   "time": "20:30",
+   "home": "Hockey Club Liceo",
+   "away": "SHUM Frit Ravich",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-16-11-12",
+   "round": 16,
+   "date": "2027-02-03",
+   "time": "21:00",
+   "home": "Ametller Origen CP Vilafranca",
+   "away": "Barça",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-16-9-6",
+   "round": 16,
+   "date": "2027-02-03",
+   "time": "21:00",
+   "home": "Aitex Pas Alcoi",
+   "away": "CH Caldes Recam Làser",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-16-5-10",
+   "round": 16,
+   "date": "2027-02-03",
+   "time": "21:00",
+   "home": "CH Lloret Vila Esportiva",
+   "away": "Pons Lleida",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-16-4-0",
+   "round": 16,
+   "date": "2027-02-03",
+   "time": "21:00",
+   "home": "CE Noia Freixenet",
+   "away": "Reus Deportiu Brasilia",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-17-3-7",
+   "round": 17,
+   "date": "2027-02-06",
+   "time": "13:00",
+   "home": "Adiss Hockey Rivas",
+   "away": "Hockey Club Liceo",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-17-12-9",
+   "round": 17,
+   "date": "2027-02-06",
+   "time": "18:00",
+   "home": "Barça",
+   "away": "Aitex Pas Alcoi",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-17-2-11",
+   "round": 17,
+   "date": "2027-02-06",
+   "time": "20:00",
+   "home": "SHUM Frit Ravich",
+   "away": "Ametller Origen CP Vilafranca",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-17-6-5",
+   "round": 17,
+   "date": "2027-02-06",
+   "time": "20:00",
+   "home": "CH Caldes Recam Làser",
+   "away": "CH Lloret Vila Esportiva",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-17-8-4",
+   "round": 17,
+   "date": "2027-02-06",
+   "time": "20:00",
+   "home": "CP Voltrega Movento Stern",
+   "away": "CE Noia Freixenet",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-17-0-13",
+   "round": 17,
+   "date": "2027-02-06",
+   "time": "21:00",
+   "home": "Reus Deportiu Brasilia",
+   "away": "Igualada Rigat HC",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-17-10-1",
+   "round": 17,
+   "date": "2027-02-07",
+   "time": "12:00",
+   "home": "Pons Lleida",
+   "away": "Calafell la Menorquina",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-18-9-2",
+   "round": 18,
+   "date": "2027-02-13",
+   "time": "19:30",
+   "home": "Aitex Pas Alcoi",
+   "away": "SHUM Frit Ravich",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-18-4-10",
+   "round": 18,
+   "date": "2027-02-13",
+   "time": "19:30",
+   "home": "CE Noia Freixenet",
+   "away": "Pons Lleida",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-18-8-0",
+   "round": 18,
+   "date": "2027-02-13",
+   "time": "20:00",
+   "home": "CP Voltrega Movento Stern",
+   "away": "Reus Deportiu Brasilia",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-18-11-3",
+   "round": 18,
+   "date": "2027-02-13",
+   "time": "20:00",
+   "home": "Ametller Origen CP Vilafranca",
+   "away": "Adiss Hockey Rivas",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-18-7-13",
+   "round": 18,
+   "date": "2027-02-14",
+   "time": "12:00",
+   "home": "Hockey Club Liceo",
+   "away": "Igualada Rigat HC",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-18-5-12",
+   "round": 18,
+   "date": "2027-02-14",
+   "time": "12:30",
+   "home": "CH Lloret Vila Esportiva",
+   "away": "Barça",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-18-1-6",
+   "round": 18,
+   "date": "2027-02-14",
+   "time": "12:30",
+   "home": "Calafell la Menorquina",
+   "away": "CH Caldes Recam Làser",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-19-12-1",
+   "round": 19,
+   "date": "2027-02-20",
+   "time": "18:00",
+   "home": "Barça",
+   "away": "Calafell la Menorquina",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-19-3-9",
+   "round": 19,
+   "date": "2027-02-20",
+   "time": "19:00",
+   "home": "Adiss Hockey Rivas",
+   "away": "Aitex Pas Alcoi",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-19-2-5",
+   "round": 19,
+   "date": "2027-02-20",
+   "time": "20:00",
+   "home": "SHUM Frit Ravich",
+   "away": "CH Lloret Vila Esportiva",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-19-6-4",
+   "round": 19,
+   "date": "2027-02-20",
+   "time": "20:00",
+   "home": "CH Caldes Recam Làser",
+   "away": "CE Noia Freixenet",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-19-0-7",
+   "round": 19,
+   "date": "2027-02-20",
+   "time": "21:00",
+   "home": "Reus Deportiu Brasilia",
+   "away": "Hockey Club Liceo",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-19-10-8",
+   "round": 19,
+   "date": "2027-02-21",
+   "time": "12:00",
+   "home": "Pons Lleida",
+   "away": "CP Voltrega Movento Stern",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-19-13-11",
+   "round": 19,
+   "date": "2027-02-21",
+   "time": "18:00",
+   "home": "Igualada Rigat HC",
+   "away": "Ametller Origen CP Vilafranca",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-20-8-6",
+   "round": 20,
+   "date": "2027-02-27",
+   "time": "20:00",
+   "home": "CP Voltrega Movento Stern",
+   "away": "CH Caldes Recam Làser",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-20-5-3",
+   "round": 20,
+   "date": "2027-02-27",
+   "time": "20:30",
+   "home": "CH Lloret Vila Esportiva",
+   "away": "Adiss Hockey Rivas",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-20-10-0",
+   "round": 20,
+   "date": "2027-02-28",
+   "time": "12:00",
+   "home": "Pons Lleida",
+   "away": "Reus Deportiu Brasilia",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-20-9-13",
+   "round": 20,
+   "date": "2027-02-28",
+   "time": "12:30",
+   "home": "Aitex Pas Alcoi",
+   "away": "Igualada Rigat HC",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-20-1-2",
+   "round": 20,
+   "date": "2027-02-28",
+   "time": "12:30",
+   "home": "Calafell la Menorquina",
+   "away": "SHUM Frit Ravich",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-20-4-12",
+   "round": 20,
+   "date": "2027-02-28",
+   "time": "12:30",
+   "home": "CE Noia Freixenet",
+   "away": "Barça",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-20-11-7",
+   "round": 20,
+   "date": "2027-02-28",
+   "time": "17:00",
+   "home": "Ametller Origen CP Vilafranca",
+   "away": "Hockey Club Liceo",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-21-12-8",
+   "round": 21,
+   "date": "2027-03-13",
+   "time": "18:00",
+   "home": "Barça",
+   "away": "CP Voltrega Movento Stern",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-21-7-9",
+   "round": 21,
+   "date": "2027-03-13",
+   "time": "19:00",
+   "home": "Hockey Club Liceo",
+   "away": "Aitex Pas Alcoi",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-21-3-1",
+   "round": 21,
+   "date": "2027-03-13",
+   "time": "19:00",
+   "home": "Adiss Hockey Rivas",
+   "away": "Calafell la Menorquina",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-21-2-4",
+   "round": 21,
+   "date": "2027-03-13",
+   "time": "20:00",
+   "home": "SHUM Frit Ravich",
+   "away": "CE Noia Freixenet",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-21-6-10",
+   "round": 21,
+   "date": "2027-03-13",
+   "time": "20:00",
+   "home": "CH Caldes Recam Làser",
+   "away": "Pons Lleida",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-21-0-11",
+   "round": 21,
+   "date": "2027-03-13",
+   "time": "21:00",
+   "home": "Reus Deportiu Brasilia",
+   "away": "Ametller Origen CP Vilafranca",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-21-13-5",
+   "round": 21,
+   "date": "2027-03-14",
+   "time": "18:00",
+   "home": "Igualada Rigat HC",
+   "away": "CH Lloret Vila Esportiva",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-22-9-11",
+   "round": 22,
+   "date": "2027-04-03",
+   "time": "19:30",
+   "home": "Aitex Pas Alcoi",
+   "away": "Ametller Origen CP Vilafranca",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-22-1-13",
+   "round": 22,
+   "date": "2027-04-03",
+   "time": "19:30",
+   "home": "Calafell la Menorquina",
+   "away": "Igualada Rigat HC",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-22-4-3",
+   "round": 22,
+   "date": "2027-04-03",
+   "time": "19:30",
+   "home": "CE Noia Freixenet",
+   "away": "Adiss Hockey Rivas",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-22-8-2",
+   "round": 22,
+   "date": "2027-04-03",
+   "time": "20:00",
+   "home": "CP Voltrega Movento Stern",
+   "away": "SHUM Frit Ravich",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-22-6-0",
+   "round": 22,
+   "date": "2027-04-03",
+   "time": "20:00",
+   "home": "CH Caldes Recam Làser",
+   "away": "Reus Deportiu Brasilia",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-22-5-7",
+   "round": 22,
+   "date": "2027-04-03",
+   "time": "20:30",
+   "home": "CH Lloret Vila Esportiva",
+   "away": "Hockey Club Liceo",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-22-10-12",
+   "round": 22,
+   "date": "2027-04-04",
+   "time": "12:00",
+   "home": "Pons Lleida",
+   "away": "Barça",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-23-12-6",
+   "round": 23,
+   "date": "2027-04-10",
+   "time": "18:00",
+   "home": "Barça",
+   "away": "CH Caldes Recam Làser",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-23-7-1",
+   "round": 23,
+   "date": "2027-04-10",
+   "time": "19:00",
+   "home": "Hockey Club Liceo",
+   "away": "Calafell la Menorquina",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-23-3-8",
+   "round": 23,
+   "date": "2027-04-10",
+   "time": "19:00",
+   "home": "Adiss Hockey Rivas",
+   "away": "CP Voltrega Movento Stern",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-23-11-5",
+   "round": 23,
+   "date": "2027-04-10",
+   "time": "20:00",
+   "home": "Ametller Origen CP Vilafranca",
+   "away": "CH Lloret Vila Esportiva",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-23-2-10",
+   "round": 23,
+   "date": "2027-04-10",
+   "time": "20:00",
+   "home": "SHUM Frit Ravich",
+   "away": "Pons Lleida",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-23-0-9",
+   "round": 23,
+   "date": "2027-04-10",
+   "time": "21:00",
+   "home": "Reus Deportiu Brasilia",
+   "away": "Aitex Pas Alcoi",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-23-13-4",
+   "round": 23,
+   "date": "2027-04-11",
+   "time": "18:00",
+   "home": "Igualada Rigat HC",
+   "away": "CE Noia Freixenet",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-24-1-11",
+   "round": 24,
+   "date": "2027-04-14",
+   "time": "20:00",
+   "home": "Calafell la Menorquina",
+   "away": "Ametller Origen CP Vilafranca",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-24-12-0",
+   "round": 24,
+   "date": "2027-04-14",
+   "time": "20:00",
+   "home": "Barça",
+   "away": "Reus Deportiu Brasilia",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-24-10-3",
+   "round": 24,
+   "date": "2027-04-14",
+   "time": "20:30",
+   "home": "Pons Lleida",
+   "away": "Adiss Hockey Rivas",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-24-5-9",
+   "round": 24,
+   "date": "2027-04-14",
+   "time": "21:00",
+   "home": "CH Lloret Vila Esportiva",
+   "away": "Aitex Pas Alcoi",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-24-4-7",
+   "round": 24,
+   "date": "2027-04-14",
+   "time": "21:00",
+   "home": "CE Noia Freixenet",
+   "away": "Hockey Club Liceo",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-24-8-13",
+   "round": 24,
+   "date": "2027-04-14",
+   "time": "21:00",
+   "home": "CP Voltrega Movento Stern",
+   "away": "Igualada Rigat HC",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-24-6-2",
+   "round": 24,
+   "date": "2027-04-14",
+   "time": "21:00",
+   "home": "CH Caldes Recam Làser",
+   "away": "SHUM Frit Ravich",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-25-5-0",
+   "round": 25,
+   "date": "",
+   "time": "",
+   "home": "CH Lloret Vila Esportiva",
+   "away": "Reus Deportiu Brasilia",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-25-9-1",
+   "round": 25,
+   "date": "",
+   "time": "",
+   "home": "Aitex Pas Alcoi",
+   "away": "Calafell la Menorquina",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-25-11-4",
+   "round": 25,
+   "date": "",
+   "time": "",
+   "home": "Ametller Origen CP Vilafranca",
+   "away": "CE Noia Freixenet",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-25-7-8",
+   "round": 25,
+   "date": "",
+   "time": "",
+   "home": "Hockey Club Liceo",
+   "away": "CP Voltrega Movento Stern",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-25-13-10",
+   "round": 25,
+   "date": "",
+   "time": "",
+   "home": "Igualada Rigat HC",
+   "away": "Pons Lleida",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-25-3-6",
+   "round": 25,
+   "date": "",
+   "time": "",
+   "home": "Adiss Hockey Rivas",
+   "away": "CH Caldes Recam Làser",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-25-2-12",
+   "round": 25,
+   "date": "",
+   "time": "",
+   "home": "SHUM Frit Ravich",
+   "away": "Barça",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-26-1-5",
+   "round": 26,
+   "date": "",
+   "time": "",
+   "home": "Calafell la Menorquina",
+   "away": "CH Lloret Vila Esportiva",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-26-4-9",
+   "round": 26,
+   "date": "",
+   "time": "",
+   "home": "CE Noia Freixenet",
+   "away": "Aitex Pas Alcoi",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-26-8-11",
+   "round": 26,
+   "date": "",
+   "time": "",
+   "home": "CP Voltrega Movento Stern",
+   "away": "Ametller Origen CP Vilafranca",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-26-10-7",
+   "round": 26,
+   "date": "",
+   "time": "",
+   "home": "Pons Lleida",
+   "away": "Hockey Club Liceo",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-26-6-13",
+   "round": 26,
+   "date": "",
+   "time": "",
+   "home": "CH Caldes Recam Làser",
+   "away": "Igualada Rigat HC",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-26-12-3",
+   "round": 26,
+   "date": "",
+   "time": "",
+   "home": "Barça",
+   "away": "Adiss Hockey Rivas",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-26-0-2",
+   "round": 26,
+   "date": "",
+   "time": "",
+   "home": "Reus Deportiu Brasilia",
+   "away": "SHUM Frit Ravich",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  }
+ ],
+ "teamCoaches": {},
+ "officialNames": {
+  "REUS DEPORTIU BRASILIA": "Reus Deportiu Brasilia",
+  "CALAFELL LA MENORQUINA": "Calafell la Menorquina",
+  "SHUM FRIT RAVICH": "SHUM Frit Ravich",
+  "ADISS HOCKEY RIVAS": "Adiss Hockey Rivas",
+  "CE NOIA FREIXENET": "CE Noia Freixenet",
+  "CH LLORET VILA ESPORTIVA": "CH Lloret Vila Esportiva",
+  "CH CALDES RECAM LÀSER": "CH Caldes Recam Làser",
+  "HOCKEY CLUB LICEO": "Hockey Club Liceo",
+  "CP VOLTREGA MOVENTO STERN": "CP Voltrega Movento Stern",
+  "AITEX PAS ALCOI": "Aitex Pas Alcoi",
+  "PONS LLEIDA": "Pons Lleida",
+  "AMETLLER ORIGEN CP VILAFRANCA": "Ametller Origen CP Vilafranca",
+  "BARÇA": "Barça",
+  "IGUALADA RIGAT HC": "Igualada Rigat HC"
+ }
+}

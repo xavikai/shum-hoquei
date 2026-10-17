@@ -32,18 +32,18 @@ export function parsePhases(doc){
 }
 
 // Partits d'un grup del calendari oficial, amb els noms oficials dels equips.
-export function parseCalendar(doc,phase){
+export function parseCalendar(doc,phase,allowUndated=false){
   const table=doc.querySelector('.content_fase_'+phase);
   if(!table)throw Error(`No s’ha trobat el grup ${phase} al calendari.`);
   const rows=[];
   for(const r of table.querySelectorAll('tr')){
     const c=[...r.querySelectorAll('td')].map(x=>clean(x.textContent));
-    if(c.length<12||!/^\d{2}\/\d{2}\/\d{4}$/.test(c[1]))continue;
+    if(c.length<12||(!allowUndated&&!/^\d{2}\/\d{2}\/\d{4}$/.test(c[1])))continue;
     const round=Number(c[4].match(/\d+/)?.[0]);
     if(!round)throw Error('Format de calendari desconegut: '+c.join(' | '));
     if(!c[6]||!c[8])continue; // equip que descansa aquesta jornada
     const [day,month,year]=c[1].split('/'),s=c[11].match(/^(\d+)\s*-\s*(\d+)$/);
-    rows.push({round,date:year==='0000'?'':`${year}-${month}-${day}`,time:/^\d{1,2}:\d{2}$/.test(c[2])?c[2]:'',home:c[6],away:c[8],score:s?[+s[1],+s[2]]:null,officialId:r.querySelector('[idp]')?.getAttribute('idp')||null});
+    rows.push({round,date:!year||year==='0000'?'':`${year}-${month}-${day}`,time:/^\d{1,2}:\d{2}$/.test(c[2])?c[2]:'',home:c[6],away:c[8],score:s?[+s[1],+s[2]]:null,officialId:r.querySelector('[idp]')?.getAttribute('idp')||null,...(allowUndated?{venue:c[3]}:{})});
   }
   return rows;
 }
@@ -89,7 +89,7 @@ function needsAct(old,row,now){
 // team: entrada de teams.json · data: dades anteriors (o null) · fetchDoc(file,params) → Document
 export async function updateTeam(team,data,fetchDoc,{calendar,now=Date.now(),log=()=>{},onProgress}={}){
   const doc=calendar||await fetchDoc(...calendarRequest(team.idc));
-  const rows=parseCalendar(doc,team.phase);
+  const rows=parseCalendar(doc,team.phase,team.provider==='rfep');
   const old=data?.matches||[];
   if(!rows.length)throw Error('El calendari del grup és buit.');
   if(old.length&&rows.length<old.length/2)throw Error(`El calendari té ${rows.length} partits i abans en tenia ${old.length}.`);
@@ -118,7 +118,7 @@ export async function updateTeam(team,data,fetchDoc,{calendar,now=Date.now(),log
   const next={
     league:`${team.label} · ${team.group}`,
     season:data?.season||team.season||'',
-    source:`https://www.hoqueipatins.fecapa.cat/league/${team.idc}`,
+    source:team.provider==='rfep'?`https://www.hockeypatines.fep.es/league/${team.idc}`:`https://www.hoqueipatins.fecapa.cat/league/${team.idc}`,
     updatedAt:data?.updatedAt||new Date(now).toISOString(),
     team:names[team.team],
     teams:order,
