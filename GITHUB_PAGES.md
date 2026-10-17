@@ -47,3 +47,6 @@ Configuració, una sola vegada:
 
 ## Partits de la setmana
 L’apartat `#setmana` agrupa els calendaris publicats dels 17 equips, de dilluns a diumenge en hora de Catalunya. Permet canviar de setmana i copiar, compartir o descarregar la quadrícula en PNG. La ubicació indica casa/fora i l’equip local, perquè el calendari no incorpora el pavelló. Si falten dades d’un equip es mostra l’avís també a la imatge; un equip sense partit programat es llista a part.
+
+## Equips favorits
+La primera visita permet seleccionar diversos equips. La selecció es desa com a preferència local (`shum-favorites`); per defecte filtra el selector i els partits setmanals, inclosa la imatge que es copia o comparteix. Els botons de favorits permeten canviar d’equip directament. «Tots els equips» dona accés al club complet, «Només favorits» recupera el filtre i «Edita favorits» permet canviar-lo o eliminar la selecció. Els enllaços directes a altres equips continuen funcionant.
