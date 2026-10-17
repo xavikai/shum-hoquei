@@ -19,8 +19,8 @@ test('install button uses the browser prompt once and falls back to instructions
 });
 test('manifest launches at the website root rather than the asset folder',async()=>{
  const manifest=JSON.parse(await readFile(new URL('../public/ui/manifest.json',import.meta.url),'utf8'));
- const base='https://xavikai.github.io/shum-infantil-or/ui/manifest.json';
- assert.equal(new URL(manifest.start_url,base).href,'https://xavikai.github.io/shum-infantil-or/#inici');
- assert.equal(new URL(manifest.scope,base).pathname,'/shum-infantil-or/');
+ const base='https://xavikai.github.io/shum-hoquei/ui/manifest.json';
+ assert.equal(new URL(manifest.start_url,base).href,'https://xavikai.github.io/shum-hoquei/#inici');
+ assert.equal(new URL(manifest.scope,base).pathname,'/shum-hoquei/');
  for(const icon of manifest.icons){const data=await readFile(new URL('../public/ui/'+icon.src,import.meta.url));assert.equal(data.readUInt32BE(16),parseInt(icon.sizes));}
 });

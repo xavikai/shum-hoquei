@@ -16,7 +16,7 @@
 
 const CONFIG = {
   folderId: '180V5ENc5_UtoP1LSNmMiMRQFzfZtMI15', // HOQUEI PATINS / TEMPORADA 2627 / LLIGA_OR
-  repo: 'xavikai/shum-infantil-or',
+  repo: 'xavikai/shum-hoquei',
   branch: 'main',
   videosPath: 'public/ui/videos.json',
   dataPath: 'public/ui/data/infantil-or.json',
