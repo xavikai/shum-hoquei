@@ -1,0 +1,194 @@
+{
+ "season": "2026/27",
+ "default": "infantil-or",
+ "teams": [
+  {
+   "id": "lliga-catalana",
+   "label": "Lliga Catalana",
+   "section": "Sèniors",
+   "idc": "4858",
+   "phase": "4859",
+   "team": "SHUM FRIT RAVICH",
+   "playerGoals": true,
+   "file": "data/lliga-catalana.json",
+   "group": "Fase de grups"
+  },
+  {
+   "id": "primera-femenina",
+   "label": "Primera Catalana Femenina",
+   "section": "Sèniors",
+   "idc": "4778",
+   "phase": "4868",
+   "team": "SHUM SELVAFIL",
+   "playerGoals": true,
+   "file": "data/primera-femenina.json",
+   "group": "Grup A"
+  },
+  {
+   "id": "segona-femenina",
+   "label": "Segona Catalana Femenina",
+   "section": "Sèniors",
+   "idc": "4780",
+   "phase": "4953",
+   "team": "SHUM SELVAFIL",
+   "playerGoals": true,
+   "file": "data/segona-femenina.json",
+   "group": "Grup A"
+  },
+  {
+   "id": "segona-masculina",
+   "label": "Segona Catalana Masculina",
+   "section": "Sèniors",
+   "idc": "4779",
+   "phase": "4871",
+   "team": "SHUM ALEA",
+   "playerGoals": true,
+   "file": "data/segona-masculina.json",
+   "group": "Grup B"
+  },
+  {
+   "id": "tercera-masculina",
+   "label": "Tercera Catalana Masculina",
+   "section": "Sèniors",
+   "idc": "4781",
+   "phase": "4942",
+   "team": "SHUM ALEA",
+   "playerGoals": true,
+   "file": "data/tercera-masculina.json",
+   "group": "Grup D"
+  },
+  {
+   "id": "veterans",
+   "label": "Veterans Girona",
+   "section": "Sèniors",
+   "idc": "5062",
+   "phase": "5088",
+   "team": "SHUM FRIT RAVICH",
+   "playerGoals": true,
+   "file": "data/veterans.json",
+   "group": "Grup únic"
+  },
+  {
+   "id": "junior-or",
+   "label": "Júnior Or",
+   "section": "Base",
+   "idc": "4782",
+   "phase": "4902",
+   "team": "SHUM ALEA",
+   "playerGoals": true,
+   "file": "data/junior-or.json",
+   "group": "Grup 3"
+  },
+  {
+   "id": "juvenil-or",
+   "label": "Juvenil Or",
+   "section": "Base",
+   "idc": "4784",
+   "phase": "4907",
+   "team": "SHUM FRIT RAVICH",
+   "playerGoals": true,
+   "file": "data/juvenil-or.json",
+   "group": "Grup 1"
+  },
+  {
+   "id": "infantil-or",
+   "label": "Infantil Or",
+   "section": "Base",
+   "idc": "4786",
+   "phase": "4924",
+   "team": "SHUM FRIT RAVICH",
+   "playerGoals": true,
+   "file": "data/infantil-or.json",
+   "legacyIds": true,
+   "group": "Grup 8"
+  },
+  {
+   "id": "alevi-plata-b",
+   "label": "Aleví Plata · Frit Ravich B",
+   "section": "Base",
+   "idc": "4790",
+   "phase": "4878",
+   "team": "SHUM FRIT RAVICH B",
+   "playerGoals": true,
+   "file": "data/alevi-plata-b.json",
+   "group": "Grup 1"
+  },
+  {
+   "id": "alevi-plata-a",
+   "label": "Aleví Plata · Mugadas A",
+   "section": "Base",
+   "idc": "4790",
+   "phase": "4883",
+   "team": "SHUM MUGADAS A",
+   "playerGoals": true,
+   "file": "data/alevi-plata-a.json",
+   "group": "Grup 6"
+  },
+  {
+   "id": "benjami-or",
+   "label": "Benjamí Or · Megoca A",
+   "section": "Escola",
+   "idc": "4822",
+   "phase": "5061",
+   "team": "SHUM MEGOCA A",
+   "playerGoals": false,
+   "file": "data/benjami-or.json",
+   "group": "Grup únic"
+  },
+  {
+   "id": "benjami-plata-c",
+   "label": "Benjamí Plata · Metall·lògic C",
+   "section": "Escola",
+   "idc": "4823",
+   "phase": "5049",
+   "team": "SHUM METALL·LÒGIC C",
+   "playerGoals": false,
+   "file": "data/benjami-plata-c.json",
+   "group": "Grup A"
+  },
+  {
+   "id": "benjami-plata-b",
+   "label": "Benjamí Plata · Selvafil B",
+   "section": "Escola",
+   "idc": "4823",
+   "phase": "5050",
+   "team": "SHUM SELVAFIL B",
+   "playerGoals": false,
+   "file": "data/benjami-plata-b.json",
+   "group": "Grup B"
+  },
+  {
+   "id": "prebenjami-or",
+   "label": "Prebenjamí Or · Metall·lògic A",
+   "section": "Escola",
+   "idc": "4824",
+   "phase": "5059",
+   "team": "SHUM METALL·LÒGIC A",
+   "playerGoals": false,
+   "file": "data/prebenjami-or.json",
+   "group": "Grup únic"
+  },
+  {
+   "id": "prebenjami-plata-b",
+   "label": "Prebenjamí Plata · Pinturas Roman B",
+   "section": "Escola",
+   "idc": "4825",
+   "phase": "5052",
+   "team": "SHUM PINTURAS ROMAN B",
+   "playerGoals": false,
+   "file": "data/prebenjami-plata-b.json",
+   "group": "Grup únic"
+  },
+  {
+   "id": "prebenjami-plata-c",
+   "label": "Prebenjamí Plata · Grues Viñolas C",
+   "section": "Escola",
+   "idc": "4825",
+   "phase": "5052",
+   "team": "SHUM GRUES VIÑOLAS C",
+   "playerGoals": false,
+   "file": "data/prebenjami-plata-c.json",
+   "group": "Grup únic"
+  }
+ ]
+}

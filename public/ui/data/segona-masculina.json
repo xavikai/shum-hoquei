@@ -1,0 +1,4124 @@
+{
+ "league": "Segona Catalana Masculina · Grup B",
+ "season": "2026/27",
+ "source": "https://www.hoqueipatins.fecapa.cat/league/4779",
+ "updatedAt": "2026-10-17T17:00:00.000Z",
+ "team": "SHUM Alea",
+ "teams": [
+  "CHP Martorell",
+  "CP Vilanova",
+  "Llista-Bell-Lloc",
+  "Electro AD CP Masquefa",
+  "CH Caldes Recam Làser",
+  "Oxford HC Salt",
+  "Club Hoquei Arenys de Mar",
+  "Generali HC Palau",
+  "CHP Mcdonald'S Amposta",
+  "Hoquei Patins Tona",
+  "CH Mataró",
+  "Hoquei Claret",
+  "SHUM Alea"
+ ],
+ "matches": [
+  {
+   "id": "segona-masculina-1-0-1",
+   "round": 1,
+   "date": "2026-09-25",
+   "time": "20:00",
+   "home": "CHP Martorell",
+   "away": "CP Vilanova",
+   "score": [
+    2,
+    3
+   ],
+   "officialId": "147967",
+   "rosters": {
+    "home": [
+     {
+      "number": 4,
+      "name": "FARRÉ FERNÁNDEZ GUILLEM",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 5,
+      "name": "RIUS PECANINS BIEL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 6,
+      "name": "RIUS PECANINS POL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 7,
+      "name": "BONELL PIÑOL ARNAU",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 9,
+      "name": "BALLA SILVA MARTIN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 11,
+      "name": "SANTACANA CREIXELL ORIOL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 23,
+      "name": "SOLER CODINA MARC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 44,
+      "name": "ZAPATER LOPEZ AITOR",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 8,
+      "name": "GÓMEZ ESTÉBANEZ PAU",
+      "goals": 0,
+      "keeper": true
+     },
+     {
+      "number": 90,
+      "name": "OLIVELLA MARTÍN JOAN",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 8,
+      "name": "GONZALVEZ CONTRERAS PAU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 13,
+      "name": "ARRONIZ SÁNCHEZ ASIER",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 20,
+      "name": "ROBLES JUEZ ARNAU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 22,
+      "name": "RAMIREZ HERNÁNDEZ SERGI",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 63,
+      "name": "RIGUAL ALVAREZ ROGER",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 70,
+      "name": "ARIAS PARERA MARTÍ",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 77,
+      "name": "RUIZ MORCILLO AXEL",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 23,
+      "name": "ROBLES JUEZ BIEL",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "segona-masculina-1-2-3",
+   "round": 1,
+   "date": "2026-09-25",
+   "time": "21:55",
+   "home": "Llista-Bell-Lloc",
+   "away": "Electro AD CP Masquefa",
+   "score": [
+    5,
+    1
+   ],
+   "officialId": "148057",
+   "rosters": {
+    "home": [
+     {
+      "number": 2,
+      "name": "ANDRES ROURE ANDREU",
+      "goals": 2,
+      "keeper": false
+     },
+     {
+      "number": 14,
+      "name": "BOSCH ZALDIVAR IKER",
+      "goals": 2,
+      "keeper": false
+     },
+     {
+      "number": 33,
+      "name": "CREUS SERÓ ALEX",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 53,
+      "name": "SEN-C BERTRAN CUSCÓ ORIOL",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 55,
+      "name": "JUV- FERNÀNDEZ BAUCELLS LEO",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 67,
+      "name": "BECERRA ABADIAS NIL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 74,
+      "name": "SEN-C CABESTANY ALONSO MARÇAL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 13,
+      "name": "SEN-C PRIETO MORILLO UNAI",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 6,
+      "name": "ESTELLER FODRINI JOAN PAU",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 7,
+      "name": "CLARAMUNT CASALS ARNAU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 8,
+      "name": "CARREÑO HERNANDEZ IAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 17,
+      "name": "PEREZ CANALS MARINO",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 22,
+      "name": "BORREGA RIUS ANGEL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 74,
+      "name": "BRAVO GINAS RIEL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 75,
+      "name": "DE LA FUENTE MORIST MARC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 99,
+      "name": "RIENDA FERNANDEZ PABLO",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 80,
+      "name": "AGUADO ALVAREZ MARCOS",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "segona-masculina-1-4-5",
+   "round": 1,
+   "date": "2026-09-25",
+   "time": "21:55",
+   "home": "CH Caldes Recam Làser",
+   "away": "Oxford HC Salt",
+   "score": [
+    5,
+    2
+   ],
+   "officialId": "147964",
+   "rosters": {
+    "home": [
+     {
+      "number": 3,
+      "name": "PUJADAS MURAL GERARD",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 8,
+      "name": "CLOFENT FRANCISCO MAGI",
+      "goals": 5,
+      "keeper": false
+     },
+     {
+      "number": 17,
+      "name": "SANCHEZ MUR MARC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 25,
+      "name": "PERICH CASTELLET ARNAU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 26,
+      "name": "ANGLARILL BENAVENT ERIC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 77,
+      "name": "CAPEL AMBRÒS MARC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 78,
+      "name": "LOPEZ VILANOVA GERARD",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 90,
+      "name": "LLEONART FUENTES BIEL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 1,
+      "name": "DE LA VIUDA ROVIRA POL",
+      "goals": 0,
+      "keeper": true
+     },
+     {
+      "number": 76,
+      "name": "SANCHEZ SILVA RAUL",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 7,
+      "name": "NAVARRO CASAS JORDI",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 9,
+      "name": "SITJA ASTOR NIL",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 13,
+      "name": "TABERNER MAS VICENÇ",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 14,
+      "name": "MADERA MEDINA IVAN RICARDO",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 19,
+      "name": "BARTOLI VILA GUILLEM",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 26,
+      "name": "VILA FUGUERAS PERE",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 96,
+      "name": "HOMS FIGUERAS MARTI",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "segona-masculina-1-6-7",
+   "round": 1,
+   "date": "2026-09-26",
+   "time": "18:30",
+   "home": "Club Hoquei Arenys de Mar",
+   "away": "Generali HC Palau",
+   "score": [
+    1,
+    1
+   ],
+   "officialId": "147969",
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-1-8-9",
+   "round": 1,
+   "date": "2026-09-26",
+   "time": "19:30",
+   "home": "CHP Mcdonald'S Amposta",
+   "away": "Hoquei Patins Tona",
+   "score": [
+    4,
+    4
+   ],
+   "officialId": "147965",
+   "rosters": {
+    "home": [
+     {
+      "number": 4,
+      "name": "SCOCOZZA DEANESSI AGUSTIN",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 7,
+      "name": "PONS SANCHO FERRAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 8,
+      "name": "ERILL NIALET MAX",
+      "goals": 2,
+      "keeper": false
+     },
+     {
+      "number": 11,
+      "name": "LABERNIA CORDOBA ADRIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 12,
+      "name": "BAYO LOPEZ PAU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 14,
+      "name": "PONS SANCHO JOSEP",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 15,
+      "name": "ESQUERRE RIUS JOAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 18,
+      "name": "ESTUDILLO RODRIGUEZ PAU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 1,
+      "name": "ALBA CUADROS JUAN PABLO",
+      "goals": 0,
+      "keeper": true
+     },
+     {
+      "number": 10,
+      "name": "BAYO LOPEZ MARC",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 6,
+      "name": "MATAVAQUES RODRIGUEZ ERNEST",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 7,
+      "name": "TAÑÀ PRATDESABA MARC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 8,
+      "name": "NESPLE TORREGUITART ANDREU",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 16,
+      "name": "POU SERRA GUILLEM",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 33,
+      "name": "OMS FONT BLAI",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 66,
+      "name": "QUINTANILLA JIMENEZ DAVID",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 72,
+      "name": "SOLER COSTA GENIS",
+      "goals": 2,
+      "keeper": false
+     },
+     {
+      "number": 32,
+      "name": "BOVE TEIXIDOR ADRIA",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "segona-masculina-1-10-11",
+   "round": 1,
+   "date": "2026-09-27",
+   "time": "18:45",
+   "home": "CH Mataró",
+   "away": "Hoquei Claret",
+   "score": [
+    1,
+    5
+   ],
+   "officialId": "147968",
+   "rosters": {
+    "home": [
+     {
+      "number": 0,
+      "name": "VILA ROMERO ROGER",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 6,
+      "name": "LORÉS COLL JORGE",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 7,
+      "name": "DOMINGO GIRALT MARTÍ",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 19,
+      "name": "PARENT VEDMEDEO SAMUEL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 22,
+      "name": "PÉREZ LOZANO JORGE",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 33,
+      "name": "BONFILL MARTINEZ MARÇAL",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 77,
+      "name": "CAPILLA CARRASCAL MARC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 38,
+      "name": "PEREZ LEON ALBERT",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 4,
+      "name": "BELTRAN BOZAL DAVID",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 12,
+      "name": "MULLERAT TOMAS GERARD",
+      "goals": 2,
+      "keeper": false
+     },
+     {
+      "number": 16,
+      "name": "INGLES LORENZO JAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 22,
+      "name": "MOLINER MOLINA JAN",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 30,
+      "name": "CAMPAS PAKELLI DAVID",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 49,
+      "name": "VIA-DUFRESNE FERNÁNDEZ HÈCTOR",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 75,
+      "name": "MIRO ALONSO JAUME",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 92,
+      "name": "MONSERGAS LÓPEZ ARNAU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 1,
+      "name": "MOLINER MOLINA BRUNO",
+      "goals": 0,
+      "keeper": true
+     },
+     {
+      "number": 44,
+      "name": "MOLINER MOLINA NICO",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "segona-masculina-2-7-10",
+   "round": 2,
+   "date": "2026-10-02",
+   "time": "21:55",
+   "home": "Generali HC Palau",
+   "away": "CH Mataró",
+   "score": [
+    8,
+    3
+   ],
+   "officialId": "147976",
+   "rosters": {
+    "home": [
+     {
+      "number": 8,
+      "name": "RIERA MIRO JORDI",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 48,
+      "name": "CAÑADO PORTELLA MARC",
+      "goals": 2,
+      "keeper": false
+     },
+     {
+      "number": 54,
+      "name": "ROCABRUNA BONET ROGER",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 66,
+      "name": "LLAURADO RAMONEDA EINAR",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 73,
+      "name": "SINGLA ESQUIROL POL",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 96,
+      "name": "COLOMER I GALLARDO GENÍS",
+      "goals": 3,
+      "keeper": false
+     },
+     {
+      "number": 97,
+      "name": "LOPEZ ACOSTA SERGIO MAURICIO",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 99,
+      "name": "SISTACH SOLER JORDI",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 5,
+      "name": "GALEANO NADAL BERNAT",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 6,
+      "name": "LORÉS COLL JORGE",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 7,
+      "name": "DOMINGO GIRALT MARTÍ",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 8,
+      "name": "PARDO RODRÍGUEZ MARC",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 23,
+      "name": "VILAMAJÓ MUÑOZ ORIOL",
+      "goals": 2,
+      "keeper": false
+     },
+     {
+      "number": 33,
+      "name": "BONFILL MARTINEZ MARÇAL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 77,
+      "name": "CAPILLA CARRASCAL MARC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 1,
+      "name": "SANZ PUIG PAU",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "segona-masculina-2-3-1",
+   "round": 2,
+   "date": "2026-10-02",
+   "time": "21:55",
+   "home": "Electro AD CP Masquefa",
+   "away": "CP Vilanova",
+   "score": [
+    6,
+    7
+   ],
+   "officialId": "148065",
+   "rosters": {
+    "home": [
+     {
+      "number": 6,
+      "name": "ESTELLER FODRINI JOAN PAU",
+      "goals": null,
+      "keeper": false
+     },
+     {
+      "number": 7,
+      "name": "CLARAMUNT CASALS ARNAU",
+      "goals": null,
+      "keeper": false
+     },
+     {
+      "number": 8,
+      "name": "CARREÑO HERNANDEZ IAN",
+      "goals": null,
+      "keeper": false
+     },
+     {
+      "number": 17,
+      "name": "PEREZ CANALS MARINO",
+      "goals": null,
+      "keeper": false
+     },
+     {
+      "number": 21,
+      "name": "SERNA SANZ DAVID",
+      "goals": null,
+      "keeper": false
+     },
+     {
+      "number": 22,
+      "name": "BORREGA RIUS ANGEL",
+      "goals": null,
+      "keeper": false
+     },
+     {
+      "number": 74,
+      "name": "BRAVO GINAS RIEL",
+      "goals": null,
+      "keeper": false
+     },
+     {
+      "number": 75,
+      "name": "DE LA FUENTE MORIST MARC",
+      "goals": null,
+      "keeper": false
+     },
+     {
+      "number": 80,
+      "name": "AGUADO ALVAREZ MARCOS",
+      "goals": null,
+      "keeper": true
+     },
+     {
+      "number": 4,
+      "name": "ÁLVAREZ FREIXAS ANTONIO",
+      "goals": null,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 7,
+      "name": "LEÓN MARTÍNEZ GUILLEM",
+      "goals": null,
+      "keeper": false
+     },
+     {
+      "number": 8,
+      "name": "GONZALVEZ CONTRERAS PAU",
+      "goals": null,
+      "keeper": false
+     },
+     {
+      "number": 20,
+      "name": "ROBLES JUEZ ARNAU",
+      "goals": null,
+      "keeper": false
+     },
+     {
+      "number": 22,
+      "name": "RAMIREZ HERNÁNDEZ SERGI",
+      "goals": null,
+      "keeper": false
+     },
+     {
+      "number": 63,
+      "name": "RIGUAL ALVAREZ ROGER",
+      "goals": null,
+      "keeper": false
+     },
+     {
+      "number": 70,
+      "name": "ARIAS PARERA MARTÍ",
+      "goals": null,
+      "keeper": false
+     },
+     {
+      "number": 77,
+      "name": "RUIZ MORCILLO AXEL",
+      "goals": null,
+      "keeper": false
+     },
+     {
+      "number": 23,
+      "name": "ROBLES JUEZ BIEL",
+      "goals": null,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "segona-masculina-2-6-12",
+   "round": 2,
+   "date": "2026-10-03",
+   "time": "19:00",
+   "home": "Club Hoquei Arenys de Mar",
+   "away": "SHUM Alea",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-2-11-0",
+   "round": 2,
+   "date": "2026-10-04",
+   "time": "19:00",
+   "home": "Hoquei Claret",
+   "away": "CHP Martorell",
+   "score": [
+    3,
+    1
+   ],
+   "officialId": "147975",
+   "rosters": {
+    "home": [
+     {
+      "number": 4,
+      "name": "BELTRAN BOZAL DAVID",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 12,
+      "name": "MULLERAT TOMAS GERARD",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 16,
+      "name": "INGLES LORENZO JAN",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 22,
+      "name": "MOLINER MOLINA JAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 30,
+      "name": "CAMPAS PAKELLI DAVID",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 49,
+      "name": "VIA-DUFRESNE FERNÁNDEZ HÈCTOR",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 75,
+      "name": "MIRO ALONSO JAUME",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 92,
+      "name": "MONSERGAS LÓPEZ ARNAU",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 1,
+      "name": "MOLINER MOLINA BRUNO",
+      "goals": 0,
+      "keeper": true
+     },
+     {
+      "number": 44,
+      "name": "MOLINER MOLINA NICO",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 4,
+      "name": "FARRÉ FERNÁNDEZ GUILLEM",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 6,
+      "name": "RIUS PECANINS POL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 7,
+      "name": "BONELL PIÑOL ARNAU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 9,
+      "name": "BALLA SILVA MARTIN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 11,
+      "name": "SANTACANA CREIXELL ORIOL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 16,
+      "name": "CADENAS PRADOS MARTÍ",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 23,
+      "name": "SOLER CODINA MARC",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 44,
+      "name": "ZAPATER LOPEZ AITOR",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 90,
+      "name": "OLIVELLA MARTÍN JOAN",
+      "goals": 0,
+      "keeper": true
+     },
+     {
+      "number": 8,
+      "name": "GÓMEZ ESTÉBANEZ PAU",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "segona-masculina-2-2-8",
+   "round": 2,
+   "date": "2026-10-12",
+   "time": "18:00",
+   "home": "Llista-Bell-Lloc",
+   "away": "CHP Mcdonald'S Amposta",
+   "score": [
+    5,
+    1
+   ],
+   "officialId": "147973",
+   "rosters": {
+    "home": [
+     {
+      "number": 2,
+      "name": "ANDRES ROURE ANDREU",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 4,
+      "name": "BOSCH ZALDIVAR IKER",
+      "goals": 2,
+      "keeper": false
+     },
+     {
+      "number": 14,
+      "name": "SEN-C CABESTANY ALONSO MARÇAL",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 33,
+      "name": "CREUS SERÓ ALEX",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 52,
+      "name": "JUV- TRILLA LARA ROGER",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 53,
+      "name": "SEN-C BERTRAN CUSCÓ ORIOL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 55,
+      "name": "JUV- FERNÀNDEZ BAUCELLS LEO",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 67,
+      "name": "BECERRA ABADIAS NIL",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 13,
+      "name": "SEN-C PRIETO MORILLO UNAI",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 4,
+      "name": "ESQUERRE RIUS PAU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 7,
+      "name": "PONS SANCHO FERRAN",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 8,
+      "name": "SCOCOZZA DEANESSI AGUSTIN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 11,
+      "name": "LABERNIA CORDOBA ADRIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 12,
+      "name": "BAYO LOPEZ PAU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 14,
+      "name": "PONS SANCHO JOSEP",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 15,
+      "name": "ESQUERRE RIUS JOAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 18,
+      "name": "ESTUDILLO RODRIGUEZ PAU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 10,
+      "name": "BAYO LOPEZ MARC",
+      "goals": 0,
+      "keeper": true
+     },
+     {
+      "number": 1,
+      "name": "ALBA CUADROS JUAN PABLO",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "segona-masculina-2-9-4",
+   "round": 2,
+   "date": "2026-10-13",
+   "time": "21:30",
+   "home": "Hoquei Patins Tona",
+   "away": "CH Caldes Recam Làser",
+   "score": [
+    2,
+    5
+   ],
+   "officialId": "147972",
+   "rosters": {
+    "home": [
+     {
+      "number": 5,
+      "name": "TAÑÀ PRATDESABA MARC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 6,
+      "name": "MATAVAQUES RODRIGUEZ ERNEST",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 8,
+      "name": "NESPLE TORREGUITART ANDREU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 9,
+      "name": "QUINTANILLA JIMENEZ DAVID",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 12,
+      "name": "JIMENEZ DE BUEN FERRAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 17,
+      "name": "POU SERRA GUILLEM",
+      "goals": 2,
+      "keeper": false
+     },
+     {
+      "number": 21,
+      "name": "BENET BACH ALEIX",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 23,
+      "name": "SOLER COSTA GENIS",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 94,
+      "name": "GURT CATALÀ ORIOL",
+      "goals": 0,
+      "keeper": true
+     },
+     {
+      "number": 99,
+      "name": "PAREDES GUTIERREZ PAU",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 3,
+      "name": "CAMPDERROS FLORES JORDI",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 3,
+      "name": "PUJADAS MURAL GERARD",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 6,
+      "name": "ZANÓN MATARRODONA ALEIX",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 9,
+      "name": "MAGI CUADROS ALEX",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 22,
+      "name": "MARTINEZ HIDALGO MARC",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 24,
+      "name": "SANTOS PEREZ OLAU",
+      "goals": 2,
+      "keeper": false
+     },
+     {
+      "number": 26,
+      "name": "HERRERA SANMARTÍN LEO",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 33,
+      "name": "SOLÀ CASTELLS ROGER",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 11,
+      "name": "REBOLLO SABADELL JOAN",
+      "goals": 0,
+      "keeper": true
+     },
+     {
+      "number": 71,
+      "name": "AGUILAR BUXADÉ XAVIER",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "segona-masculina-3-8-1",
+   "round": 3,
+   "date": "2026-10-09",
+   "time": "21:45",
+   "home": "CHP Mcdonald'S Amposta",
+   "away": "CP Vilanova",
+   "score": [
+    4,
+    3
+   ],
+   "officialId": "147980",
+   "rosters": {
+    "home": [
+     {
+      "number": 4,
+      "name": "SCOCOZZA DEANESSI AGUSTIN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 7,
+      "name": "PONS SANCHO FERRAN",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 8,
+      "name": "ERILL NIALET MAX",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 11,
+      "name": "LABERNIA CORDOBA ADRIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 12,
+      "name": "BAYO LOPEZ PAU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 14,
+      "name": "PONS SANCHO JOSEP",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 15,
+      "name": "ESQUERRE RIUS JOAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 18,
+      "name": "ESTUDILLO RODRIGUEZ PAU",
+      "goals": 2,
+      "keeper": false
+     },
+     {
+      "number": 1,
+      "name": "ALBA CUADROS JUAN PABLO",
+      "goals": 0,
+      "keeper": true
+     },
+     {
+      "number": 10,
+      "name": "BAYO LOPEZ MARC",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 7,
+      "name": "LEÓN MARTÍNEZ GUILLEM",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 8,
+      "name": "GONZALVEZ CONTRERAS PAU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 20,
+      "name": "ROBLES JUEZ ARNAU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 22,
+      "name": "RAMIREZ HERNÁNDEZ SERGI",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 63,
+      "name": "RIGUAL ALVAREZ ROGER",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 70,
+      "name": "ARIAS PARERA MARTÍ",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 77,
+      "name": "RUIZ MORCILLO AXEL",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 23,
+      "name": "ROBLES JUEZ BIEL",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "segona-masculina-3-12-5",
+   "round": 3,
+   "date": "2026-10-09",
+   "time": "22:00",
+   "home": "SHUM Alea",
+   "away": "Oxford HC Salt",
+   "score": [
+    2,
+    1
+   ],
+   "officialId": "147977",
+   "rosters": {
+    "home": [
+     {
+      "number": 4,
+      "name": "RODRIGUEZ GAÑAN ELOI",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 6,
+      "name": "FERNANDEZ FELIU ISAAC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 7,
+      "name": "ROURA PALAU POL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 8,
+      "name": "BANCELLS TOMAS ROGER",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 9,
+      "name": "GIRONELL OLIVERAS NIL",
+      "goals": 2,
+      "keeper": false
+     },
+     {
+      "number": 19,
+      "name": "COLOME OBREGON XAVI",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 26,
+      "name": "NOGUERO OSORIO JOEL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 66,
+      "name": "BANCELLS BARTOMEU JORDI",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 70,
+      "name": "MENCIÓ SOLÉS ARNAU",
+      "goals": 0,
+      "keeper": true
+     },
+     {
+      "number": 10,
+      "name": "CANUDAS BARTRES GUILLEM",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 9,
+      "name": "SITJA ASTOR NIL",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 13,
+      "name": "TABERNER MAS VICENÇ",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 14,
+      "name": "MADERA MEDINA IVAN RICARDO",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 17,
+      "name": "JIMENEZ BALDOMERO MARC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 19,
+      "name": "BARTOLI VILA GUILLEM",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 26,
+      "name": "VILA FUGUERAS PERE",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 54,
+      "name": "NAVARRO CASAS JORDI",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 24,
+      "name": "FERRER PICÓ ENRIC",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "segona-masculina-3-0-7",
+   "round": 3,
+   "date": "2026-10-10",
+   "time": "16:45",
+   "home": "CHP Martorell",
+   "away": "Generali HC Palau",
+   "score": [
+    3,
+    2
+   ],
+   "officialId": "147982",
+   "rosters": {
+    "home": [
+     {
+      "number": 4,
+      "name": "FARRÉ FERNÁNDEZ GUILLEM",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 5,
+      "name": "RIUS PECANINS BIEL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 6,
+      "name": "RIUS PECANINS POL",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 7,
+      "name": "BONELL PIÑOL ARNAU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 9,
+      "name": "BALLA SILVA MARTIN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 11,
+      "name": "SANTACANA CREIXELL ORIOL",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 23,
+      "name": "SOLER CODINA MARC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 44,
+      "name": "ZAPATER LOPEZ AITOR",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 90,
+      "name": "OLIVELLA MARTÍN JOAN",
+      "goals": 0,
+      "keeper": true
+     },
+     {
+      "number": 8,
+      "name": "GÓMEZ ESTÉBANEZ PAU",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 5,
+      "name": "DIAZ VERDAGUER ORIOL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 6,
+      "name": "MILAGRO SOLEY PAU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 8,
+      "name": "RIERA MIRO JORDI",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 48,
+      "name": "CAÑADO PORTELLA MARC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 54,
+      "name": "ROCABRUNA BONET ROGER",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 66,
+      "name": "LLAURADO RAMONEDA EINAR",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 96,
+      "name": "COLOMER I GALLARDO GENÍS",
+      "goals": 2,
+      "keeper": false
+     },
+     {
+      "number": 99,
+      "name": "SISTACH SOLER JORDI",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "segona-masculina-3-6-10",
+   "round": 3,
+   "date": "2026-10-10",
+   "time": "18:30",
+   "home": "Club Hoquei Arenys de Mar",
+   "away": "CH Mataró",
+   "score": [
+    8,
+    0
+   ],
+   "officialId": "147983",
+   "rosters": {
+    "home": [
+     {
+      "number": 4,
+      "name": "GAY ISACH ALBERT",
+      "goals": 5,
+      "keeper": false
+     },
+     {
+      "number": 5,
+      "name": "JOLIS GARCIA PAU",
+      "goals": 3,
+      "keeper": false
+     },
+     {
+      "number": 8,
+      "name": "CASTEJÓN PUIGVERT RICARD",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 9,
+      "name": "NUALART SERRA MARTÍ",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 15,
+      "name": "MORA XIFRE AUGER",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 94,
+      "name": "PONT ROVIRA TOMEU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 23,
+      "name": "MORENO BURGUEZ JUAN PABLO",
+      "goals": 0,
+      "keeper": true
+     },
+     {
+      "number": 10,
+      "name": "MORA CASELLAS DIDAC",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 6,
+      "name": "LORÉS COLL JORGE",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 7,
+      "name": "DOMINGO GIRALT MARTÍ",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 8,
+      "name": "VILA ROMERO ROGER",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 18,
+      "name": "PARDO RODRÍGUEZ MARC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 22,
+      "name": "PÉREZ LOZANO JORGE",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 23,
+      "name": "VILAMAJÓ MUÑOZ ORIOL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 33,
+      "name": "BONFILL MARTINEZ MARÇAL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 1,
+      "name": "SANZ PUIG PAU",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "segona-masculina-3-3-11",
+   "round": 3,
+   "date": "2026-10-10",
+   "time": "20:30",
+   "home": "Electro AD CP Masquefa",
+   "away": "Hoquei Claret",
+   "score": [
+    1,
+    2
+   ],
+   "officialId": "147981",
+   "rosters": {
+    "home": [
+     {
+      "number": 6,
+      "name": "ESTELLER FODRINI JOAN PAU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 7,
+      "name": "CLARAMUNT CASALS ARNAU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 8,
+      "name": "CARREÑO HERNANDEZ IAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 15,
+      "name": "MALEKI ABAD ALBERT",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 17,
+      "name": "PEREZ CANALS MARINO",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 21,
+      "name": "SERNA SANZ DAVID",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 75,
+      "name": "DE LA FUENTE MORIST MARC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 99,
+      "name": "RIENDA FERNANDEZ PABLO",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 80,
+      "name": "AGUADO ALVAREZ MARCOS",
+      "goals": 0,
+      "keeper": true
+     },
+     {
+      "number": 4,
+      "name": "ÁLVAREZ FREIXAS ANTONIO",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 12,
+      "name": "MULLERAT TOMAS GERARD",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 16,
+      "name": "INGLES LORENZO JAN",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 22,
+      "name": "MOLINER MOLINA JAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 40,
+      "name": "DEL MOLINO REDONDO ERIC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 44,
+      "name": "NAVARRO HERNANDEZ ALBERT",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 92,
+      "name": "MONSERGAS LÓPEZ ARNAU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 1,
+      "name": "MOLINER MOLINA BRUNO",
+      "goals": 0,
+      "keeper": true
+     },
+     {
+      "number": 10,
+      "name": "MOLINER MOLINA NICO",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "segona-masculina-3-4-2",
+   "round": 3,
+   "date": "2026-10-11",
+   "time": "12:45",
+   "home": "CH Caldes Recam Làser",
+   "away": "Llista-Bell-Lloc",
+   "score": [
+    3,
+    1
+   ],
+   "officialId": "147979",
+   "rosters": {
+    "home": [
+     {
+      "number": 3,
+      "name": "CAMPDERROS FLORES JORDI",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 3,
+      "name": "ROMAN PIQUER MARTI",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 24,
+      "name": "SANTOS PEREZ OLAU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 26,
+      "name": "HERRERA SANMARTÍN LEO",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 74,
+      "name": "FERRER OLLER ERIC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 87,
+      "name": "CARRILLO PEREZ ALVARO",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 94,
+      "name": "AGUILAR BUXADÉ DANIEL",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 98,
+      "name": "SAMPERA COMAS BLAI",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 71,
+      "name": "AGUILAR BUXADÉ XAVIER",
+      "goals": 0,
+      "keeper": true
+     },
+     {
+      "number": 76,
+      "name": "SANCHEZ SILVA RAUL",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 2,
+      "name": "ANDRES ROURE ANDREU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 14,
+      "name": "SEN-C CABESTANY ALONSO MARÇAL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 33,
+      "name": "CREUS SERÓ ALEX",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 53,
+      "name": "SEN-C BERTRAN CUSCÓ ORIOL",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 55,
+      "name": "JUV- FERNÀNDEZ BAUCELLS LEO",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 56,
+      "name": "JUV- CORTIJO CALDERÓ PAU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 67,
+      "name": "BECERRA ABADIAS NIL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 13,
+      "name": "SEN-C PRIETO MORILLO UNAI",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "segona-masculina-4-1-4",
+   "round": 4,
+   "date": "2026-10-16",
+   "time": "20:30",
+   "home": "CP Vilanova",
+   "away": "CH Caldes Recam Làser",
+   "score": [
+    4,
+    4
+   ],
+   "officialId": "147987",
+   "rosters": {
+    "home": [
+     {
+      "number": 8,
+      "name": "GONZALVEZ CONTRERAS PAU",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 20,
+      "name": "ROBLES JUEZ ARNAU",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 22,
+      "name": "RAMIREZ HERNÁNDEZ SERGI",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 70,
+      "name": "ARIAS PARERA MARTÍ",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 73,
+      "name": "DAY TEJO IGNACIO ALEJANDRO",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 77,
+      "name": "RUIZ MORCILLO AXEL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 23,
+      "name": "ROBLES JUEZ BIEL",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 3,
+      "name": "PUJADAS MURAL GERARD",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 8,
+      "name": "CLOFENT FRANCISCO MAGI",
+      "goals": 2,
+      "keeper": false
+     },
+     {
+      "number": 24,
+      "name": "SANTOS PEREZ OLAU",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 26,
+      "name": "ANGLARILL BENAVENT GERARD",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 77,
+      "name": "CAPEL AMBRÒS MARC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 87,
+      "name": "CARRILLO PEREZ ALVARO",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 90,
+      "name": "LLEONART FUENTES BIEL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 11,
+      "name": "REBOLLO SABADELL JOAN",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "segona-masculina-4-9-12",
+   "round": 4,
+   "date": "2026-10-17",
+   "time": "19:45",
+   "home": "Hoquei Patins Tona",
+   "away": "SHUM Alea",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-4-11-8",
+   "round": 4,
+   "date": "2026-10-18",
+   "time": "13:45",
+   "home": "Hoquei Claret",
+   "away": "CHP Mcdonald'S Amposta",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-4-5-6",
+   "round": 4,
+   "date": "2026-10-18",
+   "time": "17:00",
+   "home": "Oxford HC Salt",
+   "away": "Club Hoquei Arenys de Mar",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-4-10-0",
+   "round": 4,
+   "date": "2026-10-18",
+   "time": "17:00",
+   "home": "CH Mataró",
+   "away": "CHP Martorell",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-4-3-7",
+   "round": 4,
+   "date": "2026-10-18",
+   "time": "18:30",
+   "home": "Electro AD CP Masquefa",
+   "away": "Generali HC Palau",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-5-12-2",
+   "round": 5,
+   "date": "2026-10-23",
+   "time": "21:30",
+   "home": "SHUM Alea",
+   "away": "Llista-Bell-Lloc",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-5-4-11",
+   "round": 5,
+   "date": "2026-10-23",
+   "time": "21:55",
+   "home": "CH Caldes Recam Làser",
+   "away": "Hoquei Claret",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-5-6-0",
+   "round": 5,
+   "date": "2026-10-24",
+   "time": "16:15",
+   "home": "Club Hoquei Arenys de Mar",
+   "away": "CHP Martorell",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-5-3-10",
+   "round": 5,
+   "date": "2026-10-24",
+   "time": "20:00",
+   "home": "Electro AD CP Masquefa",
+   "away": "CH Mataró",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-5-8-7",
+   "round": 5,
+   "date": "2026-10-25",
+   "time": "13:30",
+   "home": "CHP Mcdonald'S Amposta",
+   "away": "Generali HC Palau",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-5-5-9",
+   "round": 5,
+   "date": "2026-10-25",
+   "time": "17:00",
+   "home": "Oxford HC Salt",
+   "away": "Hoquei Patins Tona",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-6-1-12",
+   "round": 6,
+   "date": "2026-10-30",
+   "time": "20:30",
+   "home": "CP Vilanova",
+   "away": "SHUM Alea",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-6-7-4",
+   "round": 6,
+   "date": "2026-10-30",
+   "time": "21:55",
+   "home": "Generali HC Palau",
+   "away": "CH Caldes Recam Làser",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-6-0-3",
+   "round": 6,
+   "date": "2026-10-31",
+   "time": "17:45",
+   "home": "CHP Martorell",
+   "away": "Electro AD CP Masquefa",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-6-9-6",
+   "round": 6,
+   "date": "2026-10-31",
+   "time": "19:45",
+   "home": "Hoquei Patins Tona",
+   "away": "Club Hoquei Arenys de Mar",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-6-2-5",
+   "round": 6,
+   "date": "2026-11-01",
+   "time": "12:30",
+   "home": "Llista-Bell-Lloc",
+   "away": "Oxford HC Salt",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-6-10-8",
+   "round": 6,
+   "date": "2026-11-01",
+   "time": "17:00",
+   "home": "CH Mataró",
+   "away": "CHP Mcdonald'S Amposta",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-7-12-11",
+   "round": 7,
+   "date": "2026-11-13",
+   "time": "21:30",
+   "home": "SHUM Alea",
+   "away": "Hoquei Claret",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-7-4-10",
+   "round": 7,
+   "date": "2026-11-13",
+   "time": "21:55",
+   "home": "CH Caldes Recam Làser",
+   "away": "CH Mataró",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-7-6-3",
+   "round": 7,
+   "date": "2026-11-14",
+   "time": "18:30",
+   "home": "Club Hoquei Arenys de Mar",
+   "away": "Electro AD CP Masquefa",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-7-9-2",
+   "round": 7,
+   "date": "2026-11-14",
+   "time": "19:45",
+   "home": "Hoquei Patins Tona",
+   "away": "Llista-Bell-Lloc",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-7-8-0",
+   "round": 7,
+   "date": "2026-11-15",
+   "time": "12:30",
+   "home": "CHP Mcdonald'S Amposta",
+   "away": "CHP Martorell",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-7-5-1",
+   "round": 7,
+   "date": "2026-11-15",
+   "time": "16:30",
+   "home": "Oxford HC Salt",
+   "away": "CP Vilanova",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-8-1-9",
+   "round": 8,
+   "date": "2026-11-20",
+   "time": "20:30",
+   "home": "CP Vilanova",
+   "away": "Hoquei Patins Tona",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-8-2-6",
+   "round": 8,
+   "date": "2026-11-20",
+   "time": "21:55",
+   "home": "Llista-Bell-Lloc",
+   "away": "Club Hoquei Arenys de Mar",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-8-0-4",
+   "round": 8,
+   "date": "2026-11-21",
+   "time": "16:45",
+   "home": "CHP Martorell",
+   "away": "CH Caldes Recam Làser",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-8-3-8",
+   "round": 8,
+   "date": "2026-11-21",
+   "time": "20:00",
+   "home": "Electro AD CP Masquefa",
+   "away": "CHP Mcdonald'S Amposta",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-8-11-5",
+   "round": 8,
+   "date": "2026-11-22",
+   "time": "12:30",
+   "home": "Hoquei Claret",
+   "away": "Oxford HC Salt",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-8-7-12",
+   "round": 8,
+   "date": "2026-11-22",
+   "time": "17:00",
+   "home": "Generali HC Palau",
+   "away": "SHUM Alea",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-9-12-10",
+   "round": 9,
+   "date": "2026-11-27",
+   "time": "21:30",
+   "home": "SHUM Alea",
+   "away": "CH Mataró",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-9-2-1",
+   "round": 9,
+   "date": "2026-11-27",
+   "time": "21:55",
+   "home": "Llista-Bell-Lloc",
+   "away": "CP Vilanova",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-9-4-3",
+   "round": 9,
+   "date": "2026-11-27",
+   "time": "21:55",
+   "home": "CH Caldes Recam Làser",
+   "away": "Electro AD CP Masquefa",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-9-9-11",
+   "round": 9,
+   "date": "2026-11-28",
+   "time": "18:15",
+   "home": "Hoquei Patins Tona",
+   "away": "Hoquei Claret",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-9-6-8",
+   "round": 9,
+   "date": "2026-11-28",
+   "time": "18:30",
+   "home": "Club Hoquei Arenys de Mar",
+   "away": "CHP Mcdonald'S Amposta",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-9-5-7",
+   "round": 9,
+   "date": "2026-11-29",
+   "time": "17:00",
+   "home": "Oxford HC Salt",
+   "away": "Generali HC Palau",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-10-1-6",
+   "round": 10,
+   "date": "2026-12-11",
+   "time": "20:30",
+   "home": "CP Vilanova",
+   "away": "Club Hoquei Arenys de Mar",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-10-0-12",
+   "round": 10,
+   "date": "2026-12-12",
+   "time": "18:15",
+   "home": "CHP Martorell",
+   "away": "SHUM Alea",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-10-11-2",
+   "round": 10,
+   "date": "2026-12-13",
+   "time": "12:30",
+   "home": "Hoquei Claret",
+   "away": "Llista-Bell-Lloc",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-10-10-5",
+   "round": 10,
+   "date": "2026-12-13",
+   "time": "17:00",
+   "home": "CH Mataró",
+   "away": "Oxford HC Salt",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-10-7-9",
+   "round": 10,
+   "date": "2026-12-13",
+   "time": "18:30",
+   "home": "Generali HC Palau",
+   "away": "Hoquei Patins Tona",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-10-8-4",
+   "round": 10,
+   "date": "2026-12-13",
+   "time": "19:55",
+   "home": "CHP Mcdonald'S Amposta",
+   "away": "CH Caldes Recam Làser",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-11-1-11",
+   "round": 11,
+   "date": "2026-12-18",
+   "time": "20:30",
+   "home": "CP Vilanova",
+   "away": "Hoquei Claret",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-11-12-3",
+   "round": 11,
+   "date": "2026-12-18",
+   "time": "21:30",
+   "home": "SHUM Alea",
+   "away": "Electro AD CP Masquefa",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-11-2-7",
+   "round": 11,
+   "date": "2026-12-18",
+   "time": "21:55",
+   "home": "Llista-Bell-Lloc",
+   "away": "Generali HC Palau",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-11-6-4",
+   "round": 11,
+   "date": "2026-12-19",
+   "time": "18:30",
+   "home": "Club Hoquei Arenys de Mar",
+   "away": "CH Caldes Recam Làser",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-11-9-10",
+   "round": 11,
+   "date": "2026-12-19",
+   "time": "19:45",
+   "home": "Hoquei Patins Tona",
+   "away": "CH Mataró",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-11-5-0",
+   "round": 11,
+   "date": "2026-12-20",
+   "time": "17:00",
+   "home": "Oxford HC Salt",
+   "away": "CHP Martorell",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-12-0-9",
+   "round": 12,
+   "date": "2027-01-09",
+   "time": "18:15",
+   "home": "CHP Martorell",
+   "away": "Hoquei Patins Tona",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-12-6-11",
+   "round": 12,
+   "date": "2027-01-09",
+   "time": "18:30",
+   "home": "Club Hoquei Arenys de Mar",
+   "away": "Hoquei Claret",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-12-3-5",
+   "round": 12,
+   "date": "2027-01-09",
+   "time": "20:00",
+   "home": "Electro AD CP Masquefa",
+   "away": "Oxford HC Salt",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-12-10-2",
+   "round": 12,
+   "date": "2027-01-10",
+   "time": "17:00",
+   "home": "CH Mataró",
+   "away": "Llista-Bell-Lloc",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-12-7-1",
+   "round": 12,
+   "date": "2027-01-10",
+   "time": "18:30",
+   "home": "Generali HC Palau",
+   "away": "CP Vilanova",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-12-8-12",
+   "round": 12,
+   "date": "2027-01-10",
+   "time": "19:55",
+   "home": "CHP Mcdonald'S Amposta",
+   "away": "SHUM Alea",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-13-1-10",
+   "round": 13,
+   "date": "2027-01-15",
+   "time": "20:30",
+   "home": "CP Vilanova",
+   "away": "CH Mataró",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-13-12-4",
+   "round": 13,
+   "date": "2027-01-15",
+   "time": "21:30",
+   "home": "SHUM Alea",
+   "away": "CH Caldes Recam Làser",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-13-2-0",
+   "round": 13,
+   "date": "2027-01-15",
+   "time": "21:55",
+   "home": "Llista-Bell-Lloc",
+   "away": "CHP Martorell",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-13-9-3",
+   "round": 13,
+   "date": "2027-01-16",
+   "time": "19:45",
+   "home": "Hoquei Patins Tona",
+   "away": "Electro AD CP Masquefa",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-13-11-7",
+   "round": 13,
+   "date": "2027-01-17",
+   "time": "12:30",
+   "home": "Hoquei Claret",
+   "away": "Generali HC Palau",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-13-5-8",
+   "round": 13,
+   "date": "2027-01-17",
+   "time": "17:00",
+   "home": "Oxford HC Salt",
+   "away": "CHP Mcdonald'S Amposta",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-14-3-2",
+   "round": 14,
+   "date": "2027-01-22",
+   "time": "20:00",
+   "home": "Electro AD CP Masquefa",
+   "away": "Llista-Bell-Lloc",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-14-1-0",
+   "round": 14,
+   "date": "2027-01-22",
+   "time": "20:30",
+   "home": "CP Vilanova",
+   "away": "CHP Martorell",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-14-9-8",
+   "round": 14,
+   "date": "2027-01-23",
+   "time": "19:45",
+   "home": "Hoquei Patins Tona",
+   "away": "CHP Mcdonald'S Amposta",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-14-11-10",
+   "round": 14,
+   "date": "2027-01-24",
+   "time": "12:30",
+   "home": "Hoquei Claret",
+   "away": "CH Mataró",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-14-5-4",
+   "round": 14,
+   "date": "2027-01-24",
+   "time": "17:00",
+   "home": "Oxford HC Salt",
+   "away": "CH Caldes Recam Làser",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-14-7-6",
+   "round": 14,
+   "date": "2027-01-24",
+   "time": "18:30",
+   "home": "Generali HC Palau",
+   "away": "Club Hoquei Arenys de Mar",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-15-4-9",
+   "round": 15,
+   "date": "2027-01-29",
+   "time": "21:55",
+   "home": "CH Caldes Recam Làser",
+   "away": "Hoquei Patins Tona",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-15-0-11",
+   "round": 15,
+   "date": "2027-01-30",
+   "time": "18:15",
+   "home": "CHP Martorell",
+   "away": "Hoquei Claret",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-15-1-3",
+   "round": 15,
+   "date": "2027-01-30",
+   "time": "20:30",
+   "home": "CP Vilanova",
+   "away": "Electro AD CP Masquefa",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-15-12-6",
+   "round": 15,
+   "date": "2027-01-30",
+   "time": "21:30",
+   "home": "SHUM Alea",
+   "away": "Club Hoquei Arenys de Mar",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-15-10-7",
+   "round": 15,
+   "date": "2027-01-31",
+   "time": "17:00",
+   "home": "CH Mataró",
+   "away": "Generali HC Palau",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-15-8-2",
+   "round": 15,
+   "date": "2027-01-31",
+   "time": "19:55",
+   "home": "CHP Mcdonald'S Amposta",
+   "away": "Llista-Bell-Lloc",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-16-1-8",
+   "round": 16,
+   "date": "2027-02-12",
+   "time": "20:30",
+   "home": "CP Vilanova",
+   "away": "CHP Mcdonald'S Amposta",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-16-2-4",
+   "round": 16,
+   "date": "2027-02-12",
+   "time": "21:55",
+   "home": "Llista-Bell-Lloc",
+   "away": "CH Caldes Recam Làser",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-16-11-3",
+   "round": 16,
+   "date": "2027-02-14",
+   "time": "12:30",
+   "home": "Hoquei Claret",
+   "away": "Electro AD CP Masquefa",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-16-5-12",
+   "round": 16,
+   "date": "2027-02-14",
+   "time": "17:00",
+   "home": "Oxford HC Salt",
+   "away": "SHUM Alea",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-16-10-6",
+   "round": 16,
+   "date": "2027-02-14",
+   "time": "17:00",
+   "home": "CH Mataró",
+   "away": "Club Hoquei Arenys de Mar",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-16-7-0",
+   "round": 16,
+   "date": "2027-02-14",
+   "time": "18:30",
+   "home": "Generali HC Palau",
+   "away": "CHP Martorell",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-17-12-9",
+   "round": 17,
+   "date": "2027-02-19",
+   "time": "21:30",
+   "home": "SHUM Alea",
+   "away": "Hoquei Patins Tona",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-17-4-1",
+   "round": 17,
+   "date": "2027-02-19",
+   "time": "21:55",
+   "home": "CH Caldes Recam Làser",
+   "away": "CP Vilanova",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-17-0-10",
+   "round": 17,
+   "date": "2027-02-20",
+   "time": "18:15",
+   "home": "CHP Martorell",
+   "away": "CH Mataró",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-17-6-5",
+   "round": 17,
+   "date": "2027-02-20",
+   "time": "18:30",
+   "home": "Club Hoquei Arenys de Mar",
+   "away": "Oxford HC Salt",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-17-7-3",
+   "round": 17,
+   "date": "2027-02-20",
+   "time": "21:55",
+   "home": "Generali HC Palau",
+   "away": "Electro AD CP Masquefa",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-17-8-11",
+   "round": 17,
+   "date": "2027-02-21",
+   "time": "19:55",
+   "home": "CHP Mcdonald'S Amposta",
+   "away": "Hoquei Claret",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-18-2-12",
+   "round": 18,
+   "date": "2027-02-26",
+   "time": "21:55",
+   "home": "Llista-Bell-Lloc",
+   "away": "SHUM Alea",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-18-0-6",
+   "round": 18,
+   "date": "2027-02-27",
+   "time": "18:15",
+   "home": "CHP Martorell",
+   "away": "Club Hoquei Arenys de Mar",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-18-9-5",
+   "round": 18,
+   "date": "2027-02-27",
+   "time": "19:45",
+   "home": "Hoquei Patins Tona",
+   "away": "Oxford HC Salt",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-18-11-4",
+   "round": 18,
+   "date": "2027-02-28",
+   "time": "12:30",
+   "home": "Hoquei Claret",
+   "away": "CH Caldes Recam Làser",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-18-10-3",
+   "round": 18,
+   "date": "2027-02-28",
+   "time": "17:00",
+   "home": "CH Mataró",
+   "away": "Electro AD CP Masquefa",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-18-7-8",
+   "round": 18,
+   "date": "2027-02-28",
+   "time": "18:30",
+   "home": "Generali HC Palau",
+   "away": "CHP Mcdonald'S Amposta",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-19-12-1",
+   "round": 19,
+   "date": "2027-03-12",
+   "time": "21:30",
+   "home": "SHUM Alea",
+   "away": "CP Vilanova",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-19-4-7",
+   "round": 19,
+   "date": "2027-03-12",
+   "time": "21:55",
+   "home": "CH Caldes Recam Làser",
+   "away": "Generali HC Palau",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-19-6-9",
+   "round": 19,
+   "date": "2027-03-13",
+   "time": "18:30",
+   "home": "Club Hoquei Arenys de Mar",
+   "away": "Hoquei Patins Tona",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-19-3-0",
+   "round": 19,
+   "date": "2027-03-13",
+   "time": "20:00",
+   "home": "Electro AD CP Masquefa",
+   "away": "CHP Martorell",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-19-5-2",
+   "round": 19,
+   "date": "2027-03-14",
+   "time": "17:00",
+   "home": "Oxford HC Salt",
+   "away": "Llista-Bell-Lloc",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-19-8-10",
+   "round": 19,
+   "date": "2027-03-14",
+   "time": "19:55",
+   "home": "CHP Mcdonald'S Amposta",
+   "away": "CH Mataró",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-20-1-5",
+   "round": 20,
+   "date": "2027-03-19",
+   "time": "20:30",
+   "home": "CP Vilanova",
+   "away": "Oxford HC Salt",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-20-2-9",
+   "round": 20,
+   "date": "2027-03-19",
+   "time": "21:55",
+   "home": "Llista-Bell-Lloc",
+   "away": "Hoquei Patins Tona",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-20-0-8",
+   "round": 20,
+   "date": "2027-03-20",
+   "time": "18:15",
+   "home": "CHP Martorell",
+   "away": "CHP Mcdonald'S Amposta",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-20-3-6",
+   "round": 20,
+   "date": "2027-03-20",
+   "time": "20:00",
+   "home": "Electro AD CP Masquefa",
+   "away": "Club Hoquei Arenys de Mar",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-20-11-12",
+   "round": 20,
+   "date": "2027-03-21",
+   "time": "12:30",
+   "home": "Hoquei Claret",
+   "away": "SHUM Alea",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-20-10-4",
+   "round": 20,
+   "date": "2027-03-21",
+   "time": "17:00",
+   "home": "CH Mataró",
+   "away": "CH Caldes Recam Làser",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-21-12-7",
+   "round": 21,
+   "date": "2027-04-02",
+   "time": "21:30",
+   "home": "SHUM Alea",
+   "away": "Generali HC Palau",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-21-4-0",
+   "round": 21,
+   "date": "2027-04-02",
+   "time": "21:55",
+   "home": "CH Caldes Recam Làser",
+   "away": "CHP Martorell",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-21-6-2",
+   "round": 21,
+   "date": "2027-04-03",
+   "time": "18:30",
+   "home": "Club Hoquei Arenys de Mar",
+   "away": "Llista-Bell-Lloc",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-21-9-1",
+   "round": 21,
+   "date": "2027-04-03",
+   "time": "19:45",
+   "home": "Hoquei Patins Tona",
+   "away": "CP Vilanova",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-21-5-11",
+   "round": 21,
+   "date": "2027-04-04",
+   "time": "17:00",
+   "home": "Oxford HC Salt",
+   "away": "Hoquei Claret",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-21-8-3",
+   "round": 21,
+   "date": "2027-04-04",
+   "time": "19:55",
+   "home": "CHP Mcdonald'S Amposta",
+   "away": "Electro AD CP Masquefa",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-22-1-2",
+   "round": 22,
+   "date": "2027-04-09",
+   "time": "20:30",
+   "home": "CP Vilanova",
+   "away": "Llista-Bell-Lloc",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-22-3-4",
+   "round": 22,
+   "date": "2027-04-10",
+   "time": "20:00",
+   "home": "Electro AD CP Masquefa",
+   "away": "CH Caldes Recam Làser",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-22-11-9",
+   "round": 22,
+   "date": "2027-04-11",
+   "time": "12:30",
+   "home": "Hoquei Claret",
+   "away": "Hoquei Patins Tona",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-22-10-12",
+   "round": 22,
+   "date": "2027-04-11",
+   "time": "17:00",
+   "home": "CH Mataró",
+   "away": "SHUM Alea",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-22-7-5",
+   "round": 22,
+   "date": "2027-04-11",
+   "time": "18:30",
+   "home": "Generali HC Palau",
+   "away": "Oxford HC Salt",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-22-8-6",
+   "round": 22,
+   "date": "2027-04-11",
+   "time": "19:55",
+   "home": "CHP Mcdonald'S Amposta",
+   "away": "Club Hoquei Arenys de Mar",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-23-12-0",
+   "round": 23,
+   "date": "2027-04-23",
+   "time": "21:30",
+   "home": "SHUM Alea",
+   "away": "CHP Martorell",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-23-2-11",
+   "round": 23,
+   "date": "2027-04-23",
+   "time": "21:55",
+   "home": "Llista-Bell-Lloc",
+   "away": "Hoquei Claret",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-23-4-8",
+   "round": 23,
+   "date": "2027-04-23",
+   "time": "21:55",
+   "home": "CH Caldes Recam Làser",
+   "away": "CHP Mcdonald'S Amposta",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-23-6-1",
+   "round": 23,
+   "date": "2027-04-24",
+   "time": "18:30",
+   "home": "Club Hoquei Arenys de Mar",
+   "away": "CP Vilanova",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-23-9-7",
+   "round": 23,
+   "date": "2027-04-24",
+   "time": "19:45",
+   "home": "Hoquei Patins Tona",
+   "away": "Generali HC Palau",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-23-5-10",
+   "round": 23,
+   "date": "2027-04-25",
+   "time": "17:00",
+   "home": "Oxford HC Salt",
+   "away": "CH Mataró",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-24-4-6",
+   "round": 24,
+   "date": "2027-04-30",
+   "time": "21:55",
+   "home": "CH Caldes Recam Làser",
+   "away": "Club Hoquei Arenys de Mar",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-24-0-5",
+   "round": 24,
+   "date": "2027-05-01",
+   "time": "18:15",
+   "home": "CHP Martorell",
+   "away": "Oxford HC Salt",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-24-3-12",
+   "round": 24,
+   "date": "2027-05-01",
+   "time": "20:00",
+   "home": "Electro AD CP Masquefa",
+   "away": "SHUM Alea",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-24-11-1",
+   "round": 24,
+   "date": "2027-05-02",
+   "time": "12:30",
+   "home": "Hoquei Claret",
+   "away": "CP Vilanova",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-24-10-9",
+   "round": 24,
+   "date": "2027-05-02",
+   "time": "17:00",
+   "home": "CH Mataró",
+   "away": "Hoquei Patins Tona",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-24-7-2",
+   "round": 24,
+   "date": "2027-05-02",
+   "time": "18:30",
+   "home": "Generali HC Palau",
+   "away": "Llista-Bell-Lloc",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-25-1-7",
+   "round": 25,
+   "date": "2027-05-14",
+   "time": "20:30",
+   "home": "CP Vilanova",
+   "away": "Generali HC Palau",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-25-12-8",
+   "round": 25,
+   "date": "2027-05-14",
+   "time": "21:30",
+   "home": "SHUM Alea",
+   "away": "CHP Mcdonald'S Amposta",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-25-2-10",
+   "round": 25,
+   "date": "2027-05-14",
+   "time": "21:55",
+   "home": "Llista-Bell-Lloc",
+   "away": "CH Mataró",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-25-9-0",
+   "round": 25,
+   "date": "2027-05-15",
+   "time": "19:45",
+   "home": "Hoquei Patins Tona",
+   "away": "CHP Martorell",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-25-11-6",
+   "round": 25,
+   "date": "2027-05-16",
+   "time": "12:30",
+   "home": "Hoquei Claret",
+   "away": "Club Hoquei Arenys de Mar",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-25-5-3",
+   "round": 25,
+   "date": "2027-05-16",
+   "time": "17:00",
+   "home": "Oxford HC Salt",
+   "away": "Electro AD CP Masquefa",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-26-4-12",
+   "round": 26,
+   "date": "2027-05-21",
+   "time": "21:55",
+   "home": "CH Caldes Recam Làser",
+   "away": "SHUM Alea",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-26-0-2",
+   "round": 26,
+   "date": "2027-05-22",
+   "time": "18:15",
+   "home": "CHP Martorell",
+   "away": "Llista-Bell-Lloc",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-26-3-9",
+   "round": 26,
+   "date": "2027-05-22",
+   "time": "20:00",
+   "home": "Electro AD CP Masquefa",
+   "away": "Hoquei Patins Tona",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-26-10-1",
+   "round": 26,
+   "date": "2027-05-23",
+   "time": "17:00",
+   "home": "CH Mataró",
+   "away": "CP Vilanova",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-26-7-11",
+   "round": 26,
+   "date": "2027-05-23",
+   "time": "18:30",
+   "home": "Generali HC Palau",
+   "away": "Hoquei Claret",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-masculina-26-8-5",
+   "round": 26,
+   "date": "2027-05-23",
+   "time": "19:55",
+   "home": "CHP Mcdonald'S Amposta",
+   "away": "Oxford HC Salt",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  }
+ ],
+ "teamCoaches": {},
+ "officialNames": {
+  "CHP MARTORELL": "CHP Martorell",
+  "CP VILANOVA": "CP Vilanova",
+  "LLISTA-BELL-LLOC": "Llista-Bell-Lloc",
+  "ELECTRO AD CP MASQUEFA": "Electro AD CP Masquefa",
+  "CH CALDES RECAM LÀSER": "CH Caldes Recam Làser",
+  "OXFORD HC SALT": "Oxford HC Salt",
+  "CLUB HOQUEI ARENYS DE MAR": "Club Hoquei Arenys de Mar",
+  "GENERALI HC PALAU": "Generali HC Palau",
+  "CHP MCDONALD'S AMPOSTA": "CHP Mcdonald'S Amposta",
+  "HOQUEI PATINS TONA": "Hoquei Patins Tona",
+  "CH MATARÓ": "CH Mataró",
+  "HOQUEI CLARET": "Hoquei Claret",
+  "SHUM ALEA": "SHUM Alea"
+ }
+}

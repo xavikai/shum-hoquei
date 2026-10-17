@@ -1,0 +1,1958 @@
+{
+ "league": "Benjamí Plata · Selvafil B · Grup B",
+ "season": "2026/27",
+ "source": "https://www.hoqueipatins.fecapa.cat/league/4823",
+ "updatedAt": "2026-10-17T17:00:00.000Z",
+ "team": "SHUM Selvafil B",
+ "teams": [
+  "Oxford HC Salt A",
+  "CH Olot D",
+  "CP Jonquerenc",
+  "CP Blanes",
+  "CP Caldes E",
+  "SHUM Selvafil B",
+  "CH Palafrugell D",
+  "CH Lloret Cafès Cornellà A"
+ ],
+ "matches": [
+  {
+   "id": "benjami-plata-b-1-0-1",
+   "round": 1,
+   "date": "2026-09-26",
+   "time": "16:15",
+   "home": "Oxford HC Salt A",
+   "away": "CH Olot D",
+   "score": [
+    10,
+    0
+   ],
+   "officialId": "161705",
+   "rosters": {
+    "home": [
+     {
+      "number": 3,
+      "name": "RUBIO LLORENTE MARTINA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 4,
+      "name": "VEGA BONILLA DARA CAMILA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 5,
+      "name": "ROMERO ANDRES AINA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 12,
+      "name": "REQUENA GRANADOS TÈIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 14,
+      "name": "MARCO RODA JANA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 99,
+      "name": "VALENTI MARQUEZ ALBA",
+      "goals": 10,
+      "keeper": false
+     },
+     {
+      "number": 76,
+      "name": "REQUENA GRANADOS IRIEIX",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 3,
+      "name": "BUCH BENÍTEZ OLÍVIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 13,
+      "name": "COLOBRANS MORERA GAL·LA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 16,
+      "name": "SALA PUJOL ABRIL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 23,
+      "name": "PÉREZ MUÑOZ ONA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 45,
+      "name": "DEVESA CABRERA FIONA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 72,
+      "name": "PONS ESCÁNEZ MARTINA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 11,
+      "name": "FERNÁNDEZ COROMINAS ÀFRICA",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "benjami-plata-b-1-2-3",
+   "round": 1,
+   "date": "2026-09-26",
+   "time": "16:45",
+   "home": "CP Jonquerenc",
+   "away": "CP Blanes",
+   "score": [
+    4,
+    14
+   ],
+   "officialId": "161703",
+   "rosters": {
+    "home": [
+     {
+      "number": 2,
+      "name": "CUADROS TUBERT IVET",
+      "goals": 4,
+      "keeper": false
+     },
+     {
+      "number": 5,
+      "name": "MATEOS FARRÉ CLAUDI",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 8,
+      "name": "BASERBA FERRE NIL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 16,
+      "name": "DE LA CAMARA MAURI LAIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 1,
+      "name": "PRAT ARCHÉ XÈNIA",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 4,
+      "name": "SEGURA MARTIN JAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 7,
+      "name": "OLMO NAVARRA ARITZ",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 9,
+      "name": "GIBERT RUZ JORDI",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 11,
+      "name": "JIMENEZ ALENYA POL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 17,
+      "name": "SHAMRAI OLEKSANDR",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 18,
+      "name": "PRIVAT VALIENTE NIL",
+      "goals": 14,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "benjami-plata-b-1-4-5",
+   "round": 1,
+   "date": "2026-09-27",
+   "time": "12:00",
+   "home": "CP Caldes E",
+   "away": "SHUM Selvafil B",
+   "score": [
+    13,
+    3
+   ],
+   "officialId": "161702",
+   "rosters": {
+    "home": [
+     {
+      "number": 5,
+      "name": "VENDRELL BOFARULL ANIOL",
+      "goals": 13,
+      "keeper": false
+     },
+     {
+      "number": 7,
+      "name": "VENDRELL BOFARULL MAGÍ",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 8,
+      "name": "SERRAT TERUEL MARC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 16,
+      "name": "SANCHIZ DE VICENTE JAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 50,
+      "name": "MARCOS OLIU DAREK",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 20,
+      "name": "BOSCH MAYKOV KIRIL",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 12,
+      "name": "BENB( VELASCO RIBAS AINA",
+      "goals": 3,
+      "keeper": false
+     },
+     {
+      "number": 15,
+      "name": "BENB( CAIMEL GERONES GAL·LA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 19,
+      "name": "MUÑOZ BOU GUIM",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 79,
+      "name": "BENB( SERRA GIRONELL MARIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 99,
+      "name": "PELEGRÍ CHARRO ROC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 18,
+      "name": "AGELL CURSÀ BIEL",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "benjami-plata-b-1-6-7",
+   "round": 1,
+   "date": "2026-09-27",
+   "time": "15:00",
+   "home": "CH Palafrugell D",
+   "away": "CH Lloret Cafès Cornellà A",
+   "score": [
+    4,
+    2
+   ],
+   "officialId": "161704",
+   "rosters": {
+    "home": [
+     {
+      "number": 11,
+      "name": "LÓPEZ LINEROS KAI",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 12,
+      "name": "ROGLANS AGULLÓ ARNAU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 13,
+      "name": "DÍAZ MONCAYO MATEO",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 14,
+      "name": "MARÍN MARTÍNEZ GUIM",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 16,
+      "name": "BALLESTA MARTOS POL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 20,
+      "name": "BAGUER ORTIZ DE LA TABLA TRIANA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 10,
+      "name": "ABRIL EDEBOR ALEJANDRO",
+      "goals": 4,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 2,
+      "name": "FONT CAPDEVILA NARCÍS",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 9,
+      "name": "GELABERET ESPEJO MAR",
+      "goals": 2,
+      "keeper": false
+     },
+     {
+      "number": 15,
+      "name": "CERGA OVIDIU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 16,
+      "name": "TENA PUGACHEVA SOFIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 20,
+      "name": "BALTRONS ARIAS NOA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 38,
+      "name": "TIMARGHI GONZALEZ OMAR",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 30,
+      "name": "MILLAN MARQUES ORIOL",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "benjami-plata-b-2-3-4",
+   "round": 2,
+   "date": "2026-10-03",
+   "time": "11:00",
+   "home": "CP Blanes",
+   "away": "CP Caldes E",
+   "score": [
+    1,
+    13
+   ],
+   "officialId": "161707",
+   "rosters": {
+    "home": [
+     {
+      "number": 2,
+      "name": "NUALART RIBAS XAVIER",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 7,
+      "name": "OLMO NAVARRA ARITZ",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 9,
+      "name": "GIBERT RUZ JORDI",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 11,
+      "name": "JIMENEZ ALENYA POL",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 17,
+      "name": "SHAMRAI OLEKSANDR",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 18,
+      "name": "PRIVAT VALIENTE NIL",
+      "goals": 0,
+      "keeper": true
+     },
+     {
+      "number": 99,
+      "name": "SEGURA MARTIN JAN",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 5,
+      "name": "VENDRELL BOFARULL ANIOL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 7,
+      "name": "VENDRELL BOFARULL MAGÍ",
+      "goals": 5,
+      "keeper": false
+     },
+     {
+      "number": 8,
+      "name": "SERRAT TERUEL MARC",
+      "goals": 2,
+      "keeper": false
+     },
+     {
+      "number": 16,
+      "name": "SANCHIZ DE VICENTE JAN",
+      "goals": 5,
+      "keeper": false
+     },
+     {
+      "number": 50,
+      "name": "MARCOS OLIU DAREK",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 20,
+      "name": "BOSCH MAYKOV KIRIL",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "benjami-plata-b-2-0-5",
+   "round": 2,
+   "date": "2026-10-03",
+   "time": "15:15",
+   "home": "Oxford HC Salt A",
+   "away": "SHUM Selvafil B",
+   "score": [
+    7,
+    0
+   ],
+   "officialId": "161734",
+   "rosters": {
+    "home": [
+     {
+      "number": 3,
+      "name": "RUBIO LLORENTE MARTINA",
+      "goals": null,
+      "keeper": false
+     },
+     {
+      "number": 4,
+      "name": "VEGA BONILLA DARA CAMILA",
+      "goals": null,
+      "keeper": false
+     },
+     {
+      "number": 5,
+      "name": "ROMERO ANDRES AINA",
+      "goals": null,
+      "keeper": false
+     },
+     {
+      "number": 14,
+      "name": "MARCO RODA JANA",
+      "goals": null,
+      "keeper": false
+     },
+     {
+      "number": 99,
+      "name": "VALENTI MARQUEZ ALBA",
+      "goals": null,
+      "keeper": false
+     },
+     {
+      "number": 20,
+      "name": "LAGOS CONEJERO AMAIA",
+      "goals": null,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 12,
+      "name": "BENB( VELASCO RIBAS AINA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 15,
+      "name": "BENB( CAIMEL GERONES GAL·LA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 19,
+      "name": "MUÑOZ BOU GUIM",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 58,
+      "name": "BENB( SERRA GIRONELL MARIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 73,
+      "name": "BENB( SOUSA VIURE ELNA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 18,
+      "name": "AGELL CURSÀ BIEL",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "benjami-plata-b-2-7-2",
+   "round": 2,
+   "date": "2026-10-12",
+   "time": "11:15",
+   "home": "CH Lloret Cafès Cornellà A",
+   "away": "CP Jonquerenc",
+   "score": [
+    5,
+    3
+   ],
+   "officialId": "161708",
+   "rosters": {
+    "home": [
+     {
+      "number": 2,
+      "name": "FONT CAPDEVILA NARCÍS",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 9,
+      "name": "GELABERET ESPEJO MAR",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 15,
+      "name": "CERGA OVIDIU",
+      "goals": 5,
+      "keeper": false
+     },
+     {
+      "number": 16,
+      "name": "TENA PUGACHEVA SOFIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 20,
+      "name": "BALTRONS ARIAS NOA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 38,
+      "name": "TIMARGHI GONZALEZ OMAR",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 30,
+      "name": "MILLAN MARQUES ORIOL",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 2,
+      "name": "CUADROS TUBERT IVET",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 5,
+      "name": "MATEOS FARRÉ CLAUDI",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 8,
+      "name": "BASERBA FERRE NIL",
+      "goals": 3,
+      "keeper": false
+     },
+     {
+      "number": 16,
+      "name": "DE LA CAMARA MAURI LAIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 1,
+      "name": "PRAT ARCHÉ XÈNIA",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "benjami-plata-b-2-1-6",
+   "round": 2,
+   "date": "2027-06-30",
+   "time": "16:00",
+   "home": "CH Olot D",
+   "away": "CH Palafrugell D",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-plata-b-3-0-6",
+   "round": 3,
+   "date": "2026-10-10",
+   "time": "15:45",
+   "home": "Oxford HC Salt A",
+   "away": "CH Palafrugell D",
+   "score": [
+    7,
+    3
+   ],
+   "officialId": "161713",
+   "rosters": {
+    "home": [
+     {
+      "number": 3,
+      "name": "RUBIO LLORENTE MARTINA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 4,
+      "name": "VEGA BONILLA DARA CAMILA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 5,
+      "name": "ROMERO ANDRES AINA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 12,
+      "name": "REQUENA GRANADOS TÈIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 14,
+      "name": "MARCO RODA JANA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 99,
+      "name": "VALENTI MARQUEZ ALBA",
+      "goals": 7,
+      "keeper": false
+     },
+     {
+      "number": 76,
+      "name": "REQUENA GRANADOS IRIEIX",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 11,
+      "name": "LÓPEZ LINEROS KAI",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 12,
+      "name": "ROGLANS AGULLÓ ARNAU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 13,
+      "name": "DÍAZ MONCAYO MATEO",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 14,
+      "name": "MARÍN MARTÍNEZ GUIM",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 16,
+      "name": "BALLESTA MARTOS POL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 20,
+      "name": "BAGUER ORTIZ DE LA TABLA TRIANA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 10,
+      "name": "ABRIL EDEBOR ALEJANDRO",
+      "goals": 3,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "benjami-plata-b-3-4-7",
+   "round": 3,
+   "date": "2026-10-10",
+   "time": "17:00",
+   "home": "CP Caldes E",
+   "away": "CH Lloret Cafès Cornellà A",
+   "score": [
+    10,
+    0
+   ],
+   "officialId": "161711",
+   "rosters": {
+    "home": [
+     {
+      "number": 5,
+      "name": "VENDRELL BOFARULL ANIOL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 7,
+      "name": "VENDRELL BOFARULL MAGÍ",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 8,
+      "name": "SERRAT TERUEL MARC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 16,
+      "name": "SANCHIZ DE VICENTE JAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 50,
+      "name": "MARCOS OLIU DAREK",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 20,
+      "name": "BOSCH MAYKOV KIRIL",
+      "goals": 10,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 2,
+      "name": "FONT CAPDEVILA NARCÍS",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 15,
+      "name": "CERGA OVIDIU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 16,
+      "name": "TENA PUGACHEVA SOFIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 20,
+      "name": "BALTRONS ARIAS NOA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 38,
+      "name": "TIMARGHI GONZALEZ OMAR",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 40,
+      "name": "SATURNO CALDERON AROA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 30,
+      "name": "MILLAN MARQUES ORIOL",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "benjami-plata-b-3-3-5",
+   "round": 3,
+   "date": "2026-10-11",
+   "time": "11:00",
+   "home": "CP Blanes",
+   "away": "SHUM Selvafil B",
+   "score": [
+    10,
+    4
+   ],
+   "officialId": "161738",
+   "rosters": {
+    "home": [
+     {
+      "number": 4,
+      "name": "NUALART RIBAS XAVIER",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 7,
+      "name": "OLMO NAVARRA ARITZ",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 9,
+      "name": "GIBERT RUZ JORDI",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 11,
+      "name": "JIMENEZ ALENYA POL",
+      "goals": 10,
+      "keeper": false
+     },
+     {
+      "number": 17,
+      "name": "SHAMRAI OLEKSANDR",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 99,
+      "name": "SEGURA MARTIN JAN",
+      "goals": 0,
+      "keeper": true
+     },
+     {
+      "number": 18,
+      "name": "PRIVAT VALIENTE NIL",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 12,
+      "name": "BENB( VELASCO RIBAS AINA",
+      "goals": 4,
+      "keeper": false
+     },
+     {
+      "number": 15,
+      "name": "BENB( CAIMEL GERONES GAL·LA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 19,
+      "name": "MUÑOZ BOU GUIM",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 58,
+      "name": "BENB( SERRA GIRONELL MARIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 73,
+      "name": "BENB( SOUSA VIURE ELNA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 18,
+      "name": "AGELL CURSÀ BIEL",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "benjami-plata-b-3-2-1",
+   "round": 3,
+   "date": "2026-10-11",
+   "time": "13:00",
+   "home": "CP Jonquerenc",
+   "away": "CH Olot D",
+   "score": [
+    10,
+    8
+   ],
+   "officialId": "161712",
+   "rosters": {
+    "home": [
+     {
+      "number": 2,
+      "name": "CUADROS TUBERT IVET",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 5,
+      "name": "MATEOS FARRÉ CLAUDI",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 8,
+      "name": "BASERBA FERRE NIL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 16,
+      "name": "DE LA CAMARA MAURI LAIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 1,
+      "name": "PRAT ARCHÉ XÈNIA",
+      "goals": 10,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 3,
+      "name": "BUCH BENÍTEZ OLÍVIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 6,
+      "name": "PÉREZ MUÑOZ ONA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 13,
+      "name": "COLOBRANS MORERA GAL·LA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 16,
+      "name": "SALA PUJOL ABRIL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 45,
+      "name": "DEVESA CABRERA FIONA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 72,
+      "name": "PONS ESCÁNEZ MARTINA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 11,
+      "name": "FERNÁNDEZ COROMINAS ÀFRICA",
+      "goals": 8,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "benjami-plata-b-4-3-0",
+   "round": 4,
+   "date": "2026-10-17",
+   "time": "10:00",
+   "home": "CP Blanes",
+   "away": "Oxford HC Salt A",
+   "score": [
+    7,
+    5
+   ],
+   "officialId": "161714",
+   "rosters": {
+    "home": [
+     {
+      "number": 4,
+      "name": "NUALART RIBAS XAVIER",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 7,
+      "name": "OLMO NAVARRA ARITZ",
+      "goals": 7,
+      "keeper": false
+     },
+     {
+      "number": 9,
+      "name": "GIBERT RUZ JORDI",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 11,
+      "name": "JIMENEZ ALENYA POL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 17,
+      "name": "SHAMRAI OLEKSANDR",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 99,
+      "name": "SEGURA MARTIN JAN",
+      "goals": 0,
+      "keeper": true
+     },
+     {
+      "number": 18,
+      "name": "PRIVAT VALIENTE NIL",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 3,
+      "name": "RUBIO LLORENTE MARTINA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 4,
+      "name": "VEGA BONILLA DARA CAMILA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 5,
+      "name": "ROMERO ANDRES AINA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 12,
+      "name": "REQUENA GRANADOS TÈIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 14,
+      "name": "MARCO RODA JANA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 99,
+      "name": "VALENTI MARQUEZ ALBA",
+      "goals": 5,
+      "keeper": false
+     },
+     {
+      "number": 76,
+      "name": "REQUENA GRANADOS IRIEIX",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "benjami-plata-b-4-7-5",
+   "round": 4,
+   "date": "2026-10-17",
+   "time": "15:15",
+   "home": "CH Lloret Cafès Cornellà A",
+   "away": "SHUM Selvafil B",
+   "score": [
+    2,
+    4
+   ],
+   "officialId": "161715",
+   "rosters": {
+    "home": [
+     {
+      "number": 2,
+      "name": "FONT CAPDEVILA NARCÍS",
+      "goals": 2,
+      "keeper": false
+     },
+     {
+      "number": 9,
+      "name": "GELABERET ESPEJO MAR",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 15,
+      "name": "CERGA OVIDIU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 16,
+      "name": "TENA PUGACHEVA SOFIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 38,
+      "name": "TIMARGHI GONZALEZ OMAR",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 40,
+      "name": "SATURNO CALDERON AROA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 30,
+      "name": "MILLAN MARQUES ORIOL",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 12,
+      "name": "BENB( VELASCO RIBAS AINA",
+      "goals": 4,
+      "keeper": false
+     },
+     {
+      "number": 15,
+      "name": "BENB( CAIMEL GERONES GAL·LA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 19,
+      "name": "MUÑOZ BOU GUIM",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 73,
+      "name": "BENB( SOUSA VIURE ELNA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 79,
+      "name": "BENB( SERRA GIRONELL MARIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 18,
+      "name": "AGELL CURSÀ BIEL",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "benjami-plata-b-4-2-6",
+   "round": 4,
+   "date": "2026-10-17",
+   "time": "17:00",
+   "home": "CP Jonquerenc",
+   "away": "CH Palafrugell D",
+   "score": [
+    2,
+    12
+   ],
+   "officialId": "161745",
+   "rosters": {
+    "home": [
+     {
+      "number": 2,
+      "name": "CUADROS TUBERT IVET",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 5,
+      "name": "MATEOS FARRÉ CLAUDI",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 8,
+      "name": "BASERBA FERRE NIL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 31,
+      "name": "PRAT ARCHÉ XÈNIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 1,
+      "name": "DE LA CAMARA MAURI LAIA",
+      "goals": 2,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 11,
+      "name": "LÓPEZ LINEROS KAI",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 12,
+      "name": "ROGLANS AGULLÓ ARNAU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 13,
+      "name": "DÍAZ MONCAYO MATEO",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 14,
+      "name": "MARÍN MARTÍNEZ GUIM",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 16,
+      "name": "BALLESTA MARTOS POL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 20,
+      "name": "BAGUER ORTIZ DE LA TABLA TRIANA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 10,
+      "name": "ABRIL EDEBOR ALEJANDRO",
+      "goals": 12,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "benjami-plata-b-4-1-4",
+   "round": 4,
+   "date": "2026-12-20",
+   "time": "12:00",
+   "home": "CH Olot D",
+   "away": "CP Caldes E",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-plata-b-5-3-7",
+   "round": 5,
+   "date": "2026-10-24",
+   "time": "10:00",
+   "home": "CP Blanes",
+   "away": "CH Lloret Cafès Cornellà A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-plata-b-5-5-1",
+   "round": 5,
+   "date": "2026-10-24",
+   "time": "15:00",
+   "home": "SHUM Selvafil B",
+   "away": "CH Olot D",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-plata-b-5-0-2",
+   "round": 5,
+   "date": "2026-10-24",
+   "time": "15:45",
+   "home": "Oxford HC Salt A",
+   "away": "CP Jonquerenc",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-plata-b-5-4-6",
+   "round": 5,
+   "date": "2026-10-25",
+   "time": "10:30",
+   "home": "CP Caldes E",
+   "away": "CH Palafrugell D",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-plata-b-6-0-7",
+   "round": 6,
+   "date": "2026-11-07",
+   "time": "15:00",
+   "home": "Oxford HC Salt A",
+   "away": "CH Lloret Cafès Cornellà A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-plata-b-6-2-4",
+   "round": 6,
+   "date": "2026-11-07",
+   "time": "15:45",
+   "home": "CP Jonquerenc",
+   "away": "CP Caldes E",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-plata-b-6-1-3",
+   "round": 6,
+   "date": "2026-11-07",
+   "time": "17:00",
+   "home": "CH Olot D",
+   "away": "CP Blanes",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-plata-b-6-6-5",
+   "round": 6,
+   "date": "2026-11-08",
+   "time": "11:30",
+   "home": "CH Palafrugell D",
+   "away": "SHUM Selvafil B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-plata-b-7-3-6",
+   "round": 7,
+   "date": "2026-11-14",
+   "time": "10:00",
+   "home": "CP Blanes",
+   "away": "CH Palafrugell D",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-plata-b-7-7-1",
+   "round": 7,
+   "date": "2026-11-14",
+   "time": "16:30",
+   "home": "CH Lloret Cafès Cornellà A",
+   "away": "CH Olot D",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-plata-b-7-4-0",
+   "round": 7,
+   "date": "2026-11-15",
+   "time": "10:00",
+   "home": "CP Caldes E",
+   "away": "Oxford HC Salt A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-plata-b-7-5-2",
+   "round": 7,
+   "date": "2026-11-15",
+   "time": "16:15",
+   "home": "SHUM Selvafil B",
+   "away": "CP Jonquerenc",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-plata-b-8-5-4",
+   "round": 8,
+   "date": "2026-11-21",
+   "time": "15:00",
+   "home": "SHUM Selvafil B",
+   "away": "CP Caldes E",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-plata-b-8-1-0",
+   "round": 8,
+   "date": "2026-11-22",
+   "time": "11:00",
+   "home": "CH Olot D",
+   "away": "Oxford HC Salt A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-plata-b-8-3-2",
+   "round": 8,
+   "date": "2026-11-22",
+   "time": "11:15",
+   "home": "CP Blanes",
+   "away": "CP Jonquerenc",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-plata-b-8-7-6",
+   "round": 8,
+   "date": "2026-11-22",
+   "time": "11:15",
+   "home": "CH Lloret Cafès Cornellà A",
+   "away": "CH Palafrugell D",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-plata-b-9-5-0",
+   "round": 9,
+   "date": "2026-11-28",
+   "time": "15:00",
+   "home": "SHUM Selvafil B",
+   "away": "Oxford HC Salt A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-plata-b-9-2-7",
+   "round": 9,
+   "date": "2026-11-28",
+   "time": "16:00",
+   "home": "CP Jonquerenc",
+   "away": "CH Lloret Cafès Cornellà A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-plata-b-9-4-3",
+   "round": 9,
+   "date": "2026-11-29",
+   "time": "12:00",
+   "home": "CP Caldes E",
+   "away": "CP Blanes",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-plata-b-9-6-1",
+   "round": 9,
+   "date": "2026-11-29",
+   "time": "15:00",
+   "home": "CH Palafrugell D",
+   "away": "CH Olot D",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-plata-b-10-1-2",
+   "round": 10,
+   "date": "2026-12-13",
+   "time": "11:00",
+   "home": "CH Olot D",
+   "away": "CP Jonquerenc",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-plata-b-10-7-4",
+   "round": 10,
+   "date": "2026-12-13",
+   "time": "12:30",
+   "home": "CH Lloret Cafès Cornellà A",
+   "away": "CP Caldes E",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-plata-b-10-5-3",
+   "round": 10,
+   "date": "2026-12-13",
+   "time": "15:00",
+   "home": "SHUM Selvafil B",
+   "away": "CP Blanes",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-plata-b-10-6-0",
+   "round": 10,
+   "date": "2026-12-13",
+   "time": "15:00",
+   "home": "CH Palafrugell D",
+   "away": "Oxford HC Salt A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-plata-b-11-4-1",
+   "round": 11,
+   "date": "2026-10-18",
+   "time": "18:50",
+   "home": "CP Caldes E",
+   "away": "CH Olot D",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-plata-b-11-6-2",
+   "round": 11,
+   "date": "2026-12-19",
+   "time": "15:00",
+   "home": "CH Palafrugell D",
+   "away": "CP Jonquerenc",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-plata-b-11-5-7",
+   "round": 11,
+   "date": "2026-12-19",
+   "time": "15:00",
+   "home": "SHUM Selvafil B",
+   "away": "CH Lloret Cafès Cornellà A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-plata-b-11-0-3",
+   "round": 11,
+   "date": "2026-12-19",
+   "time": "15:45",
+   "home": "Oxford HC Salt A",
+   "away": "CP Blanes",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-plata-b-12-2-0",
+   "round": 12,
+   "date": "2027-01-09",
+   "time": "16:00",
+   "home": "CP Jonquerenc",
+   "away": "Oxford HC Salt A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-plata-b-12-1-5",
+   "round": 12,
+   "date": "2027-01-10",
+   "time": "11:00",
+   "home": "CH Olot D",
+   "away": "SHUM Selvafil B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-plata-b-12-7-3",
+   "round": 12,
+   "date": "2027-01-10",
+   "time": "12:30",
+   "home": "CH Lloret Cafès Cornellà A",
+   "away": "CP Blanes",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-plata-b-12-6-4",
+   "round": 12,
+   "date": "2027-01-10",
+   "time": "15:00",
+   "home": "CH Palafrugell D",
+   "away": "CP Caldes E",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-plata-b-13-5-6",
+   "round": 13,
+   "date": "2027-01-16",
+   "time": "15:00",
+   "home": "SHUM Selvafil B",
+   "away": "CH Palafrugell D",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-plata-b-13-3-1",
+   "round": 13,
+   "date": "2027-01-17",
+   "time": "11:00",
+   "home": "CP Blanes",
+   "away": "CH Olot D",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-plata-b-13-4-2",
+   "round": 13,
+   "date": "2027-01-17",
+   "time": "12:00",
+   "home": "CP Caldes E",
+   "away": "CP Jonquerenc",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-plata-b-13-7-0",
+   "round": 13,
+   "date": "2027-01-17",
+   "time": "12:30",
+   "home": "CH Lloret Cafès Cornellà A",
+   "away": "Oxford HC Salt A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-plata-b-14-0-4",
+   "round": 14,
+   "date": "2027-01-23",
+   "time": "15:45",
+   "home": "Oxford HC Salt A",
+   "away": "CP Caldes E",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-plata-b-14-2-5",
+   "round": 14,
+   "date": "2027-01-23",
+   "time": "16:00",
+   "home": "CP Jonquerenc",
+   "away": "SHUM Selvafil B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-plata-b-14-1-7",
+   "round": 14,
+   "date": "2027-01-24",
+   "time": "11:00",
+   "home": "CH Olot D",
+   "away": "CH Lloret Cafès Cornellà A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-plata-b-14-6-3",
+   "round": 14,
+   "date": "2027-01-24",
+   "time": "15:00",
+   "home": "CH Palafrugell D",
+   "away": "CP Blanes",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  }
+ ],
+ "teamCoaches": {},
+ "officialNames": {
+  "OXFORD HC SALT A": "Oxford HC Salt A",
+  "CH OLOT D": "CH Olot D",
+  "CP JONQUERENC": "CP Jonquerenc",
+  "CP BLANES": "CP Blanes",
+  "CP CALDES E": "CP Caldes E",
+  "SHUM SELVAFIL B": "SHUM Selvafil B",
+  "CH PALAFRUGELL D": "CH Palafrugell D",
+  "CH LLORET CAFÈS CORNELLÀ A": "CH Lloret Cafès Cornellà A"
+ }
+}

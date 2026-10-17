@@ -1,0 +1,3923 @@
+{
+ "league": "Primera Catalana Femenina · Grup A",
+ "season": "2026/27",
+ "source": "https://www.hoqueipatins.fecapa.cat/league/4778",
+ "updatedAt": "2026-10-17T17:00:00.000Z",
+ "team": "SHUM Selvafil",
+ "teams": [
+  "CP Blanes",
+  "SHUM Selvafil",
+  "Vicio PHC Sant Cugat",
+  "CGM Igualada Femení HCP",
+  "Club Hoquei Arenys de Mar",
+  "Mollet HC",
+  "CE Arenys de Munt Muntbikes",
+  "Fenie Energia Cerdanyola CCH",
+  "Reus Deportiu",
+  "Club Patí Vila-Sana",
+  "Futbol Club Martinenc",
+  "Farners",
+  "Pons Lleida Bell-Lloc"
+ ],
+ "matches": [
+  {
+   "id": "primera-femenina-1-0-1",
+   "round": 1,
+   "date": "2026-09-25",
+   "time": "21:30",
+   "home": "CP Blanes",
+   "away": "SHUM Selvafil",
+   "score": [
+    1,
+    5
+   ],
+   "officialId": "147511",
+   "rosters": {
+    "home": [
+     {
+      "number": 7,
+      "name": "GALLART BASART ANNA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 9,
+      "name": "BARRANCO TARGAS PAULA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 78,
+      "name": "ARCHE SUÑER GEMMA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 82,
+      "name": "BASURTE BUENO MARIA DEL ARA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 88,
+      "name": "GALLART BASART MERITXELL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 99,
+      "name": "AGELL LEON MARINA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 13,
+      "name": "PASTOR TEJERA AINHOA",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 2,
+      "name": "ROMAGUERA CAMPS ALBA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 4,
+      "name": "MÓRA MIRANDA MARIONA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 17,
+      "name": "FORNS OLIVERAS ESTEL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 44,
+      "name": "CEPRIÀ LAGUNA ANNA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 54,
+      "name": "MUNTADAS SALA GINA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 74,
+      "name": "SEGC- RODRIGUEZ GAÑAN AINA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 87,
+      "name": "SEGC- MERCHANTE ANTON CLARA",
+      "goals": 2,
+      "keeper": false
+     },
+     {
+      "number": 1,
+      "name": "GOMEZ CAPELLA CARLA",
+      "goals": 0,
+      "keeper": true
+     },
+     {
+      "number": 83,
+      "name": "SALDAÑA TEIXIDO HELENA",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "primera-femenina-1-2-3",
+   "round": 1,
+   "date": "2026-09-26",
+   "time": "16:00",
+   "home": "Vicio PHC Sant Cugat",
+   "away": "CGM Igualada Femení HCP",
+   "score": [
+    4,
+    6
+   ],
+   "officialId": "147419",
+   "rosters": {
+    "home": [
+     {
+      "number": 2,
+      "name": "JUNU( ABELLAN I COLLET NOA",
+      "goals": 2,
+      "keeper": false
+     },
+     {
+      "number": 16,
+      "name": "ESTEVE MESTRES INGRID",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 17,
+      "name": "JUNU( QUESADA CAÑADAS ALBA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 47,
+      "name": "JUNU( YLLA POCH MARINA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 55,
+      "name": "JUVU( CARRERAS PUJADES ONA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 77,
+      "name": "JUNU( BASOMBA FERRER QUERALT",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 44,
+      "name": "JUNU( BOHÉ FERNANDEZ AINARA",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 14,
+      "name": "PRIC- LLOBET TORT JUDIT",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 15,
+      "name": "JUNU( RIBA VERA MERCE",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 21,
+      "name": "JUNU( ORTEGA CORZO LAIA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 22,
+      "name": "SEGC- JÍMENEZ LAFUENTE LAURA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 53,
+      "name": "JUVA( BROSSA FUGAROLAS TANIT",
+      "goals": 3,
+      "keeper": false
+     },
+     {
+      "number": 69,
+      "name": "JUNU( BRU GIL ONA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 95,
+      "name": "JUVA( MIRALLES VILA LAIA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 91,
+      "name": "JUVA( TORELLÓ CAMPOY MARIONA",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "primera-femenina-1-4-5",
+   "round": 1,
+   "date": "2026-09-26",
+   "time": "17:00",
+   "home": "Club Hoquei Arenys de Mar",
+   "away": "Mollet HC",
+   "score": [
+    1,
+    3
+   ],
+   "officialId": "147418",
+   "rosters": {
+    "home": [
+     {
+      "number": 4,
+      "name": "FERNANDEZ CARRION LAIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 6,
+      "name": "JOLIS GARCIA ÈLIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 16,
+      "name": "GUINART VIÑALS GEORGINA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 21,
+      "name": "BALAÑÁ RAMÓN CARLA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 78,
+      "name": "JUNU( VIDAL DALMAU XENIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 96,
+      "name": "CASTAÑEDA LLADO EROLA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 99,
+      "name": "CARMONA DE ANDRÉS VEGA",
+      "goals": 0,
+      "keeper": true
+     },
+     {
+      "number": 23,
+      "name": "LLENAS BLADÉ AINA",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 9,
+      "name": "SEGC- DILME VALLRIBERA TXELL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 14,
+      "name": "JUVA( DAUMAL ARTIGAS BET",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 18,
+      "name": "BERNAL RUBIALES SANDRA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 26,
+      "name": "BERNAL RUBIALES PAULA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 43,
+      "name": "JUNU( PALAZON DE BLAS IVET",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 57,
+      "name": "MARTIN JIMENEZ ANNA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 71,
+      "name": "JUVA( HERNANDEZ COLOMER BERTA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 1,
+      "name": "GARCIA LAO ELENA",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "primera-femenina-1-6-7",
+   "round": 1,
+   "date": "2026-09-26",
+   "time": "20:30",
+   "home": "CE Arenys de Munt Muntbikes",
+   "away": "Fenie Energia Cerdanyola CCH",
+   "score": [
+    3,
+    2
+   ],
+   "officialId": "147417",
+   "rosters": {
+    "home": [
+     {
+      "number": 3,
+      "name": "MAJO MERINO MARIA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 6,
+      "name": "VERDURA BRUGAROLA JANA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 11,
+      "name": "RIOUA BENLAFKIH NORA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 15,
+      "name": "ANTEQUERA RODRIGUEZ MARINA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 72,
+      "name": "JOAQUIN CAMPENY IVET",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 84,
+      "name": "NARANJO LEON CARLA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 93,
+      "name": "MONTORO LOZANO SILVIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 0,
+      "name": "PARRAMON PEREZ PAULA",
+      "goals": 0,
+      "keeper": true
+     },
+     {
+      "number": 1,
+      "name": "MARTIN TORRENT MARINA",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 3,
+      "name": "ALONSO LOBATO TANIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 8,
+      "name": "LOPEZ ILARI IRINA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 22,
+      "name": "JUVB( FERNÀNDEZ CASTELLS MARIONA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 24,
+      "name": "JUVA( PRAT PEREZ LAIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 26,
+      "name": "JUVA( RAMOS CARCELEN ALBA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 68,
+      "name": "JUVB( HERRERA MARIN NORA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 69,
+      "name": "JUNU( CORDERO MOLINA VICTORIA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 44,
+      "name": "JUVA( PACHECO NOGUERAS MARIONA",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "primera-femenina-1-8-9",
+   "round": 1,
+   "date": "2026-09-27",
+   "time": "18:00",
+   "home": "Reus Deportiu",
+   "away": "Club Patí Vila-Sana",
+   "score": [
+    2,
+    6
+   ],
+   "officialId": "147421",
+   "rosters": {
+    "home": [
+     {
+      "number": 6,
+      "name": "PAMIES VALLVE CORI",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 7,
+      "name": "DE DIEGO BARRIONUEVO MARTA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 8,
+      "name": "DE HARO GRAU MARIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 22,
+      "name": "BANÚS BOVÉ JANA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 55,
+      "name": "JUVU( TUDELA LLORENS ABRIL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 56,
+      "name": "NAVARRETE SASTRE NOA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 71,
+      "name": "JUVU( ARNAU RUIZ CLOE",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 84,
+      "name": "PRIC- RIBAS LOPEZ ABRIL",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 10,
+      "name": "BILBAO LOPEZ MIRARI",
+      "goals": 0,
+      "keeper": true
+     },
+     {
+      "number": 45,
+      "name": "JUVU( ARCOS FLORES JUDIT",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 9,
+      "name": "JUVU( SALVADÓ VIRGILI CLÀUDIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 11,
+      "name": "JUVU( GONZÁLEZ BARJA ANTIA",
+      "goals": 2,
+      "keeper": false
+     },
+     {
+      "number": 27,
+      "name": "PRIC- BARBERAN CALPE BLANCA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 57,
+      "name": "PRIC- ORTEGA ESCOBAR JUDIT",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 84,
+      "name": "PRIC- HERRAULT HANAÉ",
+      "goals": 2,
+      "keeper": false
+     },
+     {
+      "number": 1,
+      "name": "PRIC- CERRADA TORRES MARTA",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "primera-femenina-1-10-11",
+   "round": 1,
+   "date": "2026-09-27",
+   "time": "18:30",
+   "home": "Futbol Club Martinenc",
+   "away": "Farners",
+   "score": [
+    2,
+    1
+   ],
+   "officialId": "147422",
+   "rosters": {
+    "home": [
+     {
+      "number": 3,
+      "name": "SEGC- LOPEZ DE VIÑASPRE HIDALGO CARMEN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 5,
+      "name": "SEGC- PARRA PORCUNA MIREIA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 6,
+      "name": "SEGC- VALERO MIRALLES HELENA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 8,
+      "name": "SEGC- FIGUEROLA MARTÍNEZ GRETA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 9,
+      "name": "SEGC- ENRIQUEZ BARRERO LAIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 10,
+      "name": "SEGC- CRUZ BLAS AINOA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 28,
+      "name": "SEGC- RAMIREZ BUSQUETS JANA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 70,
+      "name": "SAIZ ANGOSTO ALBA",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 7,
+      "name": "GELI GIRONELL HELENA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 13,
+      "name": "COSTA ROMERA BERTA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 18,
+      "name": "MARSINYACH GANGONELLS JULIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 19,
+      "name": "JUVB( MOLINA CANO IRIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 20,
+      "name": "GARCIA TRIADÓ LAURA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 23,
+      "name": "JUNU( POZO BATLLORI JÚLIA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 67,
+      "name": "GARCIA GARCIA BERTA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 0,
+      "name": "BOADA OLIVELLA JUDIT",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "primera-femenina-2-0-2",
+   "round": 2,
+   "date": "2026-10-02",
+   "time": "21:30",
+   "home": "CP Blanes",
+   "away": "Vicio PHC Sant Cugat",
+   "score": [
+    5,
+    3
+   ],
+   "officialId": "147427",
+   "rosters": {
+    "home": [
+     {
+      "number": 7,
+      "name": "GALLART BASART ANNA",
+      "goals": 2,
+      "keeper": false
+     },
+     {
+      "number": 9,
+      "name": "AGELL LEON MARINA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 10,
+      "name": "ARCHE SUÑER GEMMA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 78,
+      "name": "BARRANCO TARGAS PAULA",
+      "goals": 2,
+      "keeper": false
+     },
+     {
+      "number": 82,
+      "name": "BASURTE BUENO MARIA DEL ARA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 88,
+      "name": "GALLART BASART MERITXELL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 13,
+      "name": "PASTOR TEJERA AINHOA",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 2,
+      "name": "JUNU( ABELLAN I COLLET NOA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 8,
+      "name": "JUNU( FERRER MARTIN EUGENIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 17,
+      "name": "JUNU( QUESADA CAÑADAS ALBA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 46,
+      "name": "JUVU( GALIMANY MURUGO CARLA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 47,
+      "name": "JUNU( YLLA POCH MARINA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 55,
+      "name": "JUVU( CARRERAS PUJADES ONA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 76,
+      "name": "JUVU( ARTUS RATERA AGNES",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 23,
+      "name": "JUNU( SÁNCHEZ BADOSA CARLOTA",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "primera-femenina-2-11-8",
+   "round": 2,
+   "date": "2026-10-03",
+   "time": "20:00",
+   "home": "Farners",
+   "away": "Reus Deportiu",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-2-12-10",
+   "round": 2,
+   "date": "2026-10-04",
+   "time": "16:15",
+   "home": "Pons Lleida Bell-Lloc",
+   "away": "Futbol Club Martinenc",
+   "score": [
+    7,
+    1
+   ],
+   "officialId": "147430",
+   "rosters": {
+    "home": [
+     {
+      "number": 3,
+      "name": "CID SEGURA LAIA",
+      "goals": 3,
+      "keeper": false
+     },
+     {
+      "number": 5,
+      "name": "LLERA SEGRETI MARIA FLORENCIA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 8,
+      "name": "JOVÉ VIDAL NÚRIA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 53,
+      "name": "JUVU( FORNS MARTINEZ ELNA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 58,
+      "name": "GIROUD MAEVA CASSANDRA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 83,
+      "name": "JUVU( ESCOLÀ QUERALT ARAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 97,
+      "name": "JUVU( ODINA COSTA BRUNA",
+      "goals": 2,
+      "keeper": false
+     },
+     {
+      "number": 50,
+      "name": "APARICIO BIRKNER MYKAELLA ANTONIA",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 3,
+      "name": "SEGC- LOPEZ DE VIÑASPRE HIDALGO CARMEN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 5,
+      "name": "SEGC- PARRA PORCUNA MIREIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 6,
+      "name": "SEGC- VALERO MIRALLES HELENA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 8,
+      "name": "SEGC- FIGUEROLA MARTÍNEZ GRETA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 9,
+      "name": "SEGC- ENRIQUEZ BARRERO LAIA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 10,
+      "name": "SEGC- CRUZ BLAS AINOA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 28,
+      "name": "SEGC- RAMIREZ BUSQUETS JANA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 70,
+      "name": "SAIZ ANGOSTO ALBA",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "primera-femenina-2-9-1",
+   "round": 2,
+   "date": "2026-10-04",
+   "time": "18:30",
+   "home": "Club Patí Vila-Sana",
+   "away": "SHUM Selvafil",
+   "score": [
+    4,
+    2
+   ],
+   "officialId": "147428",
+   "rosters": {
+    "home": [
+     {
+      "number": 2,
+      "name": "JUNU( PARROT SARRAMIA MARIA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 9,
+      "name": "JUVU( SALVADÓ VIRGILI CLÀUDIA",
+      "goals": 2,
+      "keeper": false
+     },
+     {
+      "number": 20,
+      "name": "JUVU( MARTORELL GIMENEZ JULIA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 23,
+      "name": "JUVU( MOLINS GASET ARES",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 27,
+      "name": "PRIC- BARBERAN CALPE BLANCA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 49,
+      "name": "JUNU( HOMEDES FARRÉ ABRIL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 57,
+      "name": "PRIC- ORTEGA ESCOBAR JUDIT",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 1,
+      "name": "PRIC- CERRADA TORRES MARTA",
+      "goals": 0,
+      "keeper": true
+     },
+     {
+      "number": 11,
+      "name": "JUNU( MARTINEZ SANCHEZ IRIS",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 2,
+      "name": "ROMAGUERA CAMPS ALBA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 4,
+      "name": "MÓRA MIRANDA MARIONA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 44,
+      "name": "CEPRIÀ LAGUNA ANNA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 54,
+      "name": "MUNTADAS SALA GINA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 74,
+      "name": "SEGC- RODRIGUEZ GAÑAN AINA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 87,
+      "name": "SEGC- MERCHANTE ANTON CLARA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 83,
+      "name": "SALDAÑA TEIXIDO HELENA",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "primera-femenina-2-5-6",
+   "round": 2,
+   "date": "2026-10-19",
+   "time": "21:40",
+   "home": "Mollet HC",
+   "away": "CE Arenys de Munt Muntbikes",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-2-3-4",
+   "round": 2,
+   "date": "2026-10-31",
+   "time": "11:00",
+   "home": "CGM Igualada Femení HCP",
+   "away": "Club Hoquei Arenys de Mar",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-3-4-0",
+   "round": 3,
+   "date": "2026-10-10",
+   "time": "17:00",
+   "home": "Club Hoquei Arenys de Mar",
+   "away": "CP Blanes",
+   "score": [
+    4,
+    2
+   ],
+   "officialId": "147433",
+   "rosters": {
+    "home": [
+     {
+      "number": 4,
+      "name": "FERNANDEZ CARRION LAIA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 6,
+      "name": "JOLIS GARCIA ÈLIA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 9,
+      "name": "IBAÑEZ SUBIRA LAIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 16,
+      "name": "GUINART VIÑALS GEORGINA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 21,
+      "name": "BALAÑÁ RAMÓN CARLA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 78,
+      "name": "JUNU( VIDAL DALMAU XENIA",
+      "goals": 2,
+      "keeper": false
+     },
+     {
+      "number": 96,
+      "name": "CASTAÑEDA LLADO EROLA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 23,
+      "name": "LLENAS BLADÉ AINA",
+      "goals": 0,
+      "keeper": true
+     },
+     {
+      "number": 99,
+      "name": "CARMONA DE ANDRÉS VEGA",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 7,
+      "name": "GALLART BASART ANNA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 9,
+      "name": "BARRANCO TARGAS PAULA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 78,
+      "name": "ARCHE SUÑER GEMMA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 82,
+      "name": "BASURTE BUENO MARIA DEL ARA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 88,
+      "name": "GALLART BASART MERITXELL",
+      "goals": 2,
+      "keeper": false
+     },
+     {
+      "number": 99,
+      "name": "AGELL LEON MARINA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 13,
+      "name": "PASTOR TEJERA AINHOA",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "primera-femenina-3-7-5",
+   "round": 3,
+   "date": "2026-10-10",
+   "time": "17:45",
+   "home": "Fenie Energia Cerdanyola CCH",
+   "away": "Mollet HC",
+   "score": [
+    2,
+    2
+   ],
+   "officialId": "147431",
+   "rosters": {
+    "home": [
+     {
+      "number": 3,
+      "name": "ALONSO LOBATO TANIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 22,
+      "name": "JUVB( FERNÀNDEZ CASTELLS MARIONA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 24,
+      "name": "JUVA( PRAT PEREZ LAIA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 26,
+      "name": "JUVA( RAMOS CARCELEN ALBA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 68,
+      "name": "JUVB( HERRERA MARIN NORA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 91,
+      "name": "JUVA( BORRELL FUSTER GAL.LA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 10,
+      "name": "JUVB( CANTERO MÁRQUEZ ERICA",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 9,
+      "name": "SEGC- DILME VALLRIBERA TXELL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 14,
+      "name": "JUVA( DAUMAL ARTIGAS BET",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 18,
+      "name": "BERNAL RUBIALES SANDRA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 43,
+      "name": "JUNU( PALAZON DE BLAS IVET",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 44,
+      "name": "FERNANDEZ FERNANDEZ IRIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 57,
+      "name": "MARTIN JIMENEZ ANNA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 71,
+      "name": "JUVA( HERNANDEZ COLOMER BERTA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 11,
+      "name": "JUVA( GOMEZ GARCIA VALENTINA",
+      "goals": 0,
+      "keeper": true
+     },
+     {
+      "number": 1,
+      "name": "GARCIA LAO ELENA",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "primera-femenina-3-6-3",
+   "round": 3,
+   "date": "2026-10-10",
+   "time": "20:00",
+   "home": "CE Arenys de Munt Muntbikes",
+   "away": "CGM Igualada Femení HCP",
+   "score": [
+    4,
+    2
+   ],
+   "officialId": "147432",
+   "rosters": {
+    "home": [
+     {
+      "number": 3,
+      "name": "MAJO MERINO MARIA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 6,
+      "name": "VERDURA BRUGAROLA JANA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 11,
+      "name": "RIOUA BENLAFKIH NORA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 15,
+      "name": "ANTEQUERA RODRIGUEZ MARINA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 72,
+      "name": "JOAQUIN CAMPENY IVET",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 84,
+      "name": "NARANJO LEON CARLA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 10,
+      "name": "PARRAMON PEREZ PAULA",
+      "goals": 0,
+      "keeper": true
+     },
+     {
+      "number": 1,
+      "name": "MARTIN TORRENT MARINA",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 15,
+      "name": "JUNU( RIBA VERA MERCE",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 21,
+      "name": "JUNU( ORTEGA CORZO LAIA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 49,
+      "name": "JUVA( ALMANZA SALA ABRIL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 53,
+      "name": "JUVA( ALSINA LÓPEZ JÚLIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 69,
+      "name": "JUNU( BRU GIL ONA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 95,
+      "name": "JUVA( MIRALLES VILA LAIA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 91,
+      "name": "JUVA( TORELLÓ CAMPOY MARIONA",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "primera-femenina-3-2-9",
+   "round": 3,
+   "date": "2026-10-11",
+   "time": "12:30",
+   "home": "Vicio PHC Sant Cugat",
+   "away": "Club Patí Vila-Sana",
+   "score": [
+    4,
+    2
+   ],
+   "officialId": "147434",
+   "rosters": {
+    "home": [
+     {
+      "number": 2,
+      "name": "JUNU( ABELLAN I COLLET NOA",
+      "goals": 3,
+      "keeper": false
+     },
+     {
+      "number": 12,
+      "name": "JUVU( COBO FERREIRO PAULA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 17,
+      "name": "JUNU( QUESADA CAÑADAS ALBA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 28,
+      "name": "JUVU( MOLERO ROSALES IRATI",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 47,
+      "name": "JUNU( YLLA POCH MARINA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 76,
+      "name": "JUVU( ARTUS RATERA AGNES",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 77,
+      "name": "JUNU( BASOMBA FERRER QUERALT",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 23,
+      "name": "JUNU( SÁNCHEZ BADOSA CARLOTA",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 4,
+      "name": "PRIC- LASAOSA RIVAS IRUÑA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 9,
+      "name": "JUVU( SALVADÓ VIRGILI CLÀUDIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 20,
+      "name": "JUVU( MARTORELL GIMENEZ JULIA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 49,
+      "name": "JUNU( HOMEDES FARRÉ ABRIL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 57,
+      "name": "PRIC- ORTEGA ESCOBAR JUDIT",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 1,
+      "name": "PRIC- CERRADA TORRES MARTA",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "primera-femenina-3-8-12",
+   "round": 3,
+   "date": "2026-10-11",
+   "time": "16:45",
+   "home": "Reus Deportiu",
+   "away": "Pons Lleida Bell-Lloc",
+   "score": [
+    1,
+    4
+   ],
+   "officialId": "147436",
+   "rosters": {
+    "home": [
+     {
+      "number": 6,
+      "name": "PAMIES VALLVE CORI",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 7,
+      "name": "DE DIEGO BARRIONUEVO MARTA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 8,
+      "name": "DE HARO GRAU MARIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 22,
+      "name": "BANÚS BOVÉ JANA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 23,
+      "name": "JUVU( ARNAU RUIZ CLOE",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 55,
+      "name": "JUVU( TUDELA LLORENS ABRIL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 56,
+      "name": "NAVARRETE SASTRE NOA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 84,
+      "name": "PRIC- RIBAS LOPEZ ABRIL",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 95,
+      "name": "JUVU( ARCOS FLORES JUDIT",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 3,
+      "name": "CID SEGURA LAIA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 5,
+      "name": "LLERA SEGRETI MARIA FLORENCIA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 8,
+      "name": "JOVÉ VIDAL NÚRIA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 53,
+      "name": "JUVU( FORNS MARTINEZ ELNA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 58,
+      "name": "GIROUD MAEVA CASSANDRA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 83,
+      "name": "JUVU( ESCOLÀ QUERALT ARAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 97,
+      "name": "JUVU( ODINA COSTA BRUNA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 50,
+      "name": "APARICIO BIRKNER MYKAELLA ANTONIA",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "primera-femenina-3-1-11",
+   "round": 3,
+   "date": "2026-10-11",
+   "time": "17:00",
+   "home": "SHUM Selvafil",
+   "away": "Farners",
+   "score": [
+    3,
+    0
+   ],
+   "officialId": "147435",
+   "rosters": {
+    "home": [
+     {
+      "number": 2,
+      "name": "ROMAGUERA CAMPS ALBA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 4,
+      "name": "MÓRA MIRANDA MARIONA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 44,
+      "name": "CEPRIÀ LAGUNA ANNA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 54,
+      "name": "MUNTADAS SALA GINA",
+      "goals": 2,
+      "keeper": false
+     },
+     {
+      "number": 74,
+      "name": "SEGC- RODRIGUEZ GAÑAN AINA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 87,
+      "name": "SEGC- MERCHANTE ANTON CLARA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 83,
+      "name": "SALDAÑA TEIXIDO HELENA",
+      "goals": 0,
+      "keeper": true
+     },
+     {
+      "number": 1,
+      "name": "GOMEZ CAPELLA CARLA",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 7,
+      "name": "GELI GIRONELL HELENA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 13,
+      "name": "COSTA ROMERA BERTA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 17,
+      "name": "GARCIA TROUVAT ODETTE SIMON",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 18,
+      "name": "MARSINYACH GANGONELLS JULIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 20,
+      "name": "GARCIA TRIADÓ LAURA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 67,
+      "name": "GARCIA GARCIA BERTA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 88,
+      "name": "REQUENA SANZ EVA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 22,
+      "name": "BOADA OLIVELLA JUDIT",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "primera-femenina-4-11-2",
+   "round": 4,
+   "date": "2026-10-16",
+   "time": "20:00",
+   "home": "Farners",
+   "away": "Vicio PHC Sant Cugat",
+   "score": [
+    2,
+    3
+   ],
+   "officialId": "147442",
+   "rosters": {
+    "home": [
+     {
+      "number": 7,
+      "name": "GELI GIRONELL HELENA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 13,
+      "name": "COSTA ROMERA BERTA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 17,
+      "name": "GARCIA TROUVAT ODETTE SIMON",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 18,
+      "name": "MARSINYACH GANGONELLS JULIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 20,
+      "name": "GARCIA TRIADÓ LAURA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 23,
+      "name": "JUNU( POZO BATLLORI JÚLIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 67,
+      "name": "GARCIA GARCIA BERTA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 88,
+      "name": "REQUENA SANZ EVA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 22,
+      "name": "BOADA OLIVELLA JUDIT",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 2,
+      "name": "JUNU( ABELLAN I COLLET NOA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 8,
+      "name": "JUNU( FERRER MARTIN EUGENIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 17,
+      "name": "JUNU( QUESADA CAÑADAS ALBA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 47,
+      "name": "JUNU( YLLA POCH MARINA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 76,
+      "name": "JUVU( ARTUS RATERA AGNES",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 77,
+      "name": "JUNU( BASOMBA FERRER QUERALT",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 44,
+      "name": "JUNU( BOHÉ FERNANDEZ AINARA",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "primera-femenina-4-0-6",
+   "round": 4,
+   "date": "2026-10-16",
+   "time": "21:30",
+   "home": "CP Blanes",
+   "away": "CE Arenys de Munt Muntbikes",
+   "score": [
+    2,
+    3
+   ],
+   "officialId": "147440",
+   "rosters": {
+    "home": [
+     {
+      "number": 7,
+      "name": "GALLART BASART ANNA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 9,
+      "name": "BARRANCO TARGAS PAULA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 11,
+      "name": "ESTEBAN SANCHEZ KLOE",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 78,
+      "name": "ARCHE SUÑER GEMMA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 82,
+      "name": "BASURTE BUENO MARIA DEL ARA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 88,
+      "name": "GALLART BASART MERITXELL",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 99,
+      "name": "AGELL LEON MARINA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 13,
+      "name": "PASTOR TEJERA AINHOA",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 3,
+      "name": "MAJO MERINO MARIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 6,
+      "name": "VERDURA BRUGAROLA JANA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 11,
+      "name": "RIOUA BENLAFKIH NORA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 15,
+      "name": "ANTEQUERA RODRIGUEZ MARINA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 72,
+      "name": "JOAQUIN CAMPENY IVET",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 84,
+      "name": "NARANJO LEON CARLA",
+      "goals": 3,
+      "keeper": false
+     },
+     {
+      "number": 93,
+      "name": "MONTORO LOZANO SILVIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 1,
+      "name": "MARTIN TORRENT MARINA",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "primera-femenina-4-3-7",
+   "round": 4,
+   "date": "2026-10-18",
+   "time": "12:30",
+   "home": "CGM Igualada Femení HCP",
+   "away": "Fenie Energia Cerdanyola CCH",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-4-12-1",
+   "round": 4,
+   "date": "2026-10-18",
+   "time": "12:30",
+   "home": "Pons Lleida Bell-Lloc",
+   "away": "SHUM Selvafil",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-4-9-4",
+   "round": 4,
+   "date": "2026-10-18",
+   "time": "14:30",
+   "home": "Club Patí Vila-Sana",
+   "away": "Club Hoquei Arenys de Mar",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-4-10-8",
+   "round": 4,
+   "date": "2026-10-18",
+   "time": "18:00",
+   "home": "Futbol Club Martinenc",
+   "away": "Reus Deportiu",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-5-4-11",
+   "round": 5,
+   "date": "2026-10-24",
+   "time": "12:15",
+   "home": "Club Hoquei Arenys de Mar",
+   "away": "Farners",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-5-2-12",
+   "round": 5,
+   "date": "2026-10-24",
+   "time": "16:00",
+   "home": "Vicio PHC Sant Cugat",
+   "away": "Pons Lleida Bell-Lloc",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-5-1-10",
+   "round": 5,
+   "date": "2026-10-24",
+   "time": "17:30",
+   "home": "SHUM Selvafil",
+   "away": "Futbol Club Martinenc",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-5-7-0",
+   "round": 5,
+   "date": "2026-10-25",
+   "time": "16:10",
+   "home": "Fenie Energia Cerdanyola CCH",
+   "away": "CP Blanes",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-5-5-3",
+   "round": 5,
+   "date": "2026-10-25",
+   "time": "18:45",
+   "home": "Mollet HC",
+   "away": "CGM Igualada Femení HCP",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-5-6-9",
+   "round": 5,
+   "date": "2026-10-25",
+   "time": "19:40",
+   "home": "CE Arenys de Munt Muntbikes",
+   "away": "Club Patí Vila-Sana",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-6-9-7",
+   "round": 6,
+   "date": "2026-10-31",
+   "time": "16:00",
+   "home": "Club Patí Vila-Sana",
+   "away": "Fenie Energia Cerdanyola CCH",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-6-11-6",
+   "round": 6,
+   "date": "2026-10-31",
+   "time": "20:00",
+   "home": "Farners",
+   "away": "CE Arenys de Munt Muntbikes",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-6-0-5",
+   "round": 6,
+   "date": "2026-11-01",
+   "time": "12:30",
+   "home": "CP Blanes",
+   "away": "Mollet HC",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-6-12-4",
+   "round": 6,
+   "date": "2026-11-01",
+   "time": "18:00",
+   "home": "Pons Lleida Bell-Lloc",
+   "away": "Club Hoquei Arenys de Mar",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-6-10-2",
+   "round": 6,
+   "date": "2026-11-01",
+   "time": "19:00",
+   "home": "Futbol Club Martinenc",
+   "away": "Vicio PHC Sant Cugat",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-6-8-1",
+   "round": 6,
+   "date": "2026-11-01",
+   "time": "19:00",
+   "home": "Reus Deportiu",
+   "away": "SHUM Selvafil",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-7-7-11",
+   "round": 7,
+   "date": "2026-11-14",
+   "time": "18:15",
+   "home": "Fenie Energia Cerdanyola CCH",
+   "away": "Farners",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-7-5-9",
+   "round": 7,
+   "date": "2026-11-14",
+   "time": "19:45",
+   "home": "Mollet HC",
+   "away": "Club Patí Vila-Sana",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-7-6-12",
+   "round": 7,
+   "date": "2026-11-14",
+   "time": "20:00",
+   "home": "CE Arenys de Munt Muntbikes",
+   "away": "Pons Lleida Bell-Lloc",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-7-3-0",
+   "round": 7,
+   "date": "2026-11-15",
+   "time": "13:55",
+   "home": "CGM Igualada Femení HCP",
+   "away": "CP Blanes",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-7-2-8",
+   "round": 7,
+   "date": "2026-11-15",
+   "time": "19:15",
+   "home": "Vicio PHC Sant Cugat",
+   "away": "Reus Deportiu",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-7-4-10",
+   "round": 7,
+   "date": "2026-11-20",
+   "time": "21:50",
+   "home": "Club Hoquei Arenys de Mar",
+   "away": "Futbol Club Martinenc",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-8-11-5",
+   "round": 8,
+   "date": "2026-11-21",
+   "time": "20:00",
+   "home": "Farners",
+   "away": "Mollet HC",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-8-12-7",
+   "round": 8,
+   "date": "2026-11-22",
+   "time": "12:00",
+   "home": "Pons Lleida Bell-Lloc",
+   "away": "Fenie Energia Cerdanyola CCH",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-8-10-6",
+   "round": 8,
+   "date": "2026-11-22",
+   "time": "17:45",
+   "home": "Futbol Club Martinenc",
+   "away": "CE Arenys de Munt Muntbikes",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-8-8-4",
+   "round": 8,
+   "date": "2026-11-22",
+   "time": "18:00",
+   "home": "Reus Deportiu",
+   "away": "Club Hoquei Arenys de Mar",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-8-1-2",
+   "round": 8,
+   "date": "2026-11-22",
+   "time": "19:30",
+   "home": "SHUM Selvafil",
+   "away": "Vicio PHC Sant Cugat",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-8-9-3",
+   "round": 8,
+   "date": "2026-11-22",
+   "time": "20:00",
+   "home": "Club Patí Vila-Sana",
+   "away": "CGM Igualada Femení HCP",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-9-4-1",
+   "round": 9,
+   "date": "2026-11-28",
+   "time": "17:00",
+   "home": "Club Hoquei Arenys de Mar",
+   "away": "SHUM Selvafil",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-9-5-12",
+   "round": 9,
+   "date": "2026-11-28",
+   "time": "19:45",
+   "home": "Mollet HC",
+   "away": "Pons Lleida Bell-Lloc",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-9-6-8",
+   "round": 9,
+   "date": "2026-11-28",
+   "time": "20:00",
+   "home": "CE Arenys de Munt Muntbikes",
+   "away": "Reus Deportiu",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-9-0-9",
+   "round": 9,
+   "date": "2026-11-29",
+   "time": "12:30",
+   "home": "CP Blanes",
+   "away": "Club Patí Vila-Sana",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-9-3-11",
+   "round": 9,
+   "date": "2026-11-29",
+   "time": "12:30",
+   "home": "CGM Igualada Femení HCP",
+   "away": "Farners",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-9-7-10",
+   "round": 9,
+   "date": "2026-11-29",
+   "time": "18:00",
+   "home": "Fenie Energia Cerdanyola CCH",
+   "away": "Futbol Club Martinenc",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-10-2-4",
+   "round": 10,
+   "date": "2026-12-12",
+   "time": "16:00",
+   "home": "Vicio PHC Sant Cugat",
+   "away": "Club Hoquei Arenys de Mar",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-10-11-0",
+   "round": 10,
+   "date": "2026-12-12",
+   "time": "20:00",
+   "home": "Farners",
+   "away": "CP Blanes",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-10-12-3",
+   "round": 10,
+   "date": "2026-12-13",
+   "time": "12:00",
+   "home": "Pons Lleida Bell-Lloc",
+   "away": "CGM Igualada Femení HCP",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-10-10-5",
+   "round": 10,
+   "date": "2026-12-13",
+   "time": "17:45",
+   "home": "Futbol Club Martinenc",
+   "away": "Mollet HC",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-10-8-7",
+   "round": 10,
+   "date": "2026-12-13",
+   "time": "18:00",
+   "home": "Reus Deportiu",
+   "away": "Fenie Energia Cerdanyola CCH",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-10-1-6",
+   "round": 10,
+   "date": "2026-12-13",
+   "time": "19:30",
+   "home": "SHUM Selvafil",
+   "away": "CE Arenys de Munt Muntbikes",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-11-5-8",
+   "round": 11,
+   "date": "2026-12-19",
+   "time": "19:45",
+   "home": "Mollet HC",
+   "away": "Reus Deportiu",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-11-6-2",
+   "round": 11,
+   "date": "2026-12-19",
+   "time": "20:00",
+   "home": "CE Arenys de Munt Muntbikes",
+   "away": "Vicio PHC Sant Cugat",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-11-0-12",
+   "round": 11,
+   "date": "2026-12-20",
+   "time": "12:30",
+   "home": "CP Blanes",
+   "away": "Pons Lleida Bell-Lloc",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-11-3-10",
+   "round": 11,
+   "date": "2026-12-20",
+   "time": "12:30",
+   "home": "CGM Igualada Femení HCP",
+   "away": "Futbol Club Martinenc",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-11-7-1",
+   "round": 11,
+   "date": "2026-12-20",
+   "time": "18:00",
+   "home": "Fenie Energia Cerdanyola CCH",
+   "away": "SHUM Selvafil",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-11-9-11",
+   "round": 11,
+   "date": "2026-12-20",
+   "time": "20:00",
+   "home": "Club Patí Vila-Sana",
+   "away": "Farners",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-12-2-7",
+   "round": 12,
+   "date": "2027-01-09",
+   "time": "16:00",
+   "home": "Vicio PHC Sant Cugat",
+   "away": "Fenie Energia Cerdanyola CCH",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-12-4-6",
+   "round": 12,
+   "date": "2027-01-09",
+   "time": "17:00",
+   "home": "Club Hoquei Arenys de Mar",
+   "away": "CE Arenys de Munt Muntbikes",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-12-10-0",
+   "round": 12,
+   "date": "2027-01-10",
+   "time": "17:45",
+   "home": "Futbol Club Martinenc",
+   "away": "CP Blanes",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-12-8-3",
+   "round": 12,
+   "date": "2027-01-10",
+   "time": "18:00",
+   "home": "Reus Deportiu",
+   "away": "CGM Igualada Femení HCP",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-12-12-9",
+   "round": 12,
+   "date": "2027-01-10",
+   "time": "19:00",
+   "home": "Pons Lleida Bell-Lloc",
+   "away": "Club Patí Vila-Sana",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-12-1-5",
+   "round": 12,
+   "date": "2027-01-10",
+   "time": "19:30",
+   "home": "SHUM Selvafil",
+   "away": "Mollet HC",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-13-5-2",
+   "round": 13,
+   "date": "2027-01-16",
+   "time": "19:45",
+   "home": "Mollet HC",
+   "away": "Vicio PHC Sant Cugat",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-13-11-12",
+   "round": 13,
+   "date": "2027-01-16",
+   "time": "20:00",
+   "home": "Farners",
+   "away": "Pons Lleida Bell-Lloc",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-13-0-8",
+   "round": 13,
+   "date": "2027-01-17",
+   "time": "12:30",
+   "home": "CP Blanes",
+   "away": "Reus Deportiu",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-13-3-1",
+   "round": 13,
+   "date": "2027-01-17",
+   "time": "12:30",
+   "home": "CGM Igualada Femení HCP",
+   "away": "SHUM Selvafil",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-13-7-4",
+   "round": 13,
+   "date": "2027-01-17",
+   "time": "18:00",
+   "home": "Fenie Energia Cerdanyola CCH",
+   "away": "Club Hoquei Arenys de Mar",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-13-9-10",
+   "round": 13,
+   "date": "2027-01-17",
+   "time": "20:00",
+   "home": "Club Patí Vila-Sana",
+   "away": "Futbol Club Martinenc",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-14-5-4",
+   "round": 14,
+   "date": "2027-01-23",
+   "time": "19:45",
+   "home": "Mollet HC",
+   "away": "Club Hoquei Arenys de Mar",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-14-11-10",
+   "round": 14,
+   "date": "2027-01-23",
+   "time": "20:00",
+   "home": "Farners",
+   "away": "Futbol Club Martinenc",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-14-3-2",
+   "round": 14,
+   "date": "2027-01-24",
+   "time": "12:30",
+   "home": "CGM Igualada Femení HCP",
+   "away": "Vicio PHC Sant Cugat",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-14-7-6",
+   "round": 14,
+   "date": "2027-01-24",
+   "time": "18:00",
+   "home": "Fenie Energia Cerdanyola CCH",
+   "away": "CE Arenys de Munt Muntbikes",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-14-1-0",
+   "round": 14,
+   "date": "2027-01-24",
+   "time": "19:30",
+   "home": "SHUM Selvafil",
+   "away": "CP Blanes",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-14-9-8",
+   "round": 14,
+   "date": "2027-01-24",
+   "time": "20:00",
+   "home": "Club Patí Vila-Sana",
+   "away": "Reus Deportiu",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-15-2-0",
+   "round": 15,
+   "date": "2027-01-30",
+   "time": "16:00",
+   "home": "Vicio PHC Sant Cugat",
+   "away": "CP Blanes",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-15-4-3",
+   "round": 15,
+   "date": "2027-01-30",
+   "time": "17:00",
+   "home": "Club Hoquei Arenys de Mar",
+   "away": "CGM Igualada Femení HCP",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-15-6-5",
+   "round": 15,
+   "date": "2027-01-30",
+   "time": "20:00",
+   "home": "CE Arenys de Munt Muntbikes",
+   "away": "Mollet HC",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-15-10-12",
+   "round": 15,
+   "date": "2027-01-31",
+   "time": "17:45",
+   "home": "Futbol Club Martinenc",
+   "away": "Pons Lleida Bell-Lloc",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-15-8-11",
+   "round": 15,
+   "date": "2027-01-31",
+   "time": "18:00",
+   "home": "Reus Deportiu",
+   "away": "Farners",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-15-1-9",
+   "round": 15,
+   "date": "2027-01-31",
+   "time": "19:30",
+   "home": "SHUM Selvafil",
+   "away": "Club Patí Vila-Sana",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-16-5-7",
+   "round": 16,
+   "date": "2027-02-13",
+   "time": "19:45",
+   "home": "Mollet HC",
+   "away": "Fenie Energia Cerdanyola CCH",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-16-11-1",
+   "round": 16,
+   "date": "2027-02-13",
+   "time": "20:00",
+   "home": "Farners",
+   "away": "SHUM Selvafil",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-16-12-8",
+   "round": 16,
+   "date": "2027-02-14",
+   "time": "12:00",
+   "home": "Pons Lleida Bell-Lloc",
+   "away": "Reus Deportiu",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-16-3-6",
+   "round": 16,
+   "date": "2027-02-14",
+   "time": "12:30",
+   "home": "CGM Igualada Femení HCP",
+   "away": "CE Arenys de Munt Muntbikes",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-16-0-4",
+   "round": 16,
+   "date": "2027-02-14",
+   "time": "12:30",
+   "home": "CP Blanes",
+   "away": "Club Hoquei Arenys de Mar",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-16-9-2",
+   "round": 16,
+   "date": "2027-02-14",
+   "time": "20:00",
+   "home": "Club Patí Vila-Sana",
+   "away": "Vicio PHC Sant Cugat",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-17-2-11",
+   "round": 17,
+   "date": "2027-02-20",
+   "time": "16:00",
+   "home": "Vicio PHC Sant Cugat",
+   "away": "Farners",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-17-4-9",
+   "round": 17,
+   "date": "2027-02-20",
+   "time": "17:00",
+   "home": "Club Hoquei Arenys de Mar",
+   "away": "Club Patí Vila-Sana",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-17-6-0",
+   "round": 17,
+   "date": "2027-02-20",
+   "time": "20:00",
+   "home": "CE Arenys de Munt Muntbikes",
+   "away": "CP Blanes",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-17-7-3",
+   "round": 17,
+   "date": "2027-02-21",
+   "time": "18:00",
+   "home": "Fenie Energia Cerdanyola CCH",
+   "away": "CGM Igualada Femení HCP",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-17-8-10",
+   "round": 17,
+   "date": "2027-02-21",
+   "time": "18:00",
+   "home": "Reus Deportiu",
+   "away": "Futbol Club Martinenc",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-17-1-12",
+   "round": 17,
+   "date": "2027-02-21",
+   "time": "19:30",
+   "home": "SHUM Selvafil",
+   "away": "Pons Lleida Bell-Lloc",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-18-11-4",
+   "round": 18,
+   "date": "2027-02-27",
+   "time": "20:00",
+   "home": "Farners",
+   "away": "Club Hoquei Arenys de Mar",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-18-3-5",
+   "round": 18,
+   "date": "2027-02-28",
+   "time": "12:30",
+   "home": "CGM Igualada Femení HCP",
+   "away": "Mollet HC",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-18-0-7",
+   "round": 18,
+   "date": "2027-02-28",
+   "time": "12:30",
+   "home": "CP Blanes",
+   "away": "Fenie Energia Cerdanyola CCH",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-18-10-1",
+   "round": 18,
+   "date": "2027-02-28",
+   "time": "17:45",
+   "home": "Futbol Club Martinenc",
+   "away": "SHUM Selvafil",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-18-12-2",
+   "round": 18,
+   "date": "2027-02-28",
+   "time": "18:00",
+   "home": "Pons Lleida Bell-Lloc",
+   "away": "Vicio PHC Sant Cugat",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-18-9-6",
+   "round": 18,
+   "date": "2027-02-28",
+   "time": "20:00",
+   "home": "Club Patí Vila-Sana",
+   "away": "CE Arenys de Munt Muntbikes",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-19-2-10",
+   "round": 19,
+   "date": "2027-03-13",
+   "time": "16:00",
+   "home": "Vicio PHC Sant Cugat",
+   "away": "Futbol Club Martinenc",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-19-4-12",
+   "round": 19,
+   "date": "2027-03-13",
+   "time": "17:00",
+   "home": "Club Hoquei Arenys de Mar",
+   "away": "Pons Lleida Bell-Lloc",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-19-5-0",
+   "round": 19,
+   "date": "2027-03-13",
+   "time": "19:45",
+   "home": "Mollet HC",
+   "away": "CP Blanes",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-19-6-11",
+   "round": 19,
+   "date": "2027-03-13",
+   "time": "20:00",
+   "home": "CE Arenys de Munt Muntbikes",
+   "away": "Farners",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-19-7-9",
+   "round": 19,
+   "date": "2027-03-14",
+   "time": "18:00",
+   "home": "Fenie Energia Cerdanyola CCH",
+   "away": "Club Patí Vila-Sana",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-19-1-8",
+   "round": 19,
+   "date": "2027-03-14",
+   "time": "19:30",
+   "home": "SHUM Selvafil",
+   "away": "Reus Deportiu",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-20-11-7",
+   "round": 20,
+   "date": "2027-03-20",
+   "time": "20:00",
+   "home": "Farners",
+   "away": "Fenie Energia Cerdanyola CCH",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-20-12-6",
+   "round": 20,
+   "date": "2027-03-21",
+   "time": "12:00",
+   "home": "Pons Lleida Bell-Lloc",
+   "away": "CE Arenys de Munt Muntbikes",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-20-0-3",
+   "round": 20,
+   "date": "2027-03-21",
+   "time": "12:30",
+   "home": "CP Blanes",
+   "away": "CGM Igualada Femení HCP",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-20-10-4",
+   "round": 20,
+   "date": "2027-03-21",
+   "time": "17:45",
+   "home": "Futbol Club Martinenc",
+   "away": "Club Hoquei Arenys de Mar",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-20-8-2",
+   "round": 20,
+   "date": "2027-03-21",
+   "time": "18:00",
+   "home": "Reus Deportiu",
+   "away": "Vicio PHC Sant Cugat",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-20-9-5",
+   "round": 20,
+   "date": "2027-03-21",
+   "time": "20:00",
+   "home": "Club Patí Vila-Sana",
+   "away": "Mollet HC",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-21-2-1",
+   "round": 21,
+   "date": "2027-04-03",
+   "time": "16:00",
+   "home": "Vicio PHC Sant Cugat",
+   "away": "SHUM Selvafil",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-21-4-8",
+   "round": 21,
+   "date": "2027-04-03",
+   "time": "17:00",
+   "home": "Club Hoquei Arenys de Mar",
+   "away": "Reus Deportiu",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-21-5-11",
+   "round": 21,
+   "date": "2027-04-03",
+   "time": "19:45",
+   "home": "Mollet HC",
+   "away": "Farners",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-21-6-10",
+   "round": 21,
+   "date": "2027-04-03",
+   "time": "20:00",
+   "home": "CE Arenys de Munt Muntbikes",
+   "away": "Futbol Club Martinenc",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-21-3-9",
+   "round": 21,
+   "date": "2027-04-04",
+   "time": "12:30",
+   "home": "CGM Igualada Femení HCP",
+   "away": "Club Patí Vila-Sana",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-21-7-12",
+   "round": 21,
+   "date": "2027-04-04",
+   "time": "18:00",
+   "home": "Fenie Energia Cerdanyola CCH",
+   "away": "Pons Lleida Bell-Lloc",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-22-11-3",
+   "round": 22,
+   "date": "2027-04-10",
+   "time": "20:00",
+   "home": "Farners",
+   "away": "CGM Igualada Femení HCP",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-22-12-5",
+   "round": 22,
+   "date": "2027-04-11",
+   "time": "12:00",
+   "home": "Pons Lleida Bell-Lloc",
+   "away": "Mollet HC",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-22-10-7",
+   "round": 22,
+   "date": "2027-04-11",
+   "time": "17:45",
+   "home": "Futbol Club Martinenc",
+   "away": "Fenie Energia Cerdanyola CCH",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-22-8-6",
+   "round": 22,
+   "date": "2027-04-11",
+   "time": "18:00",
+   "home": "Reus Deportiu",
+   "away": "CE Arenys de Munt Muntbikes",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-22-1-4",
+   "round": 22,
+   "date": "2027-04-11",
+   "time": "19:30",
+   "home": "SHUM Selvafil",
+   "away": "Club Hoquei Arenys de Mar",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-22-9-0",
+   "round": 22,
+   "date": "2027-04-11",
+   "time": "20:00",
+   "home": "Club Patí Vila-Sana",
+   "away": "CP Blanes",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-23-4-2",
+   "round": 23,
+   "date": "2027-04-24",
+   "time": "17:00",
+   "home": "Club Hoquei Arenys de Mar",
+   "away": "Vicio PHC Sant Cugat",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-23-5-10",
+   "round": 23,
+   "date": "2027-04-24",
+   "time": "19:45",
+   "home": "Mollet HC",
+   "away": "Futbol Club Martinenc",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-23-6-1",
+   "round": 23,
+   "date": "2027-04-24",
+   "time": "20:00",
+   "home": "CE Arenys de Munt Muntbikes",
+   "away": "SHUM Selvafil",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-23-0-11",
+   "round": 23,
+   "date": "2027-04-25",
+   "time": "12:30",
+   "home": "CP Blanes",
+   "away": "Farners",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-23-3-12",
+   "round": 23,
+   "date": "2027-04-25",
+   "time": "12:30",
+   "home": "CGM Igualada Femení HCP",
+   "away": "Pons Lleida Bell-Lloc",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-23-7-8",
+   "round": 23,
+   "date": "2027-04-25",
+   "time": "18:00",
+   "home": "Fenie Energia Cerdanyola CCH",
+   "away": "Reus Deportiu",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-24-2-6",
+   "round": 24,
+   "date": "2027-05-01",
+   "time": "16:00",
+   "home": "Vicio PHC Sant Cugat",
+   "away": "CE Arenys de Munt Muntbikes",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-24-11-9",
+   "round": 24,
+   "date": "2027-05-01",
+   "time": "20:00",
+   "home": "Farners",
+   "away": "Club Patí Vila-Sana",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-24-12-0",
+   "round": 24,
+   "date": "2027-05-02",
+   "time": "12:00",
+   "home": "Pons Lleida Bell-Lloc",
+   "away": "CP Blanes",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-24-10-3",
+   "round": 24,
+   "date": "2027-05-02",
+   "time": "17:45",
+   "home": "Futbol Club Martinenc",
+   "away": "CGM Igualada Femení HCP",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-24-8-5",
+   "round": 24,
+   "date": "2027-05-02",
+   "time": "18:00",
+   "home": "Reus Deportiu",
+   "away": "Mollet HC",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-24-1-7",
+   "round": 24,
+   "date": "2027-05-02",
+   "time": "19:30",
+   "home": "SHUM Selvafil",
+   "away": "Fenie Energia Cerdanyola CCH",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-25-5-1",
+   "round": 25,
+   "date": "2027-05-15",
+   "time": "19:45",
+   "home": "Mollet HC",
+   "away": "SHUM Selvafil",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-25-6-4",
+   "round": 25,
+   "date": "2027-05-15",
+   "time": "20:00",
+   "home": "CE Arenys de Munt Muntbikes",
+   "away": "Club Hoquei Arenys de Mar",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-25-0-10",
+   "round": 25,
+   "date": "2027-05-16",
+   "time": "12:30",
+   "home": "CP Blanes",
+   "away": "Futbol Club Martinenc",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-25-3-8",
+   "round": 25,
+   "date": "2027-05-16",
+   "time": "12:30",
+   "home": "CGM Igualada Femení HCP",
+   "away": "Reus Deportiu",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-25-7-2",
+   "round": 25,
+   "date": "2027-05-16",
+   "time": "18:00",
+   "home": "Fenie Energia Cerdanyola CCH",
+   "away": "Vicio PHC Sant Cugat",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-25-9-12",
+   "round": 25,
+   "date": "2027-05-16",
+   "time": "20:00",
+   "home": "Club Patí Vila-Sana",
+   "away": "Pons Lleida Bell-Lloc",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-26-2-5",
+   "round": 26,
+   "date": "2027-05-22",
+   "time": "16:00",
+   "home": "Vicio PHC Sant Cugat",
+   "away": "Mollet HC",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-26-4-7",
+   "round": 26,
+   "date": "2027-05-22",
+   "time": "17:00",
+   "home": "Club Hoquei Arenys de Mar",
+   "away": "Fenie Energia Cerdanyola CCH",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-26-12-11",
+   "round": 26,
+   "date": "2027-05-23",
+   "time": "12:00",
+   "home": "Pons Lleida Bell-Lloc",
+   "away": "Farners",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-26-10-9",
+   "round": 26,
+   "date": "2027-05-23",
+   "time": "17:45",
+   "home": "Futbol Club Martinenc",
+   "away": "Club Patí Vila-Sana",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-26-8-0",
+   "round": 26,
+   "date": "2027-05-23",
+   "time": "18:00",
+   "home": "Reus Deportiu",
+   "away": "CP Blanes",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "primera-femenina-26-1-3",
+   "round": 26,
+   "date": "2027-05-23",
+   "time": "19:30",
+   "home": "SHUM Selvafil",
+   "away": "CGM Igualada Femení HCP",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  }
+ ],
+ "teamCoaches": {},
+ "officialNames": {
+  "CP BLANES": "CP Blanes",
+  "SHUM SELVAFIL": "SHUM Selvafil",
+  "VICIO PHC SANT CUGAT": "Vicio PHC Sant Cugat",
+  "CGM IGUALADA FEMENÍ HCP": "CGM Igualada Femení HCP",
+  "CLUB HOQUEI ARENYS DE MAR": "Club Hoquei Arenys de Mar",
+  "MOLLET HC": "Mollet HC",
+  "CE ARENYS DE MUNT MUNTBIKES": "CE Arenys de Munt Muntbikes",
+  "FENIE ENERGIA CERDANYOLA CCH": "Fenie Energia Cerdanyola CCH",
+  "REUS DEPORTIU": "Reus Deportiu",
+  "CLUB PATÍ VILA-SANA": "Club Patí Vila-Sana",
+  "FUTBOL CLUB MARTINENC": "Futbol Club Martinenc",
+  "FARNERS": "Farners",
+  "PONS LLEIDA BELL-LLOC": "Pons Lleida Bell-Lloc"
+ }
+}

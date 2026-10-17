@@ -1,0 +1,4406 @@
+{
+ "league": "Prebenjamí Plata · Pinturas Roman B · Grup únic",
+ "season": "2026/27",
+ "source": "https://www.hoqueipatins.fecapa.cat/league/4825",
+ "updatedAt": "2026-10-17T17:00:00.000Z",
+ "team": "SHUM Pinturas Roman B",
+ "teams": [
+  "CH Lloret Cafès Cornellà A",
+  "CH Lloret Cafès Cornellà B",
+  "CH Palafrugell A",
+  "CH Figueres",
+  "Club Patí Breda",
+  "Hoquei Club Ripoll",
+  "Pètals D’Art Fdcassanenc B",
+  "Pètals D’Art Fdcassanenc C",
+  "CP Caldes A",
+  "CP Caldes C",
+  "SHUM Grues Viñolas C",
+  "SHUM Pinturas Roman B",
+  "Club Hoquei Sant Jordi",
+  "Girona Club Hoquei B",
+  "CH Olot C"
+ ],
+ "matches": [
+  {
+   "id": "prebenjami-plata-b-1-0-1",
+   "round": 1,
+   "date": "2026-09-26",
+   "time": "18:00",
+   "home": "CH Lloret Cafès Cornellà A",
+   "away": "CH Lloret Cafès Cornellà B",
+   "score": [
+    0,
+    4
+   ],
+   "officialId": "161814",
+   "rosters": {
+    "home": [
+     {
+      "number": 3,
+      "name": "FERNANDEZ VILLAGRASA LIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 10,
+      "name": "CORZO LEON DIEGO OMAR",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 11,
+      "name": "FONTDEGLORIA BARNES IU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 23,
+      "name": "FONT CAPDEVILA DAMIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 58,
+      "name": "LUNA THOS ARYA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 98,
+      "name": "GRAU BOU NIL",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 6,
+      "name": "RODRÍGUEZ BLANCO HÀYET",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 7,
+      "name": "MARTIN ORTEGA SABINE",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 12,
+      "name": "DIEZ FLAMARICH ONA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 19,
+      "name": "COSTA CARRERAS MARCEL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 22,
+      "name": "BRIONES PINO JULEN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 80,
+      "name": "PALOMER VALLS GUIM",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 99,
+      "name": "JORBA OMS ALEX",
+      "goals": 4,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-1-2-3",
+   "round": 1,
+   "date": "2026-09-27",
+   "time": "10:00",
+   "home": "CH Palafrugell A",
+   "away": "CH Figueres",
+   "score": [
+    0,
+    4
+   ],
+   "officialId": "161819",
+   "rosters": {
+    "home": [
+     {
+      "number": 11,
+      "name": "LLINAS DE OLEZA MARC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 31,
+      "name": "CHARRADI ABDAOUI ILYAS",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 33,
+      "name": "REBALLI FERNANDEZ OLIVIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 46,
+      "name": "BALLESTA MARTOS ARLET",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 48,
+      "name": "PRIOR ALMATÓ JANA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 51,
+      "name": "GARCIA GIL SETH",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 47,
+      "name": "BASO MORILLAS PAU",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 16,
+      "name": "NENEZIC TORRAS NIL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 19,
+      "name": "MARTIN JIMENEZ MARIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 42,
+      "name": "FINA SERRA RAMON",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 44,
+      "name": "UREÑA PASCUAL KAI",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 46,
+      "name": "DESCAMPS CUBARSÍ ARNAU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 49,
+      "name": "VILLA PÉREZ KAI",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 1,
+      "name": "DÍAZ PUJOL MARTÍ",
+      "goals": 4,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-1-4-5",
+   "round": 1,
+   "date": "2026-09-27",
+   "time": "11:00",
+   "home": "Club Patí Breda",
+   "away": "Hoquei Club Ripoll",
+   "score": [
+    2,
+    4
+   ],
+   "officialId": "161818",
+   "rosters": {
+    "home": [
+     {
+      "number": 19,
+      "name": "COSTA ANDRÉS NIL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 26,
+      "name": "MÉNDEZ MASNOU BRUNA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 34,
+      "name": "CANALETA MACIAS ELOI",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 40,
+      "name": "BUSQUETS CRUELLS NIL",
+      "goals": 2,
+      "keeper": false
+     },
+     {
+      "number": 56,
+      "name": "PUJOLRÀS SAU ANIOL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 60,
+      "name": "PONS VALLÈS XÈNIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 35,
+      "name": "PONS VALLÈS AINA",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 24,
+      "name": "BALAGUER-TUGUES DEON AMAT",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 28,
+      "name": "VILALTA COMA GIL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 34,
+      "name": "MARÍN PEREA ISSAC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 51,
+      "name": "PAZOS ROCA ALOC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 56,
+      "name": "GOST TEIXIDÓ JAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 10,
+      "name": "BOSCH ESCALERA JAN",
+      "goals": 4,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-1-6-7",
+   "round": 1,
+   "date": "2026-09-27",
+   "time": "12:00",
+   "home": "Pètals D’Art Fdcassanenc B",
+   "away": "Pètals D’Art Fdcassanenc C",
+   "score": [
+    3,
+    1
+   ],
+   "officialId": "161816",
+   "rosters": {
+    "home": [
+     {
+      "number": 21,
+      "name": "JURADO SAMADA ARNAU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 22,
+      "name": "OLIAS GARCÍA HÈCTOR",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 23,
+      "name": "GISPERT PLANAS ARAU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 25,
+      "name": "RIUBRUGENT DURAN ALEIX",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 10,
+      "name": "CORONADO FONT ORIOL",
+      "goals": 3,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 2,
+      "name": "NADAL CARRERAS ROGER",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 3,
+      "name": "ADROHER LARUMBE JAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 4,
+      "name": "PEGUERO BATCHELLI BRU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 5,
+      "name": "CONILL BARDERA JAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 9,
+      "name": "JIMÉNEZ ORTEGA IBAI",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 11,
+      "name": "TIRADO LOZANO GERARD",
+      "goals": 1,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-1-8-9",
+   "round": 1,
+   "date": "2026-09-27",
+   "time": "15:15",
+   "home": "CP Caldes A",
+   "away": "CP Caldes C",
+   "score": [
+    4,
+    0
+   ],
+   "officialId": "161817",
+   "rosters": {
+    "home": [
+     {
+      "number": 15,
+      "name": "GARRIGA RESTUDIS ROC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 24,
+      "name": "AYMERICH ROCA LLUC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 28,
+      "name": "ZEPEDA IRIAS VALENTINA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 40,
+      "name": "SOLANO NUNN MAYA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 42,
+      "name": "AYMERICH ROCA MARTÍ",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 71,
+      "name": "RIBALTA ROVIRA EUDALD",
+      "goals": 4,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 27,
+      "name": "PÉREZ JUIDIAS ASTRID",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 35,
+      "name": "CARRERAS BELMONTE ENZO",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 41,
+      "name": "TREBOL GUITART CARLES",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 45,
+      "name": "BAUTISTA NAVARRO GERARD",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 49,
+      "name": "SERRANO ESTEVE GUILLEM",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 46,
+      "name": "PÉREZ JUIDIAS DANAE",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-1-10-11",
+   "round": 1,
+   "date": "2026-09-27",
+   "time": "17:45",
+   "home": "SHUM Grues Viñolas C",
+   "away": "SHUM Pinturas Roman B",
+   "score": [
+    0,
+    4
+   ],
+   "officialId": "161815",
+   "rosters": {
+    "home": [
+     {
+      "number": 8,
+      "name": "PLANAS VERDAGUER MIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 9,
+      "name": "CICRES SERRA ERIC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 11,
+      "name": "BLANCO PALOMÉ NIM",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 19,
+      "name": "SERRA GIRONELL ARNAU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 54,
+      "name": "SARRADELL RODRIGUEZ ARLET",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 91,
+      "name": "MATITO MALLORQUÍ ALEIX",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 1,
+      "name": "LÓPEZ ANTEQUERA CESC",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 28,
+      "name": "LÓPEZ BARRIOS LUCIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 81,
+      "name": "PERPIÑA TABERNER BRUNA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 83,
+      "name": "CARVAJAL MARTÍNEZ PAULA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 90,
+      "name": "SÁNCHEZ FERNÁNDEZ LEO",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 1,
+      "name": "SARDÁ DEL RÍO JAN",
+      "goals": 4,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-1-12-13",
+   "round": 1,
+   "date": "2027-06-30",
+   "time": "10:00",
+   "home": "Club Hoquei Sant Jordi",
+   "away": "Girona Club Hoquei B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-2-9-6",
+   "round": 2,
+   "date": "2026-10-04",
+   "time": "10:00",
+   "home": "CP Caldes C",
+   "away": "Pètals D’Art Fdcassanenc B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-2-3-4",
+   "round": 2,
+   "date": "2026-10-04",
+   "time": "10:00",
+   "home": "CH Figueres",
+   "away": "Club Patí Breda",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-2-0-11",
+   "round": 2,
+   "date": "2026-10-12",
+   "time": "12:30",
+   "home": "CH Lloret Cafès Cornellà A",
+   "away": "SHUM Pinturas Roman B",
+   "score": [
+    1,
+    4
+   ],
+   "officialId": "161823",
+   "rosters": {
+    "home": [
+     {
+      "number": 3,
+      "name": "FERNANDEZ VILLAGRASA LIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 11,
+      "name": "FONTDEGLORIA BARNES IU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 17,
+      "name": "AGUILERA CIURANA JOSE",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 23,
+      "name": "FONT CAPDEVILA DAMIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 58,
+      "name": "LUNA THOS ARYA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 98,
+      "name": "GRAU BOU NIL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 1,
+      "name": "CORZO LEON DIEGO OMAR",
+      "goals": 1,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 28,
+      "name": "LÓPEZ BARRIOS LUCIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 83,
+      "name": "CARVAJAL MARTÍNEZ PAULA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 90,
+      "name": "SÁNCHEZ FERNÁNDEZ LEO",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 90,
+      "name": "RUHÍ BATLLE JAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 1,
+      "name": "SARDÁ DEL RÍO JAN",
+      "goals": 4,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-2-7-10",
+   "round": 2,
+   "date": "2026-11-08",
+   "time": "17:00",
+   "home": "Pètals D’Art Fdcassanenc C",
+   "away": "SHUM Grues Viñolas C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-2-5-8",
+   "round": 2,
+   "date": "2027-02-20",
+   "time": "15:00",
+   "home": "Hoquei Club Ripoll",
+   "away": "CP Caldes A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-2-14-12",
+   "round": 2,
+   "date": "2027-06-30",
+   "time": "10:00",
+   "home": "CH Olot C",
+   "away": "Club Hoquei Sant Jordi",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-2-13-2",
+   "round": 2,
+   "date": "2027-10-24",
+   "time": "17:30",
+   "home": "Girona Club Hoquei B",
+   "away": "CH Palafrugell A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-3-2-14",
+   "round": 3,
+   "date": "2026-07-31",
+   "time": "11:15",
+   "home": "CH Palafrugell A",
+   "away": "CH Olot C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-3-8-3",
+   "round": 3,
+   "date": "2026-10-10",
+   "time": "15:00",
+   "home": "CP Caldes A",
+   "away": "CH Figueres",
+   "score": [
+    4,
+    1
+   ],
+   "officialId": "161834",
+   "rosters": {
+    "home": [
+     {
+      "number": 15,
+      "name": "GARRIGA RESTUDIS ROC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 24,
+      "name": "AYMERICH ROCA LLUC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 28,
+      "name": "ZEPEDA IRIAS VALENTINA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 42,
+      "name": "AYMERICH ROCA MARTÍ",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 71,
+      "name": "RIBALTA ROVIRA EUDALD",
+      "goals": 4,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 16,
+      "name": "NENEZIC TORRAS NIL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 33,
+      "name": "CORDOBA MATUTE ERIC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 42,
+      "name": "FINA SERRA RAMON",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 49,
+      "name": "VILLA PÉREZ KAI",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 83,
+      "name": "DÍAZ PUJOL MARTÍ",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 1,
+      "name": "DESCAMPS CUBARSÍ ARNAU",
+      "goals": 1,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-3-1-11",
+   "round": 3,
+   "date": "2026-10-11",
+   "time": "09:45",
+   "home": "CH Lloret Cafès Cornellà B",
+   "away": "SHUM Pinturas Roman B",
+   "score": [
+    3,
+    3
+   ],
+   "officialId": "161830",
+   "rosters": {
+    "home": [
+     {
+      "number": 5,
+      "name": "CLUA LEAL TILDA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 6,
+      "name": "RODRÍGUEZ BLANCO HÀYET",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 7,
+      "name": "MARTIN ORTEGA SABINE",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 12,
+      "name": "DIEZ FLAMARICH ONA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 19,
+      "name": "COSTA CARRERAS MARCEL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 22,
+      "name": "BRIONES PINO JULEN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 80,
+      "name": "PALOMER VALLS GUIM",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 99,
+      "name": "JORBA OMS ALEX",
+      "goals": 3,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 28,
+      "name": "LÓPEZ BARRIOS LUCIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 81,
+      "name": "PERPIÑA TABERNER BRUNA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 83,
+      "name": "CARVAJAL MARTÍNEZ PAULA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 99,
+      "name": "RUHÍ BATLLE JAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 1,
+      "name": "SARDÁ DEL RÍO JAN",
+      "goals": 3,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-3-10-9",
+   "round": 3,
+   "date": "2026-10-11",
+   "time": "10:15",
+   "home": "SHUM Grues Viñolas C",
+   "away": "CP Caldes C",
+   "score": [
+    4,
+    2
+   ],
+   "officialId": "161832",
+   "rosters": {
+    "home": [
+     {
+      "number": 8,
+      "name": "PLANAS VERDAGUER MIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 9,
+      "name": "CICRES SERRA ERIC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 19,
+      "name": "SERRA GIRONELL ARNAU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 91,
+      "name": "MATITO MALLORQUÍ ALEIX",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 96,
+      "name": "CURSÀ KUO KAI",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 10,
+      "name": "LÓPEZ ANTEQUERA CESC",
+      "goals": 4,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 27,
+      "name": "PÉREZ JUIDIAS ASTRID",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 35,
+      "name": "CARRERAS BELMONTE ENZO",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 41,
+      "name": "TREBOL GUITART CARLES",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 46,
+      "name": "PÉREZ JUIDIAS DANAE",
+      "goals": 2,
+      "keeper": false
+     },
+     {
+      "number": 1,
+      "name": "ALMANARA PÉREZ ARTAU",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-3-4-13",
+   "round": 3,
+   "date": "2026-10-11",
+   "time": "11:00",
+   "home": "Club Patí Breda",
+   "away": "Girona Club Hoquei B",
+   "score": [
+    1,
+    3
+   ],
+   "officialId": "161835",
+   "rosters": {
+    "home": [
+     {
+      "number": 19,
+      "name": "COSTA ANDRÉS NIL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 34,
+      "name": "CANALETA MACIAS ELOI",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 40,
+      "name": "BUSQUETS CRUELLS NIL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 58,
+      "name": "MASÓ ALSINA ROC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 60,
+      "name": "PONS VALLÈS XÈNIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 70,
+      "name": "ALGILAGA HINCHADO LLUC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 35,
+      "name": "PONS VALLÈS AINA",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 2,
+      "name": "GIL MARENYA CLARA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 8,
+      "name": "FRIGOLA ROURA LIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 13,
+      "name": "LEIVA STÖBER ANATOL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 14,
+      "name": "JUANAL RIOS ANIOL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 22,
+      "name": "MORIANA PARADIS NORA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 37,
+      "name": "GARCIA CRUZ ELISABETH",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 1,
+      "name": "JOANALS RIOS AINA",
+      "goals": 3,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-3-6-5",
+   "round": 3,
+   "date": "2026-10-11",
+   "time": "13:00",
+   "home": "Pètals D’Art Fdcassanenc B",
+   "away": "Hoquei Club Ripoll",
+   "score": [
+    0,
+    4
+   ],
+   "officialId": "161833",
+   "rosters": {
+    "home": [
+     {
+      "number": 18,
+      "name": "CORONADO FONT ORIOL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 25,
+      "name": "JURADO SAMADA ARNAU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 25,
+      "name": "RIUBRUGENT DURAN ALEIX",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 26,
+      "name": "OLIAS GARCÍA HÈCTOR",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 79,
+      "name": "GISPERT PLANAS ARAU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 78,
+      "name": "SALA MANRIQUE JON",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 24,
+      "name": "BALAGUER-TUGUES DEON AMAT",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 25,
+      "name": "BOSCH ESCALERA JAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 28,
+      "name": "VILALTA COMA GIL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 51,
+      "name": "PAZOS ROCA ALOC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 56,
+      "name": "GOST TEIXIDÓ JAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 10,
+      "name": "MARÍN PEREA ISSAC",
+      "goals": 4,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-3-0-7",
+   "round": 3,
+   "date": "2026-10-11",
+   "time": "15:00",
+   "home": "CH Lloret Cafès Cornellà A",
+   "away": "Pètals D’Art Fdcassanenc C",
+   "score": [
+    3,
+    1
+   ],
+   "officialId": "161831",
+   "rosters": {
+    "home": [
+     {
+      "number": 3,
+      "name": "FERNANDEZ VILLAGRASA LIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 11,
+      "name": "FONTDEGLORIA BARNES IU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 23,
+      "name": "FONT CAPDEVILA DAMIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 28,
+      "name": "NAVARRO NAVARRO ADRIÀ",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 58,
+      "name": "LUNA THOS ARYA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 23,
+      "name": "CORZO LEON DIEGO OMAR",
+      "goals": 3,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 2,
+      "name": "NADAL CARRERAS ROGER",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 3,
+      "name": "ADROHER LARUMBE JAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 4,
+      "name": "PEGUERO BATCHELLI BRU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 5,
+      "name": "CONILL BARDERA JAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 6,
+      "name": "COROMINAS GRAU JAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 11,
+      "name": "TIRADO LOZANO GERARD",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 9,
+      "name": "JIMÉNEZ ORTEGA IBAI",
+      "goals": 1,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-4-12-2",
+   "round": 4,
+   "date": "2026-10-17",
+   "time": "10:00",
+   "home": "Club Hoquei Sant Jordi",
+   "away": "CH Palafrugell A",
+   "score": [
+    3,
+    2
+   ],
+   "officialId": "161845",
+   "rosters": {
+    "home": [
+     {
+      "number": 4,
+      "name": "SERRAT TUBERT SIGRID",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 9,
+      "name": "BARNÉS BORRELL MARC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 10,
+      "name": "ARUMI PEREZ GUIM",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 11,
+      "name": "ESC DE CANIVELL MOXÓ BOSCO",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 78,
+      "name": "DE DELÀS ALBERT GUIM",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 30,
+      "name": "DE ROS SOPINCOVA LAURA",
+      "goals": 3,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 33,
+      "name": "REBALLI FERNANDEZ OLIVIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 37,
+      "name": "COROMIA ALIASHKEVICH MARS",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 45,
+      "name": "LLINAS DE OLEZA MARC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 46,
+      "name": "BALLESTA MARTOS ARLET",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 48,
+      "name": "PRIOR ALMATÓ JANA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 51,
+      "name": "GARCIA GIL SETH",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 47,
+      "name": "BASO MORILLAS PAU",
+      "goals": 2,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-4-5-10",
+   "round": 4,
+   "date": "2026-10-17",
+   "time": "15:10",
+   "home": "Hoquei Club Ripoll",
+   "away": "SHUM Grues Viñolas C",
+   "score": [
+    4,
+    0
+   ],
+   "officialId": "161841",
+   "rosters": {
+    "home": [
+     {
+      "number": 24,
+      "name": "BALAGUER-TUGUES DEON AMAT",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 25,
+      "name": "BOSCH ESCALERA JAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 28,
+      "name": "VILALTA COMA GIL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 34,
+      "name": "MARÍN PEREA ISSAC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 56,
+      "name": "GOST TEIXIDÓ JAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 10,
+      "name": "PAZOS ROCA ALOC",
+      "goals": 4,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 1,
+      "name": "BLANCO PALOMÉ NIM",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 9,
+      "name": "CICRES SERRA ERIC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 19,
+      "name": "SERRA GIRONELL ARNAU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 91,
+      "name": "MATITO MALLORQUÍ ALEIX",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 96,
+      "name": "CURSÀ KUO KAI",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 10,
+      "name": "LÓPEZ ANTEQUERA CESC",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-4-13-8",
+   "round": 4,
+   "date": "2026-10-17",
+   "time": "17:30",
+   "home": "Girona Club Hoquei B",
+   "away": "CP Caldes A",
+   "score": [
+    1,
+    3
+   ],
+   "officialId": "161843",
+   "rosters": {
+    "home": [
+     {
+      "number": 2,
+      "name": "GIL MARENYA CLARA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 8,
+      "name": "FRIGOLA ROURA LIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 14,
+      "name": "JUANAL RIOS ANIOL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 19,
+      "name": "JOANALS RIOS AINA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 22,
+      "name": "MORIANA PARADIS NORA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 37,
+      "name": "GARCIA CRUZ ELISABETH",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 1,
+      "name": "LEIVA STÖBER ANATOL",
+      "goals": 1,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 15,
+      "name": "GARRIGA RESTUDIS ROC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 24,
+      "name": "AYMERICH ROCA LLUC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 28,
+      "name": "ZEPEDA IRIAS VALENTINA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 40,
+      "name": "SOLANO NUNN MAYA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 42,
+      "name": "AYMERICH ROCA MARTÍ",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 71,
+      "name": "RIBALTA ROVIRA EUDALD",
+      "goals": 3,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-4-14-4",
+   "round": 4,
+   "date": "2026-10-17",
+   "time": "18:00",
+   "home": "CH Olot C",
+   "away": "Club Patí Breda",
+   "score": [
+    0,
+    4
+   ],
+   "officialId": "161844",
+   "rosters": {
+    "home": [
+     {
+      "number": 5,
+      "name": "MORENO MARCÉ DÍDAC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 7,
+      "name": "JIMENEZ RAMON ARJUNA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 34,
+      "name": "CASTANYER GRIFRELL MARTÍ",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 43,
+      "name": "PEREZ MUÑOZ ROC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 66,
+      "name": "PATRAS ANDREI ALEXANDRU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 1,
+      "name": "SENDRA SANTANDREU JORDI",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 19,
+      "name": "COSTA ANDRÉS NIL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 26,
+      "name": "MÉNDEZ MASNOU BRUNA",
+      "goals": 4,
+      "keeper": false
+     },
+     {
+      "number": 34,
+      "name": "CANALETA MACIAS ELOI",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 56,
+      "name": "PUJOLRÀS SAU ANIOL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 58,
+      "name": "MASÓ ALSINA ROC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 60,
+      "name": "PONS VALLÈS XÈNIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 35,
+      "name": "PONS VALLÈS AINA",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-4-7-1",
+   "round": 4,
+   "date": "2026-10-18",
+   "time": "10:00",
+   "home": "Pètals D’Art Fdcassanenc C",
+   "away": "CH Lloret Cafès Cornellà B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-4-9-0",
+   "round": 4,
+   "date": "2026-10-18",
+   "time": "10:00",
+   "home": "CP Caldes C",
+   "away": "CH Lloret Cafès Cornellà A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-4-3-6",
+   "round": 4,
+   "date": "2026-10-18",
+   "time": "12:00",
+   "home": "CH Figueres",
+   "away": "Pètals D’Art Fdcassanenc B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-5-8-14",
+   "round": 5,
+   "date": "2026-10-24",
+   "time": "13:00",
+   "home": "CP Caldes A",
+   "away": "CH Olot C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-5-1-9",
+   "round": 5,
+   "date": "2026-10-24",
+   "time": "15:00",
+   "home": "CH Lloret Cafès Cornellà B",
+   "away": "CP Caldes C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-5-4-12",
+   "round": 5,
+   "date": "2026-10-24",
+   "time": "17:15",
+   "home": "Club Patí Breda",
+   "away": "Club Hoquei Sant Jordi",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-5-10-3",
+   "round": 5,
+   "date": "2026-10-25",
+   "time": "09:30",
+   "home": "SHUM Grues Viñolas C",
+   "away": "CH Figueres",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-5-5-0",
+   "round": 5,
+   "date": "2026-10-25",
+   "time": "10:00",
+   "home": "Hoquei Club Ripoll",
+   "away": "CH Lloret Cafès Cornellà A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-5-11-7",
+   "round": 5,
+   "date": "2026-10-25",
+   "time": "10:30",
+   "home": "SHUM Pinturas Roman B",
+   "away": "Pètals D’Art Fdcassanenc C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-5-6-13",
+   "round": 5,
+   "date": "2026-10-25",
+   "time": "16:45",
+   "home": "Pètals D’Art Fdcassanenc B",
+   "away": "Girona Club Hoquei B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-6-12-8",
+   "round": 6,
+   "date": "2026-11-07",
+   "time": "10:00",
+   "home": "Club Hoquei Sant Jordi",
+   "away": "CP Caldes A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-6-14-6",
+   "round": 6,
+   "date": "2026-11-07",
+   "time": "15:00",
+   "home": "CH Olot C",
+   "away": "Pètals D’Art Fdcassanenc B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-6-13-10",
+   "round": 6,
+   "date": "2026-11-07",
+   "time": "16:00",
+   "home": "Girona Club Hoquei B",
+   "away": "SHUM Grues Viñolas C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-6-5-1",
+   "round": 6,
+   "date": "2026-11-08",
+   "time": "09:45",
+   "home": "Hoquei Club Ripoll",
+   "away": "CH Lloret Cafès Cornellà B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-6-9-11",
+   "round": 6,
+   "date": "2026-11-08",
+   "time": "10:00",
+   "home": "CP Caldes C",
+   "away": "SHUM Pinturas Roman B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-6-3-0",
+   "round": 6,
+   "date": "2026-11-08",
+   "time": "10:00",
+   "home": "CH Figueres",
+   "away": "CH Lloret Cafès Cornellà A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-6-2-4",
+   "round": 6,
+   "date": "2026-11-08",
+   "time": "10:00",
+   "home": "CH Palafrugell A",
+   "away": "Club Patí Breda",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-7-7-9",
+   "round": 7,
+   "date": "2026-11-15",
+   "time": "09:15",
+   "home": "Pètals D’Art Fdcassanenc C",
+   "away": "CP Caldes C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-7-0-13",
+   "round": 7,
+   "date": "2026-11-15",
+   "time": "09:45",
+   "home": "CH Lloret Cafès Cornellà A",
+   "away": "Girona Club Hoquei B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-7-10-14",
+   "round": 7,
+   "date": "2026-11-15",
+   "time": "10:00",
+   "home": "SHUM Grues Viñolas C",
+   "away": "CH Olot C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-7-6-12",
+   "round": 7,
+   "date": "2026-11-15",
+   "time": "10:30",
+   "home": "Pètals D’Art Fdcassanenc B",
+   "away": "Club Hoquei Sant Jordi",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-7-11-5",
+   "round": 7,
+   "date": "2026-11-15",
+   "time": "12:30",
+   "home": "SHUM Pinturas Roman B",
+   "away": "Hoquei Club Ripoll",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-7-1-3",
+   "round": 7,
+   "date": "2026-11-15",
+   "time": "15:00",
+   "home": "CH Lloret Cafès Cornellà B",
+   "away": "CH Figueres",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-7-8-2",
+   "round": 7,
+   "date": "2026-11-15",
+   "time": "16:15",
+   "home": "CP Caldes A",
+   "away": "CH Palafrugell A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-8-12-10",
+   "round": 8,
+   "date": "2026-11-21",
+   "time": "10:00",
+   "home": "Club Hoquei Sant Jordi",
+   "away": "SHUM Grues Viñolas C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-8-5-7",
+   "round": 8,
+   "date": "2026-11-21",
+   "time": "15:15",
+   "home": "Hoquei Club Ripoll",
+   "away": "Pètals D’Art Fdcassanenc C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-8-14-0",
+   "round": 8,
+   "date": "2026-11-22",
+   "time": "09:00",
+   "home": "CH Olot C",
+   "away": "CH Lloret Cafès Cornellà A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-8-13-1",
+   "round": 8,
+   "date": "2026-11-22",
+   "time": "09:15",
+   "home": "Girona Club Hoquei B",
+   "away": "CH Lloret Cafès Cornellà B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-8-3-11",
+   "round": 8,
+   "date": "2026-11-22",
+   "time": "10:00",
+   "home": "CH Figueres",
+   "away": "SHUM Pinturas Roman B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-8-2-6",
+   "round": 8,
+   "date": "2026-11-22",
+   "time": "10:00",
+   "home": "CH Palafrugell A",
+   "away": "Pètals D’Art Fdcassanenc B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-8-4-8",
+   "round": 8,
+   "date": "2026-11-22",
+   "time": "12:00",
+   "home": "Club Patí Breda",
+   "away": "CP Caldes A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-9-7-3",
+   "round": 9,
+   "date": "2026-11-29",
+   "time": "09:15",
+   "home": "Pètals D’Art Fdcassanenc C",
+   "away": "CH Figueres",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-9-10-2",
+   "round": 9,
+   "date": "2026-11-29",
+   "time": "09:15",
+   "home": "SHUM Grues Viñolas C",
+   "away": "CH Palafrugell A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-9-1-14",
+   "round": 9,
+   "date": "2026-11-29",
+   "time": "10:00",
+   "home": "CH Lloret Cafès Cornellà B",
+   "away": "CH Olot C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-9-0-12",
+   "round": 9,
+   "date": "2026-11-29",
+   "time": "10:00",
+   "home": "CH Lloret Cafès Cornellà A",
+   "away": "Club Hoquei Sant Jordi",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-9-11-13",
+   "round": 9,
+   "date": "2026-11-29",
+   "time": "10:30",
+   "home": "SHUM Pinturas Roman B",
+   "away": "Girona Club Hoquei B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-9-6-4",
+   "round": 9,
+   "date": "2026-11-29",
+   "time": "10:30",
+   "home": "Pètals D’Art Fdcassanenc B",
+   "away": "Club Patí Breda",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-9-9-5",
+   "round": 9,
+   "date": "2026-11-29",
+   "time": "15:30",
+   "home": "CP Caldes C",
+   "away": "Hoquei Club Ripoll",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-10-12-1",
+   "round": 10,
+   "date": "2026-12-12",
+   "time": "10:00",
+   "home": "Club Hoquei Sant Jordi",
+   "away": "CH Lloret Cafès Cornellà B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-10-8-6",
+   "round": 10,
+   "date": "2026-12-12",
+   "time": "15:00",
+   "home": "CP Caldes A",
+   "away": "Pètals D’Art Fdcassanenc B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-10-14-11",
+   "round": 10,
+   "date": "2026-12-13",
+   "time": "09:00",
+   "home": "CH Olot C",
+   "away": "SHUM Pinturas Roman B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-10-13-7",
+   "round": 10,
+   "date": "2026-12-13",
+   "time": "09:15",
+   "home": "Girona Club Hoquei B",
+   "away": "Pètals D’Art Fdcassanenc C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-10-3-9",
+   "round": 10,
+   "date": "2026-12-13",
+   "time": "10:00",
+   "home": "CH Figueres",
+   "away": "CP Caldes C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-10-2-0",
+   "round": 10,
+   "date": "2026-12-13",
+   "time": "10:00",
+   "home": "CH Palafrugell A",
+   "away": "CH Lloret Cafès Cornellà A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-10-4-10",
+   "round": 10,
+   "date": "2026-12-13",
+   "time": "11:00",
+   "home": "Club Patí Breda",
+   "away": "SHUM Grues Viñolas C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-11-5-3",
+   "round": 11,
+   "date": "2026-12-19",
+   "time": "15:15",
+   "home": "Hoquei Club Ripoll",
+   "away": "CH Figueres",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-11-10-8",
+   "round": 11,
+   "date": "2026-12-20",
+   "time": "09:15",
+   "home": "SHUM Grues Viñolas C",
+   "away": "CP Caldes A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-11-9-13",
+   "round": 11,
+   "date": "2026-12-20",
+   "time": "10:00",
+   "home": "CP Caldes C",
+   "away": "Girona Club Hoquei B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-11-1-2",
+   "round": 11,
+   "date": "2026-12-20",
+   "time": "10:00",
+   "home": "CH Lloret Cafès Cornellà B",
+   "away": "CH Palafrugell A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-11-0-4",
+   "round": 11,
+   "date": "2026-12-20",
+   "time": "10:00",
+   "home": "CH Lloret Cafès Cornellà A",
+   "away": "Club Patí Breda",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-11-11-12",
+   "round": 11,
+   "date": "2026-12-20",
+   "time": "10:30",
+   "home": "SHUM Pinturas Roman B",
+   "away": "Club Hoquei Sant Jordi",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-11-7-14",
+   "round": 11,
+   "date": "2026-12-20",
+   "time": "10:45",
+   "home": "Pètals D’Art Fdcassanenc C",
+   "away": "CH Olot C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-12-12-7",
+   "round": 12,
+   "date": "2027-01-09",
+   "time": "10:00",
+   "home": "Club Hoquei Sant Jordi",
+   "away": "Pètals D’Art Fdcassanenc C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-12-8-0",
+   "round": 12,
+   "date": "2027-01-09",
+   "time": "15:00",
+   "home": "CP Caldes A",
+   "away": "CH Lloret Cafès Cornellà A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-12-14-9",
+   "round": 12,
+   "date": "2027-01-10",
+   "time": "09:00",
+   "home": "CH Olot C",
+   "away": "CP Caldes C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-12-13-5",
+   "round": 12,
+   "date": "2027-01-10",
+   "time": "09:15",
+   "home": "Girona Club Hoquei B",
+   "away": "Hoquei Club Ripoll",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-12-2-11",
+   "round": 12,
+   "date": "2027-01-10",
+   "time": "10:00",
+   "home": "CH Palafrugell A",
+   "away": "SHUM Pinturas Roman B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-12-6-10",
+   "round": 12,
+   "date": "2027-01-10",
+   "time": "10:00",
+   "home": "Pètals D’Art Fdcassanenc B",
+   "away": "SHUM Grues Viñolas C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-12-4-1",
+   "round": 12,
+   "date": "2027-01-10",
+   "time": "11:00",
+   "home": "Club Patí Breda",
+   "away": "CH Lloret Cafès Cornellà B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-13-5-14",
+   "round": 13,
+   "date": "2027-01-16",
+   "time": "15:15",
+   "home": "Hoquei Club Ripoll",
+   "away": "CH Olot C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-13-3-13",
+   "round": 13,
+   "date": "2027-01-17",
+   "time": "10:00",
+   "home": "CH Figueres",
+   "away": "Girona Club Hoquei B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-13-9-12",
+   "round": 13,
+   "date": "2027-01-17",
+   "time": "10:00",
+   "home": "CP Caldes C",
+   "away": "Club Hoquei Sant Jordi",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-13-7-2",
+   "round": 13,
+   "date": "2027-01-17",
+   "time": "10:00",
+   "home": "Pètals D’Art Fdcassanenc C",
+   "away": "CH Palafrugell A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-13-1-8",
+   "round": 13,
+   "date": "2027-01-17",
+   "time": "10:00",
+   "home": "CH Lloret Cafès Cornellà B",
+   "away": "CP Caldes A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-13-0-6",
+   "round": 13,
+   "date": "2027-01-17",
+   "time": "10:00",
+   "home": "CH Lloret Cafès Cornellà A",
+   "away": "Pètals D’Art Fdcassanenc B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-13-11-4",
+   "round": 13,
+   "date": "2027-01-17",
+   "time": "10:30",
+   "home": "SHUM Pinturas Roman B",
+   "away": "Club Patí Breda",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-14-12-5",
+   "round": 14,
+   "date": "2027-01-23",
+   "time": "10:00",
+   "home": "Club Hoquei Sant Jordi",
+   "away": "Hoquei Club Ripoll",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-14-8-11",
+   "round": 14,
+   "date": "2027-01-23",
+   "time": "15:00",
+   "home": "CP Caldes A",
+   "away": "SHUM Pinturas Roman B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-14-4-7",
+   "round": 14,
+   "date": "2027-01-23",
+   "time": "16:30",
+   "home": "Club Patí Breda",
+   "away": "Pètals D’Art Fdcassanenc C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-14-14-3",
+   "round": 14,
+   "date": "2027-01-24",
+   "time": "09:00",
+   "home": "CH Olot C",
+   "away": "CH Figueres",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-14-10-0",
+   "round": 14,
+   "date": "2027-01-24",
+   "time": "09:15",
+   "home": "SHUM Grues Viñolas C",
+   "away": "CH Lloret Cafès Cornellà A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-14-2-9",
+   "round": 14,
+   "date": "2027-01-24",
+   "time": "10:00",
+   "home": "CH Palafrugell A",
+   "away": "CP Caldes C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-14-6-1",
+   "round": 14,
+   "date": "2027-01-24",
+   "time": "10:00",
+   "home": "Pètals D’Art Fdcassanenc B",
+   "away": "CH Lloret Cafès Cornellà B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-15-5-2",
+   "round": 15,
+   "date": "2027-01-30",
+   "time": "15:15",
+   "home": "Hoquei Club Ripoll",
+   "away": "CH Palafrugell A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-15-13-14",
+   "round": 15,
+   "date": "2027-01-31",
+   "time": "09:15",
+   "home": "Girona Club Hoquei B",
+   "away": "CH Olot C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-15-3-12",
+   "round": 15,
+   "date": "2027-01-31",
+   "time": "10:00",
+   "home": "CH Figueres",
+   "away": "Club Hoquei Sant Jordi",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-15-9-4",
+   "round": 15,
+   "date": "2027-01-31",
+   "time": "10:00",
+   "home": "CP Caldes C",
+   "away": "Club Patí Breda",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-15-7-8",
+   "round": 15,
+   "date": "2027-01-31",
+   "time": "10:00",
+   "home": "Pètals D’Art Fdcassanenc C",
+   "away": "CP Caldes A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-15-11-6",
+   "round": 15,
+   "date": "2027-01-31",
+   "time": "10:30",
+   "home": "SHUM Pinturas Roman B",
+   "away": "Pètals D’Art Fdcassanenc B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-15-1-10",
+   "round": 15,
+   "date": "2027-01-31",
+   "time": "12:00",
+   "home": "CH Lloret Cafès Cornellà B",
+   "away": "SHUM Grues Viñolas C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-16-5-4",
+   "round": 16,
+   "date": "2027-02-13",
+   "time": "15:15",
+   "home": "Hoquei Club Ripoll",
+   "away": "Club Patí Breda",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-16-13-12",
+   "round": 16,
+   "date": "2027-02-14",
+   "time": "09:15",
+   "home": "Girona Club Hoquei B",
+   "away": "Club Hoquei Sant Jordi",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-16-1-0",
+   "round": 16,
+   "date": "2027-02-14",
+   "time": "10:00",
+   "home": "CH Lloret Cafès Cornellà B",
+   "away": "CH Lloret Cafès Cornellà A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-16-7-6",
+   "round": 16,
+   "date": "2027-02-14",
+   "time": "10:00",
+   "home": "Pètals D’Art Fdcassanenc C",
+   "away": "Pètals D’Art Fdcassanenc B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-16-9-8",
+   "round": 16,
+   "date": "2027-02-14",
+   "time": "10:00",
+   "home": "CP Caldes C",
+   "away": "CP Caldes A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-16-3-2",
+   "round": 16,
+   "date": "2027-02-14",
+   "time": "10:00",
+   "home": "CH Figueres",
+   "away": "CH Palafrugell A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-16-11-10",
+   "round": 16,
+   "date": "2027-02-14",
+   "time": "10:30",
+   "home": "SHUM Pinturas Roman B",
+   "away": "SHUM Grues Viñolas C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-17-8-5",
+   "round": 17,
+   "date": "2026-10-04",
+   "time": "15:30",
+   "home": "CP Caldes A",
+   "away": "Hoquei Club Ripoll",
+   "score": [
+    4,
+    1
+   ],
+   "officialId": "161946",
+   "rosters": {
+    "home": [
+     {
+      "number": 15,
+      "name": "GARRIGA RESTUDIS ROC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 24,
+      "name": "AYMERICH ROCA LLUC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 28,
+      "name": "ZEPEDA IRIAS VALENTINA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 42,
+      "name": "AYMERICH ROCA MARTÍ",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 71,
+      "name": "RIBALTA ROVIRA EUDALD",
+      "goals": 4,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 25,
+      "name": "BOSCH ESCALERA JAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 34,
+      "name": "MARÍN PEREA ISSAC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 51,
+      "name": "PAZOS ROCA ALOC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 56,
+      "name": "GOST TEIXIDÓ JAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 10,
+      "name": "VILALTA COMA GIL",
+      "goals": 1,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-17-12-14",
+   "round": 17,
+   "date": "2027-02-20",
+   "time": "10:00",
+   "home": "Club Hoquei Sant Jordi",
+   "away": "CH Olot C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-17-10-7",
+   "round": 17,
+   "date": "2027-02-21",
+   "time": "09:15",
+   "home": "SHUM Grues Viñolas C",
+   "away": "Pètals D’Art Fdcassanenc C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-17-0-11",
+   "round": 17,
+   "date": "2027-02-21",
+   "time": "10:00",
+   "home": "CH Lloret Cafès Cornellà A",
+   "away": "SHUM Pinturas Roman B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-17-6-9",
+   "round": 17,
+   "date": "2027-02-21",
+   "time": "10:00",
+   "home": "Pètals D’Art Fdcassanenc B",
+   "away": "CP Caldes C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-17-2-13",
+   "round": 17,
+   "date": "2027-02-21",
+   "time": "10:00",
+   "home": "CH Palafrugell A",
+   "away": "Girona Club Hoquei B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-17-4-3",
+   "round": 17,
+   "date": "2027-02-21",
+   "time": "12:00",
+   "home": "Club Patí Breda",
+   "away": "CH Figueres",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-18-5-6",
+   "round": 18,
+   "date": "2027-02-27",
+   "time": "15:15",
+   "home": "Hoquei Club Ripoll",
+   "away": "Pètals D’Art Fdcassanenc B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-18-14-2",
+   "round": 18,
+   "date": "2027-02-28",
+   "time": "09:00",
+   "home": "CH Olot C",
+   "away": "CH Palafrugell A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-18-13-4",
+   "round": 18,
+   "date": "2027-02-28",
+   "time": "09:15",
+   "home": "Girona Club Hoquei B",
+   "away": "Club Patí Breda",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-18-7-0",
+   "round": 18,
+   "date": "2027-02-28",
+   "time": "10:00",
+   "home": "Pètals D’Art Fdcassanenc C",
+   "away": "CH Lloret Cafès Cornellà A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-18-9-10",
+   "round": 18,
+   "date": "2027-02-28",
+   "time": "10:00",
+   "home": "CP Caldes C",
+   "away": "SHUM Grues Viñolas C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-18-3-8",
+   "round": 18,
+   "date": "2027-02-28",
+   "time": "10:00",
+   "home": "CH Figueres",
+   "away": "CP Caldes A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-18-11-1",
+   "round": 18,
+   "date": "2027-02-28",
+   "time": "10:30",
+   "home": "SHUM Pinturas Roman B",
+   "away": "CH Lloret Cafès Cornellà B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-19-8-13",
+   "round": 19,
+   "date": "2027-03-06",
+   "time": "15:00",
+   "home": "CP Caldes A",
+   "away": "Girona Club Hoquei B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-19-10-5",
+   "round": 19,
+   "date": "2027-03-07",
+   "time": "09:15",
+   "home": "SHUM Grues Viñolas C",
+   "away": "Hoquei Club Ripoll",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-19-1-7",
+   "round": 19,
+   "date": "2027-03-07",
+   "time": "10:00",
+   "home": "CH Lloret Cafès Cornellà B",
+   "away": "Pètals D’Art Fdcassanenc C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-19-0-9",
+   "round": 19,
+   "date": "2027-03-07",
+   "time": "10:00",
+   "home": "CH Lloret Cafès Cornellà A",
+   "away": "CP Caldes C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-19-6-3",
+   "round": 19,
+   "date": "2027-03-07",
+   "time": "10:00",
+   "home": "Pètals D’Art Fdcassanenc B",
+   "away": "CH Figueres",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-19-2-12",
+   "round": 19,
+   "date": "2027-03-07",
+   "time": "10:00",
+   "home": "CH Palafrugell A",
+   "away": "Club Hoquei Sant Jordi",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-19-4-14",
+   "round": 19,
+   "date": "2027-03-07",
+   "time": "12:00",
+   "home": "Club Patí Breda",
+   "away": "CH Olot C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-20-0-5",
+   "round": 20,
+   "date": "2027-03-13",
+   "time": "10:00",
+   "home": "CH Lloret Cafès Cornellà A",
+   "away": "Hoquei Club Ripoll",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-20-12-4",
+   "round": 20,
+   "date": "2027-03-13",
+   "time": "10:00",
+   "home": "Club Hoquei Sant Jordi",
+   "away": "Club Patí Breda",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-20-14-8",
+   "round": 20,
+   "date": "2027-03-14",
+   "time": "09:00",
+   "home": "CH Olot C",
+   "away": "CP Caldes A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-20-13-6",
+   "round": 20,
+   "date": "2027-03-14",
+   "time": "09:15",
+   "home": "Girona Club Hoquei B",
+   "away": "Pètals D’Art Fdcassanenc B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-20-7-11",
+   "round": 20,
+   "date": "2027-03-14",
+   "time": "10:00",
+   "home": "Pètals D’Art Fdcassanenc C",
+   "away": "SHUM Pinturas Roman B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-20-9-1",
+   "round": 20,
+   "date": "2027-03-14",
+   "time": "10:00",
+   "home": "CP Caldes C",
+   "away": "CH Lloret Cafès Cornellà B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-20-3-10",
+   "round": 20,
+   "date": "2027-03-14",
+   "time": "10:00",
+   "home": "CH Figueres",
+   "away": "SHUM Grues Viñolas C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-21-8-12",
+   "round": 21,
+   "date": "2027-03-20",
+   "time": "15:00",
+   "home": "CP Caldes A",
+   "away": "Club Hoquei Sant Jordi",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-21-10-13",
+   "round": 21,
+   "date": "2027-03-21",
+   "time": "09:15",
+   "home": "SHUM Grues Viñolas C",
+   "away": "Girona Club Hoquei B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-21-1-5",
+   "round": 21,
+   "date": "2027-03-21",
+   "time": "10:00",
+   "home": "CH Lloret Cafès Cornellà B",
+   "away": "Hoquei Club Ripoll",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-21-0-3",
+   "round": 21,
+   "date": "2027-03-21",
+   "time": "10:00",
+   "home": "CH Lloret Cafès Cornellà A",
+   "away": "CH Figueres",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-21-6-14",
+   "round": 21,
+   "date": "2027-03-21",
+   "time": "10:00",
+   "home": "Pètals D’Art Fdcassanenc B",
+   "away": "CH Olot C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-21-11-9",
+   "round": 21,
+   "date": "2027-03-21",
+   "time": "10:30",
+   "home": "SHUM Pinturas Roman B",
+   "away": "CP Caldes C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-21-4-2",
+   "round": 21,
+   "date": "2027-03-21",
+   "time": "12:00",
+   "home": "Club Patí Breda",
+   "away": "CH Palafrugell A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-22-12-6",
+   "round": 22,
+   "date": "2027-04-03",
+   "time": "10:00",
+   "home": "Club Hoquei Sant Jordi",
+   "away": "Pètals D’Art Fdcassanenc B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-22-5-11",
+   "round": 22,
+   "date": "2027-04-03",
+   "time": "15:15",
+   "home": "Hoquei Club Ripoll",
+   "away": "SHUM Pinturas Roman B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-22-14-10",
+   "round": 22,
+   "date": "2027-04-04",
+   "time": "09:00",
+   "home": "CH Olot C",
+   "away": "SHUM Grues Viñolas C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-22-13-0",
+   "round": 22,
+   "date": "2027-04-04",
+   "time": "09:15",
+   "home": "Girona Club Hoquei B",
+   "away": "CH Lloret Cafès Cornellà A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-22-9-7",
+   "round": 22,
+   "date": "2027-04-04",
+   "time": "10:00",
+   "home": "CP Caldes C",
+   "away": "Pètals D’Art Fdcassanenc C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-22-3-1",
+   "round": 22,
+   "date": "2027-04-04",
+   "time": "10:00",
+   "home": "CH Figueres",
+   "away": "CH Lloret Cafès Cornellà B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-22-2-8",
+   "round": 22,
+   "date": "2027-04-04",
+   "time": "10:00",
+   "home": "CH Palafrugell A",
+   "away": "CP Caldes A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-23-8-4",
+   "round": 23,
+   "date": "2027-04-10",
+   "time": "15:00",
+   "home": "CP Caldes A",
+   "away": "Club Patí Breda",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-23-10-12",
+   "round": 23,
+   "date": "2027-04-11",
+   "time": "09:15",
+   "home": "SHUM Grues Viñolas C",
+   "away": "Club Hoquei Sant Jordi",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-23-7-5",
+   "round": 23,
+   "date": "2027-04-11",
+   "time": "10:00",
+   "home": "Pètals D’Art Fdcassanenc C",
+   "away": "Hoquei Club Ripoll",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-23-1-13",
+   "round": 23,
+   "date": "2027-04-11",
+   "time": "10:00",
+   "home": "CH Lloret Cafès Cornellà B",
+   "away": "Girona Club Hoquei B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-23-0-14",
+   "round": 23,
+   "date": "2027-04-11",
+   "time": "10:00",
+   "home": "CH Lloret Cafès Cornellà A",
+   "away": "CH Olot C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-23-6-2",
+   "round": 23,
+   "date": "2027-04-11",
+   "time": "10:00",
+   "home": "Pètals D’Art Fdcassanenc B",
+   "away": "CH Palafrugell A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-23-11-3",
+   "round": 23,
+   "date": "2027-04-11",
+   "time": "10:30",
+   "home": "SHUM Pinturas Roman B",
+   "away": "CH Figueres",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-24-12-0",
+   "round": 24,
+   "date": "2027-04-17",
+   "time": "10:00",
+   "home": "Club Hoquei Sant Jordi",
+   "away": "CH Lloret Cafès Cornellà A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-24-5-9",
+   "round": 24,
+   "date": "2027-04-17",
+   "time": "15:15",
+   "home": "Hoquei Club Ripoll",
+   "away": "CP Caldes C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-24-14-1",
+   "round": 24,
+   "date": "2027-04-18",
+   "time": "09:00",
+   "home": "CH Olot C",
+   "away": "CH Lloret Cafès Cornellà B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-24-13-11",
+   "round": 24,
+   "date": "2027-04-18",
+   "time": "09:15",
+   "home": "Girona Club Hoquei B",
+   "away": "SHUM Pinturas Roman B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-24-3-7",
+   "round": 24,
+   "date": "2027-04-18",
+   "time": "10:00",
+   "home": "CH Figueres",
+   "away": "Pètals D’Art Fdcassanenc C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-24-2-10",
+   "round": 24,
+   "date": "2027-04-18",
+   "time": "10:00",
+   "home": "CH Palafrugell A",
+   "away": "SHUM Grues Viñolas C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-24-4-6",
+   "round": 24,
+   "date": "2027-04-18",
+   "time": "12:00",
+   "home": "Club Patí Breda",
+   "away": "Pètals D’Art Fdcassanenc B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-25-10-4",
+   "round": 25,
+   "date": "2027-04-25",
+   "time": "09:15",
+   "home": "SHUM Grues Viñolas C",
+   "away": "Club Patí Breda",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-25-9-3",
+   "round": 25,
+   "date": "2027-04-25",
+   "time": "10:00",
+   "home": "CP Caldes C",
+   "away": "CH Figueres",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-25-7-13",
+   "round": 25,
+   "date": "2027-04-25",
+   "time": "10:00",
+   "home": "Pètals D’Art Fdcassanenc C",
+   "away": "Girona Club Hoquei B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-25-1-12",
+   "round": 25,
+   "date": "2027-04-25",
+   "time": "10:00",
+   "home": "CH Lloret Cafès Cornellà B",
+   "away": "Club Hoquei Sant Jordi",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-25-0-2",
+   "round": 25,
+   "date": "2027-04-25",
+   "time": "10:00",
+   "home": "CH Lloret Cafès Cornellà A",
+   "away": "CH Palafrugell A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-25-6-8",
+   "round": 25,
+   "date": "2027-04-25",
+   "time": "10:00",
+   "home": "Pètals D’Art Fdcassanenc B",
+   "away": "CP Caldes A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-25-11-14",
+   "round": 25,
+   "date": "2027-04-25",
+   "time": "10:30",
+   "home": "SHUM Pinturas Roman B",
+   "away": "CH Olot C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-26-12-11",
+   "round": 26,
+   "date": "2027-05-08",
+   "time": "10:00",
+   "home": "Club Hoquei Sant Jordi",
+   "away": "SHUM Pinturas Roman B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-26-8-10",
+   "round": 26,
+   "date": "2027-05-08",
+   "time": "15:00",
+   "home": "CP Caldes A",
+   "away": "SHUM Grues Viñolas C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-26-14-7",
+   "round": 26,
+   "date": "2027-05-09",
+   "time": "09:00",
+   "home": "CH Olot C",
+   "away": "Pètals D’Art Fdcassanenc C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-26-13-9",
+   "round": 26,
+   "date": "2027-05-09",
+   "time": "09:15",
+   "home": "Girona Club Hoquei B",
+   "away": "CP Caldes C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-26-3-5",
+   "round": 26,
+   "date": "2027-05-09",
+   "time": "10:00",
+   "home": "CH Figueres",
+   "away": "Hoquei Club Ripoll",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-26-2-1",
+   "round": 26,
+   "date": "2027-05-09",
+   "time": "10:00",
+   "home": "CH Palafrugell A",
+   "away": "CH Lloret Cafès Cornellà B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-26-4-0",
+   "round": 26,
+   "date": "2027-05-09",
+   "time": "12:00",
+   "home": "Club Patí Breda",
+   "away": "CH Lloret Cafès Cornellà A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-27-5-13",
+   "round": 27,
+   "date": "2027-05-15",
+   "time": "15:15",
+   "home": "Hoquei Club Ripoll",
+   "away": "Girona Club Hoquei B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-27-10-6",
+   "round": 27,
+   "date": "2027-05-16",
+   "time": "09:15",
+   "home": "SHUM Grues Viñolas C",
+   "away": "Pètals D’Art Fdcassanenc B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-27-9-14",
+   "round": 27,
+   "date": "2027-05-16",
+   "time": "10:00",
+   "home": "CP Caldes C",
+   "away": "CH Olot C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-27-7-12",
+   "round": 27,
+   "date": "2027-05-16",
+   "time": "10:00",
+   "home": "Pètals D’Art Fdcassanenc C",
+   "away": "Club Hoquei Sant Jordi",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-27-1-4",
+   "round": 27,
+   "date": "2027-05-16",
+   "time": "10:00",
+   "home": "CH Lloret Cafès Cornellà B",
+   "away": "Club Patí Breda",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-27-0-8",
+   "round": 27,
+   "date": "2027-05-16",
+   "time": "10:00",
+   "home": "CH Lloret Cafès Cornellà A",
+   "away": "CP Caldes A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-27-11-2",
+   "round": 27,
+   "date": "2027-05-16",
+   "time": "10:30",
+   "home": "SHUM Pinturas Roman B",
+   "away": "CH Palafrugell A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-28-12-9",
+   "round": 28,
+   "date": "2027-05-22",
+   "time": "10:00",
+   "home": "Club Hoquei Sant Jordi",
+   "away": "CP Caldes C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-28-8-1",
+   "round": 28,
+   "date": "2027-05-22",
+   "time": "15:00",
+   "home": "CP Caldes A",
+   "away": "CH Lloret Cafès Cornellà B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-28-14-5",
+   "round": 28,
+   "date": "2027-05-23",
+   "time": "09:00",
+   "home": "CH Olot C",
+   "away": "Hoquei Club Ripoll",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-28-13-3",
+   "round": 28,
+   "date": "2027-05-23",
+   "time": "09:15",
+   "home": "Girona Club Hoquei B",
+   "away": "CH Figueres",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-28-2-7",
+   "round": 28,
+   "date": "2027-05-23",
+   "time": "10:00",
+   "home": "CH Palafrugell A",
+   "away": "Pètals D’Art Fdcassanenc C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-28-6-0",
+   "round": 28,
+   "date": "2027-05-23",
+   "time": "10:00",
+   "home": "Pètals D’Art Fdcassanenc B",
+   "away": "CH Lloret Cafès Cornellà A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-28-4-11",
+   "round": 28,
+   "date": "2027-05-23",
+   "time": "12:00",
+   "home": "Club Patí Breda",
+   "away": "SHUM Pinturas Roman B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-29-5-12",
+   "round": 29,
+   "date": "2027-05-29",
+   "time": "15:15",
+   "home": "Hoquei Club Ripoll",
+   "away": "Club Hoquei Sant Jordi",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-29-3-14",
+   "round": 29,
+   "date": "2027-05-30",
+   "time": "10:00",
+   "home": "CH Figueres",
+   "away": "CH Olot C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-29-9-2",
+   "round": 29,
+   "date": "2027-05-30",
+   "time": "10:00",
+   "home": "CP Caldes C",
+   "away": "CH Palafrugell A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-29-7-4",
+   "round": 29,
+   "date": "2027-05-30",
+   "time": "10:00",
+   "home": "Pètals D’Art Fdcassanenc C",
+   "away": "Club Patí Breda",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-29-1-6",
+   "round": 29,
+   "date": "2027-05-30",
+   "time": "10:00",
+   "home": "CH Lloret Cafès Cornellà B",
+   "away": "Pètals D’Art Fdcassanenc B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-29-0-10",
+   "round": 29,
+   "date": "2027-05-30",
+   "time": "10:00",
+   "home": "CH Lloret Cafès Cornellà A",
+   "away": "SHUM Grues Viñolas C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-29-11-8",
+   "round": 29,
+   "date": "2027-05-30",
+   "time": "10:30",
+   "home": "SHUM Pinturas Roman B",
+   "away": "CP Caldes A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-30-12-3",
+   "round": 30,
+   "date": "2027-06-05",
+   "time": "10:00",
+   "home": "Club Hoquei Sant Jordi",
+   "away": "CH Figueres",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-30-8-7",
+   "round": 30,
+   "date": "2027-06-05",
+   "time": "15:00",
+   "home": "CP Caldes A",
+   "away": "Pètals D’Art Fdcassanenc C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-30-14-13",
+   "round": 30,
+   "date": "2027-06-06",
+   "time": "09:00",
+   "home": "CH Olot C",
+   "away": "Girona Club Hoquei B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-30-10-1",
+   "round": 30,
+   "date": "2027-06-06",
+   "time": "09:15",
+   "home": "SHUM Grues Viñolas C",
+   "away": "CH Lloret Cafès Cornellà B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-30-2-5",
+   "round": 30,
+   "date": "2027-06-06",
+   "time": "10:00",
+   "home": "CH Palafrugell A",
+   "away": "Hoquei Club Ripoll",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-30-6-11",
+   "round": 30,
+   "date": "2027-06-06",
+   "time": "10:00",
+   "home": "Pètals D’Art Fdcassanenc B",
+   "away": "SHUM Pinturas Roman B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "prebenjami-plata-b-30-4-9",
+   "round": 30,
+   "date": "2027-06-06",
+   "time": "12:00",
+   "home": "Club Patí Breda",
+   "away": "CP Caldes C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  }
+ ],
+ "teamCoaches": {},
+ "officialNames": {
+  "CH LLORET CAFÈS CORNELLÀ A": "CH Lloret Cafès Cornellà A",
+  "CH LLORET CAFÈS CORNELLÀ B": "CH Lloret Cafès Cornellà B",
+  "CH PALAFRUGELL A": "CH Palafrugell A",
+  "CH FIGUERES": "CH Figueres",
+  "CLUB PATÍ BREDA": "Club Patí Breda",
+  "HOQUEI CLUB RIPOLL": "Hoquei Club Ripoll",
+  "PÈTALS D’ART FDCASSANENC B": "Pètals D’Art Fdcassanenc B",
+  "PÈTALS D’ART FDCASSANENC C": "Pètals D’Art Fdcassanenc C",
+  "CP CALDES A": "CP Caldes A",
+  "CP CALDES C": "CP Caldes C",
+  "SHUM GRUES VIÑOLAS C": "SHUM Grues Viñolas C",
+  "SHUM PINTURAS ROMAN B": "SHUM Pinturas Roman B",
+  "CLUB HOQUEI SANT JORDI": "Club Hoquei Sant Jordi",
+  "GIRONA CLUB HOQUEI B": "Girona Club Hoquei B",
+  "CH OLOT C": "CH Olot C"
+ }
+}

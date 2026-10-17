@@ -1,0 +1,616 @@
+{
+ "league": "Veterans Girona · Grup únic",
+ "season": "2026/27",
+ "source": "https://www.hoqueipatins.fecapa.cat/league/5062",
+ "updatedAt": "2026-10-17T17:00:00.000Z",
+ "team": "SHUM Frit Ravich",
+ "teams": [
+  "Metall-Lògic Fdcassanenc",
+  "Farners",
+  "CH Lloret",
+  "Club Patí Malgrat Grup Escobar B",
+  "Club Patí Malgrat Grup Escobar A",
+  "CH Palafrugell",
+  "SHUM Frit Ravich"
+ ],
+ "matches": [
+  {
+   "id": "veterans-1-0-1",
+   "round": 1,
+   "date": "2026-10-19",
+   "time": "21:15",
+   "home": "Metall-Lògic Fdcassanenc",
+   "away": "Farners",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "veterans-1-2-3",
+   "round": 1,
+   "date": "2026-10-21",
+   "time": "22:00",
+   "home": "CH Lloret",
+   "away": "Club Patí Malgrat Grup Escobar B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "veterans-1-4-5",
+   "round": 1,
+   "date": "2026-10-27",
+   "time": "22:15",
+   "home": "Club Patí Malgrat Grup Escobar A",
+   "away": "CH Palafrugell",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "veterans-2-5-0",
+   "round": 2,
+   "date": "2026-10-23",
+   "time": "22:20",
+   "home": "CH Palafrugell",
+   "away": "Metall-Lògic Fdcassanenc",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "veterans-2-6-4",
+   "round": 2,
+   "date": "2026-10-23",
+   "time": "22:30",
+   "home": "SHUM Frit Ravich",
+   "away": "Club Patí Malgrat Grup Escobar A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "veterans-2-1-3",
+   "round": 2,
+   "date": "2026-10-28",
+   "time": "21:30",
+   "home": "Farners",
+   "away": "Club Patí Malgrat Grup Escobar B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "veterans-3-0-6",
+   "round": 3,
+   "date": "2026-11-02",
+   "time": "21:15",
+   "home": "Metall-Lògic Fdcassanenc",
+   "away": "SHUM Frit Ravich",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "veterans-3-3-5",
+   "round": 3,
+   "date": "2026-11-03",
+   "time": "22:15",
+   "home": "Club Patí Malgrat Grup Escobar B",
+   "away": "CH Palafrugell",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "veterans-3-2-1",
+   "round": 3,
+   "date": "2026-11-04",
+   "time": "22:00",
+   "home": "CH Lloret",
+   "away": "Farners",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "veterans-4-4-0",
+   "round": 4,
+   "date": "2026-11-17",
+   "time": "22:15",
+   "home": "Club Patí Malgrat Grup Escobar A",
+   "away": "Metall-Lògic Fdcassanenc",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "veterans-4-5-2",
+   "round": 4,
+   "date": "2026-11-20",
+   "time": "22:20",
+   "home": "CH Palafrugell",
+   "away": "CH Lloret",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "veterans-4-6-3",
+   "round": 4,
+   "date": "2026-11-20",
+   "time": "22:30",
+   "home": "SHUM Frit Ravich",
+   "away": "Club Patí Malgrat Grup Escobar B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "veterans-5-3-4",
+   "round": 5,
+   "date": "2026-12-08",
+   "time": "22:15",
+   "home": "Club Patí Malgrat Grup Escobar B",
+   "away": "Club Patí Malgrat Grup Escobar A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "veterans-5-2-6",
+   "round": 5,
+   "date": "2026-12-09",
+   "time": "22:00",
+   "home": "CH Lloret",
+   "away": "SHUM Frit Ravich",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "veterans-5-1-5",
+   "round": 5,
+   "date": "2026-12-16",
+   "time": "21:30",
+   "home": "Farners",
+   "away": "CH Palafrugell",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "veterans-6-0-3",
+   "round": 6,
+   "date": "2027-01-04",
+   "time": "21:15",
+   "home": "Metall-Lògic Fdcassanenc",
+   "away": "Club Patí Malgrat Grup Escobar B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "veterans-6-4-2",
+   "round": 6,
+   "date": "2027-01-05",
+   "time": "22:15",
+   "home": "Club Patí Malgrat Grup Escobar A",
+   "away": "CH Lloret",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "veterans-6-6-1",
+   "round": 6,
+   "date": "2027-01-08",
+   "time": "22:30",
+   "home": "SHUM Frit Ravich",
+   "away": "Farners",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "veterans-7-1-4",
+   "round": 7,
+   "date": "2027-01-20",
+   "time": "21:30",
+   "home": "Farners",
+   "away": "Club Patí Malgrat Grup Escobar A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "veterans-7-2-0",
+   "round": 7,
+   "date": "2027-01-20",
+   "time": "22:00",
+   "home": "CH Lloret",
+   "away": "Metall-Lògic Fdcassanenc",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "veterans-7-5-6",
+   "round": 7,
+   "date": "2027-01-22",
+   "time": "22:20",
+   "home": "CH Palafrugell",
+   "away": "SHUM Frit Ravich",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "veterans-8-3-2",
+   "round": 8,
+   "date": "2027-02-10",
+   "time": "22:00",
+   "home": "Club Patí Malgrat Grup Escobar B",
+   "away": "CH Lloret",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "veterans-8-5-4",
+   "round": 8,
+   "date": "2027-02-12",
+   "time": "22:20",
+   "home": "CH Palafrugell",
+   "away": "Club Patí Malgrat Grup Escobar A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "veterans-8-1-0",
+   "round": 8,
+   "date": "2027-02-17",
+   "time": "21:30",
+   "home": "Farners",
+   "away": "Metall-Lògic Fdcassanenc",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "veterans-9-0-5",
+   "round": 9,
+   "date": "2027-02-22",
+   "time": "21:15",
+   "home": "Metall-Lògic Fdcassanenc",
+   "away": "CH Palafrugell",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "veterans-9-3-1",
+   "round": 9,
+   "date": "2027-02-23",
+   "time": "22:15",
+   "home": "Club Patí Malgrat Grup Escobar B",
+   "away": "Farners",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "veterans-9-4-6",
+   "round": 9,
+   "date": "2027-02-23",
+   "time": "22:15",
+   "home": "Club Patí Malgrat Grup Escobar A",
+   "away": "SHUM Frit Ravich",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "veterans-10-5-3",
+   "round": 10,
+   "date": "2027-03-12",
+   "time": "22:20",
+   "home": "CH Palafrugell",
+   "away": "Club Patí Malgrat Grup Escobar B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "veterans-10-6-0",
+   "round": 10,
+   "date": "2027-03-12",
+   "time": "22:30",
+   "home": "SHUM Frit Ravich",
+   "away": "Metall-Lògic Fdcassanenc",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "veterans-10-1-2",
+   "round": 10,
+   "date": "2027-03-17",
+   "time": "21:30",
+   "home": "Farners",
+   "away": "CH Lloret",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "veterans-11-0-4",
+   "round": 11,
+   "date": "2027-03-29",
+   "time": "21:15",
+   "home": "Metall-Lògic Fdcassanenc",
+   "away": "Club Patí Malgrat Grup Escobar A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "veterans-11-3-6",
+   "round": 11,
+   "date": "2027-03-30",
+   "time": "22:15",
+   "home": "Club Patí Malgrat Grup Escobar B",
+   "away": "SHUM Frit Ravich",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "veterans-11-2-5",
+   "round": 11,
+   "date": "2027-03-31",
+   "time": "22:00",
+   "home": "CH Lloret",
+   "away": "CH Palafrugell",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "veterans-12-4-3",
+   "round": 12,
+   "date": "2027-04-13",
+   "time": "22:15",
+   "home": "Club Patí Malgrat Grup Escobar A",
+   "away": "Club Patí Malgrat Grup Escobar B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "veterans-12-5-1",
+   "round": 12,
+   "date": "2027-04-16",
+   "time": "22:20",
+   "home": "CH Palafrugell",
+   "away": "Farners",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "veterans-12-6-2",
+   "round": 12,
+   "date": "2027-04-16",
+   "time": "22:30",
+   "home": "SHUM Frit Ravich",
+   "away": "CH Lloret",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "veterans-13-3-0",
+   "round": 13,
+   "date": "2027-05-04",
+   "time": "22:15",
+   "home": "Club Patí Malgrat Grup Escobar B",
+   "away": "Metall-Lògic Fdcassanenc",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "veterans-13-2-4",
+   "round": 13,
+   "date": "2027-05-05",
+   "time": "22:00",
+   "home": "CH Lloret",
+   "away": "Club Patí Malgrat Grup Escobar A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "veterans-13-1-6",
+   "round": 13,
+   "date": "2027-05-12",
+   "time": "21:30",
+   "home": "Farners",
+   "away": "SHUM Frit Ravich",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "veterans-14-0-2",
+   "round": 14,
+   "date": "2027-05-17",
+   "time": "21:15",
+   "home": "Metall-Lògic Fdcassanenc",
+   "away": "CH Lloret",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "veterans-14-4-1",
+   "round": 14,
+   "date": "2027-05-18",
+   "time": "22:15",
+   "home": "Club Patí Malgrat Grup Escobar A",
+   "away": "Farners",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "veterans-14-6-5",
+   "round": 14,
+   "date": "2027-05-21",
+   "time": "22:30",
+   "home": "SHUM Frit Ravich",
+   "away": "CH Palafrugell",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  }
+ ],
+ "teamCoaches": {},
+ "officialNames": {
+  "METALL-LÒGIC FDCASSANENC": "Metall-Lògic Fdcassanenc",
+  "FARNERS": "Farners",
+  "CH LLORET": "CH Lloret",
+  "CLUB PATÍ MALGRAT GRUP ESCOBAR B": "Club Patí Malgrat Grup Escobar B",
+  "CLUB PATÍ MALGRAT GRUP ESCOBAR A": "Club Patí Malgrat Grup Escobar A",
+  "CH PALAFRUGELL": "CH Palafrugell",
+  "SHUM FRIT RAVICH": "SHUM Frit Ravich"
+ }
+}

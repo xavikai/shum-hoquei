@@ -1,0 +1,2753 @@
+{
+ "league": "Tercera Catalana Masculina · Grup D",
+ "season": "2026/27",
+ "source": "https://www.hoqueipatins.fecapa.cat/league/4781",
+ "updatedAt": "2026-10-17T17:00:00.000Z",
+ "team": "SHUM Alea",
+ "teams": [
+  "CP Caldes C",
+  "Girona Club Hoquei B",
+  "Club Patí Breda B",
+  "Club Patí Malgrat Grup Escobar",
+  "Oxford HC Salt",
+  "CP Jonquerenc",
+  "GEIEG",
+  "CE Arenys de Munt",
+  "CP Blanes",
+  "Cham Maristes-Sagrerenc",
+  "CH Figueres",
+  "SHUM Alea"
+ ],
+ "matches": [
+  {
+   "id": "tercera-masculina-1-0-1",
+   "round": 1,
+   "date": "2026-09-26",
+   "time": "15:30",
+   "home": "CP Caldes C",
+   "away": "Girona Club Hoquei B",
+   "score": [
+    5,
+    6
+   ],
+   "officialId": "153785",
+   "rosters": {
+    "home": [
+     {
+      "number": 10,
+      "name": "REVERTÉ SALVÀ BIEL",
+      "goals": 2,
+      "keeper": false
+     },
+     {
+      "number": 41,
+      "name": "TENLLADO COLL ARTUR",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 69,
+      "name": "GARCIA AGUILERA ALEX",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 75,
+      "name": "RUIZ RODRIGUEZ DAVID",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 79,
+      "name": "SERRA SENSAT CARLES",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 81,
+      "name": "NUEVO RUIZ ARNAU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 88,
+      "name": "ARASA LOZANO ALBERT",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 80,
+      "name": "SURÓS LOPEZ MARIONA",
+      "goals": 0,
+      "keeper": true
+     },
+     {
+      "number": 50,
+      "name": "RODRÍGUEZ MAHEDERO BERNAT",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 3,
+      "name": "TIBAU PARRAMONT URIEL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 5,
+      "name": "ROCH CABALLERO PAU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 11,
+      "name": "BRUNNER FELIU ORIOL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 14,
+      "name": "RUANO I VARGAS JOAN",
+      "goals": 3,
+      "keeper": false
+     },
+     {
+      "number": 20,
+      "name": "VINUESA GAGO-PEREZ IZAN LIONEL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 71,
+      "name": "GRANGIER ANTOINE",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 93,
+      "name": "CARBO I PARRAMON PAU",
+      "goals": 2,
+      "keeper": false
+     },
+     {
+      "number": 99,
+      "name": "REQUENA MARZA ARNAU",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "tercera-masculina-1-2-3",
+   "round": 1,
+   "date": "2026-09-26",
+   "time": "18:30",
+   "home": "Club Patí Breda B",
+   "away": "Club Patí Malgrat Grup Escobar",
+   "score": [
+    0,
+    11
+   ],
+   "officialId": "153788",
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-1-4-5",
+   "round": 1,
+   "date": "2026-09-26",
+   "time": "19:00",
+   "home": "Oxford HC Salt",
+   "away": "CP Jonquerenc",
+   "score": [
+    7,
+    2
+   ],
+   "officialId": "153789",
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-1-6-7",
+   "round": 1,
+   "date": "2026-09-26",
+   "time": "19:30",
+   "home": "GEIEG",
+   "away": "CE Arenys de Munt",
+   "score": [
+    7,
+    2
+   ],
+   "officialId": "153786",
+   "rosters": {
+    "home": [
+     {
+      "number": 2,
+      "name": "PALACIOS BUSQUETS ORIOL",
+      "goals": 2,
+      "keeper": false
+     },
+     {
+      "number": 11,
+      "name": "ACUÑA PADILLA JOAN",
+      "goals": 2,
+      "keeper": false
+     },
+     {
+      "number": 19,
+      "name": "MARTI CARBONELL MARC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 20,
+      "name": "PALOU NOVILLO OT",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 23,
+      "name": "BADIA SANCHEZ ARNAU",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 66,
+      "name": "VINYES PI BIEL",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 33,
+      "name": "SERRA TEIXIDOR LLUC",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 2,
+      "name": "HERNÀEZ SALVÀ POL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 8,
+      "name": "BARRI MOLINERO ASIER",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 21,
+      "name": "HERAS MILLES ALEIX",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 35,
+      "name": "NARANJO LEÓN IKER",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 51,
+      "name": "SERRAT I RUZAFA JAN",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 79,
+      "name": "MARTIN MOLINA NIL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 10,
+      "name": "GABAS GARCIA BIEL",
+      "goals": 0,
+      "keeper": true
+     },
+     {
+      "number": 14,
+      "name": "FONS FERNANDEZ BIEL",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "tercera-masculina-1-8-9",
+   "round": 1,
+   "date": "2026-09-27",
+   "time": "12:30",
+   "home": "CP Blanes",
+   "away": "Cham Maristes-Sagrerenc",
+   "score": [
+    8,
+    4
+   ],
+   "officialId": "153787",
+   "rosters": {
+    "home": [
+     {
+      "number": 4,
+      "name": "MONTANERO MARTINEZ ARNAU",
+      "goals": 2,
+      "keeper": false
+     },
+     {
+      "number": 5,
+      "name": "GARCIA SILVENTE GERARD",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 7,
+      "name": "OLMO CANOVAS ALEJANDRO",
+      "goals": 3,
+      "keeper": false
+     },
+     {
+      "number": 8,
+      "name": "FERNANDEZ PERPIÑA ALEX",
+      "goals": 2,
+      "keeper": false
+     },
+     {
+      "number": 55,
+      "name": "FONT CAMPS ARNAU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 77,
+      "name": "MARCOS LOPEZ ANSELMO",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 78,
+      "name": "JIMENEZ CORDON PABLO",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 76,
+      "name": "GOMEZ HIGUERAS ARNAU",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 0,
+      "name": "BLASCO PIERA GUILLEM",
+      "goals": 4,
+      "keeper": false
+     },
+     {
+      "number": 0,
+      "name": "CARBONELL LESIRE LUCA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 0,
+      "name": "PLADEVALL PUIGMAL JOAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 0,
+      "name": "GIL MADRONA VÍCTOR",
+      "goals": 0,
+      "keeper": false
+     }
+    ]
+   }
+  },
+  {
+   "id": "tercera-masculina-2-7-0",
+   "round": 2,
+   "date": "2026-10-11",
+   "time": "13:45",
+   "home": "CE Arenys de Munt",
+   "away": "CP Caldes C",
+   "score": [
+    4,
+    3
+   ],
+   "officialId": "153793",
+   "rosters": {
+    "home": [
+     {
+      "number": 8,
+      "name": "BARRI MOLINERO ASIER",
+      "goals": 3,
+      "keeper": false
+     },
+     {
+      "number": 13,
+      "name": "TONDA SALADICH ERIC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 51,
+      "name": "SERRAT I RUZAFA JAN",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 78,
+      "name": "GALLARDO ALBELLA MIQUEL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 79,
+      "name": "MARTIN MOLINA NIL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 85,
+      "name": "NARANJO LEÓN OSCAR",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 1,
+      "name": "FONS FERNANDEZ BIEL",
+      "goals": 0,
+      "keeper": true
+     },
+     {
+      "number": 14,
+      "name": "GABAS GARCIA BIEL",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 10,
+      "name": "REVERTÉ SALVÀ BIEL",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 14,
+      "name": "PEREZ REYES ÉRIC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 41,
+      "name": "TENLLADO COLL ARTUR",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 56,
+      "name": "FREIXAS MAS CARLES",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 69,
+      "name": "GARCIA AGUILERA ALEX",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 75,
+      "name": "RUIZ RODRIGUEZ DAVID",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 79,
+      "name": "SERRA SENSAT CARLES",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 1,
+      "name": "SURÓS LOPEZ MARIONA",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "tercera-masculina-2-9-6",
+   "round": 2,
+   "date": "2026-10-21",
+   "time": "21:15",
+   "home": "Cham Maristes-Sagrerenc",
+   "away": "GEIEG",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-2-3-8",
+   "round": 2,
+   "date": "2026-10-23",
+   "time": "21:30",
+   "home": "Club Patí Malgrat Grup Escobar",
+   "away": "CP Blanes",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-2-2-5",
+   "round": 2,
+   "date": "2026-11-08",
+   "time": "12:00",
+   "home": "Club Patí Breda B",
+   "away": "CP Jonquerenc",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-2-10-11",
+   "round": 2,
+   "date": "2026-11-08",
+   "time": "17:30",
+   "home": "CH Figueres",
+   "away": "SHUM Alea",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-3-1-7",
+   "round": 3,
+   "date": "2026-10-09",
+   "time": "20:50",
+   "home": "Girona Club Hoquei B",
+   "away": "CE Arenys de Munt",
+   "score": [
+    2,
+    4
+   ],
+   "officialId": "153799",
+   "rosters": {
+    "home": [
+     {
+      "number": 3,
+      "name": "TIBAU PARRAMONT URIEL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 5,
+      "name": "ROCH CABALLERO PAU",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 11,
+      "name": "BRUNNER FELIU ORIOL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 14,
+      "name": "RUANO I VARGAS JOAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 20,
+      "name": "VINUESA GAGO-PEREZ IZAN LIONEL",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 71,
+      "name": "GRANGIER ANTOINE",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 93,
+      "name": "CARBO I PARRAMON PAU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 99,
+      "name": "REQUENA MARZA ARNAU",
+      "goals": 0,
+      "keeper": true
+     },
+     {
+      "number": 42,
+      "name": "TRILLA CORCHERO PONÇ",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 7,
+      "name": "ALEMANY SANCHEZ JOFRE",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 11,
+      "name": "TERENSI ALVAREZ JOAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 16,
+      "name": "FERNANDEZ TORRES POL",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 21,
+      "name": "ESPÀRRECH MAJÓ IAGO",
+      "goals": 2,
+      "keeper": false
+     },
+     {
+      "number": 35,
+      "name": "NARANJO LEÓN IKER",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 85,
+      "name": "NARANJO LEÓN OSCAR",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 1,
+      "name": "FONS FERNANDEZ BIEL",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "tercera-masculina-3-0-9",
+   "round": 3,
+   "date": "2026-10-10",
+   "time": "19:30",
+   "home": "CP Caldes C",
+   "away": "Cham Maristes-Sagrerenc",
+   "score": [
+    2,
+    11
+   ],
+   "officialId": "153800",
+   "rosters": {
+    "home": [
+     {
+      "number": 13,
+      "name": "RIBALTA ROVIRA GERARD",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 41,
+      "name": "TENLLADO COLL ARTUR",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 56,
+      "name": "FREIXAS MAS CARLES",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 75,
+      "name": "RUIZ RODRIGUEZ DAVID",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 79,
+      "name": "SERRA SENSAT CARLES",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 81,
+      "name": "NUEVO RUIZ ARNAU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 82,
+      "name": "PRETTA SANTAULARIA ADRIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 50,
+      "name": "RODRÍGUEZ MAHEDERO BERNAT",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 2,
+      "name": "ARTÉS ALZURIA ORIOL",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 4,
+      "name": "OSSÓ BELLÒS XAVI",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 5,
+      "name": "MARCO CALLE ALEX",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 6,
+      "name": "PLADEVALL PUIGMAL JOAN",
+      "goals": 9,
+      "keeper": false
+     },
+     {
+      "number": 14,
+      "name": "ALCALDE CORONADO FERRAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 1,
+      "name": "BLASCO PIERA GUILLEM",
+      "goals": 0,
+      "keeper": true
+     },
+     {
+      "number": 10,
+      "name": "GIL MADRONA VÍCTOR",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "tercera-masculina-3-8-5",
+   "round": 3,
+   "date": "2026-10-11",
+   "time": "12:00",
+   "home": "CP Blanes",
+   "away": "CP Jonquerenc",
+   "score": [
+    2,
+    3
+   ],
+   "officialId": "153802",
+   "rosters": {
+    "home": [
+     {
+      "number": 4,
+      "name": "MONTANERO MARTINEZ ARNAU",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 5,
+      "name": "GARCIA SILVENTE GERARD",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 7,
+      "name": "OLMO CANOVAS ALEJANDRO",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 8,
+      "name": "FERNANDEZ PERPIÑA ALEX",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 55,
+      "name": "FONT CAMPS ARNAU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 77,
+      "name": "MARCOS LOPEZ ANSELMO",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 76,
+      "name": "GOMEZ HIGUERAS ARNAU",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 15,
+      "name": "MEDINA HERAS MARC",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 18,
+      "name": "MARQUEZ JIMENEZ LLUIS ALEXANDER",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 23,
+      "name": "OSUNA JIMENEZ RAUL",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 32,
+      "name": "GOMEZ SALUEÑA THOMAS",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 88,
+      "name": "FERRER JOAN ORIOL",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 77,
+      "name": "JUANOLA VILALTA PEP",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "tercera-masculina-3-6-3",
+   "round": 3,
+   "date": "2026-10-11",
+   "time": "12:30",
+   "home": "GEIEG",
+   "away": "Club Patí Malgrat Grup Escobar",
+   "score": [
+    5,
+    6
+   ],
+   "officialId": "153801",
+   "rosters": {
+    "home": [
+     {
+      "number": 2,
+      "name": "PALACIOS BUSQUETS ORIOL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 5,
+      "name": "VIÑAS FRANQUET VICTOR",
+      "goals": 2,
+      "keeper": false
+     },
+     {
+      "number": 11,
+      "name": "ACUÑA PADILLA JOAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 14,
+      "name": "VINYES PI BIEL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 19,
+      "name": "MARTI CARBONELL MARC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 20,
+      "name": "PALOU NOVILLO OT",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 23,
+      "name": "BADIA SANCHEZ ARNAU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 44,
+      "name": "GOMEZ CARPINTERO AUKAI",
+      "goals": 3,
+      "keeper": false
+     },
+     {
+      "number": 33,
+      "name": "SERRA TEIXIDOR LLUC",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 7,
+      "name": "ZARCO MUÑOZ ISRAEL",
+      "goals": 3,
+      "keeper": false
+     },
+     {
+      "number": 14,
+      "name": "FRET CASTELLÀ ORIOL",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 17,
+      "name": "SASANEDAS PLANELLA JOAN",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 28,
+      "name": "SANCHEZ SALVACHUA UNAI",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 34,
+      "name": "RODRIGUEZ NOGUERA ALEX",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 71,
+      "name": "SASANEDAS PLANELLA JOAQUIM",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 99,
+      "name": "MORENO JUBANY ABEL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 11,
+      "name": "VIDAL ROURA JORDI",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "tercera-masculina-3-4-11",
+   "round": 3,
+   "date": "2026-10-11",
+   "time": "18:00",
+   "home": "Oxford HC Salt",
+   "away": "SHUM Alea",
+   "score": [
+    3,
+    3
+   ],
+   "officialId": "153804",
+   "rosters": {
+    "home": [
+     {
+      "number": 7,
+      "name": "JIMENEZ BALDOMERO POL",
+      "goals": 2,
+      "keeper": false
+     },
+     {
+      "number": 8,
+      "name": "FERNÁNDEZ BRAMÓN ARNAU",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 9,
+      "name": "PUIG LOPEZ NIL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 10,
+      "name": "CASELLA SANTALÓ TEO",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 13,
+      "name": "BOSCH CUEVAS BIEL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 17,
+      "name": "PAZ RUIZ JULEN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 27,
+      "name": "FABREGA CORNELLA PAU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 96,
+      "name": "HOMS FIGUERAS MARTI",
+      "goals": 0,
+      "keeper": false
+     }
+    ],
+    "away": [
+     {
+      "number": 10,
+      "name": "MUNSO HORTELANO SERGI",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 11,
+      "name": "GÓMEZ GONZÀLEZ JORDI",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 56,
+      "name": "GALINDO ROMERO ALEX",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 78,
+      "name": "MUNSO HOTELANO GERARD",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 92,
+      "name": "BANCELLS BARTOMEU POL",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 96,
+      "name": "FERNANDEZ CASTILLO POL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 90,
+      "name": "YRAOLA BRAGULAT JOEL",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "tercera-masculina-4-5-6",
+   "round": 4,
+   "date": "2026-10-17",
+   "time": "18:00",
+   "home": "CP Jonquerenc",
+   "away": "GEIEG",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-4-3-0",
+   "round": 4,
+   "date": "2026-10-17",
+   "time": "19:45",
+   "home": "Club Patí Malgrat Grup Escobar",
+   "away": "CP Caldes C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-4-1-9",
+   "round": 4,
+   "date": "2026-10-17",
+   "time": "20:50",
+   "home": "Girona Club Hoquei B",
+   "away": "Cham Maristes-Sagrerenc",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-4-11-2",
+   "round": 4,
+   "date": "2026-10-18",
+   "time": "14:00",
+   "home": "SHUM Alea",
+   "away": "Club Patí Breda B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-4-10-4",
+   "round": 4,
+   "date": "2026-10-18",
+   "time": "19:45",
+   "home": "CH Figueres",
+   "away": "Oxford HC Salt",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-5-0-5",
+   "round": 5,
+   "date": "2026-10-24",
+   "time": "19:00",
+   "home": "CP Caldes C",
+   "away": "CP Jonquerenc",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-5-7-9",
+   "round": 5,
+   "date": "2026-10-24",
+   "time": "20:50",
+   "home": "CE Arenys de Munt",
+   "away": "Cham Maristes-Sagrerenc",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-5-1-3",
+   "round": 5,
+   "date": "2026-10-25",
+   "time": "12:30",
+   "home": "Girona Club Hoquei B",
+   "away": "Club Patí Malgrat Grup Escobar",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-5-8-11",
+   "round": 5,
+   "date": "2026-10-25",
+   "time": "12:30",
+   "home": "CP Blanes",
+   "away": "SHUM Alea",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-5-2-10",
+   "round": 5,
+   "date": "2026-10-25",
+   "time": "18:30",
+   "home": "Club Patí Breda B",
+   "away": "CH Figueres",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-6-4-2",
+   "round": 6,
+   "date": "2026-10-31",
+   "time": "16:45",
+   "home": "Oxford HC Salt",
+   "away": "Club Patí Breda B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-6-11-6",
+   "round": 6,
+   "date": "2026-10-31",
+   "time": "18:45",
+   "home": "SHUM Alea",
+   "away": "GEIEG",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-6-3-7",
+   "round": 6,
+   "date": "2026-11-01",
+   "time": "12:15",
+   "home": "Club Patí Malgrat Grup Escobar",
+   "away": "CE Arenys de Munt",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-6-5-1",
+   "round": 6,
+   "date": "2026-11-01",
+   "time": "18:15",
+   "home": "CP Jonquerenc",
+   "away": "Girona Club Hoquei B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-6-10-8",
+   "round": 6,
+   "date": "2026-11-01",
+   "time": "18:45",
+   "home": "CH Figueres",
+   "away": "CP Blanes",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-7-8-4",
+   "round": 7,
+   "date": "2026-11-13",
+   "time": "21:30",
+   "home": "CP Blanes",
+   "away": "Oxford HC Salt",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-7-7-5",
+   "round": 7,
+   "date": "2026-11-14",
+   "time": "18:45",
+   "home": "CE Arenys de Munt",
+   "away": "CP Jonquerenc",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-7-0-11",
+   "round": 7,
+   "date": "2026-11-14",
+   "time": "18:45",
+   "home": "CP Caldes C",
+   "away": "SHUM Alea",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-7-6-10",
+   "round": 7,
+   "date": "2026-11-14",
+   "time": "19:00",
+   "home": "GEIEG",
+   "away": "CH Figueres",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-7-9-3",
+   "round": 7,
+   "date": "2026-11-15",
+   "time": "12:15",
+   "home": "Cham Maristes-Sagrerenc",
+   "away": "Club Patí Malgrat Grup Escobar",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-8-2-8",
+   "round": 8,
+   "date": "2026-11-21",
+   "time": "16:00",
+   "home": "Club Patí Breda B",
+   "away": "CP Blanes",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-8-4-6",
+   "round": 8,
+   "date": "2026-11-21",
+   "time": "16:45",
+   "home": "Oxford HC Salt",
+   "away": "GEIEG",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-8-5-9",
+   "round": 8,
+   "date": "2026-11-21",
+   "time": "18:15",
+   "home": "CP Jonquerenc",
+   "away": "Cham Maristes-Sagrerenc",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-8-10-0",
+   "round": 8,
+   "date": "2026-11-22",
+   "time": "18:00",
+   "home": "CH Figueres",
+   "away": "CP Caldes C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-8-11-1",
+   "round": 8,
+   "date": "2026-11-22",
+   "time": "19:30",
+   "home": "SHUM Alea",
+   "away": "Girona Club Hoquei B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-9-1-10",
+   "round": 9,
+   "date": "2026-11-27",
+   "time": "20:50",
+   "home": "Girona Club Hoquei B",
+   "away": "CH Figueres",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-9-6-2",
+   "round": 9,
+   "date": "2026-11-28",
+   "time": "19:30",
+   "home": "GEIEG",
+   "away": "Club Patí Breda B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-9-0-4",
+   "round": 9,
+   "date": "2026-11-28",
+   "time": "19:45",
+   "home": "CP Caldes C",
+   "away": "Oxford HC Salt",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-9-3-5",
+   "round": 9,
+   "date": "2026-11-29",
+   "time": "12:00",
+   "home": "Club Patí Malgrat Grup Escobar",
+   "away": "CP Jonquerenc",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-9-7-11",
+   "round": 9,
+   "date": "2026-11-29",
+   "time": "15:00",
+   "home": "CE Arenys de Munt",
+   "away": "SHUM Alea",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-10-4-1",
+   "round": 10,
+   "date": "2026-12-12",
+   "time": "16:45",
+   "home": "Oxford HC Salt",
+   "away": "Girona Club Hoquei B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-10-8-6",
+   "round": 10,
+   "date": "2026-12-13",
+   "time": "12:30",
+   "home": "CP Blanes",
+   "away": "GEIEG",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-10-10-7",
+   "round": 10,
+   "date": "2026-12-13",
+   "time": "18:00",
+   "home": "CH Figueres",
+   "away": "CE Arenys de Munt",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-10-2-0",
+   "round": 10,
+   "date": "2026-12-13",
+   "time": "18:30",
+   "home": "Club Patí Breda B",
+   "away": "CP Caldes C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-10-11-9",
+   "round": 10,
+   "date": "2026-12-13",
+   "time": "19:30",
+   "home": "SHUM Alea",
+   "away": "Cham Maristes-Sagrerenc",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-11-1-2",
+   "round": 11,
+   "date": "2026-12-18",
+   "time": "20:50",
+   "home": "Girona Club Hoquei B",
+   "away": "Club Patí Breda B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-11-0-8",
+   "round": 11,
+   "date": "2026-12-19",
+   "time": "19:45",
+   "home": "CP Caldes C",
+   "away": "CP Blanes",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-11-3-11",
+   "round": 11,
+   "date": "2026-12-20",
+   "time": "12:00",
+   "home": "Club Patí Malgrat Grup Escobar",
+   "away": "SHUM Alea",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-11-9-10",
+   "round": 11,
+   "date": "2026-12-20",
+   "time": "12:15",
+   "home": "Cham Maristes-Sagrerenc",
+   "away": "CH Figueres",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-11-7-4",
+   "round": 11,
+   "date": "2026-12-20",
+   "time": "15:00",
+   "home": "CE Arenys de Munt",
+   "away": "Oxford HC Salt",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-12-4-9",
+   "round": 12,
+   "date": "2027-01-09",
+   "time": "16:45",
+   "home": "Oxford HC Salt",
+   "away": "Cham Maristes-Sagrerenc",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-12-2-7",
+   "round": 12,
+   "date": "2027-01-09",
+   "time": "17:30",
+   "home": "Club Patí Breda B",
+   "away": "CE Arenys de Munt",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-12-6-0",
+   "round": 12,
+   "date": "2027-01-09",
+   "time": "19:30",
+   "home": "GEIEG",
+   "away": "CP Caldes C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-12-8-1",
+   "round": 12,
+   "date": "2027-01-10",
+   "time": "12:30",
+   "home": "CP Blanes",
+   "away": "Girona Club Hoquei B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-12-10-3",
+   "round": 12,
+   "date": "2027-01-10",
+   "time": "18:00",
+   "home": "CH Figueres",
+   "away": "Club Patí Malgrat Grup Escobar",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-12-11-5",
+   "round": 12,
+   "date": "2027-01-10",
+   "time": "19:30",
+   "home": "SHUM Alea",
+   "away": "CP Jonquerenc",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-13-1-6",
+   "round": 13,
+   "date": "2027-01-15",
+   "time": "20:50",
+   "home": "Girona Club Hoquei B",
+   "away": "GEIEG",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-13-5-10",
+   "round": 13,
+   "date": "2027-01-16",
+   "time": "18:30",
+   "home": "CP Jonquerenc",
+   "away": "CH Figueres",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-13-3-4",
+   "round": 13,
+   "date": "2027-01-17",
+   "time": "12:00",
+   "home": "Club Patí Malgrat Grup Escobar",
+   "away": "Oxford HC Salt",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-13-9-2",
+   "round": 13,
+   "date": "2027-01-17",
+   "time": "12:15",
+   "home": "Cham Maristes-Sagrerenc",
+   "away": "Club Patí Breda B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-13-7-8",
+   "round": 13,
+   "date": "2027-01-17",
+   "time": "15:00",
+   "home": "CE Arenys de Munt",
+   "away": "CP Blanes",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-14-1-0",
+   "round": 14,
+   "date": "2027-01-22",
+   "time": "20:50",
+   "home": "Girona Club Hoquei B",
+   "away": "CP Caldes C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-14-5-4",
+   "round": 14,
+   "date": "2027-01-23",
+   "time": "18:30",
+   "home": "CP Jonquerenc",
+   "away": "Oxford HC Salt",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-14-3-2",
+   "round": 14,
+   "date": "2027-01-24",
+   "time": "12:00",
+   "home": "Club Patí Malgrat Grup Escobar",
+   "away": "Club Patí Breda B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-14-9-8",
+   "round": 14,
+   "date": "2027-01-24",
+   "time": "12:15",
+   "home": "Cham Maristes-Sagrerenc",
+   "away": "CP Blanes",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-14-7-6",
+   "round": 14,
+   "date": "2027-01-24",
+   "time": "15:00",
+   "home": "CE Arenys de Munt",
+   "away": "GEIEG",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-15-6-9",
+   "round": 15,
+   "date": "2027-01-30",
+   "time": "19:30",
+   "home": "GEIEG",
+   "away": "Cham Maristes-Sagrerenc",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-15-0-7",
+   "round": 15,
+   "date": "2027-01-30",
+   "time": "19:45",
+   "home": "CP Caldes C",
+   "away": "CE Arenys de Munt",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-15-11-10",
+   "round": 15,
+   "date": "2027-01-31",
+   "time": "12:15",
+   "home": "SHUM Alea",
+   "away": "CH Figueres",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-15-8-3",
+   "round": 15,
+   "date": "2027-01-31",
+   "time": "12:30",
+   "home": "CP Blanes",
+   "away": "Club Patí Malgrat Grup Escobar",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-15-5-2",
+   "round": 15,
+   "date": "2027-01-31",
+   "time": "18:30",
+   "home": "CP Jonquerenc",
+   "away": "Club Patí Breda B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-16-5-8",
+   "round": 16,
+   "date": "2027-02-13",
+   "time": "18:30",
+   "home": "CP Jonquerenc",
+   "away": "CP Blanes",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-16-3-6",
+   "round": 16,
+   "date": "2027-02-14",
+   "time": "12:00",
+   "home": "Club Patí Malgrat Grup Escobar",
+   "away": "GEIEG",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-16-9-0",
+   "round": 16,
+   "date": "2027-02-14",
+   "time": "12:15",
+   "home": "Cham Maristes-Sagrerenc",
+   "away": "CP Caldes C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-16-7-1",
+   "round": 16,
+   "date": "2027-02-14",
+   "time": "15:00",
+   "home": "CE Arenys de Munt",
+   "away": "Girona Club Hoquei B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-16-11-4",
+   "round": 16,
+   "date": "2027-02-14",
+   "time": "19:30",
+   "home": "SHUM Alea",
+   "away": "Oxford HC Salt",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-17-9-1",
+   "round": 17,
+   "date": "2027-02-19",
+   "time": "12:00",
+   "home": "Cham Maristes-Sagrerenc",
+   "away": "Girona Club Hoquei B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-17-4-10",
+   "round": 17,
+   "date": "2027-02-20",
+   "time": "16:45",
+   "home": "Oxford HC Salt",
+   "away": "CH Figueres",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-17-6-5",
+   "round": 17,
+   "date": "2027-02-20",
+   "time": "19:30",
+   "home": "GEIEG",
+   "away": "CP Jonquerenc",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-17-0-3",
+   "round": 17,
+   "date": "2027-02-20",
+   "time": "19:45",
+   "home": "CP Caldes C",
+   "away": "Club Patí Malgrat Grup Escobar",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-17-2-11",
+   "round": 17,
+   "date": "2027-02-21",
+   "time": "18:30",
+   "home": "Club Patí Breda B",
+   "away": "SHUM Alea",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-18-5-0",
+   "round": 18,
+   "date": "2027-02-27",
+   "time": "18:30",
+   "home": "CP Jonquerenc",
+   "away": "CP Caldes C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-18-3-1",
+   "round": 18,
+   "date": "2027-02-28",
+   "time": "12:00",
+   "home": "Club Patí Malgrat Grup Escobar",
+   "away": "Girona Club Hoquei B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-18-9-7",
+   "round": 18,
+   "date": "2027-02-28",
+   "time": "12:15",
+   "home": "Cham Maristes-Sagrerenc",
+   "away": "CE Arenys de Munt",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-18-10-2",
+   "round": 18,
+   "date": "2027-02-28",
+   "time": "18:00",
+   "home": "CH Figueres",
+   "away": "Club Patí Breda B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-18-11-8",
+   "round": 18,
+   "date": "2027-02-28",
+   "time": "19:30",
+   "home": "SHUM Alea",
+   "away": "CP Blanes",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-19-1-5",
+   "round": 19,
+   "date": "2027-03-12",
+   "time": "20:50",
+   "home": "Girona Club Hoquei B",
+   "away": "CP Jonquerenc",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-19-6-11",
+   "round": 19,
+   "date": "2027-03-13",
+   "time": "19:30",
+   "home": "GEIEG",
+   "away": "SHUM Alea",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-19-8-10",
+   "round": 19,
+   "date": "2027-03-14",
+   "time": "12:30",
+   "home": "CP Blanes",
+   "away": "CH Figueres",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-19-7-3",
+   "round": 19,
+   "date": "2027-03-14",
+   "time": "15:00",
+   "home": "CE Arenys de Munt",
+   "away": "Club Patí Malgrat Grup Escobar",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-19-2-4",
+   "round": 19,
+   "date": "2027-03-14",
+   "time": "18:30",
+   "home": "Club Patí Breda B",
+   "away": "Oxford HC Salt",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-20-4-8",
+   "round": 20,
+   "date": "2027-03-20",
+   "time": "16:45",
+   "home": "Oxford HC Salt",
+   "away": "CP Blanes",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-20-5-7",
+   "round": 20,
+   "date": "2027-03-20",
+   "time": "18:30",
+   "home": "CP Jonquerenc",
+   "away": "CE Arenys de Munt",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-20-3-9",
+   "round": 20,
+   "date": "2027-03-21",
+   "time": "12:00",
+   "home": "Club Patí Malgrat Grup Escobar",
+   "away": "Cham Maristes-Sagrerenc",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-20-10-6",
+   "round": 20,
+   "date": "2027-03-21",
+   "time": "18:00",
+   "home": "CH Figueres",
+   "away": "GEIEG",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-20-11-0",
+   "round": 20,
+   "date": "2027-03-21",
+   "time": "19:30",
+   "home": "SHUM Alea",
+   "away": "CP Caldes C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-21-1-11",
+   "round": 21,
+   "date": "2027-04-02",
+   "time": "20:50",
+   "home": "Girona Club Hoquei B",
+   "away": "SHUM Alea",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-21-6-4",
+   "round": 21,
+   "date": "2027-04-03",
+   "time": "19:30",
+   "home": "GEIEG",
+   "away": "Oxford HC Salt",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-21-0-10",
+   "round": 21,
+   "date": "2027-04-03",
+   "time": "19:45",
+   "home": "CP Caldes C",
+   "away": "CH Figueres",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-21-9-5",
+   "round": 21,
+   "date": "2027-04-04",
+   "time": "12:15",
+   "home": "Cham Maristes-Sagrerenc",
+   "away": "CP Jonquerenc",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-21-8-2",
+   "round": 21,
+   "date": "2027-04-04",
+   "time": "12:30",
+   "home": "CP Blanes",
+   "away": "Club Patí Breda B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-22-4-0",
+   "round": 22,
+   "date": "2027-04-10",
+   "time": "16:45",
+   "home": "Oxford HC Salt",
+   "away": "CP Caldes C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-22-5-3",
+   "round": 22,
+   "date": "2027-04-10",
+   "time": "18:30",
+   "home": "CP Jonquerenc",
+   "away": "Club Patí Malgrat Grup Escobar",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-22-10-1",
+   "round": 22,
+   "date": "2027-04-11",
+   "time": "18:00",
+   "home": "CH Figueres",
+   "away": "Girona Club Hoquei B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-22-2-6",
+   "round": 22,
+   "date": "2027-04-11",
+   "time": "18:30",
+   "home": "Club Patí Breda B",
+   "away": "GEIEG",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-22-11-7",
+   "round": 22,
+   "date": "2027-04-11",
+   "time": "19:30",
+   "home": "SHUM Alea",
+   "away": "CE Arenys de Munt",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-23-1-4",
+   "round": 23,
+   "date": "2027-04-23",
+   "time": "20:50",
+   "home": "Girona Club Hoquei B",
+   "away": "Oxford HC Salt",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-23-6-8",
+   "round": 23,
+   "date": "2027-04-24",
+   "time": "19:30",
+   "home": "GEIEG",
+   "away": "CP Blanes",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-23-0-2",
+   "round": 23,
+   "date": "2027-04-24",
+   "time": "19:45",
+   "home": "CP Caldes C",
+   "away": "Club Patí Breda B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-23-9-11",
+   "round": 23,
+   "date": "2027-04-25",
+   "time": "12:15",
+   "home": "Cham Maristes-Sagrerenc",
+   "away": "SHUM Alea",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-23-7-10",
+   "round": 23,
+   "date": "2027-04-25",
+   "time": "15:00",
+   "home": "CE Arenys de Munt",
+   "away": "CH Figueres",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-24-4-7",
+   "round": 24,
+   "date": "2027-05-01",
+   "time": "16:45",
+   "home": "Oxford HC Salt",
+   "away": "CE Arenys de Munt",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-24-8-0",
+   "round": 24,
+   "date": "2027-05-02",
+   "time": "12:30",
+   "home": "CP Blanes",
+   "away": "CP Caldes C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-24-10-9",
+   "round": 24,
+   "date": "2027-05-02",
+   "time": "18:00",
+   "home": "CH Figueres",
+   "away": "Cham Maristes-Sagrerenc",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-24-2-1",
+   "round": 24,
+   "date": "2027-05-02",
+   "time": "18:30",
+   "home": "Club Patí Breda B",
+   "away": "Girona Club Hoquei B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-24-11-3",
+   "round": 24,
+   "date": "2027-05-02",
+   "time": "19:30",
+   "home": "SHUM Alea",
+   "away": "Club Patí Malgrat Grup Escobar",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-25-1-8",
+   "round": 25,
+   "date": "2027-05-14",
+   "time": "20:50",
+   "home": "Girona Club Hoquei B",
+   "away": "CP Blanes",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-25-5-11",
+   "round": 25,
+   "date": "2027-05-15",
+   "time": "18:30",
+   "home": "CP Jonquerenc",
+   "away": "SHUM Alea",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-25-0-6",
+   "round": 25,
+   "date": "2027-05-15",
+   "time": "19:45",
+   "home": "CP Caldes C",
+   "away": "GEIEG",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-25-3-10",
+   "round": 25,
+   "date": "2027-05-16",
+   "time": "12:00",
+   "home": "Club Patí Malgrat Grup Escobar",
+   "away": "CH Figueres",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-25-9-4",
+   "round": 25,
+   "date": "2027-05-16",
+   "time": "12:15",
+   "home": "Cham Maristes-Sagrerenc",
+   "away": "Oxford HC Salt",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-25-7-2",
+   "round": 25,
+   "date": "2027-05-16",
+   "time": "15:00",
+   "home": "CE Arenys de Munt",
+   "away": "Club Patí Breda B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-26-4-3",
+   "round": 26,
+   "date": "2027-05-22",
+   "time": "16:45",
+   "home": "Oxford HC Salt",
+   "away": "Club Patí Malgrat Grup Escobar",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-26-6-1",
+   "round": 26,
+   "date": "2027-05-22",
+   "time": "19:30",
+   "home": "GEIEG",
+   "away": "Girona Club Hoquei B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-26-8-7",
+   "round": 26,
+   "date": "2027-05-23",
+   "time": "12:30",
+   "home": "CP Blanes",
+   "away": "CE Arenys de Munt",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-26-10-5",
+   "round": 26,
+   "date": "2027-05-23",
+   "time": "18:00",
+   "home": "CH Figueres",
+   "away": "CP Jonquerenc",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "tercera-masculina-26-2-9",
+   "round": 26,
+   "date": "2027-05-23",
+   "time": "18:30",
+   "home": "Club Patí Breda B",
+   "away": "Cham Maristes-Sagrerenc",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  }
+ ],
+ "teamCoaches": {},
+ "officialNames": {
+  "CP CALDES C": "CP Caldes C",
+  "GIRONA CLUB HOQUEI B": "Girona Club Hoquei B",
+  "CLUB PATÍ BREDA B": "Club Patí Breda B",
+  "CLUB PATÍ MALGRAT GRUP ESCOBAR": "Club Patí Malgrat Grup Escobar",
+  "OXFORD HC SALT": "Oxford HC Salt",
+  "CP JONQUERENC": "CP Jonquerenc",
+  "GEIEG": "GEIEG",
+  "CE ARENYS DE MUNT": "CE Arenys de Munt",
+  "CP BLANES": "CP Blanes",
+  "CHAM MARISTES-SAGRERENC": "Cham Maristes-Sagrerenc",
+  "CH FIGUERES": "CH Figueres",
+  "SHUM ALEA": "SHUM Alea"
+ }
+}

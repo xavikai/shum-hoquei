@@ -32,3 +32,13 @@ header{flex-direction:column;align-items:flex-start;gap:10px;margin-bottom:18px}
 }
 
 #install-app[hidden]{display:none}.install-content{padding:24px;max-width:540px}.install-content h2{padding-right:25px}.install-content li{margin:10px 0;line-height:1.5}.install-content h3{margin-top:24px}
+/* Selector d'equip */
+nav button[hidden]{display:none}
+.team-picker{display:grid;gap:5px;margin:22px 0 0;font-size:10px;letter-spacing:1.2px;text-transform:uppercase;color:var(--muted)}
+.team-picker select{font:inherit;font-size:13px;letter-spacing:0;text-transform:none;color:var(--ink);background:#fff;border:1px solid var(--line);border-radius:6px;padding:9px 8px;width:100%;min-width:0}
+.team-picker+.season{margin-top:18px}
+.captain-note{border-left:3px solid var(--red);padding-left:10px}
+@media(max-width:700px){
+.team-picker{margin:10px 0 0;grid-template-columns:auto 1fr;align-items:center;gap:8px}
+.team-picker select{padding:8px;font-size:14px}
+}

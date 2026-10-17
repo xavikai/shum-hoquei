@@ -1,0 +1,2029 @@
+{
+ "league": "Juvenil Or · Grup 1",
+ "season": "2026/27",
+ "source": "https://www.hoqueipatins.fecapa.cat/league/4784",
+ "updatedAt": "2026-10-17T17:00:00.000Z",
+ "team": "SHUM Frit Ravich",
+ "teams": [
+  "Igualada HC B",
+  "Club Hoquei Prat A",
+  "Barça",
+  "CE Noia Freixenet C",
+  "HC Valls FM Logistic",
+  "SHUM Frit Ravich",
+  "Hoquei Casal Espluga",
+  "Hoquei Club Castellar"
+ ],
+ "matches": [
+  {
+   "id": "juvenil-or-1-0-1",
+   "round": 1,
+   "date": "2026-09-26",
+   "time": "16:15",
+   "home": "Igualada HC B",
+   "away": "Club Hoquei Prat A",
+   "score": [
+    4,
+    5
+   ],
+   "officialId": "151298",
+   "rosters": {
+    "home": [
+     {
+      "number": 36,
+      "name": "VIERA MORENO MAX",
+      "goals": 2,
+      "keeper": false
+     },
+     {
+      "number": 38,
+      "name": "BALANDRON ZENERE MARC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 39,
+      "name": "GOZALEZ MOLAS MARC",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 42,
+      "name": "MASFERRER BERCIAL NICO",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 43,
+      "name": "TORRAS TORRES NIL",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 48,
+      "name": "CAMP RICO MAX",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 30,
+      "name": "DEL OLMO MEGINO ARNAU",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 8,
+      "name": "RIVEROLA I SALA MARTÍ",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 25,
+      "name": "MORENO TIRADO ALEX",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 28,
+      "name": "SALLÉS LÓPEZ ARNAU",
+      "goals": 3,
+      "keeper": false
+     },
+     {
+      "number": 39,
+      "name": "DIAZ TAMAYO ORIOL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 47,
+      "name": "ADÁN TERRERO NÀSSER",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 54,
+      "name": "MONCLÚS GARCÍA MATÍAS",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 79,
+      "name": "TRUJILLO DOÑA TONI",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 20,
+      "name": "CAÑIS PASCUAL QUERALT",
+      "goals": 0,
+      "keeper": true
+     },
+     {
+      "number": 97,
+      "name": "MIEITES MARTÍ POL",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "juvenil-or-1-2-3",
+   "round": 1,
+   "date": "2026-09-27",
+   "time": "11:30",
+   "home": "Barça",
+   "away": "CE Noia Freixenet C",
+   "score": [
+    9,
+    0
+   ],
+   "officialId": "151296",
+   "rosters": {
+    "home": [
+     {
+      "number": 9,
+      "name": "MOYA SALMERON BIEL",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 18,
+      "name": "JURADO GONZALEZ BRUNO",
+      "goals": 3,
+      "keeper": false
+     },
+     {
+      "number": 33,
+      "name": "FEIXAS MONTSERRAT MARC",
+      "goals": 2,
+      "keeper": false
+     },
+     {
+      "number": 67,
+      "name": "GUTIERREZ ASTOR ALEIX",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 72,
+      "name": "MARIN MAS BORJA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 77,
+      "name": "COLLADO GARCIA GUIM",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 78,
+      "name": "GARCÍA GONZÁLEZ NICOLÁS",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 79,
+      "name": "XANDRI LAFUENTE GUILLEM",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 14,
+      "name": "PACHECO ARABIA DIDAC",
+      "goals": 0,
+      "keeper": true
+     },
+     {
+      "number": 1,
+      "name": "GARCIA VALLE JOAN",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 20,
+      "name": "MARTINEZ BELTRAN RICARD",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 22,
+      "name": "PEREZ DELGADO NIL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 38,
+      "name": "LLORACH URPI RAFA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 66,
+      "name": "PUJADAS POSTIGO BIEL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 76,
+      "name": "DARBYSHIRE RIKI BEAR",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 95,
+      "name": "BALDRIS NIN OT",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 92,
+      "name": "DUBUISSON - LE MASNE ESTEBAN",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "juvenil-or-1-4-5",
+   "round": 1,
+   "date": "2026-09-27",
+   "time": "12:00",
+   "home": "HC Valls FM Logistic",
+   "away": "SHUM Frit Ravich",
+   "score": [
+    0,
+    4
+   ],
+   "officialId": "151297",
+   "rosters": {
+    "home": [
+     {
+      "number": 7,
+      "name": "SANCHO CANOVAS ROGER",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 19,
+      "name": "TRILLA MARTINEZ JAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 31,
+      "name": "GUTIERREZ LLAURADÓ BIEL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 32,
+      "name": "GUTIERREZ LLAURADÓ ORIOL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 63,
+      "name": "VOLTAS GRAU FERRAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 72,
+      "name": "MAZA SEDÓ JOEL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 34,
+      "name": "ABAD GRAU ALEX",
+      "goals": 0,
+      "keeper": true
+     },
+     {
+      "number": 3,
+      "name": "CAZORLA MATEU BLAI",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 2,
+      "name": "PRATS ALEJO MARC",
+      "goals": 3,
+      "keeper": false
+     },
+     {
+      "number": 4,
+      "name": "BONILLA GARRIGA ORIOL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 10,
+      "name": "MUNSO HORTELANO SERGI",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 11,
+      "name": "GÓMEZ GONZÀLEZ JORDI",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 19,
+      "name": "BIGORRA ROVIRA MARTÍ",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 20,
+      "name": "CEBRIÁN I LOPEZ MARCEL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 18,
+      "name": "ROCA PINTIADO ARNAU",
+      "goals": 0,
+      "keeper": true
+     },
+     {
+      "number": 88,
+      "name": "SANCHEZ VALDERREY HUGO",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "juvenil-or-1-6-7",
+   "round": 1,
+   "date": "2026-09-27",
+   "time": "17:15",
+   "home": "Hoquei Casal Espluga",
+   "away": "Hoquei Club Castellar",
+   "score": [
+    3,
+    1
+   ],
+   "officialId": "151299",
+   "rosters": {
+    "home": [
+     {
+      "number": 2,
+      "name": "GIL FARRÉ ROGER",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 7,
+      "name": "ASENSIO CARRERAS NIL",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 23,
+      "name": "GUERRA GALICIA ROGER",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 24,
+      "name": "GIL ÒDENA MAX",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 27,
+      "name": "GILI PINTO OIHAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 29,
+      "name": "WARLETA MOYA MARC",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 77,
+      "name": "LOPEZ VAL EDUARDO",
+      "goals": 0,
+      "keeper": true
+     },
+     {
+      "number": 28,
+      "name": "CARAYOL PERE ALBERT",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 25,
+      "name": "CHACALTANA KUNIMOTO ÁLVARO",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 28,
+      "name": "MIRO FARRE LLUC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 29,
+      "name": "PUJOL GUERRERO PAU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 30,
+      "name": "ALGUACIL ARROYO BIEL",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 32,
+      "name": "PINEDA CASTELLA GUIM",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 77,
+      "name": "SANMARTIN ARAMAYO IKER",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 99,
+      "name": "CASAJUANA CASTRO GUILLEM",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "juvenil-or-2-7-0",
+   "round": 2,
+   "date": "2026-10-03",
+   "time": "11:15",
+   "home": "Hoquei Club Castellar",
+   "away": "Igualada HC B",
+   "score": [
+    0,
+    3
+   ],
+   "officialId": "151303",
+   "rosters": {
+    "home": [
+     {
+      "number": 25,
+      "name": "CHACALTANA KUNIMOTO ÁLVARO",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 28,
+      "name": "MIRO FARRE LLUC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 29,
+      "name": "PUJOL GUERRERO PAU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 30,
+      "name": "ALGUACIL ARROYO BIEL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 32,
+      "name": "PINEDA CASTELLA GUIM",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 77,
+      "name": "SANMARTIN ARAMAYO IKER",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 99,
+      "name": "CASAJUANA CASTRO GUILLEM",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 36,
+      "name": "VIERA MORENO MAX",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 39,
+      "name": "GOZALEZ MOLAS MARC",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 42,
+      "name": "MASFERRER BERCIAL NICO",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 43,
+      "name": "TORRAS TORRES NIL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 48,
+      "name": "CAMP RICO MAX",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 67,
+      "name": "PARDO GUITART NIL",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 61,
+      "name": "NOGAREDA CARMONA BRU",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "juvenil-or-2-3-6",
+   "round": 2,
+   "date": "2026-10-03",
+   "time": "12:30",
+   "home": "CE Noia Freixenet C",
+   "away": "Hoquei Casal Espluga",
+   "score": [
+    4,
+    3
+   ],
+   "officialId": "151300",
+   "rosters": {
+    "home": [
+     {
+      "number": 20,
+      "name": "MARTINEZ BELTRAN RICARD",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 22,
+      "name": "PEREZ DELGADO NIL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 38,
+      "name": "LLORACH URPI RAFA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 66,
+      "name": "PUJADAS POSTIGO BIEL",
+      "goals": 2,
+      "keeper": false
+     },
+     {
+      "number": 76,
+      "name": "DARBYSHIRE RIKI BEAR",
+      "goals": 2,
+      "keeper": false
+     },
+     {
+      "number": 95,
+      "name": "BALDRIS NIN OT",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 92,
+      "name": "DUBUISSON - LE MASNE ESTEBAN",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 2,
+      "name": "GIL FARRÉ ROGER",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 7,
+      "name": "ASENSIO CARRERAS NIL",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 23,
+      "name": "GUERRA GALICIA ROGER",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 24,
+      "name": "GIL ÒDENA MAX",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 27,
+      "name": "GILI PINTO OIHAN",
+      "goals": 2,
+      "keeper": false
+     },
+     {
+      "number": 29,
+      "name": "WARLETA MOYA MARC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 77,
+      "name": "LOPEZ VAL EDUARDO",
+      "goals": 0,
+      "keeper": true
+     },
+     {
+      "number": 28,
+      "name": "CARAYOL PERE ALBERT",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "juvenil-or-2-1-4",
+   "round": 2,
+   "date": "2026-10-03",
+   "time": "15:00",
+   "home": "Club Hoquei Prat A",
+   "away": "HC Valls FM Logistic",
+   "score": [
+    0,
+    1
+   ],
+   "officialId": "151302",
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "juvenil-or-2-5-2",
+   "round": 2,
+   "date": "2026-10-13",
+   "time": "21:15",
+   "home": "SHUM Frit Ravich",
+   "away": "Barça",
+   "score": [
+    0,
+    8
+   ],
+   "officialId": "151301",
+   "rosters": {
+    "home": [
+     {
+      "number": 2,
+      "name": "PRATS ALEJO MARC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 4,
+      "name": "BONILLA GARRIGA ORIOL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 10,
+      "name": "MUNSO HORTELANO SERGI",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 11,
+      "name": "GÓMEZ GONZÀLEZ JORDI",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 16,
+      "name": "BIGORRA ROVIRA MARTÍ",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 20,
+      "name": "CEBRIÁN I LOPEZ MARCEL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 19,
+      "name": "ROCA PINTIADO ARNAU",
+      "goals": 0,
+      "keeper": true
+     },
+     {
+      "number": 88,
+      "name": "SANCHEZ VALDERREY HUGO",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 9,
+      "name": "MOYA SALMERON BIEL",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 18,
+      "name": "JURADO GONZALEZ BRUNO",
+      "goals": 2,
+      "keeper": false
+     },
+     {
+      "number": 27,
+      "name": "VIDAL RODRIGUEZ EGOITZ",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 33,
+      "name": "FEIXAS MONTSERRAT MARC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 67,
+      "name": "GUTIERREZ ASTOR ALEIX",
+      "goals": 2,
+      "keeper": false
+     },
+     {
+      "number": 72,
+      "name": "MARIN MAS BORJA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 77,
+      "name": "COLLADO GARCIA GUIM",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 78,
+      "name": "GARCÍA GONZÁLEZ NICOLÁS",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 79,
+      "name": "XANDRI LAFUENTE GUILLEM",
+      "goals": 3,
+      "keeper": false
+     },
+     {
+      "number": 11,
+      "name": "ALVAREZ BASSET ARNAU",
+      "goals": 0,
+      "keeper": true
+     },
+     {
+      "number": 14,
+      "name": "PACHECO ARABIA DIDAC",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "juvenil-or-3-4-7",
+   "round": 3,
+   "date": "2026-10-09",
+   "time": "21:00",
+   "home": "HC Valls FM Logistic",
+   "away": "Hoquei Club Castellar",
+   "score": [
+    1,
+    6
+   ],
+   "officialId": "151306",
+   "rosters": {
+    "home": [
+     {
+      "number": 7,
+      "name": "SANCHO CANOVAS ROGER",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 19,
+      "name": "TRILLA MARTINEZ JAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 31,
+      "name": "GUTIERREZ LLAURADÓ ORIOL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 32,
+      "name": "GUTIERREZ LLAURADÓ BIEL",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 63,
+      "name": "VOLTAS GRAU FERRAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 72,
+      "name": "MAZA SEDÓ JOEL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 34,
+      "name": "ABAD GRAU ALEX",
+      "goals": 0,
+      "keeper": true
+     },
+     {
+      "number": 3,
+      "name": "CAZORLA MATEU BLAI",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 25,
+      "name": "CHACALTANA KUNIMOTO ÁLVARO",
+      "goals": 2,
+      "keeper": false
+     },
+     {
+      "number": 28,
+      "name": "MIRO FARRE LLUC",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 29,
+      "name": "PUJOL GUERRERO PAU",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 30,
+      "name": "ALGUACIL ARROYO BIEL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 32,
+      "name": "PINEDA CASTELLA GUIM",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 77,
+      "name": "SANMARTIN ARAMAYO IKER",
+      "goals": 2,
+      "keeper": false
+     },
+     {
+      "number": 99,
+      "name": "CASAJUANA CASTRO GUILLEM",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "juvenil-or-3-2-1",
+   "round": 3,
+   "date": "2026-10-10",
+   "time": "13:00",
+   "home": "Barça",
+   "away": "Club Hoquei Prat A",
+   "score": [
+    13,
+    1
+   ],
+   "officialId": "151305",
+   "rosters": {
+    "home": [
+     {
+      "number": 9,
+      "name": "MOYA SALMERON BIEL",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 18,
+      "name": "JURADO GONZALEZ BRUNO",
+      "goals": 2,
+      "keeper": false
+     },
+     {
+      "number": 33,
+      "name": "FEIXAS MONTSERRAT MARC",
+      "goals": 2,
+      "keeper": false
+     },
+     {
+      "number": 67,
+      "name": "GUTIERREZ ASTOR ALEIX",
+      "goals": 2,
+      "keeper": false
+     },
+     {
+      "number": 72,
+      "name": "MARIN MAS BORJA",
+      "goals": 2,
+      "keeper": false
+     },
+     {
+      "number": 77,
+      "name": "COLLADO GARCIA GUIM",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 79,
+      "name": "XANDRI LAFUENTE GUILLEM",
+      "goals": 3,
+      "keeper": false
+     },
+     {
+      "number": 1,
+      "name": "GARCIA VALLE JOAN",
+      "goals": 0,
+      "keeper": true
+     },
+     {
+      "number": 11,
+      "name": "ALVAREZ BASSET ARNAU",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 8,
+      "name": "RIVEROLA I SALA MARTÍ",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 25,
+      "name": "MORENO TIRADO ALEX",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 28,
+      "name": "SALLÉS LÓPEZ ARNAU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 39,
+      "name": "DIAZ TAMAYO ORIOL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 47,
+      "name": "ADÁN TERRERO NÀSSER",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 54,
+      "name": "MONCLÚS GARCÍA MATÍAS",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 79,
+      "name": "TRUJILLO DOÑA TONI",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 20,
+      "name": "CAÑIS PASCUAL QUERALT",
+      "goals": 0,
+      "keeper": true
+     },
+     {
+      "number": 97,
+      "name": "MIEITES MARTÍ POL",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "juvenil-or-3-3-5",
+   "round": 3,
+   "date": "2026-10-10",
+   "time": "15:15",
+   "home": "CE Noia Freixenet C",
+   "away": "SHUM Frit Ravich",
+   "score": [
+    3,
+    0
+   ],
+   "officialId": "151304",
+   "rosters": {
+    "home": [
+     {
+      "number": 20,
+      "name": "MARTINEZ BELTRAN RICARD",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 22,
+      "name": "PEREZ DELGADO NIL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 38,
+      "name": "LLORACH URPI RAFA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 66,
+      "name": "PUJADAS POSTIGO BIEL",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 76,
+      "name": "DARBYSHIRE RIKI BEAR",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 95,
+      "name": "BALDRIS NIN OT",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 92,
+      "name": "DUBUISSON - LE MASNE ESTEBAN",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 4,
+      "name": "BONILLA GARRIGA ORIOL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 10,
+      "name": "MUNSO HORTELANO SERGI",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 11,
+      "name": "GÓMEZ GONZÀLEZ JORDI",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 19,
+      "name": "BIGORRA ROVIRA MARTÍ",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 20,
+      "name": "CEBRIÁN I LOPEZ MARCEL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 88,
+      "name": "SANCHEZ VALDERREY HUGO",
+      "goals": 0,
+      "keeper": true
+     },
+     {
+      "number": 18,
+      "name": "ROCA PINTIADO ARNAU",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "juvenil-or-3-6-0",
+   "round": 3,
+   "date": "2026-10-10",
+   "time": "15:45",
+   "home": "Hoquei Casal Espluga",
+   "away": "Igualada HC B",
+   "score": [
+    1,
+    4
+   ],
+   "officialId": "151307",
+   "rosters": {
+    "home": [
+     {
+      "number": 2,
+      "name": "GIL FARRÉ ROGER",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 7,
+      "name": "ASENSIO CARRERAS NIL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 9,
+      "name": "COS ESCUDER BIEL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 23,
+      "name": "GUERRA GALICIA ROGER",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 24,
+      "name": "GIL ÒDENA MAX",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 27,
+      "name": "GILI PINTO OIHAN",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 29,
+      "name": "WARLETA MOYA MARC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 28,
+      "name": "CARAYOL PERE ALBERT",
+      "goals": 0,
+      "keeper": true
+     },
+     {
+      "number": 77,
+      "name": "LOPEZ VAL EDUARDO",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 36,
+      "name": "VIERA MORENO MAX",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 39,
+      "name": "GOZALEZ MOLAS MARC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 42,
+      "name": "MASFERRER BERCIAL NICO",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 43,
+      "name": "TORRAS TORRES NIL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 48,
+      "name": "CAMP RICO MAX",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 68,
+      "name": "PARDO GUITART NIL",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 20,
+      "name": "SANGRÀ PASTOR LLUC",
+      "goals": 0,
+      "keeper": true
+     },
+     {
+      "number": 61,
+      "name": "NOGAREDA CARMONA BRU",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "juvenil-or-4-0-4",
+   "round": 4,
+   "date": "2026-10-17",
+   "time": "13:30",
+   "home": "Igualada HC B",
+   "away": "HC Valls FM Logistic",
+   "score": [
+    5,
+    1
+   ],
+   "officialId": "151311",
+   "rosters": {
+    "home": [
+     {
+      "number": 36,
+      "name": "VIERA MORENO MAX",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 39,
+      "name": "GOZALEZ MOLAS MARC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 42,
+      "name": "MASFERRER BERCIAL NICO",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 43,
+      "name": "TORRAS TORRES NIL",
+      "goals": 2,
+      "keeper": false
+     },
+     {
+      "number": 48,
+      "name": "CAMP RICO MAX",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 67,
+      "name": "PARDO GUITART NIL",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 20,
+      "name": "SANGRÀ PASTOR LLUC",
+      "goals": 0,
+      "keeper": true
+     },
+     {
+      "number": 61,
+      "name": "NOGAREDA CARMONA BRU",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 7,
+      "name": "SANCHO CANOVAS ROGER",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 19,
+      "name": "TRILLA MARTINEZ JAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 31,
+      "name": "GUTIERREZ LLAURADÓ ORIOL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 32,
+      "name": "GUTIERREZ LLAURADÓ BIEL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 63,
+      "name": "VOLTAS GRAU FERRAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 72,
+      "name": "MAZA SEDÓ JOEL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 34,
+      "name": "ABAD GRAU ALEX",
+      "goals": 0,
+      "keeper": true
+     },
+     {
+      "number": 3,
+      "name": "CAZORLA MATEU BLAI",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "juvenil-or-4-1-3",
+   "round": 4,
+   "date": "2026-10-17",
+   "time": "18:45",
+   "home": "Club Hoquei Prat A",
+   "away": "CE Noia Freixenet C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "juvenil-or-4-5-6",
+   "round": 4,
+   "date": "2026-10-18",
+   "time": "11:15",
+   "home": "SHUM Frit Ravich",
+   "away": "Hoquei Casal Espluga",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "juvenil-or-4-7-2",
+   "round": 4,
+   "date": "2026-10-18",
+   "time": "11:15",
+   "home": "Hoquei Club Castellar",
+   "away": "Barça",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "juvenil-or-5-3-7",
+   "round": 5,
+   "date": "2026-10-24",
+   "time": "12:30",
+   "home": "CE Noia Freixenet C",
+   "away": "Hoquei Club Castellar",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "juvenil-or-5-6-4",
+   "round": 5,
+   "date": "2026-10-24",
+   "time": "17:45",
+   "home": "Hoquei Casal Espluga",
+   "away": "HC Valls FM Logistic",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "juvenil-or-5-2-0",
+   "round": 5,
+   "date": "2026-10-25",
+   "time": "16:30",
+   "home": "Barça",
+   "away": "Igualada HC B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "juvenil-or-5-5-1",
+   "round": 5,
+   "date": "2026-10-25",
+   "time": "17:30",
+   "home": "SHUM Frit Ravich",
+   "away": "Club Hoquei Prat A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "juvenil-or-6-0-3",
+   "round": 6,
+   "date": "2026-10-31",
+   "time": "17:30",
+   "home": "Igualada HC B",
+   "away": "CE Noia Freixenet C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "juvenil-or-6-6-1",
+   "round": 6,
+   "date": "2026-10-31",
+   "time": "17:45",
+   "home": "Hoquei Casal Espluga",
+   "away": "Club Hoquei Prat A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "juvenil-or-6-7-5",
+   "round": 6,
+   "date": "2026-11-01",
+   "time": "11:10",
+   "home": "Hoquei Club Castellar",
+   "away": "SHUM Frit Ravich",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "juvenil-or-6-4-2",
+   "round": 6,
+   "date": "2026-11-01",
+   "time": "13:30",
+   "home": "HC Valls FM Logistic",
+   "away": "Barça",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "juvenil-or-7-2-6",
+   "round": 7,
+   "date": "2026-11-07",
+   "time": "11:30",
+   "home": "Barça",
+   "away": "Hoquei Casal Espluga",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "juvenil-or-7-5-0",
+   "round": 7,
+   "date": "2026-11-07",
+   "time": "19:00",
+   "home": "SHUM Frit Ravich",
+   "away": "Igualada HC B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "juvenil-or-7-1-7",
+   "round": 7,
+   "date": "2026-11-08",
+   "time": "16:15",
+   "home": "Club Hoquei Prat A",
+   "away": "Hoquei Club Castellar",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "juvenil-or-7-3-4",
+   "round": 7,
+   "date": "2026-11-08",
+   "time": "16:15",
+   "home": "CE Noia Freixenet C",
+   "away": "HC Valls FM Logistic",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "juvenil-or-8-7-6",
+   "round": 8,
+   "date": "2026-11-14",
+   "time": "11:15",
+   "home": "Hoquei Club Castellar",
+   "away": "Hoquei Casal Espluga",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "juvenil-or-8-3-2",
+   "round": 8,
+   "date": "2026-11-14",
+   "time": "15:15",
+   "home": "CE Noia Freixenet C",
+   "away": "Barça",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "juvenil-or-8-5-4",
+   "round": 8,
+   "date": "2026-11-14",
+   "time": "17:30",
+   "home": "SHUM Frit Ravich",
+   "away": "HC Valls FM Logistic",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "juvenil-or-8-1-0",
+   "round": 8,
+   "date": "2026-11-15",
+   "time": "16:45",
+   "home": "Club Hoquei Prat A",
+   "away": "Igualada HC B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "juvenil-or-9-2-5",
+   "round": 9,
+   "date": "2026-11-21",
+   "time": "11:30",
+   "home": "Barça",
+   "away": "SHUM Frit Ravich",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "juvenil-or-9-6-3",
+   "round": 9,
+   "date": "2026-11-21",
+   "time": "18:45",
+   "home": "Hoquei Casal Espluga",
+   "away": "CE Noia Freixenet C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "juvenil-or-9-0-7",
+   "round": 9,
+   "date": "2026-11-22",
+   "time": "17:00",
+   "home": "Igualada HC B",
+   "away": "Hoquei Club Castellar",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "juvenil-or-9-4-1",
+   "round": 9,
+   "date": "2026-11-22",
+   "time": "18:00",
+   "home": "HC Valls FM Logistic",
+   "away": "Club Hoquei Prat A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "juvenil-or-10-1-2",
+   "round": 10,
+   "date": "2026-11-28",
+   "time": "17:30",
+   "home": "Club Hoquei Prat A",
+   "away": "Barça",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "juvenil-or-10-7-4",
+   "round": 10,
+   "date": "2026-11-29",
+   "time": "13:15",
+   "home": "Hoquei Club Castellar",
+   "away": "HC Valls FM Logistic",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "juvenil-or-10-5-3",
+   "round": 10,
+   "date": "2026-11-29",
+   "time": "17:00",
+   "home": "SHUM Frit Ravich",
+   "away": "CE Noia Freixenet C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "juvenil-or-10-0-6",
+   "round": 10,
+   "date": "2026-11-29",
+   "time": "17:00",
+   "home": "Igualada HC B",
+   "away": "Hoquei Casal Espluga",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "juvenil-or-11-2-7",
+   "round": 11,
+   "date": "2026-12-05",
+   "time": "11:30",
+   "home": "Barça",
+   "away": "Hoquei Club Castellar",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "juvenil-or-11-3-1",
+   "round": 11,
+   "date": "2026-12-05",
+   "time": "12:30",
+   "home": "CE Noia Freixenet C",
+   "away": "Club Hoquei Prat A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "juvenil-or-11-6-5",
+   "round": 11,
+   "date": "2026-12-05",
+   "time": "18:45",
+   "home": "Hoquei Casal Espluga",
+   "away": "SHUM Frit Ravich",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "juvenil-or-11-4-0",
+   "round": 11,
+   "date": "2026-12-06",
+   "time": "12:00",
+   "home": "HC Valls FM Logistic",
+   "away": "Igualada HC B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "juvenil-or-12-1-5",
+   "round": 12,
+   "date": "2026-12-12",
+   "time": "17:30",
+   "home": "Club Hoquei Prat A",
+   "away": "SHUM Frit Ravich",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "juvenil-or-12-4-6",
+   "round": 12,
+   "date": "2026-12-12",
+   "time": "19:00",
+   "home": "HC Valls FM Logistic",
+   "away": "Hoquei Casal Espluga",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "juvenil-or-12-7-3",
+   "round": 12,
+   "date": "2026-12-13",
+   "time": "13:15",
+   "home": "Hoquei Club Castellar",
+   "away": "CE Noia Freixenet C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "juvenil-or-12-0-2",
+   "round": 12,
+   "date": "2026-12-13",
+   "time": "17:00",
+   "home": "Igualada HC B",
+   "away": "Barça",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "juvenil-or-13-2-4",
+   "round": 13,
+   "date": "2026-12-19",
+   "time": "11:30",
+   "home": "Barça",
+   "away": "HC Valls FM Logistic",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "juvenil-or-13-3-0",
+   "round": 13,
+   "date": "2026-12-19",
+   "time": "12:30",
+   "home": "CE Noia Freixenet C",
+   "away": "Igualada HC B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "juvenil-or-13-1-6",
+   "round": 13,
+   "date": "2026-12-19",
+   "time": "17:30",
+   "home": "Club Hoquei Prat A",
+   "away": "Hoquei Casal Espluga",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "juvenil-or-13-5-7",
+   "round": 13,
+   "date": "2026-12-20",
+   "time": "17:00",
+   "home": "SHUM Frit Ravich",
+   "away": "Hoquei Club Castellar",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "juvenil-or-14-6-2",
+   "round": 14,
+   "date": "2027-01-09",
+   "time": "18:45",
+   "home": "Hoquei Casal Espluga",
+   "away": "Barça",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "juvenil-or-14-7-1",
+   "round": 14,
+   "date": "2027-01-10",
+   "time": "13:15",
+   "home": "Hoquei Club Castellar",
+   "away": "Club Hoquei Prat A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "juvenil-or-14-4-3",
+   "round": 14,
+   "date": "2027-01-10",
+   "time": "13:30",
+   "home": "HC Valls FM Logistic",
+   "away": "CE Noia Freixenet C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "juvenil-or-14-0-5",
+   "round": 14,
+   "date": "2027-01-10",
+   "time": "17:00",
+   "home": "Igualada HC B",
+   "away": "SHUM Frit Ravich",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  }
+ ],
+ "teamCoaches": {},
+ "officialNames": {
+  "IGUALADA HC B": "Igualada HC B",
+  "CLUB HOQUEI PRAT A": "Club Hoquei Prat A",
+  "BARÇA": "Barça",
+  "CE NOIA FREIXENET C": "CE Noia Freixenet C",
+  "HC VALLS FM LOGISTIC": "HC Valls FM Logistic",
+  "SHUM FRIT RAVICH": "SHUM Frit Ravich",
+  "HOQUEI CASAL ESPLUGA": "Hoquei Casal Espluga",
+  "HOQUEI CLUB CASTELLAR": "Hoquei Club Castellar"
+ }
+}

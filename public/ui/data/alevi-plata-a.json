@@ -1,0 +1,2457 @@
+{
+ "league": "Aleví Plata · Mugadas A · Grup 6",
+ "season": "2026/27",
+ "source": "https://www.hoqueipatins.fecapa.cat/league/4790",
+ "updatedAt": "2026-10-17T17:00:00.000Z",
+ "team": "SHUM Mugadas A",
+ "teams": [
+  "Oxford HC Salt B",
+  "SHUM Mugadas A",
+  "Costa Brava Cassanenc",
+  "Farners B",
+  "CH Palafrugell B",
+  "CH Figueres B",
+  "Martinelia Manlleu B",
+  "Hoquei Banyoles",
+  "Hoquei Club Ripoll A",
+  "Girona Club Hoquei C",
+  "CP Blanes",
+  "CH Olot C"
+ ],
+ "matches": [
+  {
+   "id": "alevi-plata-a-1-0-1",
+   "round": 1,
+   "date": "2026-09-26",
+   "time": "15:00",
+   "home": "Oxford HC Salt B",
+   "away": "SHUM Mugadas A",
+   "score": [
+    0,
+    1
+   ],
+   "officialId": "149243",
+   "rosters": {
+    "home": [
+     {
+      "number": 5,
+      "name": "PEREZ DOMINGUEZ ISAAC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 8,
+      "name": "ÁLVAREZ LORENTE ENYA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 11,
+      "name": "PIANETTI FIGA MAR",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 13,
+      "name": "PUIG TURRÓ IVET",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 22,
+      "name": "EL AIKAOUI EL AIKAOUI DUNIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 31,
+      "name": "MELLADO TYSHCHENKO MARC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 66,
+      "name": "BOSCH SERRA NORA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 93,
+      "name": "SANZ CARRERA MARC",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 40,
+      "name": "SERRA FONT ROGER",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 42,
+      "name": "XAMANÍ FONT ORIOL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 43,
+      "name": "GONZALEZ VALENTI ROGER",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 44,
+      "name": "GARCIA FERNANDEZ ANGEL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 47,
+      "name": "FELIU DIAZ ADAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 49,
+      "name": "LOPEZ ANTEQUERA JORDI",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 77,
+      "name": "GUITART ROSILLO MARTI",
+      "goals": 1,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "alevi-plata-a-1-2-3",
+   "round": 1,
+   "date": "2026-09-26",
+   "time": "16:00",
+   "home": "Costa Brava Cassanenc",
+   "away": "Farners B",
+   "score": [
+    5,
+    2
+   ],
+   "officialId": "149245",
+   "rosters": {
+    "home": [
+     {
+      "number": 15,
+      "name": "VILALTA ESTEVE JOAN",
+      "goals": 5,
+      "keeper": false
+     },
+     {
+      "number": 16,
+      "name": "JIMENEZ GUZMÁN JUAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 17,
+      "name": "SERRA MESAS ALEIX",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 18,
+      "name": "NIETO FUENTES ERIC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 19,
+      "name": "BRUGUÉ MENCIÓ MARC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 20,
+      "name": "BAYÓ MARTÍ IU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 40,
+      "name": "XIFRA SUÑER MARC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 11,
+      "name": "RAMIREZ MONGE IAN DAVID",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 50,
+      "name": "PEREZ ATAY AINA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 51,
+      "name": "ALEU( LUIS CARRERAS MARIONA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 57,
+      "name": "GODAYOL PEREZ ARIADNA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 58,
+      "name": "VIDAL AVIA LAURA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 63,
+      "name": "BOVE FERRER BERNAT",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 70,
+      "name": "BRUSET SOUZA ALEIX",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 53,
+      "name": "CATEURA AROVITX ARLET",
+      "goals": 2,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "alevi-plata-a-1-4-5",
+   "round": 1,
+   "date": "2026-09-26",
+   "time": "16:00",
+   "home": "CH Palafrugell B",
+   "away": "CH Figueres B",
+   "score": [
+    8,
+    6
+   ],
+   "officialId": "149246",
+   "rosters": {
+    "home": [
+     {
+      "number": 21,
+      "name": "RECIO GOMEZ DAVID",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 26,
+      "name": "ESCUDERO RAMIRO",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 30,
+      "name": "PIFERRER PEDROSA JAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 33,
+      "name": "GARCIOLO WELTZ PAU",
+      "goals": 8,
+      "keeper": false
+     },
+     {
+      "number": 36,
+      "name": "JACOMET FRIGOLA LLUIS",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 41,
+      "name": "BATLLOSERA FERRER MARTÍ",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 1,
+      "name": "EZQUERRA AREVALO THIAGO",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 5,
+      "name": "CUADROS TUBERT IONA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 7,
+      "name": "BASERBA FERRÉ AINA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 28,
+      "name": "MARGALL FAIXO ROGER",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 30,
+      "name": "LAFUENTE CASTILLO GINEBRA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 33,
+      "name": "CÓRDOBA MATUTE PAU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 61,
+      "name": "CALDERON CSÖG DAVID NICOLAS",
+      "goals": 6,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "alevi-plata-a-1-6-7",
+   "round": 1,
+   "date": "2026-09-27",
+   "time": "16:00",
+   "home": "Martinelia Manlleu B",
+   "away": "Hoquei Banyoles",
+   "score": [
+    11,
+    1
+   ],
+   "officialId": "149241",
+   "rosters": {
+    "home": [
+     {
+      "number": 78,
+      "name": "GUILLAUMES MAYORAL ESTEL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 82,
+      "name": "CORREDERO HERNANDO UNAI",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 84,
+      "name": "TRIOLA PEIX ARNAU",
+      "goals": 11,
+      "keeper": false
+     },
+     {
+      "number": 87,
+      "name": "SALA ALONSO MARÇAL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 90,
+      "name": "CREMADES MUNTADAS TANIT",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 95,
+      "name": "MONTANYÀ I MARTÍN FELIU",
+      "goals": 0,
+      "keeper": true
+     },
+     {
+      "number": 94,
+      "name": "VILA JIMÉNEZ GUIFRÉ",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 33,
+      "name": "FREIXAS BRAMON ERIC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 43,
+      "name": "SOLER RAMIO MER",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 63,
+      "name": "LEPEZ ESTANY ALEIX",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 64,
+      "name": "DARNERS ULLASTRES ANIOL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 71,
+      "name": "MORRIS BALLESPI ALEXANDER",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 72,
+      "name": "PIQUE MARTIN ARAM",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 1,
+      "name": "MORA MERCADER ROGER",
+      "goals": 1,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "alevi-plata-a-1-8-9",
+   "round": 1,
+   "date": "2026-09-27",
+   "time": "16:30",
+   "home": "Hoquei Club Ripoll A",
+   "away": "Girona Club Hoquei C",
+   "score": [
+    3,
+    9
+   ],
+   "officialId": "149244",
+   "rosters": {
+    "home": [
+     {
+      "number": 28,
+      "name": "VILALTA COMA PAU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 38,
+      "name": "PUERTAS LLAGOSTERA MIQUEL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 41,
+      "name": "FERRER CODONY BERNAT",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 47,
+      "name": "COLL SERRAT ÈRIC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 57,
+      "name": "ROTA CANADELL BERNAT",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 1,
+      "name": "ALEA( AGUERRI MORERA JUNO",
+      "goals": 3,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 7,
+      "name": "FRIGOLA ROURA JAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 10,
+      "name": "CARBONES DIEZ JAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 19,
+      "name": "NOGUER BOADA LENA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 20,
+      "name": "NOGUER BOADA ISIDRE",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 21,
+      "name": "BAUS GARCIA BERNAT",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 70,
+      "name": "BRUGUE ALBA MARTÍ",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 84,
+      "name": "URBANO LEON IKER",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 22,
+      "name": "RECIO TEJERO ARNAU",
+      "goals": 9,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "alevi-plata-a-2-10-4",
+   "round": 2,
+   "date": "2026-10-03",
+   "time": "10:00",
+   "home": "CP Blanes",
+   "away": "CH Palafrugell B",
+   "score": [
+    8,
+    0
+   ],
+   "officialId": "149254",
+   "rosters": {
+    "home": [
+     {
+      "number": 7,
+      "name": "FORNS DIEZ BRUNA",
+      "goals": null,
+      "keeper": false
+     },
+     {
+      "number": 10,
+      "name": "PRIVAT VALIENTE JAN",
+      "goals": null,
+      "keeper": false
+     },
+     {
+      "number": 11,
+      "name": "PADILLA FERNANDEZ ERIK",
+      "goals": null,
+      "keeper": false
+     },
+     {
+      "number": 21,
+      "name": "SALVÀ RODRÍGUEZ JUNO",
+      "goals": null,
+      "keeper": false
+     },
+     {
+      "number": 87,
+      "name": "JIMENEZ CORDON ALVARO",
+      "goals": null,
+      "keeper": false
+     },
+     {
+      "number": 98,
+      "name": "CARBONELL MARTIN ONA",
+      "goals": null,
+      "keeper": false
+     },
+     {
+      "number": 84,
+      "name": "SALVÀ RODRÍGUEZ IRATXE",
+      "goals": null,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 21,
+      "name": "RECIO GOMEZ DAVID",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 26,
+      "name": "ESCUDERO RAMIRO",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 30,
+      "name": "PIFERRER PEDROSA JAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 33,
+      "name": "GARCIOLO WELTZ PAU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 36,
+      "name": "JACOMET FRIGOLA LLUIS",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 41,
+      "name": "BATLLOSERA FERRER MARTÍ",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 1,
+      "name": "EZQUERRA AREVALO THIAGO",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "alevi-plata-a-2-0-11",
+   "round": 2,
+   "date": "2026-10-03",
+   "time": "16:15",
+   "home": "Oxford HC Salt B",
+   "away": "CH Olot C",
+   "score": [
+    1,
+    3
+   ],
+   "officialId": "149250",
+   "rosters": {
+    "home": [
+     {
+      "number": 5,
+      "name": "PEREZ DOMINGUEZ ISAAC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 8,
+      "name": "ÁLVAREZ LORENTE ENYA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 11,
+      "name": "PIANETTI FIGA MAR",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 13,
+      "name": "PUIG TURRÓ IVET",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 31,
+      "name": "MELLADO TYSHCHENKO MARC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 66,
+      "name": "BOSCH SERRA NORA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 93,
+      "name": "SANZ CARRERA MARC",
+      "goals": 1,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 10,
+      "name": "COLOMER ALONSO MARINA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 12,
+      "name": "BEATOBE BASSOLS TURA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 18,
+      "name": "VERGÉS RIERA ANIOL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 29,
+      "name": "ABEL BERGA ARES",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 55,
+      "name": "BASSOLS MARTÍ CARLA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 57,
+      "name": "RÀFOLS FREIXES MARCEL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 1,
+      "name": "JIMÉNEZ RAMON URIEL",
+      "goals": 3,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "alevi-plata-a-2-9-1",
+   "round": 2,
+   "date": "2026-10-03",
+   "time": "16:45",
+   "home": "Girona Club Hoquei C",
+   "away": "SHUM Mugadas A",
+   "score": [
+    0,
+    4
+   ],
+   "officialId": "149251",
+   "rosters": {
+    "home": [
+     {
+      "number": 7,
+      "name": "FRIGOLA ROURA JAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 10,
+      "name": "CARBONES DIEZ JAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 20,
+      "name": "NOGUER BOADA ISIDRE",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 21,
+      "name": "BAUS GARCIA BERNAT",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 70,
+      "name": "BRUGUE ALBA MARTÍ",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 84,
+      "name": "URBANO LEON IKER",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 22,
+      "name": "RECIO TEJERO ARNAU",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 40,
+      "name": "SERRA FONT ROGER",
+      "goals": null,
+      "keeper": false
+     },
+     {
+      "number": 42,
+      "name": "XAMANÍ FONT ORIOL",
+      "goals": null,
+      "keeper": false
+     },
+     {
+      "number": 43,
+      "name": "GONZALEZ VALENTI ROGER",
+      "goals": null,
+      "keeper": false
+     },
+     {
+      "number": 44,
+      "name": "GARCIA FERNANDEZ ANGEL",
+      "goals": null,
+      "keeper": false
+     },
+     {
+      "number": 47,
+      "name": "FELIU DIAZ ADAN",
+      "goals": null,
+      "keeper": false
+     },
+     {
+      "number": 49,
+      "name": "LOPEZ ANTEQUERA JORDI",
+      "goals": null,
+      "keeper": false
+     },
+     {
+      "number": 77,
+      "name": "GUITART ROSILLO MARTI",
+      "goals": null,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "alevi-plata-a-2-3-8",
+   "round": 2,
+   "date": "2026-10-12",
+   "time": "11:00",
+   "home": "Farners B",
+   "away": "Hoquei Club Ripoll A",
+   "score": [
+    8,
+    5
+   ],
+   "officialId": "149252",
+   "rosters": {
+    "home": [
+     {
+      "number": 50,
+      "name": "PEREZ ATAY AINA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 51,
+      "name": "ALEU( LUIS CARRERAS MARIONA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 57,
+      "name": "GODAYOL PEREZ ARIADNA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 58,
+      "name": "VIDAL AVIA LAURA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 63,
+      "name": "BOVE FERRER BERNAT",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 67,
+      "name": "NEGRE ABUIN LLUC",
+      "goals": 8,
+      "keeper": false
+     },
+     {
+      "number": 53,
+      "name": "CATEURA AROVITX ARLET",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 3,
+      "name": "VILAGELIU ROURA ALEIX",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 28,
+      "name": "VILALTA COMA PAU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 41,
+      "name": "FERRER CODONY BERNAT",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 47,
+      "name": "COLL SERRAT ÈRIC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 1,
+      "name": "ALEA( AGUERRI MORERA JUNO",
+      "goals": 5,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "alevi-plata-a-2-5-2",
+   "round": 2,
+   "date": "2026-10-12",
+   "time": "18:00",
+   "home": "CH Figueres B",
+   "away": "Costa Brava Cassanenc",
+   "score": [
+    2,
+    10
+   ],
+   "officialId": "149253",
+   "rosters": {
+    "home": [
+     {
+      "number": 5,
+      "name": "PARRA FÈLIX ILA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 6,
+      "name": "CUADROS TUBERT IONA",
+      "goals": 2,
+      "keeper": false
+     },
+     {
+      "number": 10,
+      "name": "BASERBA FERRÉ AINA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 17,
+      "name": "BOSCH ALBERT ARNAU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 28,
+      "name": "MARGALL FAIXO ROGER",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 30,
+      "name": "LAFUENTE CASTILLO GINEBRA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 88,
+      "name": "CALDERON CSÖG DAVID NICOLAS",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 10,
+      "name": "JIMENEZ GUZMÁN JUAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 15,
+      "name": "VILALTA ESTEVE JOAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 20,
+      "name": "BRUGUÉ MENCIÓ MARC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 23,
+      "name": "XIFRA SUÑER MARC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 37,
+      "name": "SERRA MESAS ALEIX",
+      "goals": 10,
+      "keeper": false
+     },
+     {
+      "number": 44,
+      "name": "NIETO FUENTES ERIC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 78,
+      "name": "BAYÓ MARTÍ IU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 11,
+      "name": "RAMIREZ MONGE IAN DAVID",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "alevi-plata-a-3-6-0",
+   "round": 3,
+   "date": "2026-10-10",
+   "time": "13:00",
+   "home": "Martinelia Manlleu B",
+   "away": "Oxford HC Salt B",
+   "score": [
+    7,
+    2
+   ],
+   "officialId": "149256",
+   "rosters": {
+    "home": [
+     {
+      "number": 78,
+      "name": "GUILLAUMES MAYORAL ESTEL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 82,
+      "name": "CORREDERO HERNANDO UNAI",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 84,
+      "name": "TRIOLA PEIX ARNAU",
+      "goals": 7,
+      "keeper": false
+     },
+     {
+      "number": 87,
+      "name": "SALA ALONSO MARÇAL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 90,
+      "name": "CREMADES MUNTADAS TANIT",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 94,
+      "name": "VILA JIMÉNEZ GUIFRÉ",
+      "goals": 0,
+      "keeper": true
+     },
+     {
+      "number": 95,
+      "name": "MONTANYÀ I MARTÍN FELIU",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 5,
+      "name": "PEREZ DOMINGUEZ ISAAC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 8,
+      "name": "ÁLVAREZ LORENTE ENYA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 13,
+      "name": "PUIG TURRÓ IVET",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 31,
+      "name": "MELLADO TYSHCHENKO MARC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 66,
+      "name": "BOSCH SERRA NORA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 93,
+      "name": "SANZ CARRERA MARC",
+      "goals": 2,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "alevi-plata-a-3-11-9",
+   "round": 3,
+   "date": "2026-10-10",
+   "time": "18:00",
+   "home": "CH Olot C",
+   "away": "Girona Club Hoquei C",
+   "score": [
+    4,
+    11
+   ],
+   "officialId": "149257",
+   "rosters": {
+    "home": [
+     {
+      "number": 0,
+      "name": "ALONSO COLOMER CLAUDIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 2,
+      "name": "MONTURIOL VIÑOLAS CLAUDIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 12,
+      "name": "BEATOBE BASSOLS TURA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 29,
+      "name": "ABEL BERGA ARES",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 55,
+      "name": "BASSOLS MARTÍ CARLA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 57,
+      "name": "RÀFOLS FREIXES MARCEL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 1,
+      "name": "JIMÉNEZ RAMON URIEL",
+      "goals": 4,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 7,
+      "name": "FRIGOLA ROURA JAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 10,
+      "name": "CARBONES DIEZ JAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 20,
+      "name": "NOGUER BOADA ISIDRE",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 21,
+      "name": "BAUS GARCIA BERNAT",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 70,
+      "name": "BRUGUE ALBA MARTÍ",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 84,
+      "name": "URBANO LEON IKER",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 22,
+      "name": "RECIO TEJERO ARNAU",
+      "goals": 11,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "alevi-plata-a-3-1-3",
+   "round": 3,
+   "date": "2026-10-11",
+   "time": "15:30",
+   "home": "SHUM Mugadas A",
+   "away": "Farners B",
+   "score": [
+    8,
+    1
+   ],
+   "officialId": "149258",
+   "rosters": {
+    "home": [
+     {
+      "number": 40,
+      "name": "SERRA FONT ROGER",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 42,
+      "name": "XAMANÍ FONT ORIOL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 43,
+      "name": "GONZALEZ VALENTI ROGER",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 47,
+      "name": "FELIU DIAZ ADAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 49,
+      "name": "LOPEZ ANTEQUERA JORDI",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 77,
+      "name": "GUITART ROSILLO MARTI",
+      "goals": 8,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 50,
+      "name": "PEREZ ATAY AINA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 51,
+      "name": "ALEU( LUIS CARRERAS MARIONA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 57,
+      "name": "GODAYOL PEREZ ARIADNA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 58,
+      "name": "VIDAL AVIA LAURA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 63,
+      "name": "BOVE FERRER BERNAT",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 67,
+      "name": "NEGRE ABUIN LLUC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 70,
+      "name": "BRUSET SOUZA ALEIX",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 53,
+      "name": "CATEURA AROVITX ARLET",
+      "goals": 1,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "alevi-plata-a-3-2-10",
+   "round": 3,
+   "date": "2026-10-11",
+   "time": "15:45",
+   "home": "Costa Brava Cassanenc",
+   "away": "CP Blanes",
+   "score": [
+    12,
+    2
+   ],
+   "officialId": "149260",
+   "rosters": {
+    "home": [
+     {
+      "number": 10,
+      "name": "JIMENEZ GUZMÁN JUAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 15,
+      "name": "VILALTA ESTEVE JOAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 20,
+      "name": "BRUGUÉ MENCIÓ MARC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 23,
+      "name": "XIFRA SUÑER MARC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 37,
+      "name": "SERRA MESAS ALEIX",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 44,
+      "name": "NIETO FUENTES ERIC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 78,
+      "name": "BAYÓ MARTÍ IU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 11,
+      "name": "RAMIREZ MONGE IAN DAVID",
+      "goals": 12,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 7,
+      "name": "FORNS DIEZ BRUNA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 10,
+      "name": "PRIVAT VALIENTE JAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 11,
+      "name": "PADILLA FERNANDEZ ERIK",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 21,
+      "name": "SALVÀ RODRÍGUEZ JUNO",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 98,
+      "name": "CARBONELL MARTIN ONA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 84,
+      "name": "SALVÀ RODRÍGUEZ IRATXE",
+      "goals": 2,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "alevi-plata-a-3-8-5",
+   "round": 3,
+   "date": "2026-10-11",
+   "time": "16:10",
+   "home": "Hoquei Club Ripoll A",
+   "away": "CH Figueres B",
+   "score": [
+    7,
+    2
+   ],
+   "officialId": "149259",
+   "rosters": {
+    "home": [
+     {
+      "number": 28,
+      "name": "VILALTA COMA PAU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 38,
+      "name": "PUERTAS LLAGOSTERA MIQUEL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 41,
+      "name": "FERRER CODONY BERNAT",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 47,
+      "name": "COLL SERRAT ÈRIC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 57,
+      "name": "ROTA CANADELL BERNAT",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 1,
+      "name": "ALEA( AGUERRI MORERA JUNO",
+      "goals": 7,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 6,
+      "name": "CUADROS TUBERT IONA",
+      "goals": 2,
+      "keeper": false
+     },
+     {
+      "number": 8,
+      "name": "PARRA FÈLIX ILA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 10,
+      "name": "BASERBA FERRÉ AINA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 28,
+      "name": "MARGALL FAIXO ROGER",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 30,
+      "name": "LAFUENTE CASTILLO GINEBRA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 88,
+      "name": "CALDERON CSÖG DAVID NICOLAS",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "alevi-plata-a-4-10-8",
+   "round": 4,
+   "date": "2026-10-17",
+   "time": "11:15",
+   "home": "CP Blanes",
+   "away": "Hoquei Club Ripoll A",
+   "score": [
+    9,
+    2
+   ],
+   "officialId": "149267",
+   "rosters": {
+    "home": [
+     {
+      "number": 7,
+      "name": "FORNS DIEZ BRUNA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 10,
+      "name": "PRIVAT VALIENTE JAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 11,
+      "name": "PADILLA FERNANDEZ ERIK",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 21,
+      "name": "SALVÀ RODRÍGUEZ JUNO",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 87,
+      "name": "JIMENEZ CORDON ALVARO",
+      "goals": 9,
+      "keeper": false
+     },
+     {
+      "number": 98,
+      "name": "CARBONELL MARTIN ONA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 84,
+      "name": "SALVÀ RODRÍGUEZ IRATXE",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 26,
+      "name": "VIGO GARCIAS UNAI",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 28,
+      "name": "VILALTA COMA PAU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 41,
+      "name": "FERRER CODONY BERNAT",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 47,
+      "name": "COLL SERRAT ÈRIC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 57,
+      "name": "ROTA CANADELL BERNAT",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 1,
+      "name": "ALEA( AGUERRI MORERA JUNO",
+      "goals": 2,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "alevi-plata-a-4-4-2",
+   "round": 4,
+   "date": "2026-10-17",
+   "time": "17:20",
+   "home": "CH Palafrugell B",
+   "away": "Costa Brava Cassanenc",
+   "score": [
+    4,
+    11
+   ],
+   "officialId": "149268",
+   "rosters": {
+    "home": [
+     {
+      "number": 21,
+      "name": "RECIO GOMEZ DAVID",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 26,
+      "name": "ESCUDERO RAMIRO",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 30,
+      "name": "PIFERRER PEDROSA JAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 33,
+      "name": "GARCIOLO WELTZ PAU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 36,
+      "name": "JACOMET FRIGOLA LLUIS",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 41,
+      "name": "BATLLOSERA FERRER MARTÍ",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 1,
+      "name": "EZQUERRA AREVALO THIAGO",
+      "goals": 4,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 10,
+      "name": "JIMENEZ GUZMÁN JUAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 15,
+      "name": "VILALTA ESTEVE JOAN",
+      "goals": 11,
+      "keeper": false
+     },
+     {
+      "number": 20,
+      "name": "BRUGUÉ MENCIÓ MARC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 23,
+      "name": "XIFRA SUÑER MARC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 37,
+      "name": "SERRA MESAS ALEIX",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 44,
+      "name": "NIETO FUENTES ERIC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 78,
+      "name": "BAYÓ MARTÍ IU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 11,
+      "name": "RAMIREZ MONGE IAN DAVID",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "alevi-plata-a-4-9-6",
+   "round": 4,
+   "date": "2026-10-17",
+   "time": "19:00",
+   "home": "Girona Club Hoquei C",
+   "away": "Martinelia Manlleu B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "alevi-plata-a-4-0-7",
+   "round": 4,
+   "date": "2026-10-18",
+   "time": "10:00",
+   "home": "Oxford HC Salt B",
+   "away": "Hoquei Banyoles",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "alevi-plata-a-4-3-11",
+   "round": 4,
+   "date": "2026-10-18",
+   "time": "10:00",
+   "home": "Farners B",
+   "away": "CH Olot C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "alevi-plata-a-4-5-1",
+   "round": 4,
+   "date": "2026-10-18",
+   "time": "15:15",
+   "home": "CH Figueres B",
+   "away": "SHUM Mugadas A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "alevi-plata-a-5-6-3",
+   "round": 5,
+   "date": "2026-10-24",
+   "time": "10:00",
+   "home": "Martinelia Manlleu B",
+   "away": "Farners B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "alevi-plata-a-5-11-5",
+   "round": 5,
+   "date": "2026-10-24",
+   "time": "11:00",
+   "home": "CH Olot C",
+   "away": "CH Figueres B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "alevi-plata-a-5-7-9",
+   "round": 5,
+   "date": "2026-10-24",
+   "time": "16:00",
+   "home": "Hoquei Banyoles",
+   "away": "Girona Club Hoquei C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "alevi-plata-a-5-8-4",
+   "round": 5,
+   "date": "2026-10-25",
+   "time": "12:15",
+   "home": "Hoquei Club Ripoll A",
+   "away": "CH Palafrugell B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "alevi-plata-a-5-1-10",
+   "round": 5,
+   "date": "2026-10-25",
+   "time": "16:00",
+   "home": "SHUM Mugadas A",
+   "away": "CP Blanes",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "alevi-plata-a-6-4-1",
+   "round": 6,
+   "date": "2026-10-30",
+   "time": "19:45",
+   "home": "CH Palafrugell B",
+   "away": "SHUM Mugadas A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "alevi-plata-a-6-3-7",
+   "round": 6,
+   "date": "2026-10-31",
+   "time": "17:30",
+   "home": "Farners B",
+   "away": "Hoquei Banyoles",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "alevi-plata-a-6-5-6",
+   "round": 6,
+   "date": "2026-11-01",
+   "time": "12:00",
+   "home": "CH Figueres B",
+   "away": "Martinelia Manlleu B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "alevi-plata-a-6-2-8",
+   "round": 6,
+   "date": "2026-11-01",
+   "time": "16:30",
+   "home": "Costa Brava Cassanenc",
+   "away": "Hoquei Club Ripoll A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "alevi-plata-a-6-10-11",
+   "round": 6,
+   "date": "2026-11-07",
+   "time": "10:00",
+   "home": "CP Blanes",
+   "away": "CH Olot C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "alevi-plata-a-7-1-2",
+   "round": 7,
+   "date": "2026-11-07",
+   "time": "16:15",
+   "home": "SHUM Mugadas A",
+   "away": "Costa Brava Cassanenc",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "alevi-plata-a-7-7-5",
+   "round": 7,
+   "date": "2026-11-07",
+   "time": "18:15",
+   "home": "Hoquei Banyoles",
+   "away": "CH Figueres B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "alevi-plata-a-7-0-9",
+   "round": 7,
+   "date": "2026-11-07",
+   "time": "18:30",
+   "home": "Oxford HC Salt B",
+   "away": "Girona Club Hoquei C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "alevi-plata-a-7-11-4",
+   "round": 7,
+   "date": "2026-11-08",
+   "time": "10:00",
+   "home": "CH Olot C",
+   "away": "CH Palafrugell B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "alevi-plata-a-7-6-10",
+   "round": 7,
+   "date": "2026-11-08",
+   "time": "11:15",
+   "home": "Martinelia Manlleu B",
+   "away": "CP Blanes",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "alevi-plata-a-8-10-7",
+   "round": 8,
+   "date": "2026-11-14",
+   "time": "11:15",
+   "home": "CP Blanes",
+   "away": "Hoquei Banyoles",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "alevi-plata-a-8-8-1",
+   "round": 8,
+   "date": "2026-11-14",
+   "time": "16:30",
+   "home": "Hoquei Club Ripoll A",
+   "away": "SHUM Mugadas A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "alevi-plata-a-8-3-0",
+   "round": 8,
+   "date": "2026-11-14",
+   "time": "17:30",
+   "home": "Farners B",
+   "away": "Oxford HC Salt B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "alevi-plata-a-8-2-11",
+   "round": 8,
+   "date": "2026-11-15",
+   "time": "15:45",
+   "home": "Costa Brava Cassanenc",
+   "away": "CH Olot C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "alevi-plata-a-8-4-6",
+   "round": 8,
+   "date": "2026-11-15",
+   "time": "17:30",
+   "home": "CH Palafrugell B",
+   "away": "Martinelia Manlleu B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "alevi-plata-a-9-7-4",
+   "round": 9,
+   "date": "2026-11-21",
+   "time": "18:15",
+   "home": "Hoquei Banyoles",
+   "away": "CH Palafrugell B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "alevi-plata-a-9-0-5",
+   "round": 9,
+   "date": "2026-11-21",
+   "time": "18:30",
+   "home": "Oxford HC Salt B",
+   "away": "CH Figueres B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "alevi-plata-a-9-6-2",
+   "round": 9,
+   "date": "2026-11-22",
+   "time": "12:30",
+   "home": "Martinelia Manlleu B",
+   "away": "Costa Brava Cassanenc",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "alevi-plata-a-9-11-8",
+   "round": 9,
+   "date": "2026-11-22",
+   "time": "12:30",
+   "home": "CH Olot C",
+   "away": "Hoquei Club Ripoll A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "alevi-plata-a-9-9-3",
+   "round": 9,
+   "date": "2026-11-22",
+   "time": "18:30",
+   "home": "Girona Club Hoquei C",
+   "away": "Farners B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "alevi-plata-a-10-10-0",
+   "round": 10,
+   "date": "2026-11-28",
+   "time": "11:15",
+   "home": "CP Blanes",
+   "away": "Oxford HC Salt B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "alevi-plata-a-10-8-6",
+   "round": 10,
+   "date": "2026-11-28",
+   "time": "16:30",
+   "home": "Hoquei Club Ripoll A",
+   "away": "Martinelia Manlleu B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "alevi-plata-a-10-5-9",
+   "round": 10,
+   "date": "2026-11-29",
+   "time": "12:00",
+   "home": "CH Figueres B",
+   "away": "Girona Club Hoquei C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "alevi-plata-a-10-1-11",
+   "round": 10,
+   "date": "2026-11-29",
+   "time": "15:00",
+   "home": "SHUM Mugadas A",
+   "away": "CH Olot C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "alevi-plata-a-10-2-7",
+   "round": 10,
+   "date": "2026-11-29",
+   "time": "15:45",
+   "home": "Costa Brava Cassanenc",
+   "away": "Hoquei Banyoles",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "alevi-plata-a-11-3-5",
+   "round": 11,
+   "date": "2026-12-12",
+   "time": "17:30",
+   "home": "Farners B",
+   "away": "CH Figueres B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "alevi-plata-a-11-7-8",
+   "round": 11,
+   "date": "2026-12-12",
+   "time": "18:15",
+   "home": "Hoquei Banyoles",
+   "away": "Hoquei Club Ripoll A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "alevi-plata-a-11-0-4",
+   "round": 11,
+   "date": "2026-12-12",
+   "time": "18:30",
+   "home": "Oxford HC Salt B",
+   "away": "CH Palafrugell B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "alevi-plata-a-11-6-1",
+   "round": 11,
+   "date": "2026-12-13",
+   "time": "12:30",
+   "home": "Martinelia Manlleu B",
+   "away": "SHUM Mugadas A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "alevi-plata-a-11-9-10",
+   "round": 11,
+   "date": "2026-12-13",
+   "time": "18:30",
+   "home": "Girona Club Hoquei C",
+   "away": "CP Blanes",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "alevi-plata-a-12-10-3",
+   "round": 12,
+   "date": "2026-12-19",
+   "time": "11:15",
+   "home": "CP Blanes",
+   "away": "Farners B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "alevi-plata-a-12-4-9",
+   "round": 12,
+   "date": "2026-12-19",
+   "time": "15:00",
+   "home": "CH Palafrugell B",
+   "away": "Girona Club Hoquei C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "alevi-plata-a-12-11-6",
+   "round": 12,
+   "date": "2026-12-20",
+   "time": "12:30",
+   "home": "CH Olot C",
+   "away": "Martinelia Manlleu B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "alevi-plata-a-12-1-7",
+   "round": 12,
+   "date": "2026-12-20",
+   "time": "15:00",
+   "home": "SHUM Mugadas A",
+   "away": "Hoquei Banyoles",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "alevi-plata-a-12-2-0",
+   "round": 12,
+   "date": "2026-12-20",
+   "time": "15:45",
+   "home": "Costa Brava Cassanenc",
+   "away": "Oxford HC Salt B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "alevi-plata-a-13-3-4",
+   "round": 13,
+   "date": "2027-01-09",
+   "time": "17:30",
+   "home": "Farners B",
+   "away": "CH Palafrugell B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "alevi-plata-a-13-7-11",
+   "round": 13,
+   "date": "2027-01-09",
+   "time": "18:15",
+   "home": "Hoquei Banyoles",
+   "away": "CH Olot C",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "alevi-plata-a-13-0-8",
+   "round": 13,
+   "date": "2027-01-09",
+   "time": "18:30",
+   "home": "Oxford HC Salt B",
+   "away": "Hoquei Club Ripoll A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "alevi-plata-a-13-5-10",
+   "round": 13,
+   "date": "2027-01-10",
+   "time": "12:00",
+   "home": "CH Figueres B",
+   "away": "CP Blanes",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "alevi-plata-a-13-9-2",
+   "round": 13,
+   "date": "2027-01-10",
+   "time": "18:30",
+   "home": "Girona Club Hoquei C",
+   "away": "Costa Brava Cassanenc",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  }
+ ],
+ "teamCoaches": {},
+ "officialNames": {
+  "OXFORD HC SALT B": "Oxford HC Salt B",
+  "SHUM MUGADAS A": "SHUM Mugadas A",
+  "COSTA BRAVA CASSANENC": "Costa Brava Cassanenc",
+  "FARNERS B": "Farners B",
+  "CH PALAFRUGELL B": "CH Palafrugell B",
+  "CH FIGUERES B": "CH Figueres B",
+  "MARTINELIA MANLLEU B": "Martinelia Manlleu B",
+  "HOQUEI BANYOLES": "Hoquei Banyoles",
+  "HOQUEI CLUB RIPOLL A": "Hoquei Club Ripoll A",
+  "GIRONA CLUB HOQUEI C": "Girona Club Hoquei C",
+  "CP BLANES": "CP Blanes",
+  "CH OLOT C": "CH Olot C"
+ }
+}

@@ -1,0 +1,3849 @@
+{
+ "league": "Segona Catalana Femenina · Grup A",
+ "season": "2026/27",
+ "source": "https://www.hoqueipatins.fecapa.cat/league/4780",
+ "updatedAt": "2026-10-17T17:00:00.000Z",
+ "team": "SHUM Selvafil",
+ "teams": [
+  "Innoaesthetics HC Sant Just",
+  "Mollet HC",
+  "Rototank Bigues i Riells",
+  "Club Patí Roda",
+  "Fenie Energia Cerdanyola CCH",
+  "SHUM Selvafil",
+  "Club Hoquei Santa Perpètua",
+  "Club Patí Malgrat Grup Escobar",
+  "CHP Sant Feliu",
+  "Club Pati Torrelles",
+  "CH les Franqueses",
+  "CH Figueres",
+  "Oxford HC Salt"
+ ],
+ "matches": [
+  {
+   "id": "segona-femenina-1-0-1",
+   "round": 1,
+   "date": "2026-09-26",
+   "time": "16:30",
+   "home": "Innoaesthetics HC Sant Just",
+   "away": "Mollet HC",
+   "score": [
+    0,
+    0
+   ],
+   "officialId": "154909",
+   "rosters": {
+    "home": [
+     {
+      "number": 6,
+      "name": "SEGC- BARBERO CALABUIG CLAUDIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 7,
+      "name": "SEGC- CAVERO BERTRAN ANNA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 8,
+      "name": "JUVU( CADENAS BENEDICTO ABRIL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 15,
+      "name": "JUVU( ESTELA BENEDICTO ELIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 17,
+      "name": "JUVU( ORTEGA LORCA JUDIT",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 26,
+      "name": "JUVU( LUCIANO TRIAS GEORGINA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 56,
+      "name": "CALABUIG GALLEGO AINOA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 1,
+      "name": "SEGC- CAVERO BERTRAN MARIA",
+      "goals": 0,
+      "keeper": true
+     },
+     {
+      "number": 87,
+      "name": "JUVU( LANGENEGGER ANNALENA",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 3,
+      "name": "JUNU( PUJOL GOMEZ LAIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 11,
+      "name": "JUNU( MONTON AYLLON LAIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 17,
+      "name": "JUVA( NINOU NAKHUDA AINA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 31,
+      "name": "JUNU( PORTELLA JIMENEZ AINA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 35,
+      "name": "JUVA( RIOS CRUZ PAULA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 99,
+      "name": "JUVA( RIOS CRUZ SOFIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 40,
+      "name": "JUNU( PLEGUEZUELOS GAZULLA BERTA",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "segona-femenina-1-2-3",
+   "round": 1,
+   "date": "2026-09-26",
+   "time": "17:30",
+   "home": "Rototank Bigues i Riells",
+   "away": "Club Patí Roda",
+   "score": [
+    0,
+    10
+   ],
+   "officialId": "154907",
+   "rosters": {
+    "home": [
+     {
+      "number": 2,
+      "name": "JUVA( CERDAN GOMEZ MIRIAM",
+      "goals": null,
+      "keeper": false
+     },
+     {
+      "number": 3,
+      "name": "JUNU( CARMONA MARTINEZ ONA",
+      "goals": null,
+      "keeper": false
+     },
+     {
+      "number": 8,
+      "name": "JUVA( ABADIA MONTORIOL AURORA",
+      "goals": null,
+      "keeper": false
+     },
+     {
+      "number": 13,
+      "name": "JUNA( ARAUJO DOS REIS PAULA MARISA",
+      "goals": null,
+      "keeper": false
+     },
+     {
+      "number": 18,
+      "name": "PRIC- COLL ALARCOS TANIT",
+      "goals": null,
+      "keeper": false
+     },
+     {
+      "number": 23,
+      "name": "JUVA( MUÑOZ CADENAS JÚLIA",
+      "goals": null,
+      "keeper": false
+     },
+     {
+      "number": 93,
+      "name": "JUVA( CARMONA MONSERRAT BRUNA",
+      "goals": null,
+      "keeper": false
+     },
+     {
+      "number": 11,
+      "name": "JUVA( GIRO DUSET MIREIA",
+      "goals": null,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 5,
+      "name": "VIÑAS LUCIO SHEILA",
+      "goals": null,
+      "keeper": false
+     },
+     {
+      "number": 7,
+      "name": "JUVU( SUBIRANA CORTÉS MARTINA",
+      "goals": null,
+      "keeper": false
+     },
+     {
+      "number": 9,
+      "name": "JUNU( TARGARONA MOYANO MONTSERRAT",
+      "goals": null,
+      "keeper": false
+     },
+     {
+      "number": 30,
+      "name": "JUVU( BAUCELLS MARRERO VALÈRIA",
+      "goals": null,
+      "keeper": false
+     },
+     {
+      "number": 31,
+      "name": "TORRA RUBIO MIREIA",
+      "goals": null,
+      "keeper": false
+     },
+     {
+      "number": 33,
+      "name": "MELCHIOR GOLOBART JULIA",
+      "goals": null,
+      "keeper": false
+     },
+     {
+      "number": 36,
+      "name": "JUNU( PLANAS VILA ELNA",
+      "goals": null,
+      "keeper": false
+     },
+     {
+      "number": 40,
+      "name": "PARÉS CALVO JULIA",
+      "goals": null,
+      "keeper": false
+     },
+     {
+      "number": 10,
+      "name": "JUNU( ROBERTO FERNANDEZ ABRIL",
+      "goals": null,
+      "keeper": true
+     },
+     {
+      "number": 47,
+      "name": "SANCHEZ JAVIER MONTSERRAT",
+      "goals": null,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "segona-femenina-1-4-5",
+   "round": 1,
+   "date": "2026-09-26",
+   "time": "17:45",
+   "home": "Fenie Energia Cerdanyola CCH",
+   "away": "SHUM Selvafil",
+   "score": [
+    5,
+    2
+   ],
+   "officialId": "155001",
+   "rosters": {
+    "home": [
+     {
+      "number": 2,
+      "name": "JUNU( VEGA GÓMEZ MARIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 9,
+      "name": "SEGC- SERRA ASENSIO MARIA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 28,
+      "name": "JUNU( CAÑABATE SIANÉS MARTINA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 49,
+      "name": "JUVA( TARRIDA CENTELLAS PAULA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 55,
+      "name": "CAÑABATE SIANES MARIONA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 67,
+      "name": "JUVB( PIÑERO HERRERA HANNAH",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 82,
+      "name": "JUVB( MOGAS KO BLANCA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 10,
+      "name": "JUVB( CANTERO MÁRQUEZ ERICA",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 5,
+      "name": "BRAGULAT CABANA NÚRIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 7,
+      "name": "ALBERTI VINARDELL JULIA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 9,
+      "name": "PEREA MARZÁ ANA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 23,
+      "name": "CATALAN ROMAGUERA MARTINA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 44,
+      "name": "CEPRIÀ LAGUNA ANNA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 87,
+      "name": "SEGC- MERCHANTE ANTON CLARA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 1,
+      "name": "GOMEZ CAPELLA CARLA",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "segona-femenina-1-6-7",
+   "round": 1,
+   "date": "2026-09-26",
+   "time": "18:30",
+   "home": "Club Hoquei Santa Perpètua",
+   "away": "Club Patí Malgrat Grup Escobar",
+   "score": [
+    0,
+    4
+   ],
+   "officialId": "154908",
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-1-8-9",
+   "round": 1,
+   "date": "2026-09-27",
+   "time": "11:15",
+   "home": "CHP Sant Feliu",
+   "away": "Club Pati Torrelles",
+   "score": [
+    0,
+    7
+   ],
+   "officialId": "154911",
+   "rosters": {
+    "home": [
+     {
+      "number": 2,
+      "name": "JUVB( SOLER SANS ARIADNA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 7,
+      "name": "JUVB( GUITERAS RUIZ MAR",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 12,
+      "name": "JUVA( MÉNDEZ FRESNEDA CLÀUDIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 16,
+      "name": "XALABARDER PERRAMON LAIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 26,
+      "name": "JUVA( HERNANDO PLA LAIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 27,
+      "name": "JUNU( VENTURA GARRIDO ANNA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 44,
+      "name": "JUVB( ROMAN PIQUER AINA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 6,
+      "name": "JUVB( PAGES GRAU BERTA",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 2,
+      "name": "SEGC- SANCHEZ SANCHEZ BLANCA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 12,
+      "name": "SEGC- PLA PRADES ONA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 15,
+      "name": "NINOU NAKHUDA XANTAL",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 16,
+      "name": "AZORIN DE CRUZ NEUS",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 20,
+      "name": "SEGC- PERERA FERNÁNDEZ ONA",
+      "goals": 2,
+      "keeper": false
+     },
+     {
+      "number": 23,
+      "name": "SEGC- SANCHO SAMITIER IVET",
+      "goals": 2,
+      "keeper": false
+     },
+     {
+      "number": 29,
+      "name": "SEGC- MUNUERA MIRALPEIX BERTA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 44,
+      "name": "SEGC- GUITART SUELVES ONA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 1,
+      "name": "SEGC- AZORIN DE CRUZ ANNA",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "segona-femenina-1-10-11",
+   "round": 1,
+   "date": "2026-09-27",
+   "time": "11:45",
+   "home": "CH les Franqueses",
+   "away": "CH Figueres",
+   "score": [
+    2,
+    2
+   ],
+   "officialId": "154912",
+   "rosters": {
+    "home": [
+     {
+      "number": 1,
+      "name": "VILA CLAVERA JANA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 2,
+      "name": "BENEYTO NAVARRO VINYET",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 4,
+      "name": "GUTIERREZ COLOMER JUDITH",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 6,
+      "name": "CANO CODINA EROLA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 8,
+      "name": "MUSQUERA LLORENS NOA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 9,
+      "name": "NEFTATA TALIBI LAILA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 11,
+      "name": "TARDIU FERNANDEZ MIREIA",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 4,
+      "name": "BUDO PEREZ CLARA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 13,
+      "name": "LIZANA LOPEZ OLGA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 18,
+      "name": "JUDAL FULLADOSA ALBA",
+      "goals": 2,
+      "keeper": false
+     },
+     {
+      "number": 27,
+      "name": "PARE DE LA CAMARA BRUNA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 28,
+      "name": "TORRENT ESPADA CARLA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 62,
+      "name": "FAIG RESCALVO LIDIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 49,
+      "name": "LÓPEZ LLIURO JANA",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "segona-femenina-2-7-2",
+   "round": 2,
+   "date": "2026-10-02",
+   "time": "20:15",
+   "home": "Club Patí Malgrat Grup Escobar",
+   "away": "Rototank Bigues i Riells",
+   "score": [
+    2,
+    2
+   ],
+   "officialId": "154915",
+   "rosters": {
+    "home": [
+     {
+      "number": 5,
+      "name": "COSTA PEREZ AINA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 8,
+      "name": "COSTA VALLS MARTA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 15,
+      "name": "FABREGAT COSTA AINA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 17,
+      "name": "DESPUIG DOMENECH BET",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 22,
+      "name": "JUIZ MUÑOZ JUDIT",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 10,
+      "name": "GÓMEZ LEÓN LARA",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 2,
+      "name": "JUVA( CERDAN GOMEZ MIRIAM",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 3,
+      "name": "JUNU( CARMONA MARTINEZ ONA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 5,
+      "name": "JUNU( YLLA IGLESIAS ANNA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 8,
+      "name": "JUVA( ABADIA MONTORIOL AURORA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 23,
+      "name": "JUVA( MUÑOZ CADENAS JÚLIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 24,
+      "name": "JUNU( PUIG GONZALEZ JÚLIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 26,
+      "name": "JUVA( SERRANO MARTÍ TINDARI",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "segona-femenina-2-4-0",
+   "round": 2,
+   "date": "2026-10-03",
+   "time": "13:30",
+   "home": "Fenie Energia Cerdanyola CCH",
+   "away": "Innoaesthetics HC Sant Just",
+   "score": [
+    5,
+    3
+   ],
+   "officialId": "154917",
+   "rosters": {
+    "home": [
+     {
+      "number": 2,
+      "name": "JUNU( VEGA GÓMEZ MARIA",
+      "goals": null,
+      "keeper": false
+     },
+     {
+      "number": 9,
+      "name": "SEGC- SERRA ASENSIO MARIA",
+      "goals": null,
+      "keeper": false
+     },
+     {
+      "number": 24,
+      "name": "JUVA( PRAT PEREZ LAIA",
+      "goals": null,
+      "keeper": false
+     },
+     {
+      "number": 28,
+      "name": "JUNU( CAÑABATE SIANÉS MARTINA",
+      "goals": null,
+      "keeper": false
+     },
+     {
+      "number": 55,
+      "name": "CAÑABATE SIANES MARIONA",
+      "goals": null,
+      "keeper": false
+     },
+     {
+      "number": 67,
+      "name": "JUVB( PIÑERO HERRERA HANNAH",
+      "goals": null,
+      "keeper": false
+     },
+     {
+      "number": 68,
+      "name": "JUVB( HERRERA MARIN NORA",
+      "goals": null,
+      "keeper": false
+     },
+     {
+      "number": 10,
+      "name": "JUVB( CANTERO MÁRQUEZ ERICA",
+      "goals": null,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 4,
+      "name": "JUNU( MAS ARROYO MARTINA",
+      "goals": null,
+      "keeper": false
+     },
+     {
+      "number": 6,
+      "name": "SEGC- BARBERO CALABUIG CLAUDIA",
+      "goals": null,
+      "keeper": false
+     },
+     {
+      "number": 7,
+      "name": "SEGC- CAVERO BERTRAN ANNA",
+      "goals": null,
+      "keeper": false
+     },
+     {
+      "number": 8,
+      "name": "SEGC- LUCIANO TRIAS JÚLIA",
+      "goals": null,
+      "keeper": false
+     },
+     {
+      "number": 15,
+      "name": "JUVU( ESTELA BENEDICTO ELIA",
+      "goals": null,
+      "keeper": false
+     },
+     {
+      "number": 26,
+      "name": "JUVU( LUCIANO TRIAS GEORGINA",
+      "goals": null,
+      "keeper": false
+     },
+     {
+      "number": 56,
+      "name": "CALABUIG GALLEGO AINOA",
+      "goals": null,
+      "keeper": false
+     },
+     {
+      "number": 9,
+      "name": "JUVU( LUCIANO TRIAS CARLA",
+      "goals": null,
+      "keeper": true
+     },
+     {
+      "number": 1,
+      "name": "SEGC- CAVERO BERTRAN MARIA",
+      "goals": null,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "segona-femenina-2-1-6",
+   "round": 2,
+   "date": "2026-10-03",
+   "time": "18:15",
+   "home": "Mollet HC",
+   "away": "Club Hoquei Santa Perpètua",
+   "score": [
+    2,
+    4
+   ],
+   "officialId": "154916",
+   "rosters": {
+    "home": [
+     {
+      "number": 3,
+      "name": "JUNU( PUJOL GOMEZ LAIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 11,
+      "name": "JUNU( MONTON AYLLON LAIA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 14,
+      "name": "JUVA( DAUMAL ARTIGAS BET",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 17,
+      "name": "JUVA( NINOU NAKHUDA AINA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 21,
+      "name": "JUVB( SPASIANO MONTOYA PAOLA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 26,
+      "name": "BERNAL RUBIALES PAULA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 35,
+      "name": "JUVA( RIOS CRUZ PAULA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 99,
+      "name": "JUVA( RIOS CRUZ SOFIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 40,
+      "name": "JUNU( PLEGUEZUELOS GAZULLA BERTA",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 4,
+      "name": "BONAL BARNOLA ANNA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 8,
+      "name": "LINDE MARTINEZ AINHOA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 20,
+      "name": "MATAS MORA MARTINA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 21,
+      "name": "ARENAS VALBUENA AINA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 31,
+      "name": "JUVU( QUERO GIMENEZ ARIADNA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 45,
+      "name": "JUVU( LINDE MARTINEZ PAULA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 57,
+      "name": "JUVU( DO VALE JIMENEZ JULIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 60,
+      "name": "PEREZ MURUGÓ IRENE",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 86,
+      "name": "ACÍN CIRERA ONA",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "segona-femenina-2-9-5",
+   "round": 2,
+   "date": "2026-10-04",
+   "time": "20:00",
+   "home": "Club Pati Torrelles",
+   "away": "SHUM Selvafil",
+   "score": [
+    9,
+    0
+   ],
+   "officialId": "154918",
+   "rosters": {
+    "home": [
+     {
+      "number": 2,
+      "name": "SEGC- SANCHEZ SANCHEZ BLANCA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 12,
+      "name": "SEGC- PLA PRADES ONA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 15,
+      "name": "NINOU NAKHUDA XANTAL",
+      "goals": 4,
+      "keeper": false
+     },
+     {
+      "number": 20,
+      "name": "SEGC- PERERA FERNÁNDEZ ONA",
+      "goals": 2,
+      "keeper": false
+     },
+     {
+      "number": 23,
+      "name": "SEGC- SANCHO SAMITIER IVET",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 29,
+      "name": "SEGC- MUNUERA MIRALPEIX BERTA",
+      "goals": 2,
+      "keeper": false
+     },
+     {
+      "number": 32,
+      "name": "JUVU( GOMEZ ARAUJO ALMA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 44,
+      "name": "SEGC- GUITART SUELVES ONA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 1,
+      "name": "SEGC- AZORIN DE CRUZ ANNA",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 7,
+      "name": "ALBERTI VINARDELL JULIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 9,
+      "name": "PEREA MARZÁ ANA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 23,
+      "name": "CATALAN ROMAGUERA MARTINA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 24,
+      "name": "DE LA PRIETA RODRIGUEZ JÚLIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 28,
+      "name": "BRAGULAT CABANA NÚRIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 1,
+      "name": "GOMEZ CAPELLA CARLA",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "segona-femenina-2-12-10",
+   "round": 2,
+   "date": "2026-10-16",
+   "time": "21:30",
+   "home": "Oxford HC Salt",
+   "away": "CH les Franqueses",
+   "score": [
+    11,
+    1
+   ],
+   "officialId": "154920",
+   "rosters": {
+    "home": [
+     {
+      "number": 3,
+      "name": "FONTRODONA RIPOLL JANA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 5,
+      "name": "JUVA( CASELLA SANTALÓ MARTINA",
+      "goals": 3,
+      "keeper": false
+     },
+     {
+      "number": 12,
+      "name": "JUNU( RUANO I VARGAS ELNA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 17,
+      "name": "JUVB( TURON FÀBREGA ARIADNA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 19,
+      "name": "JUNU( CARRERAS BASERBA BRUNA",
+      "goals": 3,
+      "keeper": false
+     },
+     {
+      "number": 22,
+      "name": "JUVA( MARES LEON MARIA",
+      "goals": 3,
+      "keeper": false
+     },
+     {
+      "number": 40,
+      "name": "JUNU( ESPADA PADRÓS LAIA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 55,
+      "name": "JUVA( BARCELÓ CULEBRAS ARLET",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 4,
+      "name": "JUVA( BOSCH SERRA ABRIL",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 1,
+      "name": "VILA CLAVERA JANA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 4,
+      "name": "GUTIERREZ COLOMER JUDITH",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 6,
+      "name": "CANO CODINA EROLA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 8,
+      "name": "MUSQUERA LLORENS NOA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 9,
+      "name": "NEFTATA TALIBI LAILA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 11,
+      "name": "PALACI MERCHAN NOA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 17,
+      "name": "BENEYTO NAVARRO VINYET",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 12,
+      "name": "TARDIU FERNANDEZ MIREIA",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "segona-femenina-2-11-8",
+   "round": 2,
+   "date": "2026-11-08",
+   "time": "12:15",
+   "home": "CH Figueres",
+   "away": "CHP Sant Feliu",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-3-2-1",
+   "round": 3,
+   "date": "2026-10-10",
+   "time": "12:45",
+   "home": "Rototank Bigues i Riells",
+   "away": "Mollet HC",
+   "score": [
+    5,
+    2
+   ],
+   "officialId": "154922",
+   "rosters": {
+    "home": [
+     {
+      "number": 3,
+      "name": "JUNU( CARMONA MARTINEZ ONA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 7,
+      "name": "JUVA( COLL ALARCOS ARLET",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 18,
+      "name": "JUVA( ABADIA MONTORIOL AURORA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 23,
+      "name": "JUVA( MUÑOZ CADENAS JÚLIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 33,
+      "name": "JUVA( TORRAS BOIXADERAS MARIA",
+      "goals": 4,
+      "keeper": false
+     },
+     {
+      "number": 93,
+      "name": "JUVA( CARMONA MONSERRAT BRUNA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 26,
+      "name": "JUVA( SERRANO MARTÍ TINDARI",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 3,
+      "name": "JUNU( PUJOL GOMEZ LAIA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 11,
+      "name": "JUNU( MONTON AYLLON LAIA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 17,
+      "name": "JUVA( NINOU NAKHUDA AINA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 26,
+      "name": "BERNAL RUBIALES PAULA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 31,
+      "name": "JUNU( PORTELLA JIMENEZ AINA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 71,
+      "name": "JUVA( HERNANDEZ COLOMER BERTA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 99,
+      "name": "JUVA( RIOS CRUZ SOFIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 40,
+      "name": "JUNU( PLEGUEZUELOS GAZULLA BERTA",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "segona-femenina-3-0-9",
+   "round": 3,
+   "date": "2026-10-10",
+   "time": "16:30",
+   "home": "Innoaesthetics HC Sant Just",
+   "away": "Club Pati Torrelles",
+   "score": [
+    0,
+    2
+   ],
+   "officialId": "154924",
+   "rosters": {
+    "home": [
+     {
+      "number": 6,
+      "name": "SEGC- BARBERO CALABUIG CLAUDIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 7,
+      "name": "SEGC- CAVERO BERTRAN ANNA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 8,
+      "name": "JUVU( CADENAS BENEDICTO ABRIL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 15,
+      "name": "JUVU( ESTELA BENEDICTO ELIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 17,
+      "name": "JUVU( ORTEGA LORCA JUDIT",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 26,
+      "name": "JUVU( LUCIANO TRIAS GEORGINA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 56,
+      "name": "CALABUIG GALLEGO AINOA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 87,
+      "name": "JUVU( LANGENEGGER ANNALENA",
+      "goals": 0,
+      "keeper": true
+     },
+     {
+      "number": 1,
+      "name": "SEGC- CAVERO BERTRAN MARIA",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 2,
+      "name": "SEGC- SANCHEZ SANCHEZ BLANCA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 12,
+      "name": "SEGC- PLA PRADES ONA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 16,
+      "name": "AZORIN DE CRUZ NEUS",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 23,
+      "name": "SEGC- SANCHO SAMITIER IVET",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 29,
+      "name": "SEGC- MUNUERA MIRALPEIX BERTA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 32,
+      "name": "JUVU( GOMEZ ARAUJO ALMA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 44,
+      "name": "SEGC- GUITART SUELVES ONA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 88,
+      "name": "JUVU( FERNANDEZ GUZMAN MARIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 1,
+      "name": "SEGC- AZORIN DE CRUZ ANNA",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "segona-femenina-3-8-12",
+   "round": 3,
+   "date": "2026-10-10",
+   "time": "18:00",
+   "home": "CHP Sant Feliu",
+   "away": "Oxford HC Salt",
+   "score": [
+    3,
+    12
+   ],
+   "officialId": "154926",
+   "rosters": {
+    "home": [
+     {
+      "number": 2,
+      "name": "JUVB( SOLER SANS ARIADNA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 7,
+      "name": "JUVB( GUITERAS RUIZ MAR",
+      "goals": 2,
+      "keeper": false
+     },
+     {
+      "number": 16,
+      "name": "XALABARDER PERRAMON LAIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 17,
+      "name": "JUVB( BALLESTER TUR RITA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 24,
+      "name": "JUVB( GUARDEÑO SERRANO ABRIL",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 27,
+      "name": "JUNU( VENTURA GARRIDO ANNA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 31,
+      "name": "JUVB( MOYANO BARROSO JOANA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 44,
+      "name": "JUVB( ROMAN PIQUER AINA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 6,
+      "name": "JUVB( PAGES GRAU BERTA",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 5,
+      "name": "JUVA( CASELLA SANTALÓ MARTINA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 7,
+      "name": "JUVB( RUBIO VIÑOLAS ESTEL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 12,
+      "name": "JUNU( RUANO I VARGAS ELNA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 16,
+      "name": "JUVA( ARIET NIEVES DE LA VEGA MÁRIAM",
+      "goals": 3,
+      "keeper": false
+     },
+     {
+      "number": 19,
+      "name": "JUNU( CARRERAS BASERBA BRUNA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 22,
+      "name": "JUVA( MARES LEON MARIA",
+      "goals": 7,
+      "keeper": false
+     },
+     {
+      "number": 55,
+      "name": "JUVA( BARCELÓ CULEBRAS ARLET",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 77,
+      "name": "JUVA( COMAMALA BOUTIN MARTINA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 33,
+      "name": "VILADECANS QUINTERO SOFIA",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "segona-femenina-3-6-4",
+   "round": 3,
+   "date": "2026-10-10",
+   "time": "18:30",
+   "home": "Club Hoquei Santa Perpètua",
+   "away": "Fenie Energia Cerdanyola CCH",
+   "score": [
+    1,
+    3
+   ],
+   "officialId": "154923",
+   "rosters": {
+    "home": [
+     {
+      "number": 4,
+      "name": "BONAL BARNOLA ANNA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 8,
+      "name": "LINDE MARTINEZ AINHOA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 20,
+      "name": "MATAS MORA MARTINA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 21,
+      "name": "ARENAS VALBUENA AINA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 31,
+      "name": "JUVU( QUERO GIMENEZ ARIADNA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 45,
+      "name": "JUVU( LINDE MARTINEZ PAULA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 57,
+      "name": "JUVU( DO VALE JIMENEZ JULIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 86,
+      "name": "ACÍN CIRERA ONA",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 9,
+      "name": "SEGC- SERRA ASENSIO MARIA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 28,
+      "name": "JUNU( CAÑABATE SIANÉS MARTINA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 49,
+      "name": "JUVA( TARRIDA CENTELLAS PAULA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 55,
+      "name": "CAÑABATE SIANES MARIONA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 67,
+      "name": "JUVB( PIÑERO HERRERA HANNAH",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 82,
+      "name": "JUVB( MOGAS KO BLANCA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 44,
+      "name": "JUVA( PACHECO NOGUERAS MARIONA",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "segona-femenina-3-5-11",
+   "round": 3,
+   "date": "2026-10-11",
+   "time": "18:30",
+   "home": "SHUM Selvafil",
+   "away": "CH Figueres",
+   "score": [
+    4,
+    2
+   ],
+   "officialId": "154925",
+   "rosters": {
+    "home": [
+     {
+      "number": 5,
+      "name": "BRAGULAT CABANA NÚRIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 7,
+      "name": "ALBERTI VINARDELL JULIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 9,
+      "name": "PEREA MARZÁ ANA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 23,
+      "name": "CATALAN ROMAGUERA MARTINA",
+      "goals": 2,
+      "keeper": false
+     },
+     {
+      "number": 44,
+      "name": "CEPRIÀ LAGUNA ANNA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 74,
+      "name": "SEGC- RODRIGUEZ GAÑAN AINA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 87,
+      "name": "SEGC- MERCHANTE ANTON CLARA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 1,
+      "name": "GOMEZ CAPELLA CARLA",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 8,
+      "name": "HONRADO CAMOS JULIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 13,
+      "name": "LIZANA LOPEZ OLGA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 14,
+      "name": "RICART VERA ARIADNA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 18,
+      "name": "JUDAL FULLADOSA ALBA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 27,
+      "name": "PARE DE LA CAMARA BRUNA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 28,
+      "name": "TORRENT ESPADA CARLA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 62,
+      "name": "FAIG RESCALVO LIDIA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 49,
+      "name": "LÓPEZ LLIURO JANA",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "segona-femenina-3-3-7",
+   "round": 3,
+   "date": "2026-11-08",
+   "time": "19:00",
+   "home": "Club Patí Roda",
+   "away": "Club Patí Malgrat Grup Escobar",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-4-4-2",
+   "round": 4,
+   "date": "2026-10-17",
+   "time": "17:30",
+   "home": "Fenie Energia Cerdanyola CCH",
+   "away": "Rototank Bigues i Riells",
+   "score": [
+    3,
+    2
+   ],
+   "officialId": "154930",
+   "rosters": {
+    "home": [
+     {
+      "number": 0,
+      "name": "CAÑABATE SIANES MARIONA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 2,
+      "name": "JUNU( VEGA GÓMEZ MARIA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 9,
+      "name": "SEGC- SERRA ASENSIO MARIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 28,
+      "name": "JUNU( CAÑABATE SIANÉS MARTINA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 44,
+      "name": "JUVA( PACHECO NOGUERAS MARIONA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 67,
+      "name": "JUVB( PIÑERO HERRERA HANNAH",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 82,
+      "name": "JUVB( MOGAS KO BLANCA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 10,
+      "name": "JUVB( CANTERO MÁRQUEZ ERICA",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 3,
+      "name": "JUNU( CARMONA MARTINEZ ONA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 4,
+      "name": "JUVA( ARISA CODINA QUERALT",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 14,
+      "name": "JUVA( FRANCH CASTELL AINA",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 18,
+      "name": "JUVA( ABADIA MONTORIOL AURORA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 23,
+      "name": "JUVA( MUÑOZ CADENAS JÚLIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 24,
+      "name": "JUNU( PUIG GONZALEZ JÚLIA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 26,
+      "name": "JUVA( SERRANO MARTÍ TINDARI",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "segona-femenina-4-1-3",
+   "round": 4,
+   "date": "2026-10-17",
+   "time": "18:00",
+   "home": "Mollet HC",
+   "away": "Club Patí Roda",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-4-12-5",
+   "round": 4,
+   "date": "2026-10-17",
+   "time": "20:00",
+   "home": "Oxford HC Salt",
+   "away": "SHUM Selvafil",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-4-9-6",
+   "round": 4,
+   "date": "2026-10-17",
+   "time": "20:45",
+   "home": "Club Pati Torrelles",
+   "away": "Club Hoquei Santa Perpètua",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-4-10-8",
+   "round": 4,
+   "date": "2026-10-18",
+   "time": "11:00",
+   "home": "CH les Franqueses",
+   "away": "CHP Sant Feliu",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-4-11-0",
+   "round": 4,
+   "date": "2026-10-18",
+   "time": "13:15",
+   "home": "CH Figueres",
+   "away": "Innoaesthetics HC Sant Just",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-5-7-1",
+   "round": 5,
+   "date": "2026-10-23",
+   "time": "20:00",
+   "home": "Club Patí Malgrat Grup Escobar",
+   "away": "Mollet HC",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-5-2-9",
+   "round": 5,
+   "date": "2026-10-24",
+   "time": "18:15",
+   "home": "Rototank Bigues i Riells",
+   "away": "Club Pati Torrelles",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-5-6-11",
+   "round": 5,
+   "date": "2026-10-24",
+   "time": "18:30",
+   "home": "Club Hoquei Santa Perpètua",
+   "away": "CH Figueres",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-5-3-4",
+   "round": 5,
+   "date": "2026-10-24",
+   "time": "19:15",
+   "home": "Club Patí Roda",
+   "away": "Fenie Energia Cerdanyola CCH",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-5-5-10",
+   "round": 5,
+   "date": "2026-10-25",
+   "time": "12:00",
+   "home": "SHUM Selvafil",
+   "away": "CH les Franqueses",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-5-0-12",
+   "round": 5,
+   "date": "2026-10-25",
+   "time": "12:30",
+   "home": "Innoaesthetics HC Sant Just",
+   "away": "Oxford HC Salt",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-6-12-6",
+   "round": 6,
+   "date": "2026-10-31",
+   "time": "20:00",
+   "home": "Oxford HC Salt",
+   "away": "Club Hoquei Santa Perpètua",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-6-10-0",
+   "round": 6,
+   "date": "2026-11-01",
+   "time": "11:15",
+   "home": "CH les Franqueses",
+   "away": "Innoaesthetics HC Sant Just",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-6-8-5",
+   "round": 6,
+   "date": "2026-11-01",
+   "time": "12:45",
+   "home": "CHP Sant Feliu",
+   "away": "SHUM Selvafil",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-6-4-7",
+   "round": 6,
+   "date": "2026-11-01",
+   "time": "16:30",
+   "home": "Fenie Energia Cerdanyola CCH",
+   "away": "Club Patí Malgrat Grup Escobar",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-6-11-2",
+   "round": 6,
+   "date": "2026-11-01",
+   "time": "17:15",
+   "home": "CH Figueres",
+   "away": "Rototank Bigues i Riells",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-6-9-3",
+   "round": 6,
+   "date": "2026-11-01",
+   "time": "19:00",
+   "home": "Club Pati Torrelles",
+   "away": "Club Patí Roda",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-7-7-9",
+   "round": 7,
+   "date": "2026-11-13",
+   "time": "20:15",
+   "home": "Club Patí Malgrat Grup Escobar",
+   "away": "Club Pati Torrelles",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-7-1-4",
+   "round": 7,
+   "date": "2026-11-14",
+   "time": "12:30",
+   "home": "Mollet HC",
+   "away": "Fenie Energia Cerdanyola CCH",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-7-6-10",
+   "round": 7,
+   "date": "2026-11-14",
+   "time": "18:30",
+   "home": "Club Hoquei Santa Perpètua",
+   "away": "CH les Franqueses",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-7-0-8",
+   "round": 7,
+   "date": "2026-11-14",
+   "time": "19:30",
+   "home": "Innoaesthetics HC Sant Just",
+   "away": "CHP Sant Feliu",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-7-2-12",
+   "round": 7,
+   "date": "2026-11-15",
+   "time": "11:15",
+   "home": "Rototank Bigues i Riells",
+   "away": "Oxford HC Salt",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-7-3-11",
+   "round": 7,
+   "date": "2026-11-15",
+   "time": "18:00",
+   "home": "Club Patí Roda",
+   "away": "CH Figueres",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-8-5-0",
+   "round": 8,
+   "date": "2026-11-20",
+   "time": "21:30",
+   "home": "SHUM Selvafil",
+   "away": "Innoaesthetics HC Sant Just",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-8-10-2",
+   "round": 8,
+   "date": "2026-11-21",
+   "time": "10:00",
+   "home": "CH les Franqueses",
+   "away": "Rototank Bigues i Riells",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-8-11-7",
+   "round": 8,
+   "date": "2026-11-21",
+   "time": "18:00",
+   "home": "CH Figueres",
+   "away": "Club Patí Malgrat Grup Escobar",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-8-8-6",
+   "round": 8,
+   "date": "2026-11-22",
+   "time": "12:45",
+   "home": "CHP Sant Feliu",
+   "away": "Club Hoquei Santa Perpètua",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-8-12-3",
+   "round": 8,
+   "date": "2026-11-22",
+   "time": "18:45",
+   "home": "Oxford HC Salt",
+   "away": "Club Patí Roda",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-8-9-1",
+   "round": 8,
+   "date": "2026-11-22",
+   "time": "20:00",
+   "home": "Club Pati Torrelles",
+   "away": "Mollet HC",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-9-7-12",
+   "round": 9,
+   "date": "2026-11-27",
+   "time": "20:15",
+   "home": "Club Patí Malgrat Grup Escobar",
+   "away": "Oxford HC Salt",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-9-6-5",
+   "round": 9,
+   "date": "2026-11-28",
+   "time": "18:30",
+   "home": "Club Hoquei Santa Perpètua",
+   "away": "SHUM Selvafil",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-9-2-8",
+   "round": 9,
+   "date": "2026-11-29",
+   "time": "12:00",
+   "home": "Rototank Bigues i Riells",
+   "away": "CHP Sant Feliu",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-9-3-10",
+   "round": 9,
+   "date": "2026-11-29",
+   "time": "16:15",
+   "home": "Club Patí Roda",
+   "away": "CH les Franqueses",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-9-4-9",
+   "round": 9,
+   "date": "2026-11-29",
+   "time": "18:00",
+   "home": "Fenie Energia Cerdanyola CCH",
+   "away": "Club Pati Torrelles",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-9-1-11",
+   "round": 9,
+   "date": "2026-11-29",
+   "time": "18:00",
+   "home": "Mollet HC",
+   "away": "CH Figueres",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-10-5-2",
+   "round": 10,
+   "date": "2026-12-11",
+   "time": "21:30",
+   "home": "SHUM Selvafil",
+   "away": "Rototank Bigues i Riells",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-10-10-7",
+   "round": 10,
+   "date": "2026-12-12",
+   "time": "10:00",
+   "home": "CH les Franqueses",
+   "away": "Club Patí Malgrat Grup Escobar",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-10-11-4",
+   "round": 10,
+   "date": "2026-12-12",
+   "time": "18:00",
+   "home": "CH Figueres",
+   "away": "Fenie Energia Cerdanyola CCH",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-10-8-3",
+   "round": 10,
+   "date": "2026-12-12",
+   "time": "18:00",
+   "home": "CHP Sant Feliu",
+   "away": "Club Patí Roda",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-10-0-6",
+   "round": 10,
+   "date": "2026-12-13",
+   "time": "12:00",
+   "home": "Innoaesthetics HC Sant Just",
+   "away": "Club Hoquei Santa Perpètua",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-10-12-1",
+   "round": 10,
+   "date": "2026-12-13",
+   "time": "18:45",
+   "home": "Oxford HC Salt",
+   "away": "Mollet HC",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-11-7-8",
+   "round": 11,
+   "date": "2026-12-18",
+   "time": "20:15",
+   "home": "Club Patí Malgrat Grup Escobar",
+   "away": "CHP Sant Feliu",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-11-2-0",
+   "round": 11,
+   "date": "2026-12-20",
+   "time": "12:00",
+   "home": "Rototank Bigues i Riells",
+   "away": "Innoaesthetics HC Sant Just",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-11-3-5",
+   "round": 11,
+   "date": "2026-12-20",
+   "time": "16:15",
+   "home": "Club Patí Roda",
+   "away": "SHUM Selvafil",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-11-4-12",
+   "round": 11,
+   "date": "2026-12-20",
+   "time": "18:00",
+   "home": "Fenie Energia Cerdanyola CCH",
+   "away": "Oxford HC Salt",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-11-1-10",
+   "round": 11,
+   "date": "2026-12-20",
+   "time": "18:00",
+   "home": "Mollet HC",
+   "away": "CH les Franqueses",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-11-9-11",
+   "round": 11,
+   "date": "2026-12-20",
+   "time": "20:00",
+   "home": "Club Pati Torrelles",
+   "away": "CH Figueres",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-12-5-7",
+   "round": 12,
+   "date": "2027-01-08",
+   "time": "21:30",
+   "home": "SHUM Selvafil",
+   "away": "Club Patí Malgrat Grup Escobar",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-12-10-4",
+   "round": 12,
+   "date": "2027-01-09",
+   "time": "10:00",
+   "home": "CH les Franqueses",
+   "away": "Fenie Energia Cerdanyola CCH",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-12-8-1",
+   "round": 12,
+   "date": "2027-01-09",
+   "time": "18:00",
+   "home": "CHP Sant Feliu",
+   "away": "Mollet HC",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-12-6-2",
+   "round": 12,
+   "date": "2027-01-09",
+   "time": "18:30",
+   "home": "Club Hoquei Santa Perpètua",
+   "away": "Rototank Bigues i Riells",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-12-0-3",
+   "round": 12,
+   "date": "2027-01-10",
+   "time": "12:00",
+   "home": "Innoaesthetics HC Sant Just",
+   "away": "Club Patí Roda",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-12-12-9",
+   "round": 12,
+   "date": "2027-01-10",
+   "time": "18:45",
+   "home": "Oxford HC Salt",
+   "away": "Club Pati Torrelles",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-13-7-0",
+   "round": 13,
+   "date": "2027-01-15",
+   "time": "20:15",
+   "home": "Club Patí Malgrat Grup Escobar",
+   "away": "Innoaesthetics HC Sant Just",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-13-11-12",
+   "round": 13,
+   "date": "2027-01-16",
+   "time": "18:00",
+   "home": "CH Figueres",
+   "away": "Oxford HC Salt",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-13-3-6",
+   "round": 13,
+   "date": "2027-01-17",
+   "time": "16:15",
+   "home": "Club Patí Roda",
+   "away": "Club Hoquei Santa Perpètua",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-13-4-8",
+   "round": 13,
+   "date": "2027-01-17",
+   "time": "18:00",
+   "home": "Fenie Energia Cerdanyola CCH",
+   "away": "CHP Sant Feliu",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-13-1-5",
+   "round": 13,
+   "date": "2027-01-17",
+   "time": "18:00",
+   "home": "Mollet HC",
+   "away": "SHUM Selvafil",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-13-9-10",
+   "round": 13,
+   "date": "2027-01-17",
+   "time": "20:00",
+   "home": "Club Pati Torrelles",
+   "away": "CH les Franqueses",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-14-7-6",
+   "round": 14,
+   "date": "2027-01-22",
+   "time": "20:15",
+   "home": "Club Patí Malgrat Grup Escobar",
+   "away": "Club Hoquei Santa Perpètua",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-14-11-10",
+   "round": 14,
+   "date": "2027-01-23",
+   "time": "18:00",
+   "home": "CH Figueres",
+   "away": "CH les Franqueses",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-14-3-2",
+   "round": 14,
+   "date": "2027-01-24",
+   "time": "16:15",
+   "home": "Club Patí Roda",
+   "away": "Rototank Bigues i Riells",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-14-1-0",
+   "round": 14,
+   "date": "2027-01-24",
+   "time": "18:00",
+   "home": "Mollet HC",
+   "away": "Innoaesthetics HC Sant Just",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-14-9-8",
+   "round": 14,
+   "date": "2027-01-24",
+   "time": "20:00",
+   "home": "Club Pati Torrelles",
+   "away": "CHP Sant Feliu",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-14-5-4",
+   "round": 14,
+   "date": "2027-01-24",
+   "time": "21:30",
+   "home": "SHUM Selvafil",
+   "away": "Fenie Energia Cerdanyola CCH",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-15-5-9",
+   "round": 15,
+   "date": "2027-01-29",
+   "time": "21:30",
+   "home": "SHUM Selvafil",
+   "away": "Club Pati Torrelles",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-15-10-12",
+   "round": 15,
+   "date": "2027-01-30",
+   "time": "10:00",
+   "home": "CH les Franqueses",
+   "away": "Oxford HC Salt",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-15-8-11",
+   "round": 15,
+   "date": "2027-01-30",
+   "time": "18:00",
+   "home": "CHP Sant Feliu",
+   "away": "CH Figueres",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-15-6-1",
+   "round": 15,
+   "date": "2027-01-30",
+   "time": "18:30",
+   "home": "Club Hoquei Santa Perpètua",
+   "away": "Mollet HC",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-15-2-7",
+   "round": 15,
+   "date": "2027-01-31",
+   "time": "12:00",
+   "home": "Rototank Bigues i Riells",
+   "away": "Club Patí Malgrat Grup Escobar",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-15-0-4",
+   "round": 15,
+   "date": "2027-01-31",
+   "time": "12:00",
+   "home": "Innoaesthetics HC Sant Just",
+   "away": "Fenie Energia Cerdanyola CCH",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-16-7-3",
+   "round": 16,
+   "date": "2027-02-12",
+   "time": "20:15",
+   "home": "Club Patí Malgrat Grup Escobar",
+   "away": "Club Patí Roda",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-16-11-5",
+   "round": 16,
+   "date": "2027-02-13",
+   "time": "18:00",
+   "home": "CH Figueres",
+   "away": "SHUM Selvafil",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-16-1-2",
+   "round": 16,
+   "date": "2027-02-14",
+   "time": "18:00",
+   "home": "Mollet HC",
+   "away": "Rototank Bigues i Riells",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-16-4-6",
+   "round": 16,
+   "date": "2027-02-14",
+   "time": "18:00",
+   "home": "Fenie Energia Cerdanyola CCH",
+   "away": "Club Hoquei Santa Perpètua",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-16-12-8",
+   "round": 16,
+   "date": "2027-02-14",
+   "time": "18:45",
+   "home": "Oxford HC Salt",
+   "away": "CHP Sant Feliu",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-16-9-0",
+   "round": 16,
+   "date": "2027-02-14",
+   "time": "20:00",
+   "home": "Club Pati Torrelles",
+   "away": "Innoaesthetics HC Sant Just",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-17-5-12",
+   "round": 17,
+   "date": "2027-02-19",
+   "time": "21:30",
+   "home": "SHUM Selvafil",
+   "away": "Oxford HC Salt",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-17-8-10",
+   "round": 17,
+   "date": "2027-02-20",
+   "time": "18:00",
+   "home": "CHP Sant Feliu",
+   "away": "CH les Franqueses",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-17-6-9",
+   "round": 17,
+   "date": "2027-02-20",
+   "time": "18:30",
+   "home": "Club Hoquei Santa Perpètua",
+   "away": "Club Pati Torrelles",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-17-2-4",
+   "round": 17,
+   "date": "2027-02-21",
+   "time": "12:00",
+   "home": "Rototank Bigues i Riells",
+   "away": "Fenie Energia Cerdanyola CCH",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-17-0-11",
+   "round": 17,
+   "date": "2027-02-21",
+   "time": "12:00",
+   "home": "Innoaesthetics HC Sant Just",
+   "away": "CH Figueres",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-17-3-1",
+   "round": 17,
+   "date": "2027-02-21",
+   "time": "16:15",
+   "home": "Club Patí Roda",
+   "away": "Mollet HC",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-18-10-5",
+   "round": 18,
+   "date": "2027-02-27",
+   "time": "10:00",
+   "home": "CH les Franqueses",
+   "away": "SHUM Selvafil",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-18-11-6",
+   "round": 18,
+   "date": "2027-02-27",
+   "time": "18:00",
+   "home": "CH Figueres",
+   "away": "Club Hoquei Santa Perpètua",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-18-1-7",
+   "round": 18,
+   "date": "2027-02-28",
+   "time": "18:00",
+   "home": "Mollet HC",
+   "away": "Club Patí Malgrat Grup Escobar",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-18-4-3",
+   "round": 18,
+   "date": "2027-02-28",
+   "time": "18:00",
+   "home": "Fenie Energia Cerdanyola CCH",
+   "away": "Club Patí Roda",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-18-12-0",
+   "round": 18,
+   "date": "2027-02-28",
+   "time": "18:45",
+   "home": "Oxford HC Salt",
+   "away": "Innoaesthetics HC Sant Just",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-18-9-2",
+   "round": 18,
+   "date": "2027-02-28",
+   "time": "20:00",
+   "home": "Club Pati Torrelles",
+   "away": "Rototank Bigues i Riells",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-19-7-4",
+   "round": 19,
+   "date": "2027-03-12",
+   "time": "20:15",
+   "home": "Club Patí Malgrat Grup Escobar",
+   "away": "Fenie Energia Cerdanyola CCH",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-19-5-8",
+   "round": 19,
+   "date": "2027-03-12",
+   "time": "21:30",
+   "home": "SHUM Selvafil",
+   "away": "CHP Sant Feliu",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-19-6-12",
+   "round": 19,
+   "date": "2027-03-13",
+   "time": "18:30",
+   "home": "Club Hoquei Santa Perpètua",
+   "away": "Oxford HC Salt",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-19-2-11",
+   "round": 19,
+   "date": "2027-03-14",
+   "time": "12:00",
+   "home": "Rototank Bigues i Riells",
+   "away": "CH Figueres",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-19-0-10",
+   "round": 19,
+   "date": "2027-03-14",
+   "time": "12:00",
+   "home": "Innoaesthetics HC Sant Just",
+   "away": "CH les Franqueses",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-19-3-9",
+   "round": 19,
+   "date": "2027-03-14",
+   "time": "16:15",
+   "home": "Club Patí Roda",
+   "away": "Club Pati Torrelles",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-20-10-6",
+   "round": 20,
+   "date": "2027-03-20",
+   "time": "10:00",
+   "home": "CH les Franqueses",
+   "away": "Club Hoquei Santa Perpètua",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-20-11-3",
+   "round": 20,
+   "date": "2027-03-20",
+   "time": "18:00",
+   "home": "CH Figueres",
+   "away": "Club Patí Roda",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-20-8-0",
+   "round": 20,
+   "date": "2027-03-20",
+   "time": "18:00",
+   "home": "CHP Sant Feliu",
+   "away": "Innoaesthetics HC Sant Just",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-20-4-1",
+   "round": 20,
+   "date": "2027-03-21",
+   "time": "18:00",
+   "home": "Fenie Energia Cerdanyola CCH",
+   "away": "Mollet HC",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-20-12-2",
+   "round": 20,
+   "date": "2027-03-21",
+   "time": "18:45",
+   "home": "Oxford HC Salt",
+   "away": "Rototank Bigues i Riells",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-20-9-7",
+   "round": 20,
+   "date": "2027-03-21",
+   "time": "20:00",
+   "home": "Club Pati Torrelles",
+   "away": "Club Patí Malgrat Grup Escobar",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-21-7-11",
+   "round": 21,
+   "date": "2027-04-02",
+   "time": "20:15",
+   "home": "Club Patí Malgrat Grup Escobar",
+   "away": "CH Figueres",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-21-6-8",
+   "round": 21,
+   "date": "2027-04-03",
+   "time": "18:30",
+   "home": "Club Hoquei Santa Perpètua",
+   "away": "CHP Sant Feliu",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-21-2-10",
+   "round": 21,
+   "date": "2027-04-04",
+   "time": "12:00",
+   "home": "Rototank Bigues i Riells",
+   "away": "CH les Franqueses",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-21-0-5",
+   "round": 21,
+   "date": "2027-04-04",
+   "time": "12:00",
+   "home": "Innoaesthetics HC Sant Just",
+   "away": "SHUM Selvafil",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-21-3-12",
+   "round": 21,
+   "date": "2027-04-04",
+   "time": "16:15",
+   "home": "Club Patí Roda",
+   "away": "Oxford HC Salt",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-21-1-9",
+   "round": 21,
+   "date": "2027-04-04",
+   "time": "18:00",
+   "home": "Mollet HC",
+   "away": "Club Pati Torrelles",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-22-5-6",
+   "round": 22,
+   "date": "2027-04-09",
+   "time": "21:30",
+   "home": "SHUM Selvafil",
+   "away": "Club Hoquei Santa Perpètua",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-22-10-3",
+   "round": 22,
+   "date": "2027-04-10",
+   "time": "10:00",
+   "home": "CH les Franqueses",
+   "away": "Club Patí Roda",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-22-11-1",
+   "round": 22,
+   "date": "2027-04-10",
+   "time": "18:00",
+   "home": "CH Figueres",
+   "away": "Mollet HC",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-22-8-2",
+   "round": 22,
+   "date": "2027-04-10",
+   "time": "18:00",
+   "home": "CHP Sant Feliu",
+   "away": "Rototank Bigues i Riells",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-22-12-7",
+   "round": 22,
+   "date": "2027-04-11",
+   "time": "18:45",
+   "home": "Oxford HC Salt",
+   "away": "Club Patí Malgrat Grup Escobar",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-22-9-4",
+   "round": 22,
+   "date": "2027-04-11",
+   "time": "20:00",
+   "home": "Club Pati Torrelles",
+   "away": "Fenie Energia Cerdanyola CCH",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-23-7-10",
+   "round": 23,
+   "date": "2027-04-23",
+   "time": "20:15",
+   "home": "Club Patí Malgrat Grup Escobar",
+   "away": "CH les Franqueses",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-23-6-0",
+   "round": 23,
+   "date": "2027-04-24",
+   "time": "18:30",
+   "home": "Club Hoquei Santa Perpètua",
+   "away": "Innoaesthetics HC Sant Just",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-23-2-5",
+   "round": 23,
+   "date": "2027-04-25",
+   "time": "12:00",
+   "home": "Rototank Bigues i Riells",
+   "away": "SHUM Selvafil",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-23-3-8",
+   "round": 23,
+   "date": "2027-04-25",
+   "time": "16:15",
+   "home": "Club Patí Roda",
+   "away": "CHP Sant Feliu",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-23-4-11",
+   "round": 23,
+   "date": "2027-04-25",
+   "time": "18:00",
+   "home": "Fenie Energia Cerdanyola CCH",
+   "away": "CH Figueres",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-23-1-12",
+   "round": 23,
+   "date": "2027-04-25",
+   "time": "18:00",
+   "home": "Mollet HC",
+   "away": "Oxford HC Salt",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-24-5-3",
+   "round": 24,
+   "date": "2027-04-30",
+   "time": "21:30",
+   "home": "SHUM Selvafil",
+   "away": "Club Patí Roda",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-24-10-1",
+   "round": 24,
+   "date": "2027-05-01",
+   "time": "10:00",
+   "home": "CH les Franqueses",
+   "away": "Mollet HC",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-24-11-9",
+   "round": 24,
+   "date": "2027-05-01",
+   "time": "18:00",
+   "home": "CH Figueres",
+   "away": "Club Pati Torrelles",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-24-8-7",
+   "round": 24,
+   "date": "2027-05-01",
+   "time": "18:00",
+   "home": "CHP Sant Feliu",
+   "away": "Club Patí Malgrat Grup Escobar",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-24-0-2",
+   "round": 24,
+   "date": "2027-05-02",
+   "time": "12:00",
+   "home": "Innoaesthetics HC Sant Just",
+   "away": "Rototank Bigues i Riells",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-24-12-4",
+   "round": 24,
+   "date": "2027-05-02",
+   "time": "18:45",
+   "home": "Oxford HC Salt",
+   "away": "Fenie Energia Cerdanyola CCH",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-25-7-5",
+   "round": 25,
+   "date": "2027-05-07",
+   "time": "20:15",
+   "home": "Club Patí Malgrat Grup Escobar",
+   "away": "SHUM Selvafil",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-25-2-6",
+   "round": 25,
+   "date": "2027-05-09",
+   "time": "12:00",
+   "home": "Rototank Bigues i Riells",
+   "away": "Club Hoquei Santa Perpètua",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-25-3-0",
+   "round": 25,
+   "date": "2027-05-09",
+   "time": "16:15",
+   "home": "Club Patí Roda",
+   "away": "Innoaesthetics HC Sant Just",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-25-4-10",
+   "round": 25,
+   "date": "2027-05-09",
+   "time": "18:00",
+   "home": "Fenie Energia Cerdanyola CCH",
+   "away": "CH les Franqueses",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-25-1-8",
+   "round": 25,
+   "date": "2027-05-09",
+   "time": "18:00",
+   "home": "Mollet HC",
+   "away": "CHP Sant Feliu",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-25-9-12",
+   "round": 25,
+   "date": "2027-05-09",
+   "time": "20:00",
+   "home": "Club Pati Torrelles",
+   "away": "Oxford HC Salt",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-26-5-1",
+   "round": 26,
+   "date": "2027-05-21",
+   "time": "21:30",
+   "home": "SHUM Selvafil",
+   "away": "Mollet HC",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-26-10-9",
+   "round": 26,
+   "date": "2027-05-22",
+   "time": "10:00",
+   "home": "CH les Franqueses",
+   "away": "Club Pati Torrelles",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-26-8-4",
+   "round": 26,
+   "date": "2027-05-22",
+   "time": "18:00",
+   "home": "CHP Sant Feliu",
+   "away": "Fenie Energia Cerdanyola CCH",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-26-6-3",
+   "round": 26,
+   "date": "2027-05-22",
+   "time": "18:30",
+   "home": "Club Hoquei Santa Perpètua",
+   "away": "Club Patí Roda",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-26-0-7",
+   "round": 26,
+   "date": "2027-05-23",
+   "time": "12:00",
+   "home": "Innoaesthetics HC Sant Just",
+   "away": "Club Patí Malgrat Grup Escobar",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "segona-femenina-26-12-11",
+   "round": 26,
+   "date": "2027-05-23",
+   "time": "18:45",
+   "home": "Oxford HC Salt",
+   "away": "CH Figueres",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  }
+ ],
+ "teamCoaches": {},
+ "officialNames": {
+  "INNOAESTHETICS HC SANT JUST": "Innoaesthetics HC Sant Just",
+  "MOLLET HC": "Mollet HC",
+  "ROTOTANK BIGUES I RIELLS": "Rototank Bigues i Riells",
+  "CLUB PATÍ RODA": "Club Patí Roda",
+  "FENIE ENERGIA CERDANYOLA CCH": "Fenie Energia Cerdanyola CCH",
+  "SHUM SELVAFIL": "SHUM Selvafil",
+  "CLUB HOQUEI SANTA PERPÈTUA": "Club Hoquei Santa Perpètua",
+  "CLUB PATÍ MALGRAT GRUP ESCOBAR": "Club Patí Malgrat Grup Escobar",
+  "CHP SANT FELIU": "CHP Sant Feliu",
+  "CLUB PATI TORRELLES": "Club Pati Torrelles",
+  "CH LES FRANQUESES": "CH les Franqueses",
+  "CH FIGUERES": "CH Figueres",
+  "OXFORD HC SALT": "Oxford HC Salt"
+ }
+}

@@ -1,0 +1,2659 @@
+{
+ "league": "Benjamí Or · Megoca A · Grup únic",
+ "season": "2026/27",
+ "source": "https://www.hoqueipatins.fecapa.cat/league/4822",
+ "updatedAt": "2026-10-17T17:00:00.000Z",
+ "team": "SHUM Megoca A",
+ "teams": [
+  "CH Olot A",
+  "CH Palafrugell A",
+  "CH Olot B",
+  "Hoquei Club Ripoll",
+  "CH Figueres",
+  "FD Cassanenc A",
+  "Farners",
+  "SHUM Megoca A",
+  "Girona Club Hoquei A"
+ ],
+ "matches": [
+  {
+   "id": "benjami-or-1-0-1",
+   "round": 1,
+   "date": "2026-09-26",
+   "time": "12:45",
+   "home": "CH Olot A",
+   "away": "CH Palafrugell A",
+   "score": [
+    6,
+    2
+   ],
+   "officialId": "162965",
+   "rosters": {
+    "home": [
+     {
+      "number": 3,
+      "name": "CUQUERELLA BALDAYO ALEIX",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 12,
+      "name": "BATLLE PLANELLAS GAUS",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 21,
+      "name": "RAS COROMINA OLEGUER",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 31,
+      "name": "OLIVERAS DURAN LLUC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 33,
+      "name": "CAPDEVILA PLANAS ARTAL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 42,
+      "name": "PAGÈS FEIXAS ANDREU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 2,
+      "name": "RIOL SAN EMETERIO HUGO",
+      "goals": 0,
+      "keeper": true
+     },
+     {
+      "number": 1,
+      "name": "PEREZ SOLÀ LLUC",
+      "goals": 6,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 3,
+      "name": "BARRERA GIFRE LLIBERT",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 4,
+      "name": "SÀNCHEZ FIGUERAS ROGER",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 6,
+      "name": "FERRER BORRELL PERE",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 7,
+      "name": "HEREDIA GONZÁLEZ LUCAS",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 8,
+      "name": "TUTUSAUS HERNÁNDEZ ROC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 43,
+      "name": "VILÀ BERMUDO ELM",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 2,
+      "name": "MINGUEZ DE LA HORRA BRUNO",
+      "goals": 2,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "benjami-or-1-2-3",
+   "round": 1,
+   "date": "2026-09-26",
+   "time": "17:30",
+   "home": "CH Olot B",
+   "away": "Hoquei Club Ripoll",
+   "score": [
+    3,
+    3
+   ],
+   "officialId": "162964",
+   "rosters": {
+    "home": [
+     {
+      "number": 10,
+      "name": "GONZALEZ GARCIA JIN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 18,
+      "name": "VERGÉS RIERA ANIOL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 55,
+      "name": "VARGA SANCHEZ ÈRIK",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 57,
+      "name": "RÀFOLS FREIXES MARCEL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 99,
+      "name": "PRAT FREIXES GUIU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 1,
+      "name": "JIMÉNEZ RAMON URIEL",
+      "goals": 3,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 26,
+      "name": "VIGO GARCIAS UNAI",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 28,
+      "name": "VILALTA COMA PAU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 41,
+      "name": "FERRER CODONY BERNAT",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 47,
+      "name": "COLL SERRAT ÈRIC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 57,
+      "name": "ROTA CANADELL BERNAT",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 10,
+      "name": "FARRÉS GALLIFA JAN",
+      "goals": 3,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "benjami-or-1-4-5",
+   "round": 1,
+   "date": "2026-09-27",
+   "time": "11:00",
+   "home": "CH Figueres",
+   "away": "FD Cassanenc A",
+   "score": [
+    1,
+    6
+   ],
+   "officialId": "162966",
+   "rosters": {
+    "home": [
+     {
+      "number": 14,
+      "name": "SAYÓ SANCHEZ PAU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 16,
+      "name": "COLLELL PAIRÓ ROC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 17,
+      "name": "BOSCH ALBERT ARNAU",
+      "goals": 1,
+      "keeper": false
+     },
+     {
+      "number": 18,
+      "name": "VIDAL BARET CESC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 19,
+      "name": "MARTÍNEZ BARET ÁLEX",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 48,
+      "name": "VIEIRA DE OLIVEIRA RHAVI THOMAZ",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 19,
+      "name": "JIMÉNEZ ORTEGA ÁLVARO",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 25,
+      "name": "GARCIA CRETU ELIAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 56,
+      "name": "BAYÓ MARTÍ QUIM",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 80,
+      "name": "MAURICI GODALL JAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 88,
+      "name": "MARTINEZ SÁNCHEZ MARTIN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 1,
+      "name": "BORRALLO LÓPEZ MATEO",
+      "goals": 6,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "benjami-or-1-6-7",
+   "round": 1,
+   "date": "2026-09-27",
+   "time": "11:00",
+   "home": "Farners",
+   "away": "SHUM Megoca A",
+   "score": [
+    11,
+    2
+   ],
+   "officialId": "163012",
+   "rosters": {
+    "home": [
+     {
+      "number": 63,
+      "name": "BOVE FERRER BERNAT",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 67,
+      "name": "NEGRE ABUIN LLUC",
+      "goals": 11,
+      "keeper": false
+     },
+     {
+      "number": 68,
+      "name": "ROSA GENE BIEL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 70,
+      "name": "BRUSET SOUZA ALEIX",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 71,
+      "name": "POZUELO SARRA MARTINA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 72,
+      "name": "LLADO JULIÀ BRUNA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 79,
+      "name": "NUÑEZ AMAGUA INGRID",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 1,
+      "name": "RIELLA ROS PABLO",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 17,
+      "name": "SERRANO GARCIA LUCA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 62,
+      "name": "GALLEGO GARCÍA ARÀN",
+      "goals": 2,
+      "keeper": false
+     },
+     {
+      "number": 63,
+      "name": "MESA NARANJO IVAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 67,
+      "name": "GABRIEL POROJAN ADRIAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 69,
+      "name": "PEREZ FLORES DEREK",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 60,
+      "name": "FUENTES DARNES JAN",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "benjami-or-2-1-3",
+   "round": 2,
+   "date": "2026-10-03",
+   "time": "16:30",
+   "home": "CH Palafrugell A",
+   "away": "Hoquei Club Ripoll",
+   "score": [
+    3,
+    4
+   ],
+   "officialId": "162970",
+   "rosters": {
+    "home": [
+     {
+      "number": 3,
+      "name": "BARRERA GIFRE LLIBERT",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 4,
+      "name": "SÀNCHEZ FIGUERAS ROGER",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 6,
+      "name": "FERRER BORRELL PERE",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 7,
+      "name": "HEREDIA GONZÁLEZ LUCAS",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 8,
+      "name": "TUTUSAUS HERNÁNDEZ ROC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 43,
+      "name": "VILÀ BERMUDO ELM",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 2,
+      "name": "MINGUEZ DE LA HORRA BRUNO",
+      "goals": 3,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 26,
+      "name": "VIGO GARCIAS UNAI",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 28,
+      "name": "VILALTA COMA PAU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 41,
+      "name": "FERRER CODONY BERNAT",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 47,
+      "name": "COLL SERRAT ÈRIC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 57,
+      "name": "ROTA CANADELL BERNAT",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 10,
+      "name": "FARRÉS GALLIFA JAN",
+      "goals": 4,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "benjami-or-2-0-2",
+   "round": 2,
+   "date": "2026-10-04",
+   "time": "15:00",
+   "home": "CH Olot A",
+   "away": "CH Olot B",
+   "score": [
+    1,
+    5
+   ],
+   "officialId": "162969",
+   "rosters": {
+    "home": [
+     {
+      "number": 3,
+      "name": "CUQUERELLA BALDAYO ALEIX",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 12,
+      "name": "BATLLE PLANELLAS GAUS",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 21,
+      "name": "RAS COROMINA OLEGUER",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 31,
+      "name": "OLIVERAS DURAN LLUC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 33,
+      "name": "CAPDEVILA PLANAS ARTAL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 42,
+      "name": "PAGÈS FEIXAS ANDREU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 2,
+      "name": "RIOL SAN EMETERIO HUGO",
+      "goals": 0,
+      "keeper": true
+     },
+     {
+      "number": 1,
+      "name": "PEREZ SOLÀ LLUC",
+      "goals": 1,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 10,
+      "name": "GONZALEZ GARCIA JIN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 18,
+      "name": "VERGÉS RIERA ANIOL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 24,
+      "name": "RUBIÓ BATISTA GRAU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 55,
+      "name": "VARGA SANCHEZ ÈRIK",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 57,
+      "name": "RÀFOLS FREIXES MARCEL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 1,
+      "name": "JIMÉNEZ RAMON URIEL",
+      "goals": 5,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "benjami-or-2-6-5",
+   "round": 2,
+   "date": "2026-10-04",
+   "time": "15:00",
+   "home": "Farners",
+   "away": "FD Cassanenc A",
+   "score": [
+    5,
+    7
+   ],
+   "officialId": "162972",
+   "rosters": {
+    "home": [
+     {
+      "number": 63,
+      "name": "BOVE FERRER BERNAT",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 67,
+      "name": "NEGRE ABUIN LLUC",
+      "goals": 5,
+      "keeper": false
+     },
+     {
+      "number": 68,
+      "name": "ROSA GENE BIEL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 70,
+      "name": "BRUSET SOUZA ALEIX",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 71,
+      "name": "POZUELO SARRA MARTINA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 72,
+      "name": "LLADO JULIÀ BRUNA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 79,
+      "name": "NUÑEZ AMAGUA INGRID",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 1,
+      "name": "RIELLA ROS PABLO",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 22,
+      "name": "COROMINAS GRAU MAX",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 25,
+      "name": "GARCIA CRETU ELIAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 56,
+      "name": "BAYÓ MARTÍ QUIM",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 80,
+      "name": "MAURICI GODALL JAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 88,
+      "name": "MARTINEZ SÁNCHEZ MARTIN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 1,
+      "name": "BORRALLO LÓPEZ MATEO",
+      "goals": 7,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "benjami-or-2-8-4",
+   "round": 2,
+   "date": "2026-10-17",
+   "time": "16:00",
+   "home": "Girona Club Hoquei A",
+   "away": "CH Figueres",
+   "score": [
+    10,
+    0
+   ],
+   "officialId": "162971",
+   "rosters": {
+    "home": [
+     {
+      "number": 7,
+      "name": "FRIGOLA ROURA JAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 10,
+      "name": "CARBONES DIEZ JAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 11,
+      "name": "BECH SANCHEZ JORDI",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 19,
+      "name": "NOGUER BOADA LENA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 29,
+      "name": "SITJÀ CASANOVAS POL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 70,
+      "name": "BRUGUE ALBA MARTÍ",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 99,
+      "name": "FERNÁNDEZ BOSCH FRANCESC",
+      "goals": 10,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 14,
+      "name": "SAYÓ SANCHEZ PAU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 16,
+      "name": "COLLELL PAIRÓ ROC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 17,
+      "name": "BOSCH ALBERT ARNAU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 18,
+      "name": "VIDAL BARET CESC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 19,
+      "name": "MARTÍNEZ BARET ÁLEX",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 48,
+      "name": "VIEIRA DE OLIVEIRA RHAVI THOMAZ",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "benjami-or-3-0-8",
+   "round": 3,
+   "date": "2026-10-10",
+   "time": "16:45",
+   "home": "CH Olot A",
+   "away": "Girona Club Hoquei A",
+   "score": [
+    2,
+    2
+   ],
+   "officialId": "163021",
+   "rosters": {
+    "home": [
+     {
+      "number": 3,
+      "name": "CUQUERELLA BALDAYO ALEIX",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 12,
+      "name": "BATLLE PLANELLAS GAUS",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 21,
+      "name": "RAS COROMINA OLEGUER",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 31,
+      "name": "OLIVERAS DURAN LLUC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 33,
+      "name": "CAPDEVILA PLANAS ARTAL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 42,
+      "name": "PAGÈS FEIXAS ANDREU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 1,
+      "name": "PEREZ SOLÀ LLUC",
+      "goals": 2,
+      "keeper": true
+     },
+     {
+      "number": 2,
+      "name": "RIOL SAN EMETERIO HUGO",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 7,
+      "name": "FRIGOLA ROURA JAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 10,
+      "name": "CARBONES DIEZ JAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 11,
+      "name": "BECH SANCHEZ JORDI",
+      "goals": 2,
+      "keeper": false
+     },
+     {
+      "number": 19,
+      "name": "NOGUER BOADA LENA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 29,
+      "name": "SITJÀ CASANOVAS POL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 70,
+      "name": "BRUGUE ALBA MARTÍ",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 99,
+      "name": "FERNÁNDEZ BOSCH FRANCESC",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "benjami-or-3-5-3",
+   "round": 3,
+   "date": "2026-10-11",
+   "time": "10:30",
+   "home": "FD Cassanenc A",
+   "away": "Hoquei Club Ripoll",
+   "score": [
+    5,
+    4
+   ],
+   "officialId": "162975",
+   "rosters": {
+    "home": [
+     {
+      "number": 22,
+      "name": "COROMINAS GRAU MAX",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 25,
+      "name": "GARCIA CRETU ELIAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 56,
+      "name": "BAYÓ MARTÍ QUIM",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 80,
+      "name": "MAURICI GODALL JAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 88,
+      "name": "MARTINEZ SÁNCHEZ MARTIN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 1,
+      "name": "BORRALLO LÓPEZ MATEO",
+      "goals": 5,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 26,
+      "name": "VIGO GARCIAS UNAI",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 28,
+      "name": "VILALTA COMA PAU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 41,
+      "name": "FERRER CODONY BERNAT",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 47,
+      "name": "COLL SERRAT ÈRIC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 57,
+      "name": "ROTA CANADELL BERNAT",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 10,
+      "name": "FARRÉS GALLIFA JAN",
+      "goals": 4,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "benjami-or-3-7-4",
+   "round": 3,
+   "date": "2026-10-11",
+   "time": "11:30",
+   "home": "SHUM Megoca A",
+   "away": "CH Figueres",
+   "score": [
+    4,
+    6
+   ],
+   "officialId": "162977",
+   "rosters": {
+    "home": [
+     {
+      "number": 17,
+      "name": "SERRANO GARCIA LUCA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 62,
+      "name": "GALLEGO GARCÍA ARÀN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 63,
+      "name": "MESA NARANJO IVAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 67,
+      "name": "GABRIEL POROJAN ADRIAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 69,
+      "name": "PEREZ FLORES DEREK",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 60,
+      "name": "FUENTES DARNES JAN",
+      "goals": 4,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 14,
+      "name": "SAYÓ SANCHEZ PAU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 16,
+      "name": "COLLELL PAIRÓ ROC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 17,
+      "name": "BOSCH ALBERT ARNAU",
+      "goals": 6,
+      "keeper": false
+     },
+     {
+      "number": 18,
+      "name": "VIDAL BARET CESC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 19,
+      "name": "MARTÍNEZ BARET ÁLEX",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 48,
+      "name": "VIEIRA DE OLIVEIRA RHAVI THOMAZ",
+      "goals": 0,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "benjami-or-3-2-1",
+   "round": 3,
+   "date": "2026-10-11",
+   "time": "13:45",
+   "home": "CH Olot B",
+   "away": "CH Palafrugell A",
+   "score": [
+    12,
+    2
+   ],
+   "officialId": "162974",
+   "rosters": {
+    "home": [
+     {
+      "number": 10,
+      "name": "GONZALEZ GARCIA JIN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 18,
+      "name": "VERGÉS RIERA ANIOL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 22,
+      "name": "RUBIÓ BATISTA ORIOL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 24,
+      "name": "RUBIÓ BATISTA GRAU",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 30,
+      "name": "FERNÁNDEZ BELSA FERRAN",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 57,
+      "name": "RÀFOLS FREIXES MARCEL",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 1,
+      "name": "JIMÉNEZ RAMON URIEL",
+      "goals": 12,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 3,
+      "name": "BARRERA GIFRE LLIBERT",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 4,
+      "name": "SÀNCHEZ FIGUERAS ROGER",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 6,
+      "name": "FERRER BORRELL PERE",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 7,
+      "name": "HEREDIA GONZÁLEZ LUCAS",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 8,
+      "name": "TUTUSAUS HERNÁNDEZ ROC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 43,
+      "name": "VILÀ BERMUDO ELM",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 2,
+      "name": "MINGUEZ DE LA HORRA BRUNO",
+      "goals": 2,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "benjami-or-4-6-1",
+   "round": 4,
+   "date": "2026-10-16",
+   "time": "19:00",
+   "home": "Farners",
+   "away": "CH Palafrugell A",
+   "score": [
+    11,
+    4
+   ],
+   "officialId": "162981",
+   "rosters": {
+    "home": [
+     {
+      "number": 63,
+      "name": "BOVE FERRER BERNAT",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 67,
+      "name": "NEGRE ABUIN LLUC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 68,
+      "name": "ROSA GENE BIEL",
+      "goals": 11,
+      "keeper": false
+     },
+     {
+      "number": 70,
+      "name": "BRUSET SOUZA ALEIX",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 71,
+      "name": "POZUELO SARRA MARTINA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 72,
+      "name": "LLADO JULIÀ BRUNA",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 79,
+      "name": "NUÑEZ AMAGUA INGRID",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 1,
+      "name": "RIELLA ROS PABLO",
+      "goals": 0,
+      "keeper": true
+     }
+    ],
+    "away": [
+     {
+      "number": 3,
+      "name": "BARRERA GIFRE LLIBERT",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 4,
+      "name": "SÀNCHEZ FIGUERAS ROGER",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 6,
+      "name": "FERRER BORRELL PERE",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 7,
+      "name": "HEREDIA GONZÁLEZ LUCAS",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 8,
+      "name": "TUTUSAUS HERNÁNDEZ ROC",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 43,
+      "name": "VILÀ BERMUDO ELM",
+      "goals": 0,
+      "keeper": false
+     },
+     {
+      "number": 2,
+      "name": "MINGUEZ DE LA HORRA BRUNO",
+      "goals": 4,
+      "keeper": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "benjami-or-4-0-3",
+   "round": 4,
+   "date": "2026-10-18",
+   "time": "16:30",
+   "home": "CH Olot A",
+   "away": "Hoquei Club Ripoll",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-4-4-2",
+   "round": 4,
+   "date": "2026-10-18",
+   "time": "17:15",
+   "home": "CH Figueres",
+   "away": "CH Olot B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-4-8-7",
+   "round": 4,
+   "date": "2026-10-31",
+   "time": "17:00",
+   "home": "Girona Club Hoquei A",
+   "away": "SHUM Megoca A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-5-2-5",
+   "round": 5,
+   "date": "2026-10-24",
+   "time": "10:00",
+   "home": "CH Olot B",
+   "away": "FD Cassanenc A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-5-3-7",
+   "round": 5,
+   "date": "2026-10-24",
+   "time": "15:45",
+   "home": "Hoquei Club Ripoll",
+   "away": "SHUM Megoca A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-5-6-8",
+   "round": 5,
+   "date": "2026-10-25",
+   "time": "11:00",
+   "home": "Farners",
+   "away": "Girona Club Hoquei A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-5-1-4",
+   "round": 5,
+   "date": "2026-10-25",
+   "time": "16:30",
+   "home": "CH Palafrugell A",
+   "away": "CH Figueres",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-6-4-0",
+   "round": 6,
+   "date": "2026-11-01",
+   "time": "11:00",
+   "home": "CH Figueres",
+   "away": "CH Olot A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-6-6-3",
+   "round": 6,
+   "date": "2026-11-01",
+   "time": "12:30",
+   "home": "Farners",
+   "away": "Hoquei Club Ripoll",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-6-7-2",
+   "round": 6,
+   "date": "2026-11-01",
+   "time": "15:30",
+   "home": "SHUM Megoca A",
+   "away": "CH Olot B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-6-5-8",
+   "round": 6,
+   "date": "2026-11-14",
+   "time": "15:30",
+   "home": "FD Cassanenc A",
+   "away": "Girona Club Hoquei A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-7-0-5",
+   "round": 7,
+   "date": "2026-11-07",
+   "time": "16:00",
+   "home": "CH Olot A",
+   "away": "FD Cassanenc A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-7-1-7",
+   "round": 7,
+   "date": "2026-11-07",
+   "time": "16:30",
+   "home": "CH Palafrugell A",
+   "away": "SHUM Megoca A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-7-3-8",
+   "round": 7,
+   "date": "2026-11-08",
+   "time": "10:45",
+   "home": "Hoquei Club Ripoll",
+   "away": "Girona Club Hoquei A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-7-2-6",
+   "round": 7,
+   "date": "2026-11-08",
+   "time": "15:00",
+   "home": "CH Olot B",
+   "away": "Farners",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-8-7-0",
+   "round": 8,
+   "date": "2026-11-14",
+   "time": "15:00",
+   "home": "SHUM Megoca A",
+   "away": "CH Olot A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-8-4-6",
+   "round": 8,
+   "date": "2026-11-14",
+   "time": "18:00",
+   "home": "CH Figueres",
+   "away": "Farners",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-8-5-1",
+   "round": 8,
+   "date": "2026-11-15",
+   "time": "14:30",
+   "home": "FD Cassanenc A",
+   "away": "CH Palafrugell A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-8-8-2",
+   "round": 8,
+   "date": "2026-11-15",
+   "time": "17:00",
+   "home": "Girona Club Hoquei A",
+   "away": "CH Olot B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-9-1-8",
+   "round": 9,
+   "date": "2026-11-21",
+   "time": "16:30",
+   "home": "CH Palafrugell A",
+   "away": "Girona Club Hoquei A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-9-3-4",
+   "round": 9,
+   "date": "2026-11-22",
+   "time": "10:00",
+   "home": "Hoquei Club Ripoll",
+   "away": "CH Figueres",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-9-0-6",
+   "round": 9,
+   "date": "2026-11-22",
+   "time": "10:00",
+   "home": "CH Olot A",
+   "away": "Farners",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-9-5-7",
+   "round": 9,
+   "date": "2026-11-22",
+   "time": "17:00",
+   "home": "FD Cassanenc A",
+   "away": "SHUM Megoca A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-10-1-0",
+   "round": 10,
+   "date": "2026-11-28",
+   "time": "16:30",
+   "home": "CH Palafrugell A",
+   "away": "CH Olot A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-10-3-2",
+   "round": 10,
+   "date": "2026-11-29",
+   "time": "10:00",
+   "home": "Hoquei Club Ripoll",
+   "away": "CH Olot B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-10-5-4",
+   "round": 10,
+   "date": "2026-11-29",
+   "time": "13:00",
+   "home": "FD Cassanenc A",
+   "away": "CH Figueres",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-10-7-6",
+   "round": 10,
+   "date": "2026-11-29",
+   "time": "17:30",
+   "home": "SHUM Megoca A",
+   "away": "Farners",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-11-3-1",
+   "round": 11,
+   "date": "2026-12-13",
+   "time": "10:00",
+   "home": "Hoquei Club Ripoll",
+   "away": "CH Palafrugell A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-11-2-0",
+   "round": 11,
+   "date": "2026-12-13",
+   "time": "11:00",
+   "home": "CH Olot B",
+   "away": "CH Olot A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-11-4-8",
+   "round": 11,
+   "date": "2026-12-13",
+   "time": "11:00",
+   "home": "CH Figueres",
+   "away": "Girona Club Hoquei A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-11-5-6",
+   "round": 11,
+   "date": "2026-12-13",
+   "time": "12:00",
+   "home": "FD Cassanenc A",
+   "away": "Farners",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-12-1-2",
+   "round": 12,
+   "date": "2026-12-19",
+   "time": "16:30",
+   "home": "CH Palafrugell A",
+   "away": "CH Olot B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-12-3-5",
+   "round": 12,
+   "date": "2026-12-20",
+   "time": "10:00",
+   "home": "Hoquei Club Ripoll",
+   "away": "FD Cassanenc A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-12-4-7",
+   "round": 12,
+   "date": "2026-12-20",
+   "time": "11:00",
+   "home": "CH Figueres",
+   "away": "SHUM Megoca A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-12-8-0",
+   "round": 12,
+   "date": "2026-12-20",
+   "time": "17:30",
+   "home": "Girona Club Hoquei A",
+   "away": "CH Olot A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-13-1-6",
+   "round": 13,
+   "date": "2027-01-09",
+   "time": "16:30",
+   "home": "CH Palafrugell A",
+   "away": "Farners",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-13-7-8",
+   "round": 13,
+   "date": "2027-01-09",
+   "time": "17:30",
+   "home": "SHUM Megoca A",
+   "away": "Girona Club Hoquei A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-13-2-4",
+   "round": 13,
+   "date": "2027-01-10",
+   "time": "11:00",
+   "home": "CH Olot B",
+   "away": "CH Figueres",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-13-3-0",
+   "round": 13,
+   "date": "2027-01-10",
+   "time": "11:30",
+   "home": "Hoquei Club Ripoll",
+   "away": "CH Olot A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-14-7-3",
+   "round": 14,
+   "date": "2027-01-16",
+   "time": "17:30",
+   "home": "SHUM Megoca A",
+   "away": "Hoquei Club Ripoll",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-14-4-1",
+   "round": 14,
+   "date": "2027-01-17",
+   "time": "11:00",
+   "home": "CH Figueres",
+   "away": "CH Palafrugell A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-14-5-2",
+   "round": 14,
+   "date": "2027-01-17",
+   "time": "12:00",
+   "home": "FD Cassanenc A",
+   "away": "CH Olot B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-14-8-6",
+   "round": 14,
+   "date": "2027-01-17",
+   "time": "12:00",
+   "home": "Girona Club Hoquei A",
+   "away": "Farners",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-15-3-6",
+   "round": 15,
+   "date": "2027-01-24",
+   "time": "10:00",
+   "home": "Hoquei Club Ripoll",
+   "away": "Farners",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-15-0-4",
+   "round": 15,
+   "date": "2027-01-24",
+   "time": "10:00",
+   "home": "CH Olot A",
+   "away": "CH Figueres",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-15-2-7",
+   "round": 15,
+   "date": "2027-01-24",
+   "time": "11:00",
+   "home": "CH Olot B",
+   "away": "SHUM Megoca A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-15-8-5",
+   "round": 15,
+   "date": "2027-01-24",
+   "time": "12:00",
+   "home": "Girona Club Hoquei A",
+   "away": "FD Cassanenc A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-16-7-1",
+   "round": 16,
+   "date": "2027-01-30",
+   "time": "17:30",
+   "home": "SHUM Megoca A",
+   "away": "CH Palafrugell A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-16-6-2",
+   "round": 16,
+   "date": "2027-01-31",
+   "time": "10:00",
+   "home": "Farners",
+   "away": "CH Olot B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-16-8-3",
+   "round": 16,
+   "date": "2027-01-31",
+   "time": "12:00",
+   "home": "Girona Club Hoquei A",
+   "away": "Hoquei Club Ripoll",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-16-5-0",
+   "round": 16,
+   "date": "2027-01-31",
+   "time": "12:00",
+   "home": "FD Cassanenc A",
+   "away": "CH Olot A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-17-1-5",
+   "round": 17,
+   "date": "2027-02-13",
+   "time": "16:30",
+   "home": "CH Palafrugell A",
+   "away": "FD Cassanenc A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-17-0-7",
+   "round": 17,
+   "date": "2027-02-14",
+   "time": "10:00",
+   "home": "CH Olot A",
+   "away": "SHUM Megoca A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-17-6-4",
+   "round": 17,
+   "date": "2027-02-14",
+   "time": "10:00",
+   "home": "Farners",
+   "away": "CH Figueres",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-17-2-8",
+   "round": 17,
+   "date": "2027-02-14",
+   "time": "11:00",
+   "home": "CH Olot B",
+   "away": "Girona Club Hoquei A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-18-7-5",
+   "round": 18,
+   "date": "2027-02-20",
+   "time": "17:30",
+   "home": "SHUM Megoca A",
+   "away": "FD Cassanenc A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-18-6-0",
+   "round": 18,
+   "date": "2027-02-21",
+   "time": "10:00",
+   "home": "Farners",
+   "away": "CH Olot A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-18-4-3",
+   "round": 18,
+   "date": "2027-02-21",
+   "time": "11:00",
+   "home": "CH Figueres",
+   "away": "Hoquei Club Ripoll",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-18-8-1",
+   "round": 18,
+   "date": "2027-02-21",
+   "time": "12:00",
+   "home": "Girona Club Hoquei A",
+   "away": "CH Palafrugell A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-19-7-6",
+   "round": 19,
+   "date": "2027-03-06",
+   "time": "17:30",
+   "home": "SHUM Megoca A",
+   "away": "Farners",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-19-0-1",
+   "round": 19,
+   "date": "2027-03-07",
+   "time": "10:00",
+   "home": "CH Olot A",
+   "away": "CH Palafrugell A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-19-2-3",
+   "round": 19,
+   "date": "2027-03-07",
+   "time": "11:00",
+   "home": "CH Olot B",
+   "away": "Hoquei Club Ripoll",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-19-4-5",
+   "round": 19,
+   "date": "2027-03-07",
+   "time": "11:00",
+   "home": "CH Figueres",
+   "away": "FD Cassanenc A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-20-1-3",
+   "round": 20,
+   "date": "2027-03-13",
+   "time": "16:30",
+   "home": "CH Palafrugell A",
+   "away": "Hoquei Club Ripoll",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-20-0-2",
+   "round": 20,
+   "date": "2027-03-14",
+   "time": "10:00",
+   "home": "CH Olot A",
+   "away": "CH Olot B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-20-6-5",
+   "round": 20,
+   "date": "2027-03-14",
+   "time": "10:00",
+   "home": "Farners",
+   "away": "FD Cassanenc A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-20-8-4",
+   "round": 20,
+   "date": "2027-03-14",
+   "time": "12:00",
+   "home": "Girona Club Hoquei A",
+   "away": "CH Figueres",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-21-7-4",
+   "round": 21,
+   "date": "2027-03-20",
+   "time": "17:30",
+   "home": "SHUM Megoca A",
+   "away": "CH Figueres",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-21-2-1",
+   "round": 21,
+   "date": "2027-03-21",
+   "time": "11:00",
+   "home": "CH Olot B",
+   "away": "CH Palafrugell A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-21-5-3",
+   "round": 21,
+   "date": "2027-03-21",
+   "time": "12:00",
+   "home": "FD Cassanenc A",
+   "away": "Hoquei Club Ripoll",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-21-8-0",
+   "round": 21,
+   "date": "2027-03-21",
+   "time": "12:00",
+   "home": "Girona Club Hoquei A",
+   "away": "CH Olot A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-22-3-0",
+   "round": 22,
+   "date": "2027-04-04",
+   "time": "10:00",
+   "home": "Hoquei Club Ripoll",
+   "away": "CH Olot A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-22-6-1",
+   "round": 22,
+   "date": "2027-04-04",
+   "time": "10:00",
+   "home": "Farners",
+   "away": "CH Palafrugell A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-22-4-2",
+   "round": 22,
+   "date": "2027-04-04",
+   "time": "11:00",
+   "home": "CH Figueres",
+   "away": "CH Olot B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-22-8-7",
+   "round": 22,
+   "date": "2027-04-04",
+   "time": "12:00",
+   "home": "Girona Club Hoquei A",
+   "away": "SHUM Megoca A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-23-1-4",
+   "round": 23,
+   "date": "2027-04-10",
+   "time": "16:30",
+   "home": "CH Palafrugell A",
+   "away": "CH Figueres",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-23-3-7",
+   "round": 23,
+   "date": "2027-04-11",
+   "time": "10:00",
+   "home": "Hoquei Club Ripoll",
+   "away": "SHUM Megoca A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-23-6-8",
+   "round": 23,
+   "date": "2027-04-11",
+   "time": "10:00",
+   "home": "Farners",
+   "away": "Girona Club Hoquei A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-23-2-5",
+   "round": 23,
+   "date": "2027-04-11",
+   "time": "11:00",
+   "home": "CH Olot B",
+   "away": "FD Cassanenc A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-24-7-2",
+   "round": 24,
+   "date": "2027-04-17",
+   "time": "17:30",
+   "home": "SHUM Megoca A",
+   "away": "CH Olot B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-24-6-3",
+   "round": 24,
+   "date": "2027-04-18",
+   "time": "10:00",
+   "home": "Farners",
+   "away": "Hoquei Club Ripoll",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-24-4-0",
+   "round": 24,
+   "date": "2027-04-18",
+   "time": "11:00",
+   "home": "CH Figueres",
+   "away": "CH Olot A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-24-5-8",
+   "round": 24,
+   "date": "2027-04-18",
+   "time": "12:00",
+   "home": "FD Cassanenc A",
+   "away": "Girona Club Hoquei A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-25-1-7",
+   "round": 25,
+   "date": "2027-04-24",
+   "time": "16:30",
+   "home": "CH Palafrugell A",
+   "away": "SHUM Megoca A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-25-3-8",
+   "round": 25,
+   "date": "2027-04-25",
+   "time": "10:00",
+   "home": "Hoquei Club Ripoll",
+   "away": "Girona Club Hoquei A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-25-0-5",
+   "round": 25,
+   "date": "2027-04-25",
+   "time": "10:00",
+   "home": "CH Olot A",
+   "away": "FD Cassanenc A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-25-2-6",
+   "round": 25,
+   "date": "2027-04-25",
+   "time": "11:00",
+   "home": "CH Olot B",
+   "away": "Farners",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-26-7-0",
+   "round": 26,
+   "date": "2027-05-08",
+   "time": "17:30",
+   "home": "SHUM Megoca A",
+   "away": "CH Olot A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-26-4-6",
+   "round": 26,
+   "date": "2027-05-09",
+   "time": "11:00",
+   "home": "CH Figueres",
+   "away": "Farners",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-26-8-2",
+   "round": 26,
+   "date": "2027-05-09",
+   "time": "12:00",
+   "home": "Girona Club Hoquei A",
+   "away": "CH Olot B",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-26-5-1",
+   "round": 26,
+   "date": "2027-05-09",
+   "time": "12:00",
+   "home": "FD Cassanenc A",
+   "away": "CH Palafrugell A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-27-1-8",
+   "round": 27,
+   "date": "2027-05-15",
+   "time": "16:30",
+   "home": "CH Palafrugell A",
+   "away": "Girona Club Hoquei A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-27-3-4",
+   "round": 27,
+   "date": "2027-05-16",
+   "time": "10:00",
+   "home": "Hoquei Club Ripoll",
+   "away": "CH Figueres",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-27-0-6",
+   "round": 27,
+   "date": "2027-05-16",
+   "time": "10:00",
+   "home": "CH Olot A",
+   "away": "Farners",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "benjami-or-27-5-7",
+   "round": 27,
+   "date": "2027-05-16",
+   "time": "12:00",
+   "home": "FD Cassanenc A",
+   "away": "SHUM Megoca A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  }
+ ],
+ "teamCoaches": {},
+ "officialNames": {
+  "CH OLOT A": "CH Olot A",
+  "CH PALAFRUGELL A": "CH Palafrugell A",
+  "CH OLOT B": "CH Olot B",
+  "HOQUEI CLUB RIPOLL": "Hoquei Club Ripoll",
+  "CH FIGUERES": "CH Figueres",
+  "FD CASSANENC A": "FD Cassanenc A",
+  "FARNERS": "Farners",
+  "SHUM MEGOCA A": "SHUM Megoca A",
+  "GIRONA CLUB HOQUEI A": "Girona Club Hoquei A"
+ }
+}
