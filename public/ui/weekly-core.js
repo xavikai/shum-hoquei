@@ -17,7 +17,7 @@ export function weeklySchedule(entries,range){
    const row=found.get(key);
    if(row){if(!row.labels.includes(team.label))row.labels.push(team.label);continue;}
    const home=m.home===own;
-   found.set(key,{...m,labels:[team.label],opponent:home?m.away:m.home,place:home?'A casa':'A fora',host:m.home,updatedAt:data.updatedAt});
+   found.set(key,{...m,labels:[team.label],opponent:home?m.away:m.home,home,place:home?'A casa':'A fora',host:m.home,updatedAt:data.updatedAt});
   }
  }
  return {rows:[...found.values()].sort((a,b)=>a.date.localeCompare(b.date)||(a.time||'99:99').localeCompare(b.time||'99:99')||a.labels[0].localeCompare(b.labels[0])),without,failed};
