@@ -44,5 +44,7 @@ async function main(){
   };
   const {changedFiles,errors}=await updateAll(fetchDoc,{provider:process.env.UPDATE_SOURCE==='rfep'?'rfep':undefined});
   console.log(`${changedFiles} equips actualitzats${errors?` · ${errors} amb errors`:''}.`);
+  // Si no ha respost cap equip, el pas ha de quedar en vermell a GitHub (abans semblava correcte).
+  if(errors&&!changedFiles)process.exitCode=1;
 }
 if(process.argv[1]&&import.meta.url===pathToFileURL(process.argv[1]).href)await main();

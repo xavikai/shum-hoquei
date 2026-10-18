@@ -1,9 +1,16 @@
 import {madridDay,shiftDay,weekRange,weeklySchedule} from './weekly-core.js';
+import {refreshTeam} from './fecapa-browser.js';
+import {markTry,readLastTry,shouldRefresh} from './live-refresh.js';
+const cacheKey=team=>team.id==='infantil-or'?'shum-league':'shum-league:'+team.id;
+function cached(team,data){try{const c=JSON.parse(localStorage.getItem(cacheKey(team)));if(c?.matches?.length&&c.team===data.team&&c.updatedAt>data.updatedAt)return {...c,teamCoaches:{...data.teamCoaches,...c.teamCoaches}};}catch{}return data;}
+// Equips amb partits jugats sense resultat: es consulten a FECAPA (3 alhora) i es desen com a còpia local.
+async function refreshStale(entries){const queue=entries.filter(e=>e.data&&shouldRefresh(e.team,e.data,{lastTry:readLastTry(e.team.id)}));let changed=false;
+ await Promise.all(Array.from({length:3},async()=>{while(queue.length){const e=queue.shift();markTry(e.team.id);try{const {data}=await refreshTeam(e.team,e.data);e.data={...data,teamCoaches:{...e.data.teamCoaches,...data.teamCoaches}};try{localStorage.setItem(cacheKey(e.team),JSON.stringify(e.data));}catch{}changed=true;}catch{}}}));return changed;}
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const date=d=>new Intl.DateTimeFormat('ca-ES',{day:'numeric',month:'short',year:'numeric',timeZone:'Europe/Madrid'}).format(new Date(d+'T12:00:00Z'));
 const day=d=>new Intl.DateTimeFormat('ca-ES',{weekday:'short',day:'2-digit',month:'2-digit',timeZone:'Europe/Madrid'}).format(new Date(d+'T12:00:00Z'));
 let start=weekRange().start,loaded;
-function loadTeams(config,asset){return Promise.all(config.teams.map(async team=>{try{const r=await fetch(asset(team.file),{cache:'no-store',signal:AbortSignal.timeout(15000)});if(!r.ok)throw Error();const data=await r.json();if(!Array.isArray(data.matches))throw Error();return {team,data};}catch{return {team,data:null};}}));}
+function loadTeams(config,asset){return Promise.all(config.teams.map(async team=>{try{const r=await fetch(asset(team.file),{cache:'no-store',signal:AbortSignal.timeout(15000)});if(!r.ok)throw Error();const data=await r.json();if(!Array.isArray(data.matches))throw Error();return {team,data:cached(team,data)};}catch{return {team,data:null};}}));}
 function wrap(ctx,text,width){const lines=[];let line='';for(const word of String(text).split(/\s+/)){const next=line?line+' '+word:word;if(line&&ctx.measureText(next).width>width){lines.push(line);line=word;}else line=next;}if(line)lines.push(line);return lines.length?lines:[''];}
 function cells(row){return [day(row.date),row.time?row.time+' h':'Pendent',row.labels.join(' / '),row.opponent,row.place+' · '+row.host,row.score?row.score.join(' – '):'—'];}
 async function poster(model,range,season){
@@ -26,10 +33,11 @@ async function poster(model,range,season){
 export function mountWeekly(root,config,{asset,active,teamIds=null}){
  const allConfig=config;
  root.innerHTML='<p role="status">Carregant els calendaris de tots els equips…</p>';
- loaded??=loadTeams(config,asset);
+ loaded??=loadTeams(config,asset).then(async entries=>{entries.refreshing=refreshStale(entries.filter(e=>e.team.id!==active.id));return entries;});
  loaded.then(entries=>{
   if(!root.isConnected||!location.hash.endsWith('setmana'))return;
   // Incorporate the current team’s newly refreshed calendar too.
+  const refreshing=entries.refreshing;entries.refreshing=null;
   entries=entries.map(e=>e.team.id===active.id?{...e,data:active.data}:e);
   if(teamIds){entries=entries.filter(e=>teamIds.includes(e.team.id));config={...config,teams:config.teams.filter(t=>teamIds.includes(t.id))};}
   const draw=()=>{
@@ -47,5 +55,6 @@ export function mountWeekly(root,config,{asset,active,teamIds=null}){
     status.textContent='Imatge preparada per copiar, compartir o descarregar.';
    }).catch(()=>{if(status.isConnected)status.textContent='No s’ha pogut preparar la imatge. Torna a obrir aquest apartat.';});
   };draw();
+  refreshing?.then(changed=>{if(changed&&root.isConnected&&location.hash.endsWith('setmana'))mountWeekly(root,allConfig,{asset,active,teamIds});});
  });
 }

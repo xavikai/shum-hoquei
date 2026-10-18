@@ -5,6 +5,7 @@ import './install.js';
 import {videoSource} from './video-core.js';
 import {rankingMatches} from './ranking-scope.js';
 import {fetchCompetition,readCompetitionCache,refreshTeam} from './fecapa-browser.js';
+import {markTry,readLastTry,shouldRefresh} from './live-refresh.js';
 import {shortGroup} from './fecapa.js';
 import {fillConceded} from './official-rosters.js';
 import {rankingsMarkup} from './rankings.js';
@@ -51,7 +52,9 @@ function teamPicker(){const sel=$('#team-select');let list=favorites?.teams||con
 if(!list.some(t=>t.id===team.id))list=[team,...list];
 const sections=[...new Set(list.map(t=>t.section))];sel.innerHTML=sections.map(sec=>`<optgroup label="${esc(sec)}">${list.filter(t=>t.section===sec).map(t=>`<option value="${esc(t.id)}" ${t.id===team.id?'selected':''}>${esc(t.label)}</option>`).join('')}</optgroup>`).join('');sel.onchange=()=>pickTeam(sel.value);}
 function applyTeamLabels(){$('#refresh').textContent=team.provider==='rfep'?'↻ Recarrega RFEP':'↻ Actualitza FECAPA';const category=team.label.split(' · ')[0];$('#brand-category').textContent=category.toUpperCase();$('#pill-label').textContent=team.label;$('#pill-group').textContent=team.group||'';$('#footer-label').textContent=`SHUM · ${league.league} · ${config.season}`;document.title=`SHUM · ${team.label}`;for(const v of ['golejadors','porters','targetes']){const b=document.querySelector(`nav [data-view="${v}"]`);if(b)b.hidden=!team.rankings||(v==='golejadors'&&!team.playerGoals);}}
-$('#refresh').addEventListener('click',async()=>{const b=$('#refresh');b.disabled=true;try{tell(team.provider==='rfep'?'Carregant l’última actualització RFEP publicada…':'Consultant el calendari oficial de FECAPA…');const {data,failed}=await refreshTeam(team,league);league={...data,teamCoaches:{...league.teamCoaches,...data.teamCoaches}};try{localStorage.setItem(storageKey('shum-league'),JSON.stringify(league));}catch{}render();tell('Calendari actualitzat des de '+(team.provider==='rfep'?'RFEP':'FECAPA')+'.'+(failed?` No s’han pogut importar ${failed} actes; es conserven les ja disponibles.`:''));}catch(e){tell('No s’ha pogut actualitzar: '+e.message+' Es manté la còpia publicada.');}finally{b.disabled=false;}});
+async function refreshNow(silent=false){const b=$('#refresh');if(b.disabled)return;b.disabled=true;markTry(team.id);try{if(!silent)tell(team.provider==='rfep'?'Carregant l’última actualització RFEP publicada…':'Consultant el calendari oficial de FECAPA…');else tell('Hi ha partits jugats sense resultat: consultant FECAPA…');const {data,failed}=await refreshTeam(team,league);league={...data,teamCoaches:{...league.teamCoaches,...data.teamCoaches}};try{localStorage.setItem(storageKey('shum-league'),JSON.stringify(league));}catch{}render();tell('Calendari actualitzat des de '+(team.provider==='rfep'?'RFEP':'FECAPA')+'.'+(failed?` No s’han pogut importar ${failed} actes; es conserven les ja disponibles.`:''));}catch(e){tell('No s’ha pogut actualitzar: '+e.message+' Es manté la còpia publicada.');}finally{b.disabled=false;}}
+$('#refresh').addEventListener('click',()=>refreshNow());
+
 const asset=path=>new URL('./'+path+new URL(import.meta.url).search,import.meta.url);
 try{
   config=await (await fetch(asset('teams.json'),{cache:'no-store'})).json();
@@ -64,4 +67,5 @@ try{
   favorites=initFavorites(config,team.id,(state,edited)=>{favorites=state;if(state.mode==='favorites'&&state.ids.length&&!state.ids.includes(team.id)){pickTeam(state.ids[0]);return;}teamPicker();render();},pickTeam);teamPicker();applyTeamLabels();
   try{const shared=await readVideos();for(const row of shared)if(row?.video&&league.matches.some(m=>m.id===row.match_id)){try{sharedVideos[row.match_id]=safeURL(row.video);}catch{}}}catch(e){tell('No s’han pogut consultar els vídeos compartits: '+e.message);}
   view=titles[location.hash.slice(1)]?location.hash.slice(1):'inici';render();
+  if(shouldRefresh(team,league,{lastTry:readLastTry(team.id)}))refreshNow(true);
 }catch{$('#content').textContent='No s’ha pogut carregar el calendari. Torna a obrir la pàgina.';}
