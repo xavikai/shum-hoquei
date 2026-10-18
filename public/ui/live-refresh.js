@@ -6,14 +6,14 @@ const madridStamp=ms=>{
 };
 const HOUR=36e5,DAY=24*HOUR;
 
-// Partits sense resultat que haurien d'haver acabat (inici fa més de 2 h) dins dels darrers `days` dies.
-export function pendingResults(data,{now=Date.now(),days=21}={}){
-  const until=madridStamp(now-2*HOUR),since=madridStamp(now-days*DAY);
+// Partits sense resultat que poden haver acabat (inici fa més de `afterMinutes` min) dins dels darrers `days` dies.
+export function pendingResults(data,{now=Date.now(),days=21,afterMinutes=60}={}){
+  const until=madridStamp(now-afterMinutes*60000),since=madridStamp(now-days*DAY);
   return (data?.matches||[]).filter(m=>!m.score&&m.date&&(`${m.date}T${m.time||'12:00'}`)<=until&&`${m.date}T23:59`>=since);
 }
 
 // Cal refrescar si hi ha resultats pendents i no s'ha provat en els darrers `minutes` minuts.
-export function shouldRefresh(team,data,{now=Date.now(),lastTry=0,minutes=15}={}){
+export function shouldRefresh(team,data,{now=Date.now(),lastTry=0,minutes=10}={}){
   if(!team||team.provider==='rfep')return false;
   if(lastTry&&now-lastTry<minutes*60000)return false;
   return pendingResults(data,{now}).length>0;
