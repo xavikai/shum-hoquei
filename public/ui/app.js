@@ -67,5 +67,6 @@ try{
   favorites=initFavorites(config,team.id,(state,edited)=>{favorites=state;if(state.mode==='favorites'&&state.ids.length&&!state.ids.includes(team.id)){pickTeam(state.ids[0]);return;}teamPicker();render();},pickTeam);teamPicker();applyTeamLabels();
   try{const shared=await readVideos();for(const row of shared)if(row?.video&&league.matches.some(m=>m.id===row.match_id)){try{sharedVideos[row.match_id]=safeURL(row.video);}catch{}}}catch(e){tell('No s’han pogut consultar els vídeos compartits: '+e.message);}
   view=titles[location.hash.slice(1)]?location.hash.slice(1):'inici';render();
-  if(shouldRefresh(team,league,{lastTry:readLastTry(team.id)}))refreshNow(true);
+  const liveCheck=()=>{if(document.visibilityState!=='hidden'&&shouldRefresh(team,league,{lastTry:readLastTry(team.id)}))refreshNow(true);};
+  liveCheck();setInterval(liveCheck,60000);document.addEventListener('visibilitychange',liveCheck);
 }catch{$('#content').textContent='No s’ha pogut carregar el calendari. Torna a obrir la pàgina.';}

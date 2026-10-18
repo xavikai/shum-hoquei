@@ -16,11 +16,11 @@ const data={matches:[
 test('detecta partits jugats sense resultat',()=>{
  assert.deepEqual(pendingResults(data,{now}).map(m=>m.id),['a','g','c']);
 });
-test('no repeteix la consulta abans de 10 minuts ni per a RFEP',()=>{
+test('no repeteix la consulta abans de 20 minuts ni per a RFEP',()=>{
  const team={id:'x'};
  assert.equal(shouldRefresh(team,data,{now}),true);
- assert.equal(shouldRefresh(team,data,{now,lastTry:now-5*60000}),false);
- assert.equal(shouldRefresh(team,data,{now,lastTry:now-12*60000}),true);
+ assert.equal(shouldRefresh(team,data,{now,lastTry:now-15*60000}),false);
+ assert.equal(shouldRefresh(team,data,{now,lastTry:now-25*60000}),true);
  assert.equal(shouldRefresh({id:'y',provider:'rfep'},data,{now}),false);
  assert.equal(shouldRefresh(team,{matches:data.matches.filter(m=>m.id==='d')},{now}),false);
 });

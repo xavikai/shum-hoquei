@@ -13,7 +13,7 @@ export function pendingResults(data,{now=Date.now(),days=21,afterMinutes=60}={})
 }
 
 // Cal refrescar si hi ha resultats pendents i no s'ha provat en els darrers `minutes` minuts.
-export function shouldRefresh(team,data,{now=Date.now(),lastTry=0,minutes=10}={}){
+export function shouldRefresh(team,data,{now=Date.now(),lastTry=0,minutes=20}={}){
   if(!team||team.provider==='rfep')return false;
   if(lastTry&&now-lastTry<minutes*60000)return false;
   return pendingResults(data,{now}).length>0;
