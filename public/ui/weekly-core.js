@@ -22,3 +22,17 @@ export function weeklySchedule(entries,range){
  }
  return {rows:[...found.values()].sort((a,b)=>a.date.localeCompare(b.date)||(a.time||'99:99').localeCompare(b.time||'99:99')||a.labels[0].localeCompare(b.labels[0])),without,failed};
 }
+
+// Setmana que s'ensenya per defecte a la quadrícula del club.
+// · Dilluns i dimarts, si a la setmana anterior hi ha partits jugats fa menys de 2 dies sense resultat, es manté aquella.
+// · Si tots els partits de la setmana actual ja tenen resultat (o no n'hi ha cap), es passa a la setmana de la propera jornada.
+export function defaultWeek(entries,now=new Date()){
+ const today=madridDay(now),cur=weekRange(today).start;
+ const rows=start=>weeklySchedule(entries,{start,end:shiftDay(start,6)}).rows;
+ const prev=shiftDay(cur,-7);
+ if(today<=shiftDay(cur,1)&&rows(prev).some(r=>!r.score&&r.date>=shiftDay(today,-2)))return prev;
+ const now_=rows(cur);
+ if(now_.some(r=>!r.score))return cur;
+ for(let i=1;i<=6;i++){const s=shiftDay(cur,7*i);if(rows(s).length)return s;}
+ return cur;
+}
