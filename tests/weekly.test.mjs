@@ -11,7 +11,7 @@ test('club schedule filters own matches, retains multiple games and deduplicates
  const match={id:'x',officialId:'20',date:'2026-10-17',time:'16:00',home:'SHUM A',away:'SHUM B',score:[0,0]};
  const entries=[{team:{idc:'1',label:'A'},data:{team:'SHUM A',matches:[match,{...match,id:'away',officialId:'21',date:'2026-10-18',time:'',home:'Rival',away:'SHUM A',score:null},{...match,officialId:'22',date:'2026-10-19'},{...match,officialId:'23',home:'Altres',away:'Rival'}]}},{team:{idc:'1',label:'B'},data:{team:'SHUM B',matches:[match]}},{team:{idc:'2',label:'C'},data:{team:'SHUM C',matches:[]}},{team:{idc:'3',label:'D'},data:null}];
  const s=weeklySchedule(entries,weekRange('2026-10-17'));
- assert.equal(s.rows.length,2);assert.deepEqual(s.rows[0].labels,['A','B']);assert.deepEqual(s.rows[0].score,[0,0]);assert.equal(s.rows[1].place,'A fora');assert.equal(s.rows[1].host,'Rival');assert.deepEqual(s.without,['C']);assert.deepEqual(s.failed,['D']);
+ assert.equal(s.rows.length,2);assert.deepEqual(s.rows[0].labels,['A','B']);assert.equal(s.rows[0].teamIds.length,2);assert.deepEqual(s.rows[0].score,[0,0]);assert.equal(s.rows[1].place,'A fora');assert.equal(s.rows[1].host,'Rival');assert.deepEqual(s.without,['C']);assert.deepEqual(s.failed,['D']);
 });
 import {defaultWeek} from '../public/ui/weekly-core.js';
 test('la quadrícula passa a la propera jornada quan la setmana ja té tots els resultats',()=>{
