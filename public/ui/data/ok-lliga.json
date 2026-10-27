@@ -2,7 +2,7 @@
  "league": "OK Lliga · Lliga regular",
  "season": "2026/27",
  "source": "https://www.hockeypatines.fep.es/league/3568",
- "updatedAt": "2026-10-26T20:26:44.687Z",
+ "updatedAt": "2026-10-27T22:07:43.515Z",
  "team": "SHUM Frit Ravich",
  "teams": [
   "Reus Deportiu Brasilia",
@@ -235,7 +235,7 @@
    "id": "ok-lliga-3-3-13",
    "round": 3,
    "date": "2026-11-14",
-   "time": "19:00",
+   "time": "17:00",
    "home": "Adiss Hockey Rivas",
    "away": "Igualada Rigat HC",
    "score": null,
@@ -274,20 +274,6 @@
    }
   },
   {
-   "id": "ok-lliga-3-12-11",
-   "round": 3,
-   "date": "2026-11-18",
-   "time": "20:00",
-   "home": "Barça",
-   "away": "Ametller Origen CP Vilafranca",
-   "score": null,
-   "officialId": null,
-   "rosters": {
-    "home": [],
-    "away": []
-   }
-  },
-  {
    "id": "ok-lliga-3-10-5",
    "round": 3,
    "date": "2026-11-18",
@@ -308,6 +294,20 @@
    "time": "21:00",
    "home": "CP Voltrega Movento Stern",
    "away": "Calafell la Menorquina",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "ok-lliga-3-12-11",
+   "round": 3,
+   "date": "2026-12-13",
+   "time": "12:00",
+   "home": "Barça",
+   "away": "Ametller Origen CP Vilafranca",
    "score": null,
    "officialId": null,
    "rosters": {
@@ -512,6 +512,20 @@
    }
   },
   {
+   "id": "ok-lliga-6-8-10",
+   "round": 6,
+   "date": "2026-12-01",
+   "time": "21:00",
+   "home": "CP Voltrega Movento Stern",
+   "away": "Pons Lleida",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
    "id": "ok-lliga-6-1-12",
    "round": 6,
    "date": "2026-12-02",
@@ -588,20 +602,6 @@
    "time": "21:00",
    "home": "CE Noia Freixenet",
    "away": "CH Caldes Recam Làser",
-   "score": null,
-   "officialId": null,
-   "rosters": {
-    "home": [],
-    "away": []
-   }
-  },
-  {
-   "id": "ok-lliga-6-8-10",
-   "round": 6,
-   "date": "2026-12-02",
-   "time": "21:00",
-   "home": "CP Voltrega Movento Stern",
-   "away": "Pons Lleida",
    "score": null,
    "officialId": null,
    "rosters": {
