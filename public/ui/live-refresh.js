@@ -1,4 +1,4 @@
-// Decideix quan cal consultar FECAPA des del navegador: hi ha partits que ja s'han jugat
+// Decideix quan cal consultar FECAPA (o RFEP) des del navegador: hi ha partits que ja s'han jugat
 // però el calendari publicat encara no en té el resultat.
 const madridStamp=ms=>{
   const p=Object.fromEntries(new Intl.DateTimeFormat('en-CA',{timeZone:'Europe/Madrid',year:'numeric',month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit',hourCycle:'h23'}).formatToParts(new Date(ms)).map(x=>[x.type,x.value]));
@@ -14,7 +14,7 @@ export function pendingResults(data,{now=Date.now(),days=21,afterMinutes=60}={})
 
 // Cal refrescar si hi ha resultats pendents i no s'ha provat en els darrers `minutes` minuts.
 export function shouldRefresh(team,data,{now=Date.now(),lastTry=0,minutes=20}={}){
-  if(!team||team.provider==='rfep')return false;
+  if(!team)return false;
   if(lastTry&&now-lastTry<minutes*60000)return false;
   return pendingResults(data,{now}).length>0;
 }
