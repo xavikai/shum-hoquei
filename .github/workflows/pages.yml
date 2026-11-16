@@ -34,7 +34,6 @@ jobs:
       - name: Actualitza les dades de FECAPA i RFEP de tots els equips
         id: fecapa
         if: github.event_name != 'push'
-        continue-on-error: true
         env:
           UPDATE_SOURCE: ${{ inputs.source || 'all' }}
         run: |

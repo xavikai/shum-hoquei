@@ -2,7 +2,7 @@
  "league": "Infantil Or · Grup 8",
  "season": "2026/27",
  "source": "https://www.hoqueipatins.fecapa.cat/league/4786",
- "updatedAt": "2026-10-17T17:00:00.000Z",
+ "updatedAt": "2026-11-16T22:18:38.768Z",
  "team": "SHUM Frit Ravich",
  "teams": [
   "SHUM Frit Ravich",
@@ -2046,8 +2046,11 @@
    "time": "12:45",
    "home": "CH Mataró A",
    "away": "PHC Sant Cugat B",
-   "score": null,
-   "officialId": null,
+   "score": [
+    5,
+    1
+   ],
+   "officialId": "152263",
    "rosters": {
     "home": [],
     "away": []
@@ -2060,8 +2063,11 @@
    "time": "15:15",
    "home": "HC Sant Just A",
    "away": "Cerdanyola CCH B",
-   "score": null,
-   "officialId": null,
+   "score": [
+    3,
+    4
+   ],
+   "officialId": "152264",
    "rosters": {
     "home": [],
     "away": []
@@ -2074,8 +2080,11 @@
    "time": "19:00",
    "home": "SHUM Frit Ravich",
    "away": "CP Voltregà C",
-   "score": null,
-   "officialId": null,
+   "score": [
+    4,
+    1
+   ],
+   "officialId": "152265",
    "rosters": {
     "home": [],
     "away": []
@@ -2088,8 +2097,11 @@
    "time": "15:45",
    "home": "CP Cubelles A",
    "away": "CH Mataró A",
-   "score": null,
-   "officialId": null,
+   "score": [
+    6,
+    1
+   ],
+   "officialId": "152266",
    "rosters": {
     "home": [],
     "away": []
@@ -2102,8 +2114,11 @@
    "time": "10:00",
    "home": "CH Mataró A",
    "away": "SHUM Frit Ravich",
-   "score": null,
-   "officialId": null,
+   "score": [
+    5,
+    0
+   ],
+   "officialId": "152270",
    "rosters": {
     "home": [],
     "away": []
@@ -2116,8 +2131,11 @@
    "time": "17:30",
    "home": "CP Voltregà C",
    "away": "HC Sant Just A",
-   "score": null,
-   "officialId": null,
+   "score": [
+    4,
+    4
+   ],
+   "officialId": "152269",
    "rosters": {
     "home": [],
     "away": []
@@ -2130,8 +2148,11 @@
    "time": "17:45",
    "home": "PHC Sant Cugat B",
    "away": "CP Cubelles A",
-   "score": null,
-   "officialId": null,
+   "score": [
+    2,
+    4
+   ],
+   "officialId": "152271",
    "rosters": {
     "home": [],
     "away": []
@@ -2144,8 +2165,11 @@
    "time": "16:30",
    "home": "Cerdanyola CCH B",
    "away": "CP Voltregà C",
-   "score": null,
-   "officialId": null,
+   "score": [
+    9,
+    2
+   ],
+   "officialId": "152272",
    "rosters": {
     "home": [],
     "away": []
@@ -2158,8 +2182,11 @@
    "time": "17:45",
    "home": "SHUM Frit Ravich",
    "away": "PHC Sant Cugat B",
-   "score": null,
-   "officialId": null,
+   "score": [
+    0,
+    3
+   ],
+   "officialId": "152274",
    "rosters": {
     "home": [],
     "away": []
@@ -2172,8 +2199,11 @@
    "time": "16:30",
    "home": "CH Mataró A",
    "away": "HC Sant Just A",
-   "score": null,
-   "officialId": null,
+   "score": [
+    9,
+    2
+   ],
+   "officialId": "152301",
    "rosters": {
     "home": [],
     "away": []
@@ -2186,8 +2216,11 @@
    "time": "13:30",
    "home": "Cerdanyola CCH B",
    "away": "CH Mataró A",
-   "score": null,
-   "officialId": null,
+   "score": [
+    1,
+    2
+   ],
+   "officialId": "152278",
    "rosters": {
     "home": [],
     "away": []
@@ -2200,8 +2233,11 @@
    "time": "15:15",
    "home": "HC Sant Just A",
    "away": "PHC Sant Cugat B",
-   "score": null,
-   "officialId": null,
+   "score": [
+    1,
+    6
+   ],
+   "officialId": "152277",
    "rosters": {
     "home": [],
     "away": []
@@ -2214,8 +2250,11 @@
    "time": "16:15",
    "home": "SHUM Frit Ravich",
    "away": "CP Cubelles A",
-   "score": null,
-   "officialId": null,
+   "score": [
+    0,
+    6
+   ],
+   "officialId": "152276",
    "rosters": {
     "home": [],
     "away": []
@@ -2224,7 +2263,7 @@
   {
    "id": "9-2-3",
    "round": 9,
-   "date": "2026-11-21",
+   "date": "2026-11-22",
    "time": "10:00",
    "home": "CH Mataró A",
    "away": "CP Voltregà C",
@@ -2253,7 +2292,7 @@
    "id": "9-4-1",
    "round": 9,
    "date": "2026-11-22",
-   "time": "16:15",
+   "time": "13:45",
    "home": "PHC Sant Cugat B",
    "away": "Cerdanyola CCH B",
    "score": null,
@@ -2278,20 +2317,6 @@
    }
   },
   {
-   "id": "10-1-6",
-   "round": 10,
-   "date": "2026-11-28",
-   "time": "15:00",
-   "home": "Cerdanyola CCH B",
-   "away": "CP Cubelles A",
-   "score": null,
-   "officialId": null,
-   "rosters": {
-    "home": [],
-    "away": []
-   }
-  },
-  {
    "id": "10-5-0",
    "round": 10,
    "date": "2026-11-28",
@@ -2306,10 +2331,24 @@
    }
   },
   {
+   "id": "10-1-6",
+   "round": 10,
+   "date": "2026-11-28",
+   "time": "16:30",
+   "home": "Cerdanyola CCH B",
+   "away": "CP Cubelles A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
    "id": "11-4-2",
    "round": 11,
    "date": "2026-12-05",
-   "time": "13:55",
+   "time": "10:00",
    "home": "PHC Sant Cugat B",
    "away": "CH Mataró A",
    "score": null,
@@ -2348,24 +2387,10 @@
    }
   },
   {
-   "id": "12-2-6",
-   "round": 12,
-   "date": "2026-12-12",
-   "time": "10:00",
-   "home": "CH Mataró A",
-   "away": "CP Cubelles A",
-   "score": null,
-   "officialId": null,
-   "rosters": {
-    "home": [],
-    "away": []
-   }
-  },
-  {
    "id": "12-3-0",
    "round": 12,
    "date": "2026-12-12",
-   "time": "12:30",
+   "time": "10:00",
    "home": "CP Voltregà C",
    "away": "SHUM Frit Ravich",
    "score": null,
@@ -2379,7 +2404,7 @@
    "id": "12-1-5",
    "round": 12,
    "date": "2026-12-12",
-   "time": "15:00",
+   "time": "17:40",
    "home": "Cerdanyola CCH B",
    "away": "HC Sant Just A",
    "score": null,
@@ -2390,12 +2415,12 @@
    }
   },
   {
-   "id": "13-5-3",
-   "round": 13,
-   "date": "2026-12-19",
-   "time": "10:00",
-   "home": "HC Sant Just A",
-   "away": "CP Voltregà C",
+   "id": "12-2-6",
+   "round": 12,
+   "date": "2026-12-13",
+   "time": "11:00",
+   "home": "CH Mataró A",
+   "away": "CP Cubelles A",
    "score": null,
    "officialId": null,
    "rosters": {
@@ -2407,9 +2432,23 @@
    "id": "13-0-2",
    "round": 13,
    "date": "2026-12-19",
-   "time": "20:00",
+   "time": "16:30",
    "home": "SHUM Frit Ravich",
    "away": "CH Mataró A",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "13-5-3",
+   "round": 13,
+   "date": "2026-12-19",
+   "time": "17:30",
+   "home": "HC Sant Just A",
+   "away": "CP Voltregà C",
    "score": null,
    "officialId": null,
    "rosters": {
@@ -2424,20 +2463,6 @@
    "time": "11:15",
    "home": "CP Cubelles A",
    "away": "PHC Sant Cugat B",
-   "score": null,
-   "officialId": null,
-   "rosters": {
-    "home": [],
-    "away": []
-   }
-  },
-  {
-   "id": "14-5-2",
-   "round": 14,
-   "date": "2027-01-09",
-   "time": "10:00",
-   "home": "HC Sant Just A",
-   "away": "CH Mataró A",
    "score": null,
    "officialId": null,
    "rosters": {
@@ -2466,6 +2491,20 @@
    "time": "13:55",
    "home": "PHC Sant Cugat B",
    "away": "SHUM Frit Ravich",
+   "score": null,
+   "officialId": null,
+   "rosters": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "id": "14-5-2",
+   "round": 14,
+   "date": "2027-01-10",
+   "time": "15:45",
+   "home": "HC Sant Just A",
+   "away": "CH Mataró A",
    "score": null,
    "officialId": null,
    "rosters": {
