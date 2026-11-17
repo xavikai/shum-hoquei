@@ -37,10 +37,11 @@ jobs:
             const file='public/ui/'+team.file;
             const data=await read(file);
             const fixtures=await fetchHub(team.hubGroup);
-            const played=data.matches.find(m=>m.score&&
-              (m.home===data.team||m.away===data.team)&&
-              mergeHubCalendar({...data,matches:[{...m,score:null}]},fixtures,{now:Date.now(),aliases:team.hubAliases})
-                .data.matches[0].score?.join('-')===m.score.join('-'));
+            const own=m=>m.home===data.team||m.away===data.team;
+            const withoutOwnScores={...data,matches:data.matches.map(m=>own(m)?{...m,score:null}:m)};
+            const restored=mergeHubCalendar(withoutOwnScores,fixtures,{now:Date.now(),aliases:team.hubAliases}).data;
+            const played=data.matches.find((m,index)=>m.score&&own(m)&&
+              restored.matches[index].score?.join('-')===m.score.join('-'));
             assert.ok(played,team.id);
             expected.push({file,id:played.id,score:played.score,team:team.id});
             played.score=null;
