@@ -11,19 +11,34 @@ jobs:
   probe:
     runs-on: ubuntu-latest
     steps:
-      - name: Prova les rutes públiques
-        shell: bash
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm install --no-save --no-package-lock linkedom@0.18.12
+      - name: Prova el client de producció per a tots els grups
         run: |
-          probe () {
-            local url="$1"
-            shift
-            local marker
-            marker=$(curl --silent --show-error --max-time 15 -D "$RUNNER_TEMP/shum-headers" -o "$RUNNER_TEMP/shum-response" -w '%{http_code}' "$@" "$url")
-            echo "$url: HTTP $marker"
-            grep -iE '^(server|cf-ray|cf-mitigated|content-type|retry-after|location|x-block-reason):' "$RUNNER_TEMP/shum-headers" || true
-            if [ "$marker" -ge 400 ]; then head -c 800 "$RUNNER_TEMP/shum-response"; echo; fi
+          node --input-type=module <<'NODE'
+          import fs from 'node:fs';
+          import {DOMParser} from 'linkedom';
+          import {parseHubCalendar} from './scripts/hoqueihub.mjs';
+          const config=JSON.parse(fs.readFileSync('public/ui/teams.json','utf8'));
+          const headers={'User-Agent':'SHUM Hoquei (+https://xavikai.github.io/shum-hoquei/)','Accept':'text/html'};
+          const groups=new Map();
+          let checked=0;
+          for (const team of config.teams) {
+            if(!groups.has(team.hubGroup)){
+              const url=new URL(team.hubGroup,'https://hoqueihub.cat/');
+              const response=await fetch(url,{headers,signal:AbortSignal.timeout(15000)});
+              console.log(url.pathname,response.status,response.headers.get('cf-mitigated')||'');
+              let matches=0;
+              if(response.ok)matches=parseHubCalendar(new DOMParser().parseFromString(await response.text(),'text/html')).length;
+              groups.set(team.hubGroup,matches);
+            }
+            const count=groups.get(team.hubGroup);
+            if(count)checked++;
+            console.log(team.id,count);
           }
-          probe https://hoqueihub.cat/robots.txt
-          probe https://hoqueihub.cat/legal
-          probe https://hoqueihub.cat/group/7081-infantil-or-8-temporada-2026-27
-          probe https://hoqueihub.cat/group/7039-grup-unic-temporada-2026-27 -A 'SHUM Hoquei (+https://xavikai.github.io/shum-hoquei/)' -H 'Accept: text/html'
+          console.log(checked+'/'+config.teams.length+' equips consultats');
+          if(checked!==config.teams.length)process.exitCode=1;
+          NODE
