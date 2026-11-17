@@ -1,66 +1,29 @@
-name: Web a GitHub Pages
+name: Diagnòstic de connexió a HoqueiHub
 on:
-  push:
-    branches: [main]
   workflow_dispatch:
     inputs:
       source:
-        description: Fonts que cal actualitzar
-        type: choice
+        type: string
         default: all
-        options: [all, rfep]
-  schedule:
-    - cron: '7 */3 * * *'
-    - cron: '37 8-22 * * 0,6'
 permissions:
-  contents: write
-  pages: write
-  id-token: write
-concurrency:
-  group: pages
-  cancel-in-progress: false
+  contents: read
 jobs:
-  deploy:
+  probe:
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
-        with:
-          node-version: '22'
-      - run: npm install --no-save --no-package-lock linkedom@0.18.12
-      - name: Actualitza les dades de FECAPA i RFEP de tots els equips
-        id: fecapa
-        if: github.event_name != 'push'
-        env:
-          UPDATE_SOURCE: ${{ inputs.source || 'all' }}
+      - name: Prova les rutes públiques
+        shell: bash
         run: |
-          node scripts/update-teams.mjs
-          if [ -z "$(git status --porcelain -- public/ui)" ]; then echo "changed=false" >> "$GITHUB_OUTPUT"; else echo "changed=true" >> "$GITHUB_OUTPUT"; fi
-      - run: node --test tests/*.test.mjs
-      - name: Desa les dades noves al repositori
-        if: steps.fecapa.outputs.changed == 'true'
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add public/ui
-          git commit -m "Actualitza dades de FECAPA i RFEP"
-          git push
-      - name: Comprova si cal publicar
-        id: publish
-        run: |
-          if [ "${{ github.event_name }}" = "schedule" ] && [ "${{ steps.fecapa.outputs.changed }}" != "true" ]; then echo "run=false" >> "$GITHUB_OUTPUT"; else echo "run=true" >> "$GITHUB_OUTPUT"; fi
-      - if: steps.publish.outputs.run == 'true'
-        run: node scripts/build-pages.mjs
-      - if: steps.publish.outputs.run == 'true'
-        uses: actions/configure-pages@v5
-      - if: steps.publish.outputs.run == 'true'
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: pages-dist
-      - name: Publica
-        if: steps.publish.outputs.run == 'true'
-        id: deployment
-        uses: actions/deploy-pages@v4
+          probe () {
+            local url="$1"
+            shift
+            local marker
+            marker=$(curl --silent --show-error --max-time 15 -D "$RUNNER_TEMP/shum-headers" -o "$RUNNER_TEMP/shum-response" -w '%{http_code}' "$@" "$url")
+            echo "$url: HTTP $marker"
+            grep -iE '^(server|cf-ray|cf-mitigated|content-type|retry-after|location|x-block-reason):' "$RUNNER_TEMP/shum-headers" || true
+            if [ "$marker" -ge 400 ]; then head -c 800 "$RUNNER_TEMP/shum-response"; echo; fi
+          }
+          probe https://hoqueihub.cat/robots.txt
+          probe https://hoqueihub.cat/legal
+          probe https://hoqueihub.cat/group/7081-infantil-or-8-temporada-2026-27
+          probe https://hoqueihub.cat/group/7039-grup-unic-temporada-2026-27 -A 'SHUM Hoquei (+https://xavikai.github.io/shum-hoquei/)' -H 'Accept: text/html'
