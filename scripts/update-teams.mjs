@@ -1,6 +1,7 @@
 // Actualitza calendaris i actes de FECAPA i RFEP, amb HoqueiHub com a font alternativa per als partits.
 // L'executa la tasca programada de GitHub (.github/workflows/pages.yml). També es pot executar a mà:
 //   npm install --no-save linkedom@0.18.12 && node scripts/update-teams.mjs
+// La consulta a HoqueiHub requereix curl al PATH.
 // Si un equip falla (FECAPA no respon, canvia el format...), aquell equip conserva l'última còpia bona.
 import {readFile,writeFile,mkdir} from 'node:fs/promises';
 import {pathToFileURL} from 'node:url';
