@@ -16,33 +16,44 @@ jobs:
         with:
           node-version: '22'
       - run: npm install --no-save --no-package-lock linkedom@0.18.12
-      - name: Prova el client de producció per a tots els grups
+      - name: Recupera un marcador conegut per a cada equip en una còpia de prova
         run: |
           node --input-type=module <<'NODE'
-          import fs from 'node:fs';
-          import {execFileSync} from 'node:child_process';
+          import assert from 'node:assert/strict';
+          import {readFile, writeFile} from 'node:fs/promises';
           import {DOMParser} from 'linkedom';
-          import {parseHubCalendar} from './scripts/hoqueihub.mjs';
-          const config=JSON.parse(fs.readFileSync('public/ui/teams.json','utf8'));
-          const headers={'User-Agent':'SHUM Hoquei (+https://xavikai.github.io/shum-hoquei/)','Accept':'text/html'};
-          const groups=new Map();
-          let checked=0;
-          for (const team of config.teams) {
-            if(!groups.has(team.hubGroup)){
-              const url=new URL(team.hubGroup,'https://hoqueihub.cat/');
-              const response=await fetch(url,{headers,signal:AbortSignal.timeout(15000)});
-              const html=execFileSync('curl',['--disable','--silent','--show-error','--max-time','15','--user-agent',headers['User-Agent'],'--header','Accept: text/html','--write-out','\n%{http_code}',url.href],{encoding:'utf8',maxBuffer:4*1024*1024});
-              const split=html.lastIndexOf('\n');
-              console.log('curl',url.pathname,html.slice(split+1));
-              console.log(url.pathname,response.status,response.headers.get('cf-mitigated')||'');
-              let matches=0;
-              if(html.slice(split+1)==='200')matches=parseHubCalendar(new DOMParser().parseFromString(html.slice(0,split),'text/html')).length;
-              groups.set(team.hubGroup,matches);
-            }
-            const count=groups.get(team.hubGroup);
-            if(count)checked++;
-            console.log(team.id,count);
+          import {fetchHubCalendar, mergeHubCalendar} from './scripts/hoqueihub.mjs';
+          import {updateAll} from './scripts/update-teams.mjs';
+
+          const read=async path=>JSON.parse(await readFile(path,'utf8'));
+          const config=await read('public/ui/teams.json');
+          const calendars=new Map();
+          const fetchHub=path=>{
+            if(!calendars.has(path))calendars.set(path,fetchHubCalendar(path,DOMParser));
+            return calendars.get(path);
+          };
+          const expected=[];
+          for(const team of config.teams){
+            const file='public/ui/'+team.file;
+            const data=await read(file);
+            const fixtures=await fetchHub(team.hubGroup);
+            const played=data.matches.find(m=>m.score&&
+              (m.home===data.team||m.away===data.team)&&
+              mergeHubCalendar({...data,matches:[{...m,score:null}]},fixtures,{now:Date.now(),aliases:team.hubAliases})
+                .data.matches[0].score?.join('-')===m.score.join('-'));
+            assert.ok(played,team.id);
+            expected.push({file,id:played.id,score:played.score,team:team.id});
+            played.score=null;
+            await writeFile(file,JSON.stringify(data));
           }
-          console.log(checked+'/'+config.teams.length+' equips consultats');
-          if(checked!==config.teams.length)process.exitCode=1;
+          const sync=await updateAll(async()=>{throw Error('Font federativa desconnectada a la prova');},{fetchHub});
+          assert.equal(sync.checked,18);
+          assert.equal(sync.changedFiles,18);
+          assert.equal(sync.errors,0);
+          for(const item of expected){
+            const data=await read(item.file);
+            assert.deepEqual(data.matches.find(m=>m.id===item.id).score,item.score,item.team);
+            console.log(item.team+' · marcador recuperat '+item.score.join('-'));
+          }
+          console.log('18/18 marcadors comprovats.');
           NODE
