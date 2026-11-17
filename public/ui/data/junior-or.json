@@ -2,7 +2,7 @@
  "league": "Júnior Or · Grup 3",
  "season": "2026/27",
  "source": "https://www.hoqueipatins.fecapa.cat/league/4782",
- "updatedAt": "2026-10-17T17:00:00.000Z",
+ "updatedAt": "2026-11-17T06:53:56.447Z",
  "team": "SHUM Alea",
  "teams": [
   "Vicio PHC Sant Cugat B",
@@ -2081,26 +2081,34 @@
    "time": "18:30",
    "home": "Igualada HC B",
    "away": "Reus Deportiu A A",
-   "score": null,
+   "score": [
+    2,
+    4
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "junior-or-4-3-5",
    "round": 4,
-   "date": "2026-10-18",
-   "time": "12:00",
+   "date": "2026-11-05",
+   "time": "21:00",
    "home": "CPI Espanyol",
    "away": "Generali HC Palau",
-   "score": null,
+   "score": [
+    4,
+    3
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "junior-or-5-5-6",
@@ -2109,12 +2117,16 @@
    "time": "11:15",
    "home": "Generali HC Palau",
    "away": "Igualada HC B",
-   "score": null,
+   "score": [
+    2,
+    6
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "junior-or-5-4-2",
@@ -2123,26 +2135,34 @@
    "time": "17:45",
    "home": "Reus Deportiu A A",
    "away": "Club Patí Monjos",
-   "score": null,
+   "score": [
+    16,
+    0
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "junior-or-5-0-3",
    "round": 5,
    "date": "2026-10-25",
-   "time": "19:00",
+   "time": "17:30",
    "home": "Vicio PHC Sant Cugat B",
    "away": "CPI Espanyol",
-   "score": null,
+   "score": [
+    2,
+    7
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "junior-or-6-2-5",
@@ -2151,12 +2171,16 @@
    "time": "12:00",
    "home": "Club Patí Monjos",
    "away": "Generali HC Palau",
-   "score": null,
+   "score": [
+    3,
+    3
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "junior-or-6-6-0",
@@ -2165,12 +2189,16 @@
    "time": "17:30",
    "home": "Igualada HC B",
    "away": "Vicio PHC Sant Cugat B",
-   "score": null,
+   "score": [
+    9,
+    1
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "junior-or-6-1-4",
@@ -2179,12 +2207,16 @@
    "time": "18:30",
    "home": "SHUM Alea",
    "away": "Reus Deportiu A A",
-   "score": null,
+   "score": [
+    2,
+    5
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "junior-or-7-0-2",
@@ -2193,12 +2225,16 @@
    "time": "20:45",
    "home": "Vicio PHC Sant Cugat B",
    "away": "Club Patí Monjos",
-   "score": null,
+   "score": [
+    5,
+    7
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "junior-or-7-5-1",
@@ -2207,17 +2243,21 @@
    "time": "19:45",
    "home": "Generali HC Palau",
    "away": "SHUM Alea",
-   "score": null,
+   "score": [
+    2,
+    3
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "junior-or-7-3-6",
    "round": 7,
-   "date": "2026-11-08",
+   "date": "2027-01-10",
    "time": "12:00",
    "home": "CPI Espanyol",
    "away": "Igualada HC B",
@@ -2235,12 +2275,16 @@
    "time": "12:00",
    "home": "CPI Espanyol",
    "away": "Club Patí Monjos",
-   "score": null,
+   "score": [
+    6,
+    7
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "junior-or-8-5-4",
@@ -2249,12 +2293,16 @@
    "time": "17:30",
    "home": "Generali HC Palau",
    "away": "Reus Deportiu A A",
-   "score": null,
+   "score": [
+    0,
+    9
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "junior-or-8-1-0",
@@ -2263,18 +2311,22 @@
    "time": "18:00",
    "home": "SHUM Alea",
    "away": "Vicio PHC Sant Cugat B",
-   "score": null,
+   "score": [
+    7,
+    1
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "junior-or-9-4-0",
    "round": 9,
    "date": "2026-11-21",
-   "time": "11:45",
+   "time": "10:00",
    "home": "Reus Deportiu A A",
    "away": "Vicio PHC Sant Cugat B",
    "score": null,
@@ -2302,7 +2354,7 @@
    "id": "junior-or-9-1-3",
    "round": 9,
    "date": "2026-11-22",
-   "time": "18:30",
+   "time": "11:30",
    "home": "SHUM Alea",
    "away": "CPI Espanyol",
    "score": null,
@@ -2315,8 +2367,8 @@
   {
    "id": "junior-or-10-0-5",
    "round": 10,
-   "date": "2026-11-28",
-   "time": "13:55",
+   "date": "2026-11-29",
+   "time": "18:30",
    "home": "Vicio PHC Sant Cugat B",
    "away": "Generali HC Palau",
    "score": null,
@@ -2344,7 +2396,7 @@
    "id": "junior-or-10-6-1",
    "round": 10,
    "date": "2026-11-29",
-   "time": "19:00",
+   "time": "15:15",
    "home": "Igualada HC B",
    "away": "SHUM Alea",
    "score": null,
@@ -2357,8 +2409,8 @@
   {
    "id": "junior-or-11-4-6",
    "round": 11,
-   "date": "2026-12-05",
-   "time": "11:45",
+   "date": "2026-12-06",
+   "time": "18:45",
    "home": "Reus Deportiu A A",
    "away": "Igualada HC B",
    "score": null,
@@ -2371,8 +2423,8 @@
   {
    "id": "junior-or-11-5-3",
    "round": 11,
-   "date": "2026-12-06",
-   "time": "12:30",
+   "date": "2026-11-20",
+   "time": "21:55",
    "home": "Generali HC Palau",
    "away": "CPI Espanyol",
    "score": null,
@@ -2399,8 +2451,8 @@
   {
    "id": "junior-or-12-2-4",
    "round": 12,
-   "date": "2026-12-12",
-   "time": "15:00",
+   "date": "2026-12-13",
+   "time": "10:30",
    "home": "Club Patí Monjos",
    "away": "Reus Deportiu A A",
    "score": null,
@@ -2428,7 +2480,7 @@
    "id": "junior-or-12-6-5",
    "round": 12,
    "date": "2026-12-13",
-   "time": "19:00",
+   "time": "13:30",
    "home": "Igualada HC B",
    "away": "Generali HC Palau",
    "score": null,
@@ -2455,8 +2507,8 @@
   {
    "id": "junior-or-13-0-6",
    "round": 13,
-   "date": "2026-12-19",
-   "time": "13:55",
+   "date": "2026-12-20",
+   "time": "19:00",
    "home": "Vicio PHC Sant Cugat B",
    "away": "Igualada HC B",
    "score": null,
@@ -2469,8 +2521,8 @@
   {
    "id": "junior-or-13-5-2",
    "round": 13,
-   "date": "2026-12-20",
-   "time": "12:30",
+   "date": "2026-12-19",
+   "time": "13:45",
    "home": "Generali HC Palau",
    "away": "Club Patí Monjos",
    "score": null,
@@ -2511,16 +2563,20 @@
   {
    "id": "junior-or-14-6-3",
    "round": 14,
-   "date": "2027-01-10",
-   "time": "19:00",
+   "date": "2026-11-06",
+   "time": "21:35",
    "home": "Igualada HC B",
    "away": "CPI Espanyol",
-   "score": null,
+   "score": [
+    11,
+    2
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   }
  ],
  "teamCoaches": {},
@@ -2532,5 +2588,6 @@
   "REUS DEPORTIU A A": "Reus Deportiu A A",
   "GENERALI HC PALAU": "Generali HC Palau",
   "IGUALADA HC B": "Igualada HC B"
- }
+ },
+ "calendarSource": "HoqueiHub"
 }

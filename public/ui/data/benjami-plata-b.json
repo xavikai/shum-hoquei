@@ -2,7 +2,7 @@
  "league": "Benjamí Plata · Selvafil B · Grup B",
  "season": "2026/27",
  "source": "https://www.hoqueipatins.fecapa.cat/league/4823",
- "updatedAt": "2026-10-17T17:00:00.000Z",
+ "updatedAt": "2026-11-17T06:53:56.447Z",
  "team": "SHUM Selvafil B",
  "teams": [
   "Oxford HC Salt A",
@@ -2285,12 +2285,16 @@
    "time": "10:00",
    "home": "CP Blanes",
    "away": "CH Lloret Cafès Cornellà A",
-   "score": null,
+   "score": [
+    8,
+    3
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "benjami-plata-b-5-5-1",
@@ -2299,12 +2303,16 @@
    "time": "15:00",
    "home": "SHUM Selvafil B",
    "away": "CH Olot D",
-   "score": null,
+   "score": [
+    6,
+    2
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "benjami-plata-b-5-0-2",
@@ -2313,12 +2321,16 @@
    "time": "15:45",
    "home": "Oxford HC Salt A",
    "away": "CP Jonquerenc",
-   "score": null,
+   "score": [
+    11,
+    1
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "benjami-plata-b-5-4-6",
@@ -2327,26 +2339,34 @@
    "time": "10:30",
    "home": "CP Caldes E",
    "away": "CH Palafrugell D",
-   "score": null,
+   "score": [
+    11,
+    1
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "benjami-plata-b-6-0-7",
    "round": 6,
    "date": "2026-11-07",
-   "time": "15:00",
+   "time": "17:30",
    "home": "Oxford HC Salt A",
    "away": "CH Lloret Cafès Cornellà A",
-   "score": null,
+   "score": [
+    2,
+    3
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "benjami-plata-b-6-2-4",
@@ -2355,12 +2375,16 @@
    "time": "15:45",
    "home": "CP Jonquerenc",
    "away": "CP Caldes E",
-   "score": null,
+   "score": [
+    1,
+    11
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "benjami-plata-b-6-1-3",
@@ -2369,12 +2393,16 @@
    "time": "17:00",
    "home": "CH Olot D",
    "away": "CP Blanes",
-   "score": null,
+   "score": [
+    3,
+    8
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "benjami-plata-b-6-6-5",
@@ -2383,12 +2411,16 @@
    "time": "11:30",
    "home": "CH Palafrugell D",
    "away": "SHUM Selvafil B",
-   "score": null,
+   "score": [
+    10,
+    0
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "benjami-plata-b-7-3-6",
@@ -2397,12 +2429,16 @@
    "time": "10:00",
    "home": "CP Blanes",
    "away": "CH Palafrugell D",
-   "score": null,
+   "score": [
+    4,
+    5
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "benjami-plata-b-7-7-1",
@@ -2411,12 +2447,16 @@
    "time": "16:30",
    "home": "CH Lloret Cafès Cornellà A",
    "away": "CH Olot D",
-   "score": null,
+   "score": [
+    3,
+    1
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "benjami-plata-b-7-4-0",
@@ -2425,12 +2465,16 @@
    "time": "10:00",
    "home": "CP Caldes E",
    "away": "Oxford HC Salt A",
-   "score": null,
+   "score": [
+    5,
+    1
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "benjami-plata-b-7-5-2",
@@ -2439,17 +2483,21 @@
    "time": "16:15",
    "home": "SHUM Selvafil B",
    "away": "CP Jonquerenc",
-   "score": null,
+   "score": [
+    11,
+    2
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "benjami-plata-b-8-5-4",
    "round": 8,
-   "date": "2026-11-21",
+   "date": "2026-11-22",
    "time": "15:00",
    "home": "SHUM Selvafil B",
    "away": "CP Caldes E",
@@ -2463,8 +2511,8 @@
   {
    "id": "benjami-plata-b-8-1-0",
    "round": 8,
-   "date": "2026-11-22",
-   "time": "11:00",
+   "date": "2026-11-21",
+   "time": "18:00",
    "home": "CH Olot D",
    "away": "Oxford HC Salt A",
    "score": null,
@@ -2477,8 +2525,8 @@
   {
    "id": "benjami-plata-b-8-3-2",
    "round": 8,
-   "date": "2026-11-22",
-   "time": "11:15",
+   "date": "2026-11-21",
+   "time": "10:15",
    "home": "CP Blanes",
    "away": "CP Jonquerenc",
    "score": null,
@@ -2506,7 +2554,7 @@
    "id": "benjami-plata-b-9-5-0",
    "round": 9,
    "date": "2026-11-28",
-   "time": "15:00",
+   "time": "15:30",
    "home": "SHUM Selvafil B",
    "away": "Oxford HC Salt A",
    "score": null,
@@ -2520,7 +2568,7 @@
    "id": "benjami-plata-b-9-2-7",
    "round": 9,
    "date": "2026-11-28",
-   "time": "16:00",
+   "time": "17:30",
    "home": "CP Jonquerenc",
    "away": "CH Lloret Cafès Cornellà A",
    "score": null,
@@ -2533,8 +2581,8 @@
   {
    "id": "benjami-plata-b-9-4-3",
    "round": 9,
-   "date": "2026-11-29",
-   "time": "12:00",
+   "date": "2026-11-28",
+   "time": "15:15",
    "home": "CP Caldes E",
    "away": "CP Blanes",
    "score": null,
@@ -2547,7 +2595,7 @@
   {
    "id": "benjami-plata-b-9-6-1",
    "round": 9,
-   "date": "2026-11-29",
+   "date": "2026-11-28",
    "time": "15:00",
    "home": "CH Palafrugell D",
    "away": "CH Olot D",
@@ -2561,8 +2609,8 @@
   {
    "id": "benjami-plata-b-10-1-2",
    "round": 10,
-   "date": "2026-12-13",
-   "time": "11:00",
+   "date": "2026-12-12",
+   "time": "16:30",
    "home": "CH Olot D",
    "away": "CP Jonquerenc",
    "score": null,
@@ -2576,7 +2624,7 @@
    "id": "benjami-plata-b-10-7-4",
    "round": 10,
    "date": "2026-12-13",
-   "time": "12:30",
+   "time": "09:30",
    "home": "CH Lloret Cafès Cornellà A",
    "away": "CP Caldes E",
    "score": null,
@@ -2589,7 +2637,7 @@
   {
    "id": "benjami-plata-b-10-5-3",
    "round": 10,
-   "date": "2026-12-13",
+   "date": "2026-12-12",
    "time": "15:00",
    "home": "SHUM Selvafil B",
    "away": "CP Blanes",
@@ -2603,8 +2651,8 @@
   {
    "id": "benjami-plata-b-10-6-0",
    "round": 10,
-   "date": "2026-12-13",
-   "time": "15:00",
+   "date": "2026-12-12",
+   "time": "16:30",
    "home": "CH Palafrugell D",
    "away": "Oxford HC Salt A",
    "score": null,
@@ -2621,12 +2669,16 @@
    "time": "18:50",
    "home": "CP Caldes E",
    "away": "CH Olot D",
-   "score": null,
+   "score": [
+    10,
+    1
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "benjami-plata-b-11-6-2",
@@ -2645,8 +2697,8 @@
   {
    "id": "benjami-plata-b-11-5-7",
    "round": 11,
-   "date": "2026-12-19",
-   "time": "15:00",
+   "date": "2026-12-20",
+   "time": "15:45",
    "home": "SHUM Selvafil B",
    "away": "CH Lloret Cafès Cornellà A",
    "score": null,
@@ -2849,5 +2901,6 @@
   "SHUM SELVAFIL B": "SHUM Selvafil B",
   "CH PALAFRUGELL D": "CH Palafrugell D",
   "CH LLORET CAFÈS CORNELLÀ A": "CH Lloret Cafès Cornellà A"
- }
+ },
+ "calendarSource": "HoqueiHub"
 }

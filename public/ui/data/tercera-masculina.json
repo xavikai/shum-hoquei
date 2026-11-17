@@ -2,7 +2,7 @@
  "league": "Tercera Catalana Masculina · Grup D",
  "season": "2026/27",
  "source": "https://www.hoqueipatins.fecapa.cat/league/4781",
- "updatedAt": "2026-10-17T17:00:00.000Z",
+ "updatedAt": "2026-11-17T06:53:56.447Z",
  "team": "SHUM Alea",
  "teams": [
   "CP Caldes C",
@@ -796,12 +796,16 @@
    "time": "21:15",
    "home": "Cham Maristes-Sagrerenc",
    "away": "GEIEG",
-   "score": null,
+   "score": [
+    2,
+    7
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "tercera-masculina-2-3-8",
@@ -810,12 +814,16 @@
    "time": "21:30",
    "home": "Club Patí Malgrat Grup Escobar",
    "away": "CP Blanes",
-   "score": null,
+   "score": [
+    9,
+    1
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "tercera-masculina-2-2-5",
@@ -824,12 +832,16 @@
    "time": "12:00",
    "home": "Club Patí Breda B",
    "away": "CP Jonquerenc",
-   "score": null,
+   "score": [
+    5,
+    6
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "tercera-masculina-2-10-11",
@@ -838,12 +850,16 @@
    "time": "17:30",
    "home": "CH Figueres",
    "away": "SHUM Alea",
-   "score": null,
+   "score": [
+    5,
+    2
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "tercera-masculina-3-1-7",
@@ -1783,26 +1799,34 @@
    "time": "18:00",
    "home": "CP Jonquerenc",
    "away": "GEIEG",
-   "score": null,
+   "score": [
+    3,
+    5
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "tercera-masculina-4-3-0",
    "round": 4,
-   "date": "2026-10-17",
-   "time": "19:45",
+   "date": "2026-11-08",
+   "time": "11:45",
    "home": "Club Patí Malgrat Grup Escobar",
    "away": "CP Caldes C",
-   "score": null,
+   "score": [
+    4,
+    4
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "tercera-masculina-4-1-9",
@@ -1811,12 +1835,16 @@
    "time": "20:50",
    "home": "Girona Club Hoquei B",
    "away": "Cham Maristes-Sagrerenc",
-   "score": null,
+   "score": [
+    9,
+    1
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "tercera-masculina-4-11-2",
@@ -1825,12 +1853,16 @@
    "time": "14:00",
    "home": "SHUM Alea",
    "away": "Club Patí Breda B",
-   "score": null,
+   "score": [
+    13,
+    1
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "tercera-masculina-4-10-4",
@@ -1839,12 +1871,16 @@
    "time": "19:45",
    "home": "CH Figueres",
    "away": "Oxford HC Salt",
-   "score": null,
+   "score": [
+    1,
+    3
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "tercera-masculina-5-0-5",
@@ -1853,12 +1889,16 @@
    "time": "19:00",
    "home": "CP Caldes C",
    "away": "CP Jonquerenc",
-   "score": null,
+   "score": [
+    3,
+    3
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "tercera-masculina-5-7-9",
@@ -1867,12 +1907,16 @@
    "time": "20:50",
    "home": "CE Arenys de Munt",
    "away": "Cham Maristes-Sagrerenc",
-   "score": null,
+   "score": [
+    4,
+    2
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "tercera-masculina-5-1-3",
@@ -1881,12 +1925,16 @@
    "time": "12:30",
    "home": "Girona Club Hoquei B",
    "away": "Club Patí Malgrat Grup Escobar",
-   "score": null,
+   "score": [
+    4,
+    3
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "tercera-masculina-5-8-11",
@@ -1895,12 +1943,16 @@
    "time": "12:30",
    "home": "CP Blanes",
    "away": "SHUM Alea",
-   "score": null,
+   "score": [
+    2,
+    5
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "tercera-masculina-5-2-10",
@@ -1909,26 +1961,34 @@
    "time": "18:30",
    "home": "Club Patí Breda B",
    "away": "CH Figueres",
-   "score": null,
+   "score": [
+    1,
+    10
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "tercera-masculina-6-4-2",
    "round": 6,
-   "date": "2026-10-31",
-   "time": "16:45",
+   "date": "2026-11-14",
+   "time": "20:00",
    "home": "Oxford HC Salt",
    "away": "Club Patí Breda B",
-   "score": null,
+   "score": [
+    9,
+    2
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "tercera-masculina-6-11-6",
@@ -1937,12 +1997,16 @@
    "time": "18:45",
    "home": "SHUM Alea",
    "away": "GEIEG",
-   "score": null,
+   "score": [
+    3,
+    2
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "tercera-masculina-6-3-7",
@@ -1951,12 +2015,16 @@
    "time": "12:15",
    "home": "Club Patí Malgrat Grup Escobar",
    "away": "CE Arenys de Munt",
-   "score": null,
+   "score": [
+    3,
+    4
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "tercera-masculina-6-5-1",
@@ -1965,12 +2033,16 @@
    "time": "18:15",
    "home": "CP Jonquerenc",
    "away": "Girona Club Hoquei B",
-   "score": null,
+   "score": [
+    2,
+    2
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "tercera-masculina-6-10-8",
@@ -1979,12 +2051,16 @@
    "time": "18:45",
    "home": "CH Figueres",
    "away": "CP Blanes",
-   "score": null,
+   "score": [
+    7,
+    4
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "tercera-masculina-7-8-4",
@@ -1993,26 +2069,34 @@
    "time": "21:30",
    "home": "CP Blanes",
    "away": "Oxford HC Salt",
-   "score": null,
+   "score": [
+    3,
+    3
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "tercera-masculina-7-7-5",
    "round": 7,
    "date": "2026-11-14",
-   "time": "18:45",
+   "time": "18:30",
    "home": "CE Arenys de Munt",
    "away": "CP Jonquerenc",
-   "score": null,
+   "score": [
+    6,
+    0
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "tercera-masculina-7-0-11",
@@ -2021,12 +2105,16 @@
    "time": "18:45",
    "home": "CP Caldes C",
    "away": "SHUM Alea",
-   "score": null,
+   "score": [
+    2,
+    8
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "tercera-masculina-7-6-10",
@@ -2035,26 +2123,34 @@
    "time": "19:00",
    "home": "GEIEG",
    "away": "CH Figueres",
-   "score": null,
+   "score": [
+    4,
+    1
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "tercera-masculina-7-9-3",
    "round": 7,
-   "date": "2026-11-15",
-   "time": "12:15",
+   "date": "2026-11-07",
+   "time": "18:30",
    "home": "Cham Maristes-Sagrerenc",
    "away": "Club Patí Malgrat Grup Escobar",
-   "score": null,
+   "score": [
+    1,
+    7
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "tercera-masculina-8-2-8",
@@ -2074,7 +2170,7 @@
    "id": "tercera-masculina-8-4-6",
    "round": 8,
    "date": "2026-11-21",
-   "time": "16:45",
+   "time": "20:00",
    "home": "Oxford HC Salt",
    "away": "GEIEG",
    "score": null,
@@ -2087,8 +2183,8 @@
   {
    "id": "tercera-masculina-8-5-9",
    "round": 8,
-   "date": "2026-11-21",
-   "time": "18:15",
+   "date": "2026-11-22",
+   "time": "12:00",
    "home": "CP Jonquerenc",
    "away": "Cham Maristes-Sagrerenc",
    "score": null,
@@ -2102,7 +2198,7 @@
    "id": "tercera-masculina-8-10-0",
    "round": 8,
    "date": "2026-11-22",
-   "time": "18:00",
+   "time": "19:30",
    "home": "CH Figueres",
    "away": "CP Caldes C",
    "score": null,
@@ -2116,7 +2212,7 @@
    "id": "tercera-masculina-8-11-1",
    "round": 8,
    "date": "2026-11-22",
-   "time": "19:30",
+   "time": "16:15",
    "home": "SHUM Alea",
    "away": "Girona Club Hoquei B",
    "score": null,
@@ -2143,8 +2239,8 @@
   {
    "id": "tercera-masculina-9-6-2",
    "round": 9,
-   "date": "2026-11-28",
-   "time": "19:30",
+   "date": "2026-11-29",
+   "time": "12:30",
    "home": "GEIEG",
    "away": "Club Patí Breda B",
    "score": null,
@@ -2158,7 +2254,7 @@
    "id": "tercera-masculina-9-0-4",
    "round": 9,
    "date": "2026-11-28",
-   "time": "19:45",
+   "time": "19:00",
    "home": "CP Caldes C",
    "away": "Oxford HC Salt",
    "score": null,
@@ -2171,8 +2267,8 @@
   {
    "id": "tercera-masculina-9-3-5",
    "round": 9,
-   "date": "2026-11-29",
-   "time": "12:00",
+   "date": "2026-11-28",
+   "time": "19:30",
    "home": "Club Patí Malgrat Grup Escobar",
    "away": "CP Jonquerenc",
    "score": null,
@@ -2185,8 +2281,8 @@
   {
    "id": "tercera-masculina-9-7-11",
    "round": 9,
-   "date": "2026-11-29",
-   "time": "15:00",
+   "date": "2026-11-28",
+   "time": "18:15",
    "home": "CE Arenys de Munt",
    "away": "SHUM Alea",
    "score": null,
@@ -2200,7 +2296,7 @@
    "id": "tercera-masculina-10-4-1",
    "round": 10,
    "date": "2026-12-12",
-   "time": "16:45",
+   "time": "18:45",
    "home": "Oxford HC Salt",
    "away": "Girona Club Hoquei B",
    "score": null,
@@ -2256,7 +2352,7 @@
    "id": "tercera-masculina-10-11-9",
    "round": 10,
    "date": "2026-12-13",
-   "time": "19:30",
+   "time": "12:30",
    "home": "SHUM Alea",
    "away": "Cham Maristes-Sagrerenc",
    "score": null,
@@ -3429,5 +3525,6 @@
   "CHAM MARISTES-SAGRERENC": "Cham Maristes-Sagrerenc",
   "CH FIGUERES": "CH Figueres",
   "SHUM ALEA": "SHUM Alea"
- }
+ },
+ "calendarSource": "HoqueiHub"
 }

@@ -2,7 +2,7 @@
  "league": "Aleví Plata · Frit Ravich B · Grup 1",
  "season": "2026/27",
  "source": "https://www.hoqueipatins.fecapa.cat/league/4790",
- "updatedAt": "2026-10-17T17:00:00.000Z",
+ "updatedAt": "2026-11-17T06:53:56.447Z",
  "team": "SHUM Frit Ravich B",
  "teams": [
   "CP Montesquiu",
@@ -1787,12 +1787,16 @@
    "time": "16:45",
    "home": "SHUM Frit Ravich B",
    "away": "CH Olot B",
-   "score": null,
+   "score": [
+    13,
+    5
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "alevi-plata-b-3-0-3",
@@ -2641,15 +2645,19 @@
    "id": "alevi-plata-b-3-10-7",
    "round": 3,
    "date": "2026-10-23",
-   "time": "20:30",
+   "time": "19:00",
    "home": "Martinelia Manlleu C",
    "away": "Auto Vigatana Patí Vic C",
-   "score": null,
+   "score": [
+    4,
+    1
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "alevi-plata-b-4-12-6",
@@ -3339,12 +3347,16 @@
    "time": "12:00",
    "home": "Auto Vigatana Patí Vic C",
    "away": "CP Montesquiu",
-   "score": null,
+   "score": [
+    1,
+    3
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "alevi-plata-b-4-4-8",
@@ -3353,12 +3365,16 @@
    "time": "17:45",
    "home": "CP Folgueroles B",
    "away": "Club Hoquei Cadí",
-   "score": null,
+   "score": [
+    2,
+    0
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "alevi-plata-b-5-6-4",
@@ -3367,12 +3383,16 @@
    "time": "10:00",
    "home": "CH Olot B",
    "away": "CP Folgueroles B",
-   "score": null,
+   "score": [
+    2,
+    8
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "alevi-plata-b-5-0-9",
@@ -3381,12 +3401,16 @@
    "time": "12:30",
    "home": "CP Montesquiu",
    "away": "SHUM Frit Ravich B",
-   "score": null,
+   "score": [
+    3,
+    5
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "alevi-plata-b-5-2-12",
@@ -3395,12 +3419,16 @@
    "time": "15:15",
    "home": "AHC Andorra B",
    "away": "CH Palafrugell C",
-   "score": null,
+   "score": [
+    7,
+    1
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "alevi-plata-b-5-1-7",
@@ -3409,12 +3437,16 @@
    "time": "17:30",
    "home": "CP Taradell",
    "away": "Auto Vigatana Patí Vic C",
-   "score": null,
+   "score": [
+    9,
+    3
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "alevi-plata-b-5-11-3",
@@ -3423,12 +3455,16 @@
    "time": "11:00",
    "home": "Hoquei Club Ripoll B",
    "away": "Club Patí Roda B",
-   "score": null,
+   "score": [
+    10,
+    0
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "alevi-plata-b-5-10-5",
@@ -3437,12 +3473,16 @@
    "time": "16:00",
    "home": "Martinelia Manlleu C",
    "away": "Hoquei Patins Tona",
-   "score": null,
+   "score": [
+    12,
+    2
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "alevi-plata-b-6-7-11",
@@ -3451,12 +3491,16 @@
    "time": "14:30",
    "home": "Auto Vigatana Patí Vic C",
    "away": "Hoquei Club Ripoll B",
-   "score": null,
+   "score": [
+    2,
+    8
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "alevi-plata-b-6-5-0",
@@ -3465,12 +3509,16 @@
    "time": "15:30",
    "home": "Hoquei Patins Tona",
    "away": "CP Montesquiu",
-   "score": null,
+   "score": [
+    3,
+    1
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "alevi-plata-b-6-4-2",
@@ -3479,12 +3527,16 @@
    "time": "16:00",
    "home": "CP Folgueroles B",
    "away": "AHC Andorra B",
-   "score": null,
+   "score": [
+    9,
+    0
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "alevi-plata-b-6-8-6",
@@ -3493,12 +3545,16 @@
    "time": "12:30",
    "home": "Club Hoquei Cadí",
    "away": "CH Olot B",
-   "score": null,
+   "score": [
+    6,
+    4
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "alevi-plata-b-6-12-10",
@@ -3507,12 +3563,16 @@
    "time": "16:15",
    "home": "CH Palafrugell C",
    "away": "Martinelia Manlleu C",
-   "score": null,
+   "score": [
+    1,
+    10
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "alevi-plata-b-6-9-1",
@@ -3521,12 +3581,16 @@
    "time": "17:00",
    "home": "SHUM Frit Ravich B",
    "away": "CP Taradell",
-   "score": null,
+   "score": [
+    3,
+    4
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "alevi-plata-b-7-0-12",
@@ -3535,12 +3599,16 @@
    "time": "12:30",
    "home": "CP Montesquiu",
    "away": "CH Palafrugell C",
-   "score": null,
+   "score": [
+    7,
+    4
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "alevi-plata-b-7-2-8",
@@ -3549,12 +3617,16 @@
    "time": "16:30",
    "home": "AHC Andorra B",
    "away": "Club Hoquei Cadí",
-   "score": null,
+   "score": [
+    1,
+    7
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "alevi-plata-b-7-3-7",
@@ -3563,26 +3635,34 @@
    "time": "16:45",
    "home": "Club Patí Roda B",
    "away": "Auto Vigatana Patí Vic C",
-   "score": null,
+   "score": [
+    1,
+    9
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "alevi-plata-b-7-1-5",
    "round": 7,
    "date": "2026-11-07",
-   "time": "17:30",
+   "time": "13:00",
    "home": "CP Taradell",
    "away": "Hoquei Patins Tona",
-   "score": null,
+   "score": [
+    10,
+    0
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "alevi-plata-b-7-11-9",
@@ -3591,12 +3671,16 @@
    "time": "13:15",
    "home": "Hoquei Club Ripoll B",
    "away": "SHUM Frit Ravich B",
-   "score": null,
+   "score": [
+    5,
+    5
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "alevi-plata-b-7-10-4",
@@ -3605,12 +3689,16 @@
    "time": "17:15",
    "home": "Martinelia Manlleu C",
    "away": "CP Folgueroles B",
-   "score": null,
+   "score": [
+    2,
+    2
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "alevi-plata-b-8-5-11",
@@ -3619,12 +3707,16 @@
    "time": "16:45",
    "home": "Hoquei Patins Tona",
    "away": "Hoquei Club Ripoll B",
-   "score": null,
+   "score": [
+    1,
+    11
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "alevi-plata-b-8-8-10",
@@ -3633,12 +3725,16 @@
    "time": "17:30",
    "home": "Club Hoquei Cadí",
    "away": "Martinelia Manlleu C",
-   "score": null,
+   "score": [
+    2,
+    3
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "alevi-plata-b-8-6-2",
@@ -3647,12 +3743,16 @@
    "time": "17:55",
    "home": "CH Olot B",
    "away": "AHC Andorra B",
-   "score": null,
+   "score": [
+    3,
+    1
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "alevi-plata-b-8-9-3",
@@ -3661,12 +3761,16 @@
    "time": "11:15",
    "home": "SHUM Frit Ravich B",
    "away": "Club Patí Roda B",
-   "score": null,
+   "score": [
+    11,
+    1
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "alevi-plata-b-8-12-1",
@@ -3675,26 +3779,34 @@
    "time": "12:45",
    "home": "CH Palafrugell C",
    "away": "CP Taradell",
-   "score": null,
+   "score": [
+    1,
+    11
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "alevi-plata-b-8-4-0",
    "round": 8,
-   "date": "2026-11-15",
-   "time": "14:45",
+   "date": "2026-11-13",
+   "time": "18:45",
    "home": "CP Folgueroles B",
    "away": "CP Montesquiu",
-   "score": null,
+   "score": [
+    8,
+    0
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "alevi-plata-b-9-0-8",
@@ -3714,7 +3826,7 @@
    "id": "alevi-plata-b-9-7-9",
    "round": 9,
    "date": "2026-11-21",
-   "time": "15:00",
+   "time": "13:00",
    "home": "Auto Vigatana Patí Vic C",
    "away": "SHUM Frit Ravich B",
    "score": null,
@@ -3728,7 +3840,7 @@
    "id": "alevi-plata-b-9-3-5",
    "round": 9,
    "date": "2026-11-21",
-   "time": "16:15",
+   "time": "17:45",
    "home": "Club Patí Roda B",
    "away": "Hoquei Patins Tona",
    "score": null,
@@ -3742,7 +3854,7 @@
    "id": "alevi-plata-b-9-11-12",
    "round": 9,
    "date": "2026-11-21",
-   "time": "17:45",
+   "time": "15:05",
    "home": "Hoquei Club Ripoll B",
    "away": "CH Palafrugell C",
    "score": null,
@@ -3756,7 +3868,7 @@
    "id": "alevi-plata-b-9-1-4",
    "round": 9,
    "date": "2026-11-21",
-   "time": "19:00",
+   "time": "15:30",
    "home": "CP Taradell",
    "away": "CP Folgueroles B",
    "score": null,
@@ -3770,7 +3882,7 @@
    "id": "alevi-plata-b-9-10-6",
    "round": 9,
    "date": "2026-11-22",
-   "time": "12:30",
+   "time": "16:30",
    "home": "Martinelia Manlleu C",
    "away": "CH Olot B",
    "score": null,
@@ -3783,8 +3895,8 @@
   {
    "id": "alevi-plata-b-10-12-3",
    "round": 10,
-   "date": "2026-11-28",
-   "time": "15:00",
+   "date": "2026-11-29",
+   "time": "16:30",
    "home": "CH Palafrugell C",
    "away": "Club Patí Roda B",
    "score": null,
@@ -3798,7 +3910,7 @@
    "id": "alevi-plata-b-10-2-10",
    "round": 10,
    "date": "2026-11-28",
-   "time": "15:15",
+   "time": "18:00",
    "home": "AHC Andorra B",
    "away": "Martinelia Manlleu C",
    "score": null,
@@ -3840,7 +3952,7 @@
    "id": "alevi-plata-b-10-6-0",
    "round": 10,
    "date": "2026-11-29",
-   "time": "10:00",
+   "time": "11:15",
    "home": "CH Olot B",
    "away": "CP Montesquiu",
    "score": null,
@@ -3853,8 +3965,8 @@
   {
    "id": "alevi-plata-b-10-4-11",
    "round": 10,
-   "date": "2026-11-29",
-   "time": "17:15",
+   "date": "2026-11-28",
+   "time": "18:30",
    "home": "CP Folgueroles B",
    "away": "Hoquei Club Ripoll B",
    "score": null,
@@ -3881,8 +3993,8 @@
   {
    "id": "alevi-plata-b-11-7-12",
    "round": 11,
-   "date": "2026-12-12",
-   "time": "15:00",
+   "date": "2026-12-13",
+   "time": "12:00",
    "home": "Auto Vigatana Patí Vic C",
    "away": "CH Palafrugell C",
    "score": null,
@@ -3896,7 +4008,7 @@
    "id": "alevi-plata-b-11-3-4",
    "round": 11,
    "date": "2026-12-12",
-   "time": "16:15",
+   "time": "16:30",
    "home": "Club Patí Roda B",
    "away": "CP Folgueroles B",
    "score": null,
@@ -3910,7 +4022,7 @@
    "id": "alevi-plata-b-11-1-6",
    "round": 11,
    "date": "2026-12-12",
-   "time": "17:30",
+   "time": "15:00",
    "home": "CP Taradell",
    "away": "CH Olot B",
    "score": null,
@@ -3923,8 +4035,8 @@
   {
    "id": "alevi-plata-b-11-11-8",
    "round": 11,
-   "date": "2026-12-12",
-   "time": "17:45",
+   "date": "2026-12-13",
+   "time": "11:00",
    "home": "Hoquei Club Ripoll B",
    "away": "Club Hoquei Cadí",
    "score": null,
@@ -3937,8 +4049,8 @@
   {
    "id": "alevi-plata-b-11-9-5",
    "round": 11,
-   "date": "2026-12-12",
-   "time": "18:45",
+   "date": "2026-12-13",
+   "time": "11:15",
    "home": "SHUM Frit Ravich B",
    "away": "Hoquei Patins Tona",
    "score": null,
@@ -4022,7 +4134,7 @@
    "id": "alevi-plata-b-12-4-7",
    "round": 12,
    "date": "2026-12-20",
-   "time": "17:15",
+   "time": "16:15",
    "home": "CP Folgueroles B",
    "away": "Auto Vigatana Patí Vic C",
    "score": null,
@@ -4132,5 +4244,6 @@
   "MARTINELIA MANLLEU C": "Martinelia Manlleu C",
   "HOQUEI CLUB RIPOLL B": "Hoquei Club Ripoll B",
   "CH PALAFRUGELL C": "CH Palafrugell C"
- }
+ },
+ "calendarSource": "HoqueiHub"
 }

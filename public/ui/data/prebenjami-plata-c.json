@@ -2,7 +2,7 @@
  "league": "Prebenjamí Plata · Grues Viñolas C · Grup únic",
  "season": "2026/27",
  "source": "https://www.hoqueipatins.fecapa.cat/league/4825",
- "updatedAt": "2026-10-17T17:00:00.000Z",
+ "updatedAt": "2026-11-17T06:53:56.447Z",
  "team": "SHUM Grues Viñolas C",
  "teams": [
   "CH Lloret Cafès Cornellà A",
@@ -978,8 +978,8 @@
   {
    "id": "prebenjami-plata-c-2-9-6",
    "round": 2,
-   "date": "2026-10-04",
-   "time": "10:00",
+   "date": "2026-07-31",
+   "time": "15:00",
    "home": "CP Caldes C",
    "away": "Pètals D’Art Fdcassanenc B",
    "score": null,
@@ -992,16 +992,20 @@
   {
    "id": "prebenjami-plata-c-2-3-4",
    "round": 2,
-   "date": "2026-10-04",
-   "time": "10:00",
+   "date": "2026-11-07",
+   "time": "18:00",
    "home": "CH Figueres",
    "away": "Club Patí Breda",
-   "score": null,
+   "score": [
+    1,
+    4
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "prebenjami-plata-c-2-0-11",
@@ -1161,12 +1165,16 @@
    "time": "17:00",
    "home": "Pètals D’Art Fdcassanenc C",
    "away": "SHUM Grues Viñolas C",
-   "score": null,
+   "score": [
+    3,
+    2
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "prebenjami-plata-c-2-5-8",
@@ -1199,7 +1207,7 @@
   {
    "id": "prebenjami-plata-c-2-13-2",
    "round": 2,
-   "date": "2027-10-24",
+   "date": "2027-06-30",
    "time": "17:30",
    "home": "Girona Club Hoquei B",
    "away": "CH Palafrugell A",
@@ -2796,12 +2804,16 @@
    "time": "10:00",
    "home": "Pètals D’Art Fdcassanenc C",
    "away": "CH Lloret Cafès Cornellà B",
-   "score": null,
+   "score": [
+    0,
+    4
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "prebenjami-plata-c-4-9-0",
@@ -2810,12 +2822,16 @@
    "time": "10:00",
    "home": "CP Caldes C",
    "away": "CH Lloret Cafès Cornellà A",
-   "score": null,
+   "score": [
+    0,
+    4
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "prebenjami-plata-c-4-3-6",
@@ -2824,12 +2840,16 @@
    "time": "12:00",
    "home": "CH Figueres",
    "away": "Pètals D’Art Fdcassanenc B",
-   "score": null,
+   "score": [
+    3,
+    1
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "prebenjami-plata-c-5-8-14",
@@ -2838,12 +2858,16 @@
    "time": "13:00",
    "home": "CP Caldes A",
    "away": "CH Olot C",
-   "score": null,
+   "score": [
+    4,
+    0
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "prebenjami-plata-c-5-1-9",
@@ -2852,12 +2876,16 @@
    "time": "15:00",
    "home": "CH Lloret Cafès Cornellà B",
    "away": "CP Caldes C",
-   "score": null,
+   "score": [
+    4,
+    0
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "prebenjami-plata-c-5-4-12",
@@ -2866,12 +2894,16 @@
    "time": "17:15",
    "home": "Club Patí Breda",
    "away": "Club Hoquei Sant Jordi",
-   "score": null,
+   "score": [
+    4,
+    2
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "prebenjami-plata-c-5-10-3",
@@ -2880,12 +2912,16 @@
    "time": "09:30",
    "home": "SHUM Grues Viñolas C",
    "away": "CH Figueres",
-   "score": null,
+   "score": [
+    0,
+    4
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "prebenjami-plata-c-5-5-0",
@@ -2894,12 +2930,16 @@
    "time": "10:00",
    "home": "Hoquei Club Ripoll",
    "away": "CH Lloret Cafès Cornellà A",
-   "score": null,
+   "score": [
+    4,
+    0
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "prebenjami-plata-c-5-11-7",
@@ -2908,12 +2948,16 @@
    "time": "10:30",
    "home": "SHUM Pinturas Roman B",
    "away": "Pètals D’Art Fdcassanenc C",
-   "score": null,
+   "score": [
+    4,
+    0
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "prebenjami-plata-c-5-6-13",
@@ -2922,12 +2966,16 @@
    "time": "16:45",
    "home": "Pètals D’Art Fdcassanenc B",
    "away": "Girona Club Hoquei B",
-   "score": null,
+   "score": [
+    0,
+    4
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "prebenjami-plata-c-6-12-8",
@@ -2936,12 +2984,16 @@
    "time": "10:00",
    "home": "Club Hoquei Sant Jordi",
    "away": "CP Caldes A",
-   "score": null,
+   "score": [
+    0,
+    4
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "prebenjami-plata-c-6-14-6",
@@ -2950,12 +3002,16 @@
    "time": "15:00",
    "home": "CH Olot C",
    "away": "Pètals D’Art Fdcassanenc B",
-   "score": null,
+   "score": [
+    4,
+    0
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "prebenjami-plata-c-6-13-10",
@@ -2964,12 +3020,16 @@
    "time": "16:00",
    "home": "Girona Club Hoquei B",
    "away": "SHUM Grues Viñolas C",
-   "score": null,
+   "score": [
+    4,
+    0
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "prebenjami-plata-c-6-5-1",
@@ -2978,12 +3038,16 @@
    "time": "09:45",
    "home": "Hoquei Club Ripoll",
    "away": "CH Lloret Cafès Cornellà B",
-   "score": null,
+   "score": [
+    2,
+    3
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "prebenjami-plata-c-6-9-11",
@@ -2992,12 +3056,16 @@
    "time": "10:00",
    "home": "CP Caldes C",
    "away": "SHUM Pinturas Roman B",
-   "score": null,
+   "score": [
+    0,
+    4
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "prebenjami-plata-c-6-3-0",
@@ -3006,12 +3074,16 @@
    "time": "10:00",
    "home": "CH Figueres",
    "away": "CH Lloret Cafès Cornellà A",
-   "score": null,
+   "score": [
+    3,
+    4
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "prebenjami-plata-c-6-2-4",
@@ -3020,26 +3092,34 @@
    "time": "10:00",
    "home": "CH Palafrugell A",
    "away": "Club Patí Breda",
-   "score": null,
+   "score": [
+    0,
+    4
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "prebenjami-plata-c-7-7-9",
    "round": 7,
    "date": "2026-11-15",
-   "time": "09:15",
+   "time": "09:30",
    "home": "Pètals D’Art Fdcassanenc C",
    "away": "CP Caldes C",
-   "score": null,
+   "score": [
+    3,
+    1
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "prebenjami-plata-c-7-0-13",
@@ -3048,12 +3128,16 @@
    "time": "09:45",
    "home": "CH Lloret Cafès Cornellà A",
    "away": "Girona Club Hoquei B",
-   "score": null,
+   "score": [
+    0,
+    4
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "prebenjami-plata-c-7-10-14",
@@ -3062,18 +3146,22 @@
    "time": "10:00",
    "home": "SHUM Grues Viñolas C",
    "away": "CH Olot C",
-   "score": null,
+   "score": [
+    0,
+    4
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "prebenjami-plata-c-7-6-12",
    "round": 7,
-   "date": "2026-11-15",
-   "time": "10:30",
+   "date": "2026-12-13",
+   "time": "13:00",
    "home": "Pètals D’Art Fdcassanenc B",
    "away": "Club Hoquei Sant Jordi",
    "score": null,
@@ -3090,26 +3178,34 @@
    "time": "12:30",
    "home": "SHUM Pinturas Roman B",
    "away": "Hoquei Club Ripoll",
-   "score": null,
+   "score": [
+    2,
+    3
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "prebenjami-plata-c-7-1-3",
    "round": 7,
-   "date": "2026-11-15",
-   "time": "15:00",
+   "date": "2026-11-13",
+   "time": "19:00",
    "home": "CH Lloret Cafès Cornellà B",
    "away": "CH Figueres",
-   "score": null,
+   "score": [
+    3,
+    3
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "prebenjami-plata-c-7-8-2",
@@ -3118,12 +3214,16 @@
    "time": "16:15",
    "home": "CP Caldes A",
    "away": "CH Palafrugell A",
-   "score": null,
+   "score": [
+    4,
+    0
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "prebenjami-plata-c-8-12-10",
@@ -3143,7 +3243,7 @@
    "id": "prebenjami-plata-c-8-5-7",
    "round": 8,
    "date": "2026-11-21",
-   "time": "15:15",
+   "time": "12:15",
    "home": "Hoquei Club Ripoll",
    "away": "Pètals D’Art Fdcassanenc C",
    "score": null,
@@ -3157,7 +3257,7 @@
    "id": "prebenjami-plata-c-8-14-0",
    "round": 8,
    "date": "2026-11-22",
-   "time": "09:00",
+   "time": "09:45",
    "home": "CH Olot C",
    "away": "CH Lloret Cafès Cornellà A",
    "score": null,
@@ -3171,7 +3271,7 @@
    "id": "prebenjami-plata-c-8-13-1",
    "round": 8,
    "date": "2026-11-22",
-   "time": "09:15",
+   "time": "12:00",
    "home": "Girona Club Hoquei B",
    "away": "CH Lloret Cafès Cornellà B",
    "score": null,
@@ -3185,7 +3285,7 @@
    "id": "prebenjami-plata-c-8-3-11",
    "round": 8,
    "date": "2026-11-22",
-   "time": "10:00",
+   "time": "12:00",
    "home": "CH Figueres",
    "away": "SHUM Pinturas Roman B",
    "score": null,
@@ -3199,7 +3299,7 @@
    "id": "prebenjami-plata-c-8-2-6",
    "round": 8,
    "date": "2026-11-22",
-   "time": "10:00",
+   "time": "11:00",
    "home": "CH Palafrugell A",
    "away": "Pètals D’Art Fdcassanenc B",
    "score": null,
@@ -3227,7 +3327,7 @@
    "id": "prebenjami-plata-c-9-7-3",
    "round": 9,
    "date": "2026-11-29",
-   "time": "09:15",
+   "time": "09:30",
    "home": "Pètals D’Art Fdcassanenc C",
    "away": "CH Figueres",
    "score": null,
@@ -3254,8 +3354,8 @@
   {
    "id": "prebenjami-plata-c-9-1-14",
    "round": 9,
-   "date": "2026-11-29",
-   "time": "10:00",
+   "date": "2026-11-28",
+   "time": "16:30",
    "home": "CH Lloret Cafès Cornellà B",
    "away": "CH Olot C",
    "score": null,
@@ -3268,8 +3368,8 @@
   {
    "id": "prebenjami-plata-c-9-0-12",
    "round": 9,
-   "date": "2026-11-29",
-   "time": "10:00",
+   "date": "2026-11-28",
+   "time": "13:45",
    "home": "CH Lloret Cafès Cornellà A",
    "away": "Club Hoquei Sant Jordi",
    "score": null,
@@ -3297,7 +3397,7 @@
    "id": "prebenjami-plata-c-9-6-4",
    "round": 9,
    "date": "2026-11-29",
-   "time": "10:30",
+   "time": "10:45",
    "home": "Pètals D’Art Fdcassanenc B",
    "away": "Club Patí Breda",
    "score": null,
@@ -3311,7 +3411,7 @@
    "id": "prebenjami-plata-c-9-9-5",
    "round": 9,
    "date": "2026-11-29",
-   "time": "15:30",
+   "time": "11:30",
    "home": "CP Caldes C",
    "away": "Hoquei Club Ripoll",
    "score": null,
@@ -3339,7 +3439,7 @@
    "id": "prebenjami-plata-c-10-8-6",
    "round": 10,
    "date": "2026-12-12",
-   "time": "15:00",
+   "time": "17:15",
    "home": "CP Caldes A",
    "away": "Pètals D’Art Fdcassanenc B",
    "score": null,
@@ -3352,8 +3452,8 @@
   {
    "id": "prebenjami-plata-c-10-14-11",
    "round": 10,
-   "date": "2026-12-13",
-   "time": "09:00",
+   "date": "2026-12-12",
+   "time": "15:30",
    "home": "CH Olot C",
    "away": "SHUM Pinturas Roman B",
    "score": null,
@@ -3367,7 +3467,7 @@
    "id": "prebenjami-plata-c-10-13-7",
    "round": 10,
    "date": "2026-12-13",
-   "time": "09:15",
+   "time": "10:00",
    "home": "Girona Club Hoquei B",
    "away": "Pètals D’Art Fdcassanenc C",
    "score": null,
@@ -3380,8 +3480,8 @@
   {
    "id": "prebenjami-plata-c-10-3-9",
    "round": 10,
-   "date": "2026-12-13",
-   "time": "10:00",
+   "date": "2026-12-12",
+   "time": "17:00",
    "home": "CH Figueres",
    "away": "CP Caldes C",
    "score": null,
@@ -3395,7 +3495,7 @@
    "id": "prebenjami-plata-c-10-2-0",
    "round": 10,
    "date": "2026-12-13",
-   "time": "10:00",
+   "time": "11:15",
    "home": "CH Palafrugell A",
    "away": "CH Lloret Cafès Cornellà A",
    "score": null,
@@ -3437,7 +3537,7 @@
    "id": "prebenjami-plata-c-11-10-8",
    "round": 11,
    "date": "2026-12-20",
-   "time": "09:15",
+   "time": "10:00",
    "home": "SHUM Grues Viñolas C",
    "away": "CP Caldes A",
    "score": null,
@@ -3478,8 +3578,8 @@
   {
    "id": "prebenjami-plata-c-11-0-4",
    "round": 11,
-   "date": "2026-12-20",
-   "time": "10:00",
+   "date": "2026-12-19",
+   "time": "16:30",
    "home": "CH Lloret Cafès Cornellà A",
    "away": "Club Patí Breda",
    "score": null,
@@ -3493,7 +3593,7 @@
    "id": "prebenjami-plata-c-11-11-12",
    "round": 11,
    "date": "2026-12-20",
-   "time": "10:30",
+   "time": "11:15",
    "home": "SHUM Pinturas Roman B",
    "away": "Club Hoquei Sant Jordi",
    "score": null,
@@ -3506,8 +3606,8 @@
   {
    "id": "prebenjami-plata-c-11-7-14",
    "round": 11,
-   "date": "2026-12-20",
-   "time": "10:45",
+   "date": "2026-12-19",
+   "time": "14:30",
    "home": "Pètals D’Art Fdcassanenc C",
    "away": "CH Olot C",
    "score": null,
@@ -5512,5 +5612,6 @@
   "CLUB HOQUEI SANT JORDI": "Club Hoquei Sant Jordi",
   "GIRONA CLUB HOQUEI B": "Girona Club Hoquei B",
   "CH OLOT C": "CH Olot C"
- }
+ },
+ "calendarSource": "HoqueiHub"
 }

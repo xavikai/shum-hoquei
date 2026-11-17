@@ -2,7 +2,7 @@
  "league": "Segona Catalana Masculina · Grup B",
  "season": "2026/27",
  "source": "https://www.hoqueipatins.fecapa.cat/league/4779",
- "updatedAt": "2026-10-17T17:00:00.000Z",
+ "updatedAt": "2026-11-17T06:53:56.447Z",
  "team": "SHUM Alea",
  "teams": [
   "CHP Martorell",
@@ -1515,8 +1515,8 @@
   {
    "id": "segona-masculina-2-6-12",
    "round": 2,
-   "date": "2026-10-03",
-   "time": "19:00",
+   "date": "2027-01-30",
+   "time": "18:30",
    "home": "Club Hoquei Arenys de Mar",
    "away": "SHUM Alea",
    "score": null,
@@ -3703,12 +3703,16 @@
    "time": "19:45",
    "home": "Hoquei Patins Tona",
    "away": "SHUM Alea",
-   "score": null,
+   "score": [
+    3,
+    7
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "segona-masculina-4-11-8",
@@ -3717,12 +3721,16 @@
    "time": "13:45",
    "home": "Hoquei Claret",
    "away": "CHP Mcdonald'S Amposta",
-   "score": null,
+   "score": [
+    1,
+    2
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "segona-masculina-4-5-6",
@@ -3731,12 +3739,16 @@
    "time": "17:00",
    "home": "Oxford HC Salt",
    "away": "Club Hoquei Arenys de Mar",
-   "score": null,
+   "score": [
+    2,
+    2
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "segona-masculina-4-10-0",
@@ -3745,12 +3757,16 @@
    "time": "17:00",
    "home": "CH Mataró",
    "away": "CHP Martorell",
-   "score": null,
+   "score": [
+    5,
+    5
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "segona-masculina-4-3-7",
@@ -3759,12 +3775,16 @@
    "time": "18:30",
    "home": "Electro AD CP Masquefa",
    "away": "Generali HC Palau",
-   "score": null,
+   "score": [
+    1,
+    5
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "segona-masculina-5-12-2",
@@ -3773,12 +3793,16 @@
    "time": "21:30",
    "home": "SHUM Alea",
    "away": "Llista-Bell-Lloc",
-   "score": null,
+   "score": [
+    3,
+    1
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "segona-masculina-5-4-11",
@@ -3787,12 +3811,16 @@
    "time": "21:55",
    "home": "CH Caldes Recam Làser",
    "away": "Hoquei Claret",
-   "score": null,
+   "score": [
+    2,
+    8
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "segona-masculina-5-6-0",
@@ -3801,12 +3829,16 @@
    "time": "16:15",
    "home": "Club Hoquei Arenys de Mar",
    "away": "CHP Martorell",
-   "score": null,
+   "score": [
+    6,
+    4
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "segona-masculina-5-3-10",
@@ -3815,12 +3847,16 @@
    "time": "20:00",
    "home": "Electro AD CP Masquefa",
    "away": "CH Mataró",
-   "score": null,
+   "score": [
+    3,
+    2
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "segona-masculina-5-8-7",
@@ -3829,26 +3865,34 @@
    "time": "13:30",
    "home": "CHP Mcdonald'S Amposta",
    "away": "Generali HC Palau",
-   "score": null,
+   "score": [
+    2,
+    4
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "segona-masculina-5-5-9",
    "round": 5,
-   "date": "2026-10-25",
-   "time": "17:00",
+   "date": "2026-10-24",
+   "time": "20:00",
    "home": "Oxford HC Salt",
    "away": "Hoquei Patins Tona",
-   "score": null,
+   "score": [
+    1,
+    4
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "segona-masculina-6-1-12",
@@ -3857,12 +3901,16 @@
    "time": "20:30",
    "home": "CP Vilanova",
    "away": "SHUM Alea",
-   "score": null,
+   "score": [
+    4,
+    6
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "segona-masculina-6-7-4",
@@ -3871,12 +3919,16 @@
    "time": "21:55",
    "home": "Generali HC Palau",
    "away": "CH Caldes Recam Làser",
-   "score": null,
+   "score": [
+    3,
+    3
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "segona-masculina-6-0-3",
@@ -3885,12 +3937,16 @@
    "time": "17:45",
    "home": "CHP Martorell",
    "away": "Electro AD CP Masquefa",
-   "score": null,
+   "score": [
+    2,
+    2
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "segona-masculina-6-9-6",
@@ -3899,31 +3955,39 @@
    "time": "19:45",
    "home": "Hoquei Patins Tona",
    "away": "Club Hoquei Arenys de Mar",
-   "score": null,
+   "score": [
+    7,
+    2
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "segona-masculina-6-2-5",
    "round": 6,
-   "date": "2026-11-01",
-   "time": "12:30",
+   "date": "2026-10-31",
+   "time": "19:00",
    "home": "Llista-Bell-Lloc",
    "away": "Oxford HC Salt",
-   "score": null,
+   "score": [
+    2,
+    0
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "segona-masculina-6-10-8",
    "round": 6,
-   "date": "2026-11-01",
+   "date": "2027-03-14",
    "time": "17:00",
    "home": "CH Mataró",
    "away": "CHP Mcdonald'S Amposta",
@@ -3941,12 +4005,16 @@
    "time": "21:30",
    "home": "SHUM Alea",
    "away": "Hoquei Claret",
-   "score": null,
+   "score": [
+    5,
+    2
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "segona-masculina-7-4-10",
@@ -3955,12 +4023,16 @@
    "time": "21:55",
    "home": "CH Caldes Recam Làser",
    "away": "CH Mataró",
-   "score": null,
+   "score": [
+    5,
+    3
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "segona-masculina-7-6-3",
@@ -3969,26 +4041,34 @@
    "time": "18:30",
    "home": "Club Hoquei Arenys de Mar",
    "away": "Electro AD CP Masquefa",
-   "score": null,
+   "score": [
+    5,
+    2
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "segona-masculina-7-9-2",
    "round": 7,
    "date": "2026-11-14",
-   "time": "19:45",
+   "time": "14:15",
    "home": "Hoquei Patins Tona",
    "away": "Llista-Bell-Lloc",
-   "score": null,
+   "score": [
+    0,
+    1
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "segona-masculina-7-8-0",
@@ -3997,12 +4077,16 @@
    "time": "12:30",
    "home": "CHP Mcdonald'S Amposta",
    "away": "CHP Martorell",
-   "score": null,
+   "score": [
+    4,
+    2
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "segona-masculina-7-5-1",
@@ -4011,12 +4095,16 @@
    "time": "16:30",
    "home": "Oxford HC Salt",
    "away": "CP Vilanova",
-   "score": null,
+   "score": [
+    4,
+    5
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "segona-masculina-8-1-9",
@@ -4133,8 +4221,8 @@
   {
    "id": "segona-masculina-9-4-3",
    "round": 9,
-   "date": "2026-11-27",
-   "time": "21:55",
+   "date": "2026-11-28",
+   "time": "20:00",
    "home": "CH Caldes Recam Làser",
    "away": "Electro AD CP Masquefa",
    "score": null,
@@ -4203,8 +4291,8 @@
   {
    "id": "segona-masculina-10-0-12",
    "round": 10,
-   "date": "2026-12-12",
-   "time": "18:15",
+   "date": "2026-12-13",
+   "time": "16:45",
    "home": "CHP Martorell",
    "away": "SHUM Alea",
    "score": null,
@@ -4217,8 +4305,8 @@
   {
    "id": "segona-masculina-10-11-2",
    "round": 10,
-   "date": "2026-12-13",
-   "time": "12:30",
+   "date": "2026-12-12",
+   "time": "17:30",
    "home": "Hoquei Claret",
    "away": "Llista-Bell-Lloc",
    "score": null,
@@ -4245,8 +4333,8 @@
   {
    "id": "segona-masculina-10-7-9",
    "round": 10,
-   "date": "2026-12-13",
-   "time": "18:30",
+   "date": "2026-12-11",
+   "time": "21:55",
    "home": "Generali HC Palau",
    "away": "Hoquei Patins Tona",
    "score": null,
@@ -4260,7 +4348,7 @@
    "id": "segona-masculina-10-8-4",
    "round": 10,
    "date": "2026-12-13",
-   "time": "19:55",
+   "time": "18:00",
    "home": "CHP Mcdonald'S Amposta",
    "away": "CH Caldes Recam Làser",
    "score": null,
@@ -4330,7 +4418,7 @@
    "id": "segona-masculina-11-9-10",
    "round": 11,
    "date": "2026-12-19",
-   "time": "19:45",
+   "time": "16:30",
    "home": "Hoquei Patins Tona",
    "away": "CH Mataró",
    "score": null,
@@ -4497,7 +4585,7 @@
   {
    "id": "segona-masculina-13-11-7",
    "round": 13,
-   "date": "2027-01-17",
+   "date": "2027-05-23",
    "time": "12:30",
    "home": "Hoquei Claret",
    "away": "Generali HC Palau",
@@ -4651,16 +4739,20 @@
   {
    "id": "segona-masculina-15-12-6",
    "round": 15,
-   "date": "2027-01-30",
-   "time": "21:30",
+   "date": "2026-11-03",
+   "time": "21:45",
    "home": "SHUM Alea",
    "away": "Club Hoquei Arenys de Mar",
-   "score": null,
+   "score": [
+    4,
+    5
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "segona-masculina-15-10-7",
@@ -5015,16 +5107,20 @@
   {
    "id": "segona-masculina-19-8-10",
    "round": 19,
-   "date": "2027-03-14",
-   "time": "19:55",
+   "date": "2026-10-30",
+   "time": "21:45",
    "home": "CHP Mcdonald'S Amposta",
    "away": "CH Mataró",
-   "score": null,
+   "score": [
+    6,
+    4
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "segona-masculina-20-1-5",
@@ -5589,7 +5685,7 @@
   {
    "id": "segona-masculina-26-7-11",
    "round": 26,
-   "date": "2027-05-23",
+   "date": "2027-01-17",
    "time": "18:30",
    "home": "Generali HC Palau",
    "away": "Hoquei Claret",
@@ -5630,5 +5726,6 @@
   "CH MATARÓ": "CH Mataró",
   "HOQUEI CLARET": "Hoquei Claret",
   "SHUM ALEA": "SHUM Alea"
- }
+ },
+ "calendarSource": "HoqueiHub"
 }

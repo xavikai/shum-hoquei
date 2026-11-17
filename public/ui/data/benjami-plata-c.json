@@ -2,7 +2,7 @@
  "league": "Benjamí Plata · Metall·lògic C · Grup A",
  "season": "2026/27",
  "source": "https://www.hoqueipatins.fecapa.cat/league/4823",
- "updatedAt": "2026-10-17T17:00:00.000Z",
+ "updatedAt": "2026-11-17T06:53:56.447Z",
  "team": "SHUM Metall·lògic C",
  "teams": [
   "GEIEG",
@@ -861,8 +861,8 @@
   {
    "id": "benjami-plata-c-2-1-6",
    "round": 2,
-   "date": "2026-10-04",
-   "time": "11:00",
+   "date": "2026-11-29",
+   "time": "10:30",
    "home": "CP Caldes C",
    "away": "Club Patí Breda",
    "score": null,
@@ -1945,12 +1945,16 @@
    "time": "11:00",
    "home": "CP Caldes C",
    "away": "FD Cassanenc B",
-   "score": null,
+   "score": [
+    7,
+    3
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "benjami-plata-c-4-6-4",
@@ -1959,12 +1963,16 @@
    "time": "16:15",
    "home": "Club Patí Breda",
    "away": "CH Palafrugell C",
-   "score": null,
+   "score": [
+    12,
+    4
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "benjami-plata-c-5-0-4",
@@ -1973,12 +1981,16 @@
    "time": "10:00",
    "home": "GEIEG",
    "away": "CH Palafrugell C",
-   "score": null,
+   "score": [
+    8,
+    1
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "benjami-plata-c-5-5-7",
@@ -1987,12 +1999,16 @@
    "time": "16:15",
    "home": "SHUM Metall·lògic C",
    "away": "Hoquei Banyoles A",
-   "score": null,
+   "score": [
+    12,
+    2
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "benjami-plata-c-5-3-1",
@@ -2001,12 +2017,16 @@
    "time": "16:15",
    "home": "CH Lloret Cafès Cornellà B",
    "away": "CP Caldes C",
-   "score": null,
+   "score": [
+    3,
+    5
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "benjami-plata-c-5-2-6",
@@ -2015,12 +2035,16 @@
    "time": "12:00",
    "home": "FD Cassanenc B",
    "away": "Club Patí Breda",
-   "score": null,
+   "score": [
+    6,
+    11
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "benjami-plata-c-6-0-7",
@@ -2029,12 +2053,16 @@
    "time": "10:00",
    "home": "GEIEG",
    "away": "Hoquei Banyoles A",
-   "score": null,
+   "score": [
+    10,
+    0
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "benjami-plata-c-6-1-5",
@@ -2043,26 +2071,34 @@
    "time": "11:00",
    "home": "CP Caldes C",
    "away": "SHUM Metall·lògic C",
-   "score": null,
+   "score": [
+    2,
+    12
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "benjami-plata-c-6-4-2",
    "round": 6,
    "date": "2026-11-08",
-   "time": "15:00",
+   "time": "13:00",
    "home": "CH Palafrugell C",
    "away": "FD Cassanenc B",
-   "score": null,
+   "score": [
+    0,
+    10
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "benjami-plata-c-6-6-3",
@@ -2071,12 +2107,16 @@
    "time": "16:30",
    "home": "Club Patí Breda",
    "away": "CH Lloret Cafès Cornellà B",
-   "score": null,
+   "score": [
+    12,
+    3
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "benjami-plata-c-7-7-1",
@@ -2085,12 +2125,16 @@
    "time": "17:00",
    "home": "Hoquei Banyoles A",
    "away": "CP Caldes C",
-   "score": null,
+   "score": [
+    1,
+    11
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "benjami-plata-c-7-3-4",
@@ -2099,12 +2143,16 @@
    "time": "11:00",
    "home": "CH Lloret Cafès Cornellà B",
    "away": "CH Palafrugell C",
-   "score": null,
+   "score": [
+    2,
+    3
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "benjami-plata-c-7-2-0",
@@ -2113,12 +2161,16 @@
    "time": "13:00",
    "home": "FD Cassanenc B",
    "away": "GEIEG",
-   "score": null,
+   "score": [
+    1,
+    5
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "benjami-plata-c-7-5-6",
@@ -2127,18 +2179,22 @@
    "time": "15:00",
    "home": "SHUM Metall·lògic C",
    "away": "Club Patí Breda",
-   "score": null,
+   "score": [
+    12,
+    2
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "benjami-plata-c-8-5-4",
    "round": 8,
    "date": "2026-11-21",
-   "time": "16:15",
+   "time": "17:30",
    "home": "SHUM Metall·lògic C",
    "away": "CH Palafrugell C",
    "score": null,
@@ -2151,7 +2207,7 @@
   {
    "id": "benjami-plata-c-8-7-6",
    "round": 8,
-   "date": "2026-11-21",
+   "date": "2026-11-22",
    "time": "17:00",
    "home": "Hoquei Banyoles A",
    "away": "Club Patí Breda",
@@ -2180,7 +2236,7 @@
    "id": "benjami-plata-c-8-1-0",
    "round": 8,
    "date": "2026-11-22",
-   "time": "11:00",
+   "time": "16:00",
    "home": "CP Caldes C",
    "away": "GEIEG",
    "score": null,
@@ -2208,7 +2264,7 @@
    "id": "benjami-plata-c-9-4-7",
    "round": 9,
    "date": "2026-11-29",
-   "time": "15:00",
+   "time": "12:45",
    "home": "CH Palafrugell C",
    "away": "Hoquei Banyoles A",
    "score": null,
@@ -2319,8 +2375,8 @@
   {
    "id": "benjami-plata-c-11-2-1",
    "round": 11,
-   "date": "2026-12-20",
-   "time": "12:00",
+   "date": "2026-12-19",
+   "time": "15:45",
    "home": "FD Cassanenc B",
    "away": "CP Caldes C",
    "score": null,
@@ -2333,8 +2389,8 @@
   {
    "id": "benjami-plata-c-11-3-7",
    "round": 11,
-   "date": "2026-12-20",
-   "time": "12:30",
+   "date": "2026-12-19",
+   "time": "15:15",
    "home": "CH Lloret Cafès Cornellà B",
    "away": "Hoquei Banyoles A",
    "score": null,
@@ -2362,7 +2418,7 @@
    "id": "benjami-plata-c-12-7-5",
    "round": 12,
    "date": "2027-01-09",
-   "time": "17:00",
+   "time": "14:45",
    "home": "Hoquei Banyoles A",
    "away": "SHUM Metall·lògic C",
    "score": null,
@@ -2537,5 +2593,6 @@
   "SHUM METALL·LÒGIC C": "SHUM Metall·lògic C",
   "CLUB PATÍ BREDA": "Club Patí Breda",
   "HOQUEI BANYOLES A": "Hoquei Banyoles A"
- }
+ },
+ "calendarSource": "HoqueiHub"
 }

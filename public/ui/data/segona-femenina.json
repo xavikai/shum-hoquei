@@ -2,7 +2,7 @@
  "league": "Segona Catalana Femenina · Grup A",
  "season": "2026/27",
  "source": "https://www.hoqueipatins.fecapa.cat/league/4780",
- "updatedAt": "2026-10-17T17:00:00.000Z",
+ "updatedAt": "2026-11-17T06:53:56.447Z",
  "team": "SHUM Selvafil",
  "teams": [
   "Innoaesthetics HC Sant Just",
@@ -1994,12 +1994,16 @@
    "time": "12:15",
    "home": "CH Figueres",
    "away": "CHP Sant Feliu",
-   "score": null,
+   "score": [
+    10,
+    1
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "segona-femenina-3-2-1",
@@ -3005,12 +3009,16 @@
    "time": "19:00",
    "home": "Club Patí Roda",
    "away": "Club Patí Malgrat Grup Escobar",
-   "score": null,
+   "score": [
+    2,
+    4
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "segona-femenina-4-4-2",
@@ -3199,16 +3207,20 @@
   {
    "id": "segona-femenina-4-1-3",
    "round": 4,
-   "date": "2026-10-17",
-   "time": "18:00",
+   "date": "2026-11-07",
+   "time": "20:15",
    "home": "Mollet HC",
    "away": "Club Patí Roda",
-   "score": null,
+   "score": [
+    3,
+    1
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "segona-femenina-4-12-5",
@@ -3217,12 +3229,16 @@
    "time": "20:00",
    "home": "Oxford HC Salt",
    "away": "SHUM Selvafil",
-   "score": null,
+   "score": [
+    8,
+    3
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "segona-femenina-4-9-6",
@@ -3231,12 +3247,16 @@
    "time": "20:45",
    "home": "Club Pati Torrelles",
    "away": "Club Hoquei Santa Perpètua",
-   "score": null,
+   "score": [
+    6,
+    0
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "segona-femenina-4-10-8",
@@ -3245,12 +3265,16 @@
    "time": "11:00",
    "home": "CH les Franqueses",
    "away": "CHP Sant Feliu",
-   "score": null,
+   "score": [
+    1,
+    3
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "segona-femenina-4-11-0",
@@ -3259,12 +3283,16 @@
    "time": "13:15",
    "home": "CH Figueres",
    "away": "Innoaesthetics HC Sant Just",
-   "score": null,
+   "score": [
+    0,
+    3
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "segona-femenina-5-7-1",
@@ -3273,12 +3301,16 @@
    "time": "20:00",
    "home": "Club Patí Malgrat Grup Escobar",
    "away": "Mollet HC",
-   "score": null,
+   "score": [
+    3,
+    1
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "segona-femenina-5-2-9",
@@ -3287,12 +3319,16 @@
    "time": "18:15",
    "home": "Rototank Bigues i Riells",
    "away": "Club Pati Torrelles",
-   "score": null,
+   "score": [
+    8,
+    2
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "segona-femenina-5-6-11",
@@ -3301,12 +3337,16 @@
    "time": "18:30",
    "home": "Club Hoquei Santa Perpètua",
    "away": "CH Figueres",
-   "score": null,
+   "score": [
+    1,
+    2
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "segona-femenina-5-3-4",
@@ -3315,12 +3355,16 @@
    "time": "19:15",
    "home": "Club Patí Roda",
    "away": "Fenie Energia Cerdanyola CCH",
-   "score": null,
+   "score": [
+    8,
+    1
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "segona-femenina-5-5-10",
@@ -3329,40 +3373,52 @@
    "time": "12:00",
    "home": "SHUM Selvafil",
    "away": "CH les Franqueses",
-   "score": null,
+   "score": [
+    9,
+    1
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "segona-femenina-5-0-12",
    "round": 5,
-   "date": "2026-10-25",
-   "time": "12:30",
+   "date": "2026-11-15",
+   "time": "19:15",
    "home": "Innoaesthetics HC Sant Just",
    "away": "Oxford HC Salt",
-   "score": null,
+   "score": [
+    1,
+    3
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "segona-femenina-6-12-6",
    "round": 6,
    "date": "2026-10-31",
-   "time": "20:00",
+   "time": "18:30",
    "home": "Oxford HC Salt",
    "away": "Club Hoquei Santa Perpètua",
-   "score": null,
+   "score": [
+    11,
+    3
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "segona-femenina-6-10-0",
@@ -3371,12 +3427,16 @@
    "time": "11:15",
    "home": "CH les Franqueses",
    "away": "Innoaesthetics HC Sant Just",
-   "score": null,
+   "score": [
+    1,
+    2
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "segona-femenina-6-8-5",
@@ -3385,12 +3445,16 @@
    "time": "12:45",
    "home": "CHP Sant Feliu",
    "away": "SHUM Selvafil",
-   "score": null,
+   "score": [
+    2,
+    1
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "segona-femenina-6-4-7",
@@ -3399,12 +3463,16 @@
    "time": "16:30",
    "home": "Fenie Energia Cerdanyola CCH",
    "away": "Club Patí Malgrat Grup Escobar",
-   "score": null,
+   "score": [
+    1,
+    4
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "segona-femenina-6-11-2",
@@ -3413,12 +3481,16 @@
    "time": "17:15",
    "home": "CH Figueres",
    "away": "Rototank Bigues i Riells",
-   "score": null,
+   "score": [
+    8,
+    3
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "segona-femenina-6-9-3",
@@ -3427,12 +3499,16 @@
    "time": "19:00",
    "home": "Club Pati Torrelles",
    "away": "Club Patí Roda",
-   "score": null,
+   "score": [
+    4,
+    1
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "segona-femenina-7-7-9",
@@ -3441,12 +3517,16 @@
    "time": "20:15",
    "home": "Club Patí Malgrat Grup Escobar",
    "away": "Club Pati Torrelles",
-   "score": null,
+   "score": [
+    5,
+    3
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "segona-femenina-7-1-4",
@@ -3455,12 +3535,16 @@
    "time": "12:30",
    "home": "Mollet HC",
    "away": "Fenie Energia Cerdanyola CCH",
-   "score": null,
+   "score": [
+    6,
+    0
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "segona-femenina-7-6-10",
@@ -3469,12 +3553,16 @@
    "time": "18:30",
    "home": "Club Hoquei Santa Perpètua",
    "away": "CH les Franqueses",
-   "score": null,
+   "score": [
+    4,
+    0
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "segona-femenina-7-0-8",
@@ -3483,12 +3571,16 @@
    "time": "19:30",
    "home": "Innoaesthetics HC Sant Just",
    "away": "CHP Sant Feliu",
-   "score": null,
+   "score": [
+    6,
+    2
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "segona-femenina-7-2-12",
@@ -3497,12 +3589,16 @@
    "time": "11:15",
    "home": "Rototank Bigues i Riells",
    "away": "Oxford HC Salt",
-   "score": null,
+   "score": [
+    1,
+    6
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "segona-femenina-7-3-11",
@@ -3511,12 +3607,16 @@
    "time": "18:00",
    "home": "Club Patí Roda",
    "away": "CH Figueres",
-   "score": null,
+   "score": [
+    4,
+    2
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "segona-femenina-8-5-0",
@@ -3535,8 +3635,8 @@
   {
    "id": "segona-femenina-8-10-2",
    "round": 8,
-   "date": "2026-11-21",
-   "time": "10:00",
+   "date": "2026-11-22",
+   "time": "17:00",
    "home": "CH les Franqueses",
    "away": "Rototank Bigues i Riells",
    "score": null,
@@ -3550,7 +3650,7 @@
    "id": "segona-femenina-8-11-7",
    "round": 8,
    "date": "2026-11-21",
-   "time": "18:00",
+   "time": "18:15",
    "home": "CH Figueres",
    "away": "Club Patí Malgrat Grup Escobar",
    "score": null,
@@ -3578,7 +3678,7 @@
    "id": "segona-femenina-8-12-3",
    "round": 8,
    "date": "2026-11-22",
-   "time": "18:45",
+   "time": "12:15",
    "home": "Oxford HC Salt",
    "away": "Club Patí Roda",
    "score": null,
@@ -3592,7 +3692,7 @@
    "id": "segona-femenina-8-9-1",
    "round": 8,
    "date": "2026-11-22",
-   "time": "20:00",
+   "time": "12:15",
    "home": "Club Pati Torrelles",
    "away": "Mollet HC",
    "score": null,
@@ -3605,8 +3705,8 @@
   {
    "id": "segona-femenina-9-7-12",
    "round": 9,
-   "date": "2026-11-27",
-   "time": "20:15",
+   "date": "2026-11-28",
+   "time": "18:00",
    "home": "Club Patí Malgrat Grup Escobar",
    "away": "Oxford HC Salt",
    "score": null,
@@ -3634,7 +3734,7 @@
    "id": "segona-femenina-9-2-8",
    "round": 9,
    "date": "2026-11-29",
-   "time": "12:00",
+   "time": "12:30",
    "home": "Rototank Bigues i Riells",
    "away": "CHP Sant Feliu",
    "score": null,
@@ -3647,8 +3747,8 @@
   {
    "id": "segona-femenina-9-3-10",
    "round": 9,
-   "date": "2026-11-29",
-   "time": "16:15",
+   "date": "2026-12-03",
+   "time": "20:10",
    "home": "Club Patí Roda",
    "away": "CH les Franqueses",
    "score": null,
@@ -3662,7 +3762,7 @@
    "id": "segona-femenina-9-4-9",
    "round": 9,
    "date": "2026-11-29",
-   "time": "18:00",
+   "time": "12:30",
    "home": "Fenie Energia Cerdanyola CCH",
    "away": "Club Pati Torrelles",
    "score": null,
@@ -3676,7 +3776,7 @@
    "id": "segona-femenina-9-1-11",
    "round": 9,
    "date": "2026-11-29",
-   "time": "18:00",
+   "time": "19:00",
    "home": "Mollet HC",
    "away": "CH Figueres",
    "score": null,
@@ -3717,8 +3817,8 @@
   {
    "id": "segona-femenina-10-11-4",
    "round": 10,
-   "date": "2026-12-12",
-   "time": "18:00",
+   "date": "2026-12-13",
+   "time": "16:30",
    "home": "CH Figueres",
    "away": "Fenie Energia Cerdanyola CCH",
    "score": null,
@@ -3746,7 +3846,7 @@
    "id": "segona-femenina-10-0-6",
    "round": 10,
    "date": "2026-12-13",
-   "time": "12:00",
+   "time": "16:30",
    "home": "Innoaesthetics HC Sant Just",
    "away": "Club Hoquei Santa Perpètua",
    "score": null,
@@ -3802,7 +3902,7 @@
    "id": "segona-femenina-11-3-5",
    "round": 11,
    "date": "2026-12-20",
-   "time": "16:15",
+   "time": "15:45",
    "home": "Club Patí Roda",
    "away": "SHUM Selvafil",
    "score": null,
@@ -3830,7 +3930,7 @@
    "id": "segona-femenina-11-1-10",
    "round": 11,
    "date": "2026-12-20",
-   "time": "18:00",
+   "time": "12:30",
    "home": "Mollet HC",
    "away": "CH les Franqueses",
    "score": null,
@@ -3844,7 +3944,7 @@
    "id": "segona-femenina-11-9-11",
    "round": 11,
    "date": "2026-12-20",
-   "time": "20:00",
+   "time": "18:30",
    "home": "Club Pati Torrelles",
    "away": "CH Figueres",
    "score": null,
@@ -3914,7 +4014,7 @@
    "id": "segona-femenina-12-0-3",
    "round": 12,
    "date": "2027-01-10",
-   "time": "12:00",
+   "time": "14:00",
    "home": "Innoaesthetics HC Sant Just",
    "away": "Club Patí Roda",
    "score": null,
@@ -5130,5 +5230,6 @@
   "CH LES FRANQUESES": "CH les Franqueses",
   "CH FIGUERES": "CH Figueres",
   "OXFORD HC SALT": "Oxford HC Salt"
- }
+ },
+ "calendarSource": "HoqueiHub"
 }

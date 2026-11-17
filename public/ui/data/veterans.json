@@ -2,7 +2,7 @@
  "league": "Veterans Girona · Grup únic",
  "season": "2026/27",
  "source": "https://www.hoqueipatins.fecapa.cat/league/5062",
- "updatedAt": "2026-10-17T17:00:00.000Z",
+ "updatedAt": "2026-11-17T06:53:56.447Z",
  "team": "SHUM Frit Ravich",
  "teams": [
   "Metall-Lògic Fdcassanenc",
@@ -21,12 +21,16 @@
    "time": "21:15",
    "home": "Metall-Lògic Fdcassanenc",
    "away": "Farners",
-   "score": null,
+   "score": [
+    7,
+    4
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "veterans-1-2-3",
@@ -35,12 +39,16 @@
    "time": "22:00",
    "home": "CH Lloret",
    "away": "Club Patí Malgrat Grup Escobar B",
-   "score": null,
+   "score": [
+    6,
+    4
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "veterans-1-4-5",
@@ -49,12 +57,16 @@
    "time": "22:15",
    "home": "Club Patí Malgrat Grup Escobar A",
    "away": "CH Palafrugell",
-   "score": null,
+   "score": [
+    8,
+    5
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "veterans-2-5-0",
@@ -63,18 +75,22 @@
    "time": "22:20",
    "home": "CH Palafrugell",
    "away": "Metall-Lògic Fdcassanenc",
-   "score": null,
+   "score": [
+    2,
+    2
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "veterans-2-6-4",
    "round": 2,
-   "date": "2026-10-23",
-   "time": "22:30",
+   "date": "2027-02-03",
+   "time": "22:00",
    "home": "SHUM Frit Ravich",
    "away": "Club Patí Malgrat Grup Escobar A",
    "score": null,
@@ -91,12 +107,16 @@
    "time": "21:30",
    "home": "Farners",
    "away": "Club Patí Malgrat Grup Escobar B",
-   "score": null,
+   "score": [
+    0,
+    3
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "veterans-3-0-6",
@@ -105,12 +125,16 @@
    "time": "21:15",
    "home": "Metall-Lògic Fdcassanenc",
    "away": "SHUM Frit Ravich",
-   "score": null,
+   "score": [
+    1,
+    2
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "veterans-3-3-5",
@@ -119,12 +143,16 @@
    "time": "22:15",
    "home": "Club Patí Malgrat Grup Escobar B",
    "away": "CH Palafrugell",
-   "score": null,
+   "score": [
+    4,
+    1
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "veterans-3-2-1",
@@ -133,18 +161,22 @@
    "time": "22:00",
    "home": "CH Lloret",
    "away": "Farners",
-   "score": null,
+   "score": [
+    11,
+    5
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "veterans-4-4-0",
    "round": 4,
-   "date": "2026-11-17",
-   "time": "22:15",
+   "date": "2027-03-29",
+   "time": "21:15",
    "home": "Club Patí Malgrat Grup Escobar A",
    "away": "Metall-Lògic Fdcassanenc",
    "score": null,
@@ -171,8 +203,8 @@
   {
    "id": "veterans-4-6-3",
    "round": 4,
-   "date": "2026-11-20",
-   "time": "22:30",
+   "date": "2026-12-02",
+   "time": "22:00",
    "home": "SHUM Frit Ravich",
    "away": "Club Patí Malgrat Grup Escobar B",
    "score": null,
@@ -185,7 +217,7 @@
   {
    "id": "veterans-5-3-4",
    "round": 5,
-   "date": "2026-12-08",
+   "date": "2026-12-15",
    "time": "22:15",
    "home": "Club Patí Malgrat Grup Escobar B",
    "away": "Club Patí Malgrat Grup Escobar A",
@@ -255,8 +287,8 @@
   {
    "id": "veterans-6-6-1",
    "round": 6,
-   "date": "2027-01-08",
-   "time": "22:30",
+   "date": "2026-12-16",
+   "time": "22:00",
    "home": "SHUM Frit Ravich",
    "away": "Farners",
    "score": null,
@@ -409,8 +441,8 @@
   {
    "id": "veterans-10-6-0",
    "round": 10,
-   "date": "2027-03-12",
-   "time": "22:30",
+   "date": "2027-04-14",
+   "time": "22:00",
    "home": "SHUM Frit Ravich",
    "away": "Metall-Lògic Fdcassanenc",
    "score": null,
@@ -437,16 +469,20 @@
   {
    "id": "veterans-11-0-4",
    "round": 11,
-   "date": "2027-03-29",
-   "time": "21:15",
+   "date": "2026-11-16",
+   "time": "21:30",
    "home": "Metall-Lògic Fdcassanenc",
    "away": "Club Patí Malgrat Grup Escobar A",
-   "score": null,
+   "score": [
+    4,
+    5
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "veterans-11-3-6",
@@ -612,5 +648,6 @@
   "CLUB PATÍ MALGRAT GRUP ESCOBAR A": "Club Patí Malgrat Grup Escobar A",
   "CH PALAFRUGELL": "CH Palafrugell",
   "SHUM FRIT RAVICH": "SHUM Frit Ravich"
- }
+ },
+ "calendarSource": "HoqueiHub"
 }

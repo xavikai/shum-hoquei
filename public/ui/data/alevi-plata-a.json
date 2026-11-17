@@ -2,7 +2,7 @@
  "league": "Aleví Plata · Mugadas A · Grup 6",
  "season": "2026/27",
  "source": "https://www.hoqueipatins.fecapa.cat/league/4790",
- "updatedAt": "2026-10-17T17:00:00.000Z",
+ "updatedAt": "2026-11-17T06:53:56.447Z",
  "team": "SHUM Mugadas A",
  "teams": [
   "Oxford HC Salt B",
@@ -2934,12 +2934,16 @@
    "time": "19:00",
    "home": "Girona Club Hoquei C",
    "away": "Martinelia Manlleu B",
-   "score": null,
+   "score": [
+    2,
+    6
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "alevi-plata-a-4-0-7",
@@ -2948,12 +2952,16 @@
    "time": "10:00",
    "home": "Oxford HC Salt B",
    "away": "Hoquei Banyoles",
-   "score": null,
+   "score": [
+    4,
+    3
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "alevi-plata-a-4-3-11",
@@ -2962,12 +2970,16 @@
    "time": "10:00",
    "home": "Farners B",
    "away": "CH Olot C",
-   "score": null,
+   "score": [
+    5,
+    2
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "alevi-plata-a-4-5-1",
@@ -2976,12 +2988,16 @@
    "time": "15:15",
    "home": "CH Figueres B",
    "away": "SHUM Mugadas A",
-   "score": null,
+   "score": [
+    0,
+    9
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "alevi-plata-a-5-6-3",
@@ -2990,12 +3006,16 @@
    "time": "10:00",
    "home": "Martinelia Manlleu B",
    "away": "Farners B",
-   "score": null,
+   "score": [
+    7,
+    2
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "alevi-plata-a-5-11-5",
@@ -3004,12 +3024,16 @@
    "time": "11:00",
    "home": "CH Olot C",
    "away": "CH Figueres B",
-   "score": null,
+   "score": [
+    5,
+    2
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "alevi-plata-a-5-7-9",
@@ -3018,12 +3042,16 @@
    "time": "16:00",
    "home": "Hoquei Banyoles",
    "away": "Girona Club Hoquei C",
-   "score": null,
+   "score": [
+    3,
+    7
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "alevi-plata-a-5-8-4",
@@ -3032,12 +3060,16 @@
    "time": "12:15",
    "home": "Hoquei Club Ripoll A",
    "away": "CH Palafrugell B",
-   "score": null,
+   "score": [
+    6,
+    4
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "alevi-plata-a-5-1-10",
@@ -3046,12 +3078,16 @@
    "time": "16:00",
    "home": "SHUM Mugadas A",
    "away": "CP Blanes",
-   "score": null,
+   "score": [
+    8,
+    0
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "alevi-plata-a-6-4-1",
@@ -3060,26 +3096,34 @@
    "time": "19:45",
    "home": "CH Palafrugell B",
    "away": "SHUM Mugadas A",
-   "score": null,
+   "score": [
+    0,
+    9
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "alevi-plata-a-6-3-7",
    "round": 6,
    "date": "2026-10-31",
-   "time": "17:30",
+   "time": "18:00",
    "home": "Farners B",
    "away": "Hoquei Banyoles",
-   "score": null,
+   "score": [
+    9,
+    6
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "alevi-plata-a-6-5-6",
@@ -3088,12 +3132,16 @@
    "time": "12:00",
    "home": "CH Figueres B",
    "away": "Martinelia Manlleu B",
-   "score": null,
+   "score": [
+    3,
+    13
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "alevi-plata-a-6-2-8",
@@ -3102,12 +3150,16 @@
    "time": "16:30",
    "home": "Costa Brava Cassanenc",
    "away": "Hoquei Club Ripoll A",
-   "score": null,
+   "score": [
+    12,
+    3
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "alevi-plata-a-6-10-11",
@@ -3116,12 +3168,16 @@
    "time": "10:00",
    "home": "CP Blanes",
    "away": "CH Olot C",
-   "score": null,
+   "score": [
+    4,
+    1
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "alevi-plata-a-7-1-2",
@@ -3130,12 +3186,16 @@
    "time": "16:15",
    "home": "SHUM Mugadas A",
    "away": "Costa Brava Cassanenc",
-   "score": null,
+   "score": [
+    2,
+    2
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "alevi-plata-a-7-7-5",
@@ -3144,26 +3204,34 @@
    "time": "18:15",
    "home": "Hoquei Banyoles",
    "away": "CH Figueres B",
-   "score": null,
+   "score": [
+    5,
+    2
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "alevi-plata-a-7-0-9",
    "round": 7,
-   "date": "2026-11-07",
+   "date": "2026-11-08",
    "time": "18:30",
    "home": "Oxford HC Salt B",
    "away": "Girona Club Hoquei C",
-   "score": null,
+   "score": [
+    2,
+    6
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "alevi-plata-a-7-11-4",
@@ -3172,12 +3240,16 @@
    "time": "10:00",
    "home": "CH Olot C",
    "away": "CH Palafrugell B",
-   "score": null,
+   "score": [
+    4,
+    4
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "alevi-plata-a-7-6-10",
@@ -3186,12 +3258,16 @@
    "time": "11:15",
    "home": "Martinelia Manlleu B",
    "away": "CP Blanes",
-   "score": null,
+   "score": [
+    8,
+    4
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "alevi-plata-a-8-10-7",
@@ -3200,26 +3276,34 @@
    "time": "11:15",
    "home": "CP Blanes",
    "away": "Hoquei Banyoles",
-   "score": null,
+   "score": [
+    10,
+    1
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "alevi-plata-a-8-8-1",
    "round": 8,
    "date": "2026-11-14",
-   "time": "16:30",
+   "time": "12:00",
    "home": "Hoquei Club Ripoll A",
    "away": "SHUM Mugadas A",
-   "score": null,
+   "score": [
+    0,
+    9
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "alevi-plata-a-8-3-0",
@@ -3228,12 +3312,16 @@
    "time": "17:30",
    "home": "Farners B",
    "away": "Oxford HC Salt B",
-   "score": null,
+   "score": [
+    3,
+    1
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "alevi-plata-a-8-2-11",
@@ -3242,12 +3330,16 @@
    "time": "15:45",
    "home": "Costa Brava Cassanenc",
    "away": "CH Olot C",
-   "score": null,
+   "score": [
+    8,
+    1
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "alevi-plata-a-8-4-6",
@@ -3256,17 +3348,21 @@
    "time": "17:30",
    "home": "CH Palafrugell B",
    "away": "Martinelia Manlleu B",
-   "score": null,
+   "score": [
+    0,
+    10
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "alevi-plata-a-9-7-4",
    "round": 9,
-   "date": "2026-11-21",
+   "date": "2026-11-22",
    "time": "18:15",
    "home": "Hoquei Banyoles",
    "away": "CH Palafrugell B",
@@ -3294,8 +3390,8 @@
   {
    "id": "alevi-plata-a-9-6-2",
    "round": 9,
-   "date": "2026-11-22",
-   "time": "12:30",
+   "date": "2026-11-21",
+   "time": "11:15",
    "home": "Martinelia Manlleu B",
    "away": "Costa Brava Cassanenc",
    "score": null,
@@ -3309,7 +3405,7 @@
    "id": "alevi-plata-a-9-11-8",
    "round": 9,
    "date": "2026-11-22",
-   "time": "12:30",
+   "time": "10:00",
    "home": "CH Olot C",
    "away": "Hoquei Club Ripoll A",
    "score": null,
@@ -3322,8 +3418,8 @@
   {
    "id": "alevi-plata-a-9-9-3",
    "round": 9,
-   "date": "2026-11-22",
-   "time": "18:30",
+   "date": "2026-11-20",
+   "time": "19:30",
    "home": "Girona Club Hoquei C",
    "away": "Farners B",
    "score": null,
@@ -3351,7 +3447,7 @@
    "id": "alevi-plata-a-10-8-6",
    "round": 10,
    "date": "2026-11-28",
-   "time": "16:30",
+   "time": "11:00",
    "home": "Hoquei Club Ripoll A",
    "away": "Martinelia Manlleu B",
    "score": null,
@@ -3364,8 +3460,8 @@
   {
    "id": "alevi-plata-a-10-5-9",
    "round": 10,
-   "date": "2026-11-29",
-   "time": "12:00",
+   "date": "2026-11-28",
+   "time": "16:00",
    "home": "CH Figueres B",
    "away": "Girona Club Hoquei C",
    "score": null,
@@ -3407,7 +3503,7 @@
    "id": "alevi-plata-a-11-3-5",
    "round": 11,
    "date": "2026-12-12",
-   "time": "17:30",
+   "time": "12:00",
    "home": "Farners B",
    "away": "CH Figueres B",
    "score": null,
@@ -3420,8 +3516,8 @@
   {
    "id": "alevi-plata-a-11-7-8",
    "round": 11,
-   "date": "2026-12-12",
-   "time": "18:15",
+   "date": "2026-12-13",
+   "time": "12:00",
    "home": "Hoquei Banyoles",
    "away": "Hoquei Club Ripoll A",
    "score": null,
@@ -3435,7 +3531,7 @@
    "id": "alevi-plata-a-11-0-4",
    "round": 11,
    "date": "2026-12-12",
-   "time": "18:30",
+   "time": "17:30",
    "home": "Oxford HC Salt B",
    "away": "CH Palafrugell B",
    "score": null,
@@ -3448,8 +3544,8 @@
   {
    "id": "alevi-plata-a-11-6-1",
    "round": 11,
-   "date": "2026-12-13",
-   "time": "12:30",
+   "date": "2026-12-12",
+   "time": "16:30",
    "home": "Martinelia Manlleu B",
    "away": "SHUM Mugadas A",
    "score": null,
@@ -3463,7 +3559,7 @@
    "id": "alevi-plata-a-11-9-10",
    "round": 11,
    "date": "2026-12-13",
-   "time": "18:30",
+   "time": "11:30",
    "home": "Girona Club Hoquei C",
    "away": "CP Blanes",
    "score": null,
@@ -3518,7 +3614,7 @@
   {
    "id": "alevi-plata-a-12-1-7",
    "round": 12,
-   "date": "2026-12-20",
+   "date": "2026-12-19",
    "time": "15:00",
    "home": "SHUM Mugadas A",
    "away": "Hoquei Banyoles",
@@ -3532,8 +3628,8 @@
   {
    "id": "alevi-plata-a-12-2-0",
    "round": 12,
-   "date": "2026-12-20",
-   "time": "15:45",
+   "date": "2026-12-19",
+   "time": "17:00",
    "home": "Costa Brava Cassanenc",
    "away": "Oxford HC Salt B",
    "score": null,
@@ -3560,8 +3656,8 @@
   {
    "id": "alevi-plata-a-13-7-11",
    "round": 13,
-   "date": "2027-01-09",
-   "time": "18:15",
+   "date": "2027-01-10",
+   "time": "10:00",
    "home": "Hoquei Banyoles",
    "away": "CH Olot C",
    "score": null,
@@ -3628,5 +3724,6 @@
   "GIRONA CLUB HOQUEI C": "Girona Club Hoquei C",
   "CP BLANES": "CP Blanes",
   "CH OLOT C": "CH Olot C"
- }
+ },
+ "calendarSource": "HoqueiHub"
 }
