@@ -20,6 +20,7 @@ jobs:
         run: |
           node --input-type=module <<'NODE'
           import fs from 'node:fs';
+          import {execFileSync} from 'node:child_process';
           import {DOMParser} from 'linkedom';
           import {parseHubCalendar} from './scripts/hoqueihub.mjs';
           const config=JSON.parse(fs.readFileSync('public/ui/teams.json','utf8'));
@@ -30,9 +31,12 @@ jobs:
             if(!groups.has(team.hubGroup)){
               const url=new URL(team.hubGroup,'https://hoqueihub.cat/');
               const response=await fetch(url,{headers,signal:AbortSignal.timeout(15000)});
+              const html=execFileSync('curl',['--disable','--silent','--show-error','--max-time','15','--user-agent',headers['User-Agent'],'--header','Accept: text/html','--write-out','\n%{http_code}',url.href],{encoding:'utf8',maxBuffer:4*1024*1024});
+              const split=html.lastIndexOf('\n');
+              console.log('curl',url.pathname,html.slice(split+1));
               console.log(url.pathname,response.status,response.headers.get('cf-mitigated')||'');
               let matches=0;
-              if(response.ok)matches=parseHubCalendar(new DOMParser().parseFromString(await response.text(),'text/html')).length;
+              if(html.slice(split+1)==='200')matches=parseHubCalendar(new DOMParser().parseFromString(html.slice(0,split),'text/html')).length;
               groups.set(team.hubGroup,matches);
             }
             const count=groups.get(team.hubGroup);
