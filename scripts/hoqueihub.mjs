@@ -1,6 +1,9 @@
+import {execFile} from 'node:child_process';
+import {promisify} from 'node:util';
 import {reconcileGoals} from '../public/ui/official-rosters.js';
 
 const base = 'https://hoqueihub.cat';
+const request = promisify(execFile);
 const nameKey = name => name.normalize('NFKD').replace(/\p{M}/gu, '').toUpperCase().replace(/[^A-Z0-9]+/g, '');
 const pairKey = (home, away) => JSON.stringify([home, away]);
 const isScore = score => Number.isSafeInteger(score) && score >= 0;
@@ -41,9 +44,17 @@ export function parseHubCalendar(document) {
 
 export async function fetchHubCalendar(path, DOMParser) {
   if (!/^\/group\/\d+-[a-z0-9-]+$/.test(path)) throw Error('Grup de HoqueiHub no vàlid.');
-  const response = await fetch(new URL(path, base), {signal: AbortSignal.timeout(20000)});
-  if (!response.ok) throw Error('HoqueiHub HTTP ' + response.status);
-  return parseHubCalendar(new DOMParser().parseFromString(await response.text(), 'text/html'));
+  // HoqueiHub serves the public group pages to curl with our identifying user agent.
+  const {stdout} = await request('curl', [
+    '--disable', '--silent', '--show-error', '--max-time', '20',
+    '--user-agent', 'SHUM Hoquei (+https://xavikai.github.io/shum-hoquei/)',
+    '--header', 'Accept: text/html',
+    '--write-out', '\n%{http_code}', new URL(path, base).href,
+  ], {maxBuffer: 8 * 1024 * 1024});
+  const boundary = stdout.lastIndexOf('\n');
+  const status = stdout.slice(boundary + 1);
+  if (status !== '200') throw Error('HoqueiHub HTTP ' + status);
+  return parseHubCalendar(new DOMParser().parseFromString(stdout.slice(0, boundary), 'text/html'));
 }
 
 export function mergeHubCalendar(data, fixtures, {now, aliases = {}, log = () => {}}) {
