@@ -13,7 +13,8 @@
    "playerGoals": true,
    "rankings": true,
    "file": "data/ok-lliga.json",
-   "group": "Lliga regular"
+   "group": "Lliga regular",
+   "hubGroup": "/group/7039-grup-unic-temporada-2026-27"
   },
   {
    "id": "lliga-catalana",
@@ -25,7 +26,8 @@
    "playerGoals": true,
    "file": "data/lliga-catalana.json",
    "group": "Fase de grups",
-   "rankings": true
+   "rankings": true,
+   "hubGroup": "/group/7027-fase-de-grups-frit-ravich-lliga-catalana-temporada-2026-27"
   },
   {
    "id": "primera-femenina",
@@ -37,7 +39,8 @@
    "playerGoals": true,
    "file": "data/primera-femenina.json",
    "group": "Grup A",
-   "rankings": true
+   "rankings": true,
+   "hubGroup": "/group/7033-primera-catalana-femenina-1-catalana-femenina-grup-a-temporada-2026-27"
   },
   {
    "id": "segona-femenina",
@@ -49,7 +52,8 @@
    "playerGoals": true,
    "file": "data/segona-femenina.json",
    "group": "Grup A",
-   "rankings": true
+   "rankings": true,
+   "hubGroup": "/group/7043-segona-catalana-femenina-2-catalana-femenina-grup-a-temporada-2026-27"
   },
   {
    "id": "segona-masculina",
@@ -61,7 +65,8 @@
    "playerGoals": true,
    "file": "data/segona-masculina.json",
    "group": "Grup B",
-   "rankings": true
+   "rankings": true,
+   "hubGroup": "/group/7036-segona-catalana-masculina-2-catalana-grup-b-temporada-2026-27"
   },
   {
    "id": "tercera-masculina",
@@ -73,7 +78,8 @@
    "playerGoals": true,
    "file": "data/tercera-masculina.json",
    "group": "Grup D",
-   "rankings": true
+   "rankings": true,
+   "hubGroup": "/group/7048-tercera-catalana-masculina-3-catalana-grup-d-temporada-2026-27"
   },
   {
    "id": "veterans",
@@ -85,7 +91,8 @@
    "playerGoals": true,
    "file": "data/veterans.json",
    "group": "Grup únic",
-   "rankings": true
+   "rankings": true,
+   "hubGroup": "/group/7199-lliga-veterans-girona-veterans-girona-temporada-2026-27"
   },
   {
    "id": "junior-or",
@@ -97,7 +104,11 @@
    "playerGoals": true,
    "file": "data/junior-or.json",
    "group": "Grup 3",
-   "rankings": true
+   "rankings": true,
+   "hubGroup": "/group/7053-junior-or-3-temporada-2026-27",
+   "hubAliases": {
+    "REUS DEPORTIU A": "Reus Deportiu A A"
+   }
   },
   {
    "id": "juvenil-or",
@@ -109,7 +120,8 @@
    "playerGoals": true,
    "file": "data/juvenil-or.json",
    "group": "Grup 1",
-   "rankings": true
+   "rankings": true,
+   "hubGroup": "/group/7060-juvenil-or-1-temporada-2026-27"
   },
   {
    "id": "infantil-or",
@@ -123,7 +135,8 @@
    "legacyIds": true,
    "group": "Grup 8",
    "videos": true,
-   "rankings": true
+   "rankings": true,
+   "hubGroup": "/group/7081-infantil-or-8-temporada-2026-27"
   },
   {
    "id": "alevi-plata-b",
@@ -135,7 +148,8 @@
    "playerGoals": true,
    "file": "data/alevi-plata-b.json",
    "group": "Grup 1",
-   "rankings": false
+   "rankings": false,
+   "hubGroup": "/group/7101-alevi-plata-1-temporada-2026-27"
   },
   {
    "id": "alevi-plata-a",
@@ -147,7 +161,8 @@
    "playerGoals": true,
    "file": "data/alevi-plata-a.json",
    "group": "Grup 6",
-   "rankings": false
+   "rankings": false,
+   "hubGroup": "/group/7106-alevi-plata-6-temporada-2026-27"
   },
   {
    "id": "benjami-or",
@@ -159,7 +174,8 @@
    "playerGoals": false,
    "file": "data/benjami-or.json",
    "group": "Grup únic",
-   "rankings": false
+   "rankings": false,
+   "hubGroup": "/group/7184-benjami-or-girona-temporada-2026-27"
   },
   {
    "id": "benjami-plata-c",
@@ -171,7 +187,8 @@
    "playerGoals": false,
    "file": "data/benjami-plata-c.json",
    "group": "Grup A",
-   "rankings": false
+   "rankings": false,
+   "hubGroup": "/group/7186-benjami-plata-girona-fase-1-grup-a-temporada-2026-27"
   },
   {
    "id": "benjami-plata-b",
@@ -183,7 +200,8 @@
    "playerGoals": false,
    "file": "data/benjami-plata-b.json",
    "group": "Grup B",
-   "rankings": false
+   "rankings": false,
+   "hubGroup": "/group/7185-benjami-plata-girona-fase1-grup-b-temporada-2026-27"
   },
   {
    "id": "prebenjami-or",
@@ -195,7 +213,8 @@
    "playerGoals": false,
    "file": "data/prebenjami-or.json",
    "group": "Grup únic",
-   "rankings": false
+   "rankings": false,
+   "hubGroup": "/group/7188-prebenjami-or-girona-prebenjami-or-girona-temporada-2026-27"
   },
   {
    "id": "prebenjami-plata-b",
@@ -207,7 +226,8 @@
    "playerGoals": false,
    "file": "data/prebenjami-plata-b.json",
    "group": "Grup únic",
-   "rankings": false
+   "rankings": false,
+   "hubGroup": "/group/7189-prebenjami-plata-girona-prebenjami-plata-girona-temporada-2026-27"
   },
   {
    "id": "prebenjami-plata-c",
@@ -219,7 +239,8 @@
    "playerGoals": false,
    "file": "data/prebenjami-plata-c.json",
    "group": "Grup únic",
-   "rankings": false
+   "rankings": false,
+   "hubGroup": "/group/7189-prebenjami-plata-girona-prebenjami-plata-girona-temporada-2026-27"
   }
  ]
 }

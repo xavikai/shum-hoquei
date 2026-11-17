@@ -108,7 +108,9 @@ export async function updateTeam(team,data,fetchDoc,{calendar,now=Date.now(),log
     let id=before?.id||`${prefix}${r.round}-${order.indexOf(home)}-${order.indexOf(away)}`;
     if(used.has(id))id+=`-${r.officialId||matches.length}`;
     used.add(id);
-    const m={...(before||{}),id,round:r.round,date:r.date,time:r.time,home,away,score:r.score,officialId:r.officialId||before?.officialId||null};
+    const score=r.score||(before?.scoreSource==='HoqueiHub'?before.score:null);
+    const m={...(before||{}),id,round:r.round,date:r.date,time:r.time,home,away,score,officialId:r.officialId||before?.officialId||null};
+    if(r.score)delete m.scoreSource;
     if(!m.rosters)m.rosters={home:[],away:[]};
     if(needsAct(before,r,now))pending.push(m);
     matches.push(m);
