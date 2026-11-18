@@ -2,7 +2,7 @@
  "league": "Aleví Plata · Frit Ravich B · Grup 1",
  "season": "2026/27",
  "source": "https://www.hoqueipatins.fecapa.cat/league/4790",
- "updatedAt": "2026-11-17T06:53:56.447Z",
+ "updatedAt": "2026-11-18T20:25:27.394Z",
  "team": "SHUM Frit Ravich B",
  "teams": [
   "CP Montesquiu",
@@ -4008,7 +4008,7 @@
    "id": "alevi-plata-b-11-3-4",
    "round": 11,
    "date": "2026-12-12",
-   "time": "16:30",
+   "time": "15:15",
    "home": "Club Patí Roda B",
    "away": "CP Folgueroles B",
    "score": null,
@@ -4063,8 +4063,8 @@
   {
    "id": "alevi-plata-b-12-12-9",
    "round": 12,
-   "date": "2026-12-19",
-   "time": "15:00",
+   "date": "2026-12-20",
+   "time": "12:30",
    "home": "CH Palafrugell C",
    "away": "SHUM Frit Ravich B",
    "score": null,

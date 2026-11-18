@@ -2,7 +2,7 @@
  "league": "OK Lliga · Lliga regular",
  "season": "2026/27",
  "source": "https://www.hockeypatines.fep.es/league/3568",
- "updatedAt": "2026-11-16T22:18:38.828Z",
+ "updatedAt": "2026-11-18T20:25:27.394Z",
  "team": "SHUM Frit Ravich",
  "teams": [
   "Reus Deportiu Brasilia",
@@ -499,7 +499,7 @@
    "id": "ok-lliga-5-10-4",
    "round": 5,
    "date": "2026-11-28",
-   "time": "20:00",
+   "time": "16:10",
    "home": "Pons Lleida",
    "away": "CE Noia Freixenet",
    "score": null,
@@ -2640,5 +2640,6 @@
   "AMETLLER ORIGEN CP VILAFRANCA": "Ametller Origen CP Vilafranca",
   "BARÇA": "Barça",
   "IGUALADA RIGAT HC": "Igualada Rigat HC"
- }
+ },
+ "calendarSource": "HoqueiHub"
 }
