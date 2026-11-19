@@ -2,7 +2,7 @@
  "league": "OK Lliga · Lliga regular",
  "season": "2026/27",
  "source": "https://www.hockeypatines.fep.es/league/3568",
- "updatedAt": "2026-11-18T20:25:27.394Z",
+ "updatedAt": "2026-11-19T02:30:46.913Z",
  "team": "SHUM Frit Ravich",
  "teams": [
   "Reus Deportiu Brasilia",
@@ -334,12 +334,16 @@
    "time": "20:30",
    "home": "Pons Lleida",
    "away": "CH Lloret Vila Esportiva",
-   "score": null,
+   "score": [
+    7,
+    2
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "ok-lliga-3-8-1",
@@ -348,12 +352,16 @@
    "time": "21:00",
    "home": "CP Voltrega Movento Stern",
    "away": "Calafell la Menorquina",
-   "score": null,
+   "score": [
+    2,
+    3
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "ok-lliga-3-12-11",
