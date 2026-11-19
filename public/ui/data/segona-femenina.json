@@ -2,7 +2,7 @@
  "league": "Segona Catalana Femenina · Grup A",
  "season": "2026/27",
  "source": "https://www.hoqueipatins.fecapa.cat/league/4780",
- "updatedAt": "2026-11-18T11:30:33.939Z",
+ "updatedAt": "2026-11-19T11:29:37.817Z",
  "team": "SHUM Selvafil",
  "teams": [
   "Innoaesthetics HC Sant Just",
@@ -3705,7 +3705,7 @@
   {
    "id": "segona-femenina-9-7-12",
    "round": 9,
-   "date": "2026-11-28",
+   "date": "2027-04-11",
    "time": "18:00",
    "home": "Club Patí Malgrat Grup Escobar",
    "away": "Oxford HC Salt",
@@ -3944,7 +3944,7 @@
    "id": "segona-femenina-11-9-11",
    "round": 11,
    "date": "2026-12-20",
-   "time": "18:30",
+   "time": "13:15",
    "home": "Club Pati Torrelles",
    "away": "CH Figueres",
    "score": null,
@@ -4853,7 +4853,7 @@
   {
    "id": "segona-femenina-22-12-7",
    "round": 22,
-   "date": "2027-04-11",
+   "date": "2026-11-28",
    "time": "18:45",
    "home": "Oxford HC Salt",
    "away": "Club Patí Malgrat Grup Escobar",
