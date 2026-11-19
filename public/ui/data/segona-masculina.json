@@ -2,7 +2,7 @@
  "league": "Segona Catalana Masculina · Grup B",
  "season": "2026/27",
  "source": "https://www.hoqueipatins.fecapa.cat/league/4779",
- "updatedAt": "2026-11-17T06:53:56.447Z",
+ "updatedAt": "2026-11-19T20:28:22.372Z",
  "team": "SHUM Alea",
  "teams": [
   "CHP Martorell",
@@ -4361,8 +4361,8 @@
   {
    "id": "segona-masculina-11-1-11",
    "round": 11,
-   "date": "2026-12-18",
-   "time": "20:30",
+   "date": "2026-12-14",
+   "time": "22:00",
    "home": "CP Vilanova",
    "away": "Hoquei Claret",
    "score": null,
@@ -4432,7 +4432,7 @@
    "id": "segona-masculina-11-5-0",
    "round": 11,
    "date": "2026-12-20",
-   "time": "17:00",
+   "time": "17:30",
    "home": "Oxford HC Salt",
    "away": "CHP Martorell",
    "score": null,
