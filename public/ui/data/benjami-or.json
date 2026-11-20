@@ -2,7 +2,7 @@
  "league": "Benjamí Or · Megoca A · Grup únic",
  "season": "2026/27",
  "source": "https://www.hoqueipatins.fecapa.cat/league/4822",
- "updatedAt": "2026-11-18T11:30:33.939Z",
+ "updatedAt": "2026-11-20T02:15:47.131Z",
  "team": "SHUM Megoca A",
  "teams": [
   "CH Olot A",
@@ -2627,8 +2627,8 @@
   {
    "id": "benjami-or-10-7-6",
    "round": 10,
-   "date": "2026-11-28",
-   "time": "16:45",
+   "date": "2026-11-29",
+   "time": "14:00",
    "home": "SHUM Megoca A",
    "away": "Farners",
    "score": null,
@@ -2712,7 +2712,7 @@
    "id": "benjami-or-12-3-5",
    "round": 12,
    "date": "2026-12-20",
-   "time": "10:00",
+   "time": "16:45",
    "home": "Hoquei Club Ripoll",
    "away": "FD Cassanenc A",
    "score": null,

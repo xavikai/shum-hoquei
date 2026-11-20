@@ -2,7 +2,7 @@
  "league": "Infantil Or · Grup 8",
  "season": "2026/27",
  "source": "https://www.hoqueipatins.fecapa.cat/league/4786",
- "updatedAt": "2026-11-19T11:29:37.817Z",
+ "updatedAt": "2026-11-20T02:15:47.131Z",
  "team": "SHUM Frit Ravich",
  "teams": [
   "SHUM Frit Ravich",
@@ -2431,8 +2431,8 @@
   {
    "id": "13-0-2",
    "round": 13,
-   "date": "2026-12-20",
-   "time": "17:00",
+   "date": "2026-12-19",
+   "time": "16:30",
    "home": "SHUM Frit Ravich",
    "away": "CH Mataró A",
    "score": null,
@@ -2460,7 +2460,7 @@
    "id": "13-6-4",
    "round": 13,
    "date": "2026-12-20",
-   "time": "11:15",
+   "time": "10:00",
    "home": "CP Cubelles A",
    "away": "PHC Sant Cugat B",
    "score": null,
