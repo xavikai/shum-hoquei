@@ -2,7 +2,7 @@
  "league": "Prebenjamí Plata · Pinturas Roman B · Grup únic",
  "season": "2026/27",
  "source": "https://www.hoqueipatins.fecapa.cat/league/4825",
- "updatedAt": "2026-11-19T20:28:22.372Z",
+ "updatedAt": "2026-11-20T20:03:38.929Z",
  "team": "SHUM Pinturas Roman B",
  "teams": [
   "CH Lloret Cafès Cornellà A",
@@ -3411,7 +3411,7 @@
    "id": "prebenjami-plata-b-9-9-5",
    "round": 9,
    "date": "2026-11-29",
-   "time": "11:30",
+   "time": "12:00",
    "home": "CP Caldes C",
    "away": "Hoquei Club Ripoll",
    "score": null,
@@ -3606,8 +3606,8 @@
   {
    "id": "prebenjami-plata-b-11-7-14",
    "round": 11,
-   "date": "2026-12-19",
-   "time": "14:00",
+   "date": "2027-05-09",
+   "time": "10:45",
    "home": "Pètals D’Art Fdcassanenc C",
    "away": "CH Olot C",
    "score": null,
@@ -5135,7 +5135,7 @@
   {
    "id": "prebenjami-plata-b-26-14-7",
    "round": 26,
-   "date": "2027-05-09",
+   "date": "2026-12-19",
    "time": "09:00",
    "home": "CH Olot C",
    "away": "Pètals D’Art Fdcassanenc C",

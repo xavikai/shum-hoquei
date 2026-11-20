@@ -2,7 +2,7 @@
  "league": "Tercera Catalana Masculina · Grup D",
  "season": "2026/27",
  "source": "https://www.hoqueipatins.fecapa.cat/league/4781",
- "updatedAt": "2026-11-20T11:25:21.958Z",
+ "updatedAt": "2026-11-20T20:03:38.929Z",
  "team": "SHUM Alea",
  "teams": [
   "CP Caldes C",
@@ -2379,8 +2379,8 @@
   {
    "id": "tercera-masculina-11-0-8",
    "round": 11,
-   "date": "2026-12-20",
-   "time": "12:15",
+   "date": "2026-12-19",
+   "time": "19:30",
    "home": "CP Caldes C",
    "away": "CP Blanes",
    "score": null,
@@ -2422,7 +2422,7 @@
    "id": "tercera-masculina-11-7-4",
    "round": 11,
    "date": "2026-12-20",
-   "time": "15:00",
+   "time": "19:20",
    "home": "CE Arenys de Munt",
    "away": "Oxford HC Salt",
    "score": null,
