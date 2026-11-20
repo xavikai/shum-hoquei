@@ -2,7 +2,7 @@
  "league": "Tercera Catalana Masculina · Grup D",
  "season": "2026/27",
  "source": "https://www.hoqueipatins.fecapa.cat/league/4781",
- "updatedAt": "2026-11-19T20:28:22.372Z",
+ "updatedAt": "2026-11-20T11:25:21.958Z",
  "team": "SHUM Alea",
  "teams": [
   "CP Caldes C",
@@ -2393,8 +2393,8 @@
   {
    "id": "tercera-masculina-11-3-11",
    "round": 11,
-   "date": "2026-12-20",
-   "time": "12:00",
+   "date": "2026-12-19",
+   "time": "19:15",
    "home": "Club Patí Malgrat Grup Escobar",
    "away": "SHUM Alea",
    "score": null,

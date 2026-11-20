@@ -2,7 +2,7 @@
  "league": "Juvenil Or · Grup 1",
  "season": "2026/27",
  "source": "https://www.hoqueipatins.fecapa.cat/league/4784",
- "updatedAt": "2026-11-20T02:15:47.131Z",
+ "updatedAt": "2026-11-20T11:25:21.958Z",
  "team": "SHUM Frit Ravich",
  "teams": [
   "Igualada HC B",
@@ -2721,12 +2721,16 @@
    "time": "20:30",
    "home": "Barça",
    "away": "SHUM Frit Ravich",
-   "score": null,
+   "score": [
+    11,
+    1
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "juvenil-or-9-6-3",

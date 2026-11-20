@@ -2,7 +2,7 @@
  "league": "OK Lliga · Lliga regular",
  "season": "2026/27",
  "source": "https://www.hockeypatines.fep.es/league/3568",
- "updatedAt": "2026-11-19T11:29:37.817Z",
+ "updatedAt": "2026-11-20T11:25:21.958Z",
  "team": "SHUM Frit Ravich",
  "teams": [
   "Reus Deportiu Brasilia",
@@ -674,8 +674,8 @@
   {
    "id": "ok-lliga-7-12-4",
    "round": 7,
-   "date": "2026-12-05",
-   "time": "18:00",
+   "date": "2026-12-06",
+   "time": "16:10",
    "home": "Barça",
    "away": "CE Noia Freixenet",
    "score": null,
@@ -731,7 +731,7 @@
    "id": "ok-lliga-7-0-10",
    "round": 7,
    "date": "2026-12-05",
-   "time": "21:00",
+   "time": "16:10",
    "home": "Reus Deportiu Brasilia",
    "away": "Pons Lleida",
    "score": null,
