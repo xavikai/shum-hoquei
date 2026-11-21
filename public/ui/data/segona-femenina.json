@@ -2,7 +2,7 @@
  "league": "Segona Catalana Femenina · Grup A",
  "season": "2026/27",
  "source": "https://www.hoqueipatins.fecapa.cat/league/4780",
- "updatedAt": "2026-11-21T19:07:14.928Z",
+ "updatedAt": "2026-11-21T21:51:19.502Z",
  "team": "SHUM Selvafil",
  "teams": [
   "Innoaesthetics HC Sant Just",
@@ -3657,12 +3657,16 @@
    "time": "18:15",
    "home": "CH Figueres",
    "away": "Club Patí Malgrat Grup Escobar",
-   "score": null,
+   "score": [
+    2,
+    9
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "segona-femenina-8-8-6",

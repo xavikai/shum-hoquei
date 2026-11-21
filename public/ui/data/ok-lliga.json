@@ -2,7 +2,7 @@
  "league": "OK Lliga · Lliga regular",
  "season": "2026/27",
  "source": "https://www.hockeypatines.fep.es/league/3568",
- "updatedAt": "2026-11-20T11:25:21.958Z",
+ "updatedAt": "2026-11-21T21:51:19.502Z",
  "team": "SHUM Frit Ravich",
  "teams": [
   "Reus Deportiu Brasilia",
@@ -384,12 +384,16 @@
    "time": "17:00",
    "home": "Hockey Club Liceo",
    "away": "Adiss Hockey Rivas",
-   "score": null,
+   "score": [
+    4,
+    0
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "ok-lliga-4-9-12",
@@ -398,12 +402,16 @@
    "time": "19:30",
    "home": "Aitex Pas Alcoi",
    "away": "Barça",
-   "score": null,
+   "score": [
+    6,
+    3
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "ok-lliga-4-1-10",
@@ -412,12 +420,16 @@
    "time": "19:30",
    "home": "Calafell la Menorquina",
    "away": "Pons Lleida",
-   "score": null,
+   "score": [
+    2,
+    1
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "ok-lliga-4-4-8",
@@ -426,12 +438,16 @@
    "time": "19:30",
    "home": "CE Noia Freixenet",
    "away": "CP Voltrega Movento Stern",
-   "score": null,
+   "score": [
+    4,
+    1
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "ok-lliga-4-11-2",
@@ -440,12 +456,16 @@
    "time": "20:00",
    "home": "Ametller Origen CP Vilafranca",
    "away": "SHUM Frit Ravich",
-   "score": null,
+   "score": [
+    0,
+    3
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "ok-lliga-4-5-6",
@@ -454,12 +474,16 @@
    "time": "20:30",
    "home": "CH Lloret Vila Esportiva",
    "away": "CH Caldes Recam Làser",
-   "score": null,
+   "score": [
+    1,
+    0
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "ok-lliga-4-13-0",

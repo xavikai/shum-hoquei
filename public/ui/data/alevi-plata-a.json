@@ -2,7 +2,7 @@
  "league": "Aleví Plata · Mugadas A · Grup 6",
  "season": "2026/27",
  "source": "https://www.hoqueipatins.fecapa.cat/league/4790",
- "updatedAt": "2026-11-21T19:07:14.928Z",
+ "updatedAt": "2026-11-21T21:51:19.502Z",
  "team": "SHUM Mugadas A",
  "teams": [
   "Oxford HC Salt B",
@@ -3380,12 +3380,16 @@
    "time": "18:30",
    "home": "Oxford HC Salt B",
    "away": "CH Figueres B",
-   "score": null,
+   "score": [
+    5,
+    3
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "alevi-plata-a-9-6-2",

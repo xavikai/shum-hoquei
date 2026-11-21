@@ -2,7 +2,7 @@
  "league": "Juvenil Or · Grup 1",
  "season": "2026/27",
  "source": "https://www.hoqueipatins.fecapa.cat/league/4784",
- "updatedAt": "2026-11-21T16:21:47.573Z",
+ "updatedAt": "2026-11-21T21:51:19.502Z",
  "team": "SHUM Frit Ravich",
  "teams": [
   "Igualada HC B",
@@ -2739,12 +2739,16 @@
    "time": "18:45",
    "home": "Hoquei Casal Espluga",
    "away": "CE Noia Freixenet C",
-   "score": null,
+   "score": [
+    1,
+    5
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "juvenil-or-9-0-7",

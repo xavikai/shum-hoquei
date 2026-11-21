@@ -2,7 +2,7 @@
  "league": "Primera Catalana Femenina · Grup A",
  "season": "2026/27",
  "source": "https://www.hoqueipatins.fecapa.cat/league/4778",
- "updatedAt": "2026-11-21T10:54:00.445Z",
+ "updatedAt": "2026-11-21T21:51:19.502Z",
  "team": "SHUM Selvafil",
  "teams": [
   "CP Blanes",
@@ -3769,12 +3769,16 @@
    "time": "17:30",
    "home": "Pons Lleida Bell-Lloc",
    "away": "Fenie Energia Cerdanyola CCH",
-   "score": null,
+   "score": [
+    0,
+    0
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "primera-femenina-8-10-6",
