@@ -2,7 +2,7 @@
  "league": "Prebenjamí Or · Metall·lògic A · Grup únic",
  "season": "2026/27",
  "source": "https://www.hoqueipatins.fecapa.cat/league/4824",
- "updatedAt": "2026-11-20T11:25:21.958Z",
+ "updatedAt": "2026-11-21T10:54:00.445Z",
  "team": "SHUM Metall·lògic A",
  "teams": [
   "Oxford HC Salt A",
@@ -1758,12 +1758,16 @@
    "time": "10:00",
    "home": "GEIEG",
    "away": "Farners",
-   "score": null,
+   "score": [
+    4,
+    3
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "prebenjami-or-8-3-2",

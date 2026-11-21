@@ -2,7 +2,7 @@
  "league": "Júnior Or · Grup 3",
  "season": "2026/27",
  "source": "https://www.hoqueipatins.fecapa.cat/league/4782",
- "updatedAt": "2026-11-20T20:03:38.929Z",
+ "updatedAt": "2026-11-21T10:54:00.445Z",
  "team": "SHUM Alea",
  "teams": [
   "Vicio PHC Sant Cugat B",
@@ -2427,12 +2427,16 @@
    "time": "21:55",
    "home": "Generali HC Palau",
    "away": "CPI Espanyol",
-   "score": null,
+   "score": [
+    3,
+    1
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "junior-or-11-1-2",

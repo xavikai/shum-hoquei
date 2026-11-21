@@ -2,7 +2,7 @@
  "league": "Segona Catalana Masculina · Grup B",
  "season": "2026/27",
  "source": "https://www.hoqueipatins.fecapa.cat/league/4779",
- "updatedAt": "2026-11-19T20:28:22.372Z",
+ "updatedAt": "2026-11-21T10:54:00.445Z",
  "team": "SHUM Alea",
  "teams": [
   "CHP Martorell",
@@ -4113,12 +4113,16 @@
    "time": "20:30",
    "home": "CP Vilanova",
    "away": "Hoquei Patins Tona",
-   "score": null,
+   "score": [
+    4,
+    3
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "segona-masculina-8-2-6",
@@ -4127,12 +4131,16 @@
    "time": "21:55",
    "home": "Llista-Bell-Lloc",
    "away": "Club Hoquei Arenys de Mar",
-   "score": null,
+   "score": [
+    0,
+    1
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "segona-masculina-8-0-4",

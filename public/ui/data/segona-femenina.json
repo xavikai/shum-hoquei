@@ -2,7 +2,7 @@
  "league": "Segona Catalana Femenina · Grup A",
  "season": "2026/27",
  "source": "https://www.hoqueipatins.fecapa.cat/league/4780",
- "updatedAt": "2026-11-20T20:03:38.929Z",
+ "updatedAt": "2026-11-21T10:54:00.445Z",
  "team": "SHUM Selvafil",
  "teams": [
   "Innoaesthetics HC Sant Just",
@@ -3625,12 +3625,16 @@
    "time": "21:30",
    "home": "SHUM Selvafil",
    "away": "Innoaesthetics HC Sant Just",
-   "score": null,
+   "score": [
+    4,
+    2
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "segona-femenina-8-10-2",
