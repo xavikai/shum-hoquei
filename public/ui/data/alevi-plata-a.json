@@ -2,7 +2,7 @@
  "league": "Aleví Plata · Mugadas A · Grup 6",
  "season": "2026/27",
  "source": "https://www.hoqueipatins.fecapa.cat/league/4790",
- "updatedAt": "2026-11-21T10:54:00.445Z",
+ "updatedAt": "2026-11-21T19:07:14.928Z",
  "team": "SHUM Mugadas A",
  "teams": [
   "Oxford HC Salt B",
@@ -3394,12 +3394,16 @@
    "time": "11:15",
    "home": "Martinelia Manlleu B",
    "away": "Costa Brava Cassanenc",
-   "score": null,
+   "score": [
+    3,
+    4
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "alevi-plata-a-9-11-8",

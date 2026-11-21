@@ -2,7 +2,7 @@
  "league": "Segona Catalana Masculina · Grup B",
  "season": "2026/27",
  "source": "https://www.hoqueipatins.fecapa.cat/league/4779",
- "updatedAt": "2026-11-21T10:54:00.445Z",
+ "updatedAt": "2026-11-21T19:07:14.928Z",
  "team": "SHUM Alea",
  "teams": [
   "CHP Martorell",
@@ -4149,12 +4149,16 @@
    "time": "16:45",
    "home": "CHP Martorell",
    "away": "CH Caldes Recam Làser",
-   "score": null,
+   "score": [
+    0,
+    8
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "segona-masculina-8-3-8",
