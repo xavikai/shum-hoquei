@@ -2,7 +2,7 @@
  "league": "Aleví Plata · Frit Ravich B · Grup 1",
  "season": "2026/27",
  "source": "https://www.hoqueipatins.fecapa.cat/league/4790",
- "updatedAt": "2026-11-19T20:28:22.372Z",
+ "updatedAt": "2026-11-21T16:21:47.573Z",
  "team": "SHUM Frit Ravich B",
  "teams": [
   "CP Montesquiu",
@@ -3815,12 +3815,16 @@
    "time": "12:45",
    "home": "CP Montesquiu",
    "away": "Club Hoquei Cadí",
-   "score": null,
+   "score": [
+    3,
+    10
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "alevi-plata-b-9-7-9",
@@ -3829,12 +3833,16 @@
    "time": "13:00",
    "home": "Auto Vigatana Patí Vic C",
    "away": "SHUM Frit Ravich B",
-   "score": null,
+   "score": [
+    1,
+    5
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "alevi-plata-b-9-3-5",
@@ -3857,12 +3865,16 @@
    "time": "15:05",
    "home": "Hoquei Club Ripoll B",
    "away": "CH Palafrugell C",
-   "score": null,
+   "score": [
+    10,
+    0
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "alevi-plata-b-9-1-4",
@@ -3871,12 +3883,16 @@
    "time": "15:30",
    "home": "CP Taradell",
    "away": "CP Folgueroles B",
-   "score": null,
+   "score": [
+    5,
+    5
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "alevi-plata-b-9-10-6",

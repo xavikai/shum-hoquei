@@ -2,7 +2,7 @@
  "league": "Júnior Or · Grup 3",
  "season": "2026/27",
  "source": "https://www.hoqueipatins.fecapa.cat/league/4782",
- "updatedAt": "2026-11-21T10:54:00.445Z",
+ "updatedAt": "2026-11-21T16:21:47.573Z",
  "team": "SHUM Alea",
  "teams": [
   "Vicio PHC Sant Cugat B",
@@ -2329,12 +2329,16 @@
    "time": "10:00",
    "home": "Reus Deportiu A A",
    "away": "Vicio PHC Sant Cugat B",
-   "score": null,
+   "score": [
+    16,
+    0
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "junior-or-9-2-6",
