@@ -2,7 +2,7 @@
  "league": "Aleví Plata · Mugadas A · Grup 6",
  "season": "2026/27",
  "source": "https://www.hoqueipatins.fecapa.cat/league/4790",
- "updatedAt": "2026-11-22T16:36:42.549Z",
+ "updatedAt": "2026-11-22T22:01:27.220Z",
  "team": "SHUM Mugadas A",
  "teams": [
   "Oxford HC Salt B",
@@ -3366,12 +3366,16 @@
    "time": "18:15",
    "home": "Hoquei Banyoles",
    "away": "CH Palafrugell B",
-   "score": null,
+   "score": [
+    3,
+    0
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "alevi-plata-a-9-0-5",

@@ -2,7 +2,7 @@
  "league": "Benjamí Plata · Metall·lògic C · Grup A",
  "season": "2026/27",
  "source": "https://www.hoqueipatins.fecapa.cat/league/4823",
- "updatedAt": "2026-11-22T19:29:39.657Z",
+ "updatedAt": "2026-11-22T22:01:27.220Z",
  "team": "SHUM Metall·lògic C",
  "teams": [
   "GEIEG",
@@ -2215,12 +2215,16 @@
    "time": "17:00",
    "home": "Hoquei Banyoles A",
    "away": "Club Patí Breda",
-   "score": null,
+   "score": [
+    2,
+    9
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "benjami-plata-c-8-3-2",

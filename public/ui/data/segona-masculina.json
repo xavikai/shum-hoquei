@@ -2,7 +2,7 @@
  "league": "Segona Catalana Masculina · Grup B",
  "season": "2026/27",
  "source": "https://www.hoqueipatins.fecapa.cat/league/4779",
- "updatedAt": "2026-11-22T19:29:39.657Z",
+ "updatedAt": "2026-11-22T22:01:27.220Z",
  "team": "SHUM Alea",
  "teams": [
   "CHP Martorell",
@@ -4203,12 +4203,16 @@
    "time": "17:00",
    "home": "Generali HC Palau",
    "away": "SHUM Alea",
-   "score": null,
+   "score": [
+    2,
+    2
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "segona-masculina-9-12-10",

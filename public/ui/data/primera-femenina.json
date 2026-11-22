@@ -2,7 +2,7 @@
  "league": "Primera Catalana Femenina · Grup A",
  "season": "2026/27",
  "source": "https://www.hoqueipatins.fecapa.cat/league/4778",
- "updatedAt": "2026-11-22T01:11:31.794Z",
+ "updatedAt": "2026-11-22T22:01:27.220Z",
  "team": "SHUM Selvafil",
  "teams": [
   "CP Blanes",
@@ -3805,12 +3805,16 @@
    "time": "18:30",
    "home": "Reus Deportiu",
    "away": "Club Hoquei Arenys de Mar",
-   "score": null,
+   "score": [
+    2,
+    5
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "primera-femenina-8-1-2",
