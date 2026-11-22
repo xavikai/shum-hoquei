@@ -2,7 +2,7 @@
  "league": "Prebenjamí Plata · Grues Viñolas C · Grup únic",
  "season": "2026/27",
  "source": "https://www.hoqueipatins.fecapa.cat/league/4825",
- "updatedAt": "2026-11-21T19:07:14.928Z",
+ "updatedAt": "2026-11-22T11:10:06.144Z",
  "team": "SHUM Grues Viñolas C",
  "teams": [
   "CH Lloret Cafès Cornellà A",
@@ -3268,12 +3268,16 @@
    "time": "09:45",
    "home": "CH Olot C",
    "away": "CH Lloret Cafès Cornellà A",
-   "score": null,
+   "score": [
+    3,
+    2
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "prebenjami-plata-c-8-13-1",

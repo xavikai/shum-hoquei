@@ -2,7 +2,7 @@
  "league": "OK Lliga · Lliga regular",
  "season": "2026/27",
  "source": "https://www.hockeypatines.fep.es/league/3568",
- "updatedAt": "2026-11-21T21:51:19.502Z",
+ "updatedAt": "2026-11-22T11:10:06.144Z",
  "team": "SHUM Frit Ravich",
  "teams": [
   "Reus Deportiu Brasilia",
@@ -475,8 +475,8 @@
    "home": "CH Lloret Vila Esportiva",
    "away": "CH Caldes Recam Làser",
    "score": [
-    1,
-    0
+    4,
+    2
    ],
    "officialId": null,
    "rosters": {
