@@ -2,7 +2,7 @@
  "league": "Benjamí Plata · Selvafil B · Grup B",
  "season": "2026/27",
  "source": "https://www.hoqueipatins.fecapa.cat/league/4823",
- "updatedAt": "2026-11-20T02:15:47.131Z",
+ "updatedAt": "2026-11-22T01:11:31.794Z",
  "team": "SHUM Selvafil B",
  "teams": [
   "Oxford HC Salt A",
@@ -2515,12 +2515,16 @@
    "time": "18:00",
    "home": "CH Olot D",
    "away": "Oxford HC Salt A",
-   "score": null,
+   "score": [
+    1,
+    5
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "benjami-plata-b-8-3-2",

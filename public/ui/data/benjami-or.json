@@ -2,7 +2,7 @@
  "league": "Benjamí Or · Megoca A · Grup únic",
  "season": "2026/27",
  "source": "https://www.hoqueipatins.fecapa.cat/league/4822",
- "updatedAt": "2026-11-21T21:51:19.502Z",
+ "updatedAt": "2026-11-22T01:11:31.794Z",
  "team": "SHUM Megoca A",
  "teams": [
   "CH Olot A",
@@ -2547,12 +2547,16 @@
    "time": "17:45",
    "home": "Hoquei Club Ripoll",
    "away": "CH Figueres",
-   "score": null,
+   "score": [
+    12,
+    2
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "benjami-or-9-0-6",

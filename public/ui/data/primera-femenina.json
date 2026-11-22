@@ -2,7 +2,7 @@
  "league": "Primera Catalana Femenina · Grup A",
  "season": "2026/27",
  "source": "https://www.hoqueipatins.fecapa.cat/league/4778",
- "updatedAt": "2026-11-21T21:51:19.502Z",
+ "updatedAt": "2026-11-22T01:11:31.794Z",
  "team": "SHUM Selvafil",
  "teams": [
   "CP Blanes",
@@ -3755,12 +3755,16 @@
    "time": "19:45",
    "home": "Farners",
    "away": "Mollet HC",
-   "score": null,
+   "score": [
+    1,
+    2
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "primera-femenina-8-12-7",
