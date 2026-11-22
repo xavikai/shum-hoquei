@@ -2,7 +2,7 @@
  "league": "Aleví Plata · Mugadas A · Grup 6",
  "season": "2026/27",
  "source": "https://www.hoqueipatins.fecapa.cat/league/4790",
- "updatedAt": "2026-11-21T21:51:19.502Z",
+ "updatedAt": "2026-11-22T16:36:42.549Z",
  "team": "SHUM Mugadas A",
  "teams": [
   "Oxford HC Salt B",
@@ -3416,12 +3416,16 @@
    "time": "10:00",
    "home": "CH Olot C",
    "away": "Hoquei Club Ripoll A",
-   "score": null,
+   "score": [
+    5,
+    5
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "alevi-plata-a-9-9-3",

@@ -2,7 +2,7 @@
  "league": "Benjamí Plata · Selvafil B · Grup B",
  "season": "2026/27",
  "source": "https://www.hoqueipatins.fecapa.cat/league/4823",
- "updatedAt": "2026-11-22T01:11:31.794Z",
+ "updatedAt": "2026-11-22T16:36:42.549Z",
  "team": "SHUM Selvafil B",
  "teams": [
   "Oxford HC Salt A",
@@ -2501,12 +2501,16 @@
    "time": "15:00",
    "home": "SHUM Selvafil B",
    "away": "CP Caldes E",
-   "score": null,
+   "score": [
+    0,
+    10
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "benjami-plata-b-8-1-0",
@@ -2547,12 +2551,16 @@
    "time": "11:15",
    "home": "CH Lloret Cafès Cornellà A",
    "away": "CH Palafrugell D",
-   "score": null,
+   "score": [
+    4,
+    1
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "benjami-plata-b-9-5-0",

@@ -2,7 +2,7 @@
  "league": "Benjamí Plata · Metall·lògic C · Grup A",
  "season": "2026/27",
  "source": "https://www.hoqueipatins.fecapa.cat/league/4823",
- "updatedAt": "2026-11-21T21:51:19.502Z",
+ "updatedAt": "2026-11-22T16:36:42.549Z",
  "team": "SHUM Metall·lògic C",
  "teams": [
   "GEIEG",
@@ -2229,12 +2229,16 @@
    "time": "10:00",
    "home": "CH Lloret Cafès Cornellà B",
    "away": "FD Cassanenc B",
-   "score": null,
+   "score": [
+    0,
+    9
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "benjami-plata-c-8-1-0",
