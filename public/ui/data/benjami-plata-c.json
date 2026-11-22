@@ -2,7 +2,7 @@
  "league": "Benjamí Plata · Metall·lògic C · Grup A",
  "season": "2026/27",
  "source": "https://www.hoqueipatins.fecapa.cat/league/4823",
- "updatedAt": "2026-11-22T16:36:42.549Z",
+ "updatedAt": "2026-11-22T19:29:39.657Z",
  "team": "SHUM Metall·lògic C",
  "teams": [
   "GEIEG",
@@ -2247,12 +2247,16 @@
    "time": "16:00",
    "home": "CP Caldes C",
    "away": "GEIEG",
-   "score": null,
+   "score": [
+    3,
+    9
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "benjami-plata-c-9-0-3",

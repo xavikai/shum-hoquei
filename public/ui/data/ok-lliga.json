@@ -2,7 +2,7 @@
  "league": "OK Lliga · Lliga regular",
  "season": "2026/27",
  "source": "https://www.hockeypatines.fep.es/league/3568",
- "updatedAt": "2026-11-22T11:10:06.144Z",
+ "updatedAt": "2026-11-22T19:29:39.657Z",
  "team": "SHUM Frit Ravich",
  "teams": [
   "Reus Deportiu Brasilia",
@@ -492,12 +492,16 @@
    "time": "11:30",
    "home": "Igualada Rigat HC",
    "away": "Reus Deportiu Brasilia",
-   "score": null,
+   "score": [
+    1,
+    4
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "ok-lliga-5-3-11",

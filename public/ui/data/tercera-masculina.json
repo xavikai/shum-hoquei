@@ -2,7 +2,7 @@
  "league": "Tercera Catalana Masculina · Grup D",
  "season": "2026/27",
  "source": "https://www.hoqueipatins.fecapa.cat/league/4781",
- "updatedAt": "2026-11-22T01:11:31.794Z",
+ "updatedAt": "2026-11-22T19:29:39.657Z",
  "team": "SHUM Alea",
  "teams": [
   "CP Caldes C",
@@ -2195,12 +2195,16 @@
    "time": "12:30",
    "home": "CP Jonquerenc",
    "away": "Cham Maristes-Sagrerenc",
-   "score": null,
+   "score": [
+    1,
+    2
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "tercera-masculina-8-10-0",
