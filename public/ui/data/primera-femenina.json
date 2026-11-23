@@ -2,7 +2,7 @@
  "league": "Primera Catalana Femenina · Grup A",
  "season": "2026/27",
  "source": "https://www.hoqueipatins.fecapa.cat/league/4778",
- "updatedAt": "2026-11-22T22:01:27.220Z",
+ "updatedAt": "2026-11-23T01:36:04.839Z",
  "team": "SHUM Selvafil",
  "teams": [
   "CP Blanes",
@@ -3791,12 +3791,16 @@
    "time": "19:15",
    "home": "Futbol Club Martinenc",
    "away": "CE Arenys de Munt Muntbikes",
-   "score": null,
+   "score": [
+    3,
+    6
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "primera-femenina-8-8-4",
@@ -3841,12 +3845,16 @@
    "time": "20:00",
    "home": "Club Patí Vila-Sana",
    "away": "CGM Igualada Femení HCP",
-   "score": null,
+   "score": [
+    4,
+    2
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "primera-femenina-9-4-1",

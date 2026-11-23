@@ -2,7 +2,7 @@
  "league": "Tercera Catalana Masculina · Grup D",
  "season": "2026/27",
  "source": "https://www.hoqueipatins.fecapa.cat/league/4781",
- "updatedAt": "2026-11-22T22:01:27.220Z",
+ "updatedAt": "2026-11-23T01:36:04.839Z",
  "team": "SHUM Alea",
  "teams": [
   "CP Caldes C",
@@ -2213,12 +2213,16 @@
    "time": "19:30",
    "home": "CH Figueres",
    "away": "CP Caldes C",
-   "score": null,
+   "score": [
+    9,
+    6
+   ],
    "officialId": null,
    "rosters": {
     "home": [],
     "away": []
-   }
+   },
+   "scoreSource": "HoqueiHub"
   },
   {
    "id": "tercera-masculina-8-11-1",
